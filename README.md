@@ -2,3 +2,6 @@
 - [[정리]]
 - [[test]]
 [[#react]]
+
+
+[xptm,xm](obsidian://open?vault=Tech_Note&file=react%2F%EC%A0%95%EB%A6%AC)
