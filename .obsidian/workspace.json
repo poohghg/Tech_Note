@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recoil/recoil.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "recoil/recoil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "recoil/recoil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "recoil/recoil.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8da5978724e12aaa",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "README.md",
     "recoil/recoil.md",
     "무제 파일.md",
     "recoil",
-    "README.md",
     "react/recoil.md",
     "react/정리.md",
     "react/test.md",
