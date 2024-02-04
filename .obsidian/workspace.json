@@ -43,6 +43,14 @@
             }
           },
           {
+            "id": "961f1dd00c955d62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "1729f22b24650851",
             "type": "leaf",
             "state": {
@@ -56,16 +64,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "961f1dd00c955d62",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
