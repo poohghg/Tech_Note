@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pnpm/pnpm.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pnpm/pnpm.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pnpm/pnpm.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pnpm/pnpm.md"
+                "file": "프로젝트 설정 참고자료/참고.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "8da5978724e12aaa",
   "lastOpenFiles": [
+    "pnpm/pnpm.md",
+    "프로젝트 설정 참고자료/참고.md",
+    "프로젝트 설정 참고자료",
     "pnpm/pnpm~.md",
     "README.md",
-    "pnpm/pnpm.md",
     "react/test.md",
     "pnpm",
     "react/정리.md",
