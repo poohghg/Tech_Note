@@ -595,7 +595,7 @@ export default async function Page({
 
 서버 액션은 서버에서 실행되는 비동기 함수이다. 서버 및 클라이언트 구성요소 에서 next.js의 서버 측 동작을 사용 할 수 있게한다.
 
-
+revalidatePath 또는 revalidateTag를 통해 캐시를 무효화 하려면 서버 액션을 수행해야한다.
 
 ### revalidatePath
 
