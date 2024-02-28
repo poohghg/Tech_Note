@@ -597,6 +597,14 @@ export default async function Page({
 
 
 
+### revalidatePath
+
+- 해당 함수는 서버컴포넌에서 사용 가능하다.
+- 해당 URL에 있던 캐시를 삭제하고 다시 생성한다.
+- 캐시 삭제 후 서버컴포넌트를 재생성 한다.
+
+
+
 
 
 
