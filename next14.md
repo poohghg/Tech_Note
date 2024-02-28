@@ -1,18 +1,8 @@
-                            # next14
-
 ---
 
 ##  1.Routing
 
-**Next.js는 폴더를** 사용하여 경로를 정의하는 파일 시스템 기반 라우터를 사용합니다 .
-
-각 폴더는 **URL** 세그먼트 에 매핑되는 [**경로** 세그먼트를](https://nextjs.org/docs/app/building-your-application/routing#route-segments) 나타냅니다 . [중첩된 경로를](https://nextjs.org/docs/app/building-your-application/routing#nested-routes) 만들려면 폴더를 서로 중첩하면 됩니다.
-
-### 페이지 및 레이아웃
-
-App router에는 페이지,공유 레이아웃, 및 템플릿을 쉽게 생성 할 수 있는 새로운 파일 규칙이 도입되었다.
-
-#### 알아두면 좋음점
+#### 알아두면 좋음점 
 
 - 페이지는 항상 경로 하위 트리의 리프이다.
 
@@ -666,88 +656,6 @@ React는 [`fetch`API를](https://nextjs.org/docs/app/building-your-application/c
 - [경로 핸들러](https://nextjs.org/docs/app/building-your-application/routing/route-handlers) 에서 데이터 캐시를 재검증해도 경로 핸들러가 특정 경로에 연결되어 있지 않기 때문에 라우터 캐시가 즉시 무효화되지는 **않습니다 .** 즉, 라우터 캐시는 강제 새로 고침을 수행하거나 자동 무효화 기간이 경과할 때까지 이전 페이로드를 계속 제공합니다.
 - 데이터 캐시 및 라우터 캐시를 즉시 무효화하려면 [서버 작업](https://nextjs.org/docs/app/building-your-application/data-fetching/forms-and-mutations) 에서 [`revalidatePath`](https://nextjs.org/docs/app/building-your-application/caching#revalidatepath)또는 를 사용할 수 있습니다 .[`revalidateTag`](https://nextjs.org/docs/app/building-your-application/caching#fetch-optionsnexttags-and-revalidatetag)
   - [Server Actions](https://nextjs.org/docs/app/building-your-application/data-fetching/forms-and-mutations) - to revalidate data after a user action (e.g. form submission). This will invalidate the Router Cache for the associated route.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 구성 패턴
-
-
 
 ### 서버 액션
 
