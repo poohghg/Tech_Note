@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript_2024/무제 파일.md",
+                "file": "javascript_2024/자바스크립트 강의 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript_2024/무제 파일.md",
+                "file": "javascript_2024/자바스크립트 강의 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript_2024/무제 파일.md",
+                "file": "javascript_2024/자바스크립트 강의 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript_2024/무제 파일.md"
+                "file": "javascript_2024/자바스크립트 강의 정리.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "8da5978724e12aaa",
   "lastOpenFiles": [
     "최적화/브라우더 렌더링 최적화.md",
-    "javascript_2024/무제 파일.md",
+    "javascript_2024/자바스크립트 강의 정리.md",
     "javascript_2024",
     "next.js/next14.md",
     "최적화",
