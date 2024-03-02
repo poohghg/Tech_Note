@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next14.md",
+                "file": "최적화/브라우더 렌더링 최적화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next14.md",
+                "file": "최적화/브라우더 렌더링 최적화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "next14.md",
+                "file": "최적화/브라우더 렌더링 최적화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "next14.md"
+                "file": "최적화/브라우더 렌더링 최적화.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "8da5978724e12aaa",
   "lastOpenFiles": [
+    "next.js/next14.md",
+    "최적화/브라우더 렌더링 최적화.md",
+    "최적화",
+    "next.js",
     "프로젝트 설정 참고자료/참고.md",
-    "next14.md",
     "pnpm/pnpm.md",
     "react/react.dev.md",
     "recoil/recoil.md",
