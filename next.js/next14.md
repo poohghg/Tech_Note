@@ -672,9 +672,6 @@ revalidatePath 또는 revalidateTag를 통해 캐시를 무효화 하려면 서�
 - 캐시 삭제 후 서버컴포넌트를 재생성 한다.
 
 
-gdgd
-
-
 
 
 
