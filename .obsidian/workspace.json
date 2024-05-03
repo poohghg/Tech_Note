@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next.js/next14.md",
+                "file": "react-uqery/정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next.js/next14.md",
+                "file": "react-uqery/정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "next.js/next14.md",
+                "file": "react-uqery/정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "next.js/next14.md"
+                "file": "react-uqery/정리.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "983c78c83b7c61d6",
   "lastOpenFiles": [
-    "무제 파일.canvas",
     "next.js/next14.md",
+    "react-uqery/정리.md",
+    "react-uqery",
+    "무제 폴더",
+    "무제 파일.canvas",
     "javascript_2024/자바스크립트 엔진 강의 정리.md",
     "README.md",
     "().md",
