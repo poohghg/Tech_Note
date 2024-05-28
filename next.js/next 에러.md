@@ -18,3 +18,5 @@
   - 클라이언트에서 해당 청크 파일을 불러와 UI에 적용
   - 프리렌더링이 되지 않아 CLS을 발생시 킬 수 있음
     - 대체 컴포넌트 반드시 사용
+- suppressHydrationWarning 사용
+  - 이 방법은 text content 대상으로만 가능하다. nested 된 dom 구조에 suppressHydrationWarning을 적용한다면 hydration mismatch 에러가 발생한다.
