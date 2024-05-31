@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
+                "file": "react/디자인 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
+                "file": "react/디자인 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
+                "file": "react/디자인 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md"
+                "file": "react/디자인 패턴.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9b1578dad571a508",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "FSD.md",
+    "최적화/브라우더 렌더링 최적화.md",
+    "react/디자인 패턴.md",
     "README.md",
     "react-uqery/정리.md",
     "javascript_2024/자바스크립트 엔진 강의 정리.md",
@@ -158,7 +161,6 @@
     "pnpm/pnpm.md",
     "recoil/recoil.md",
     "설계/FSD.md",
-    "최적화/브라우더 렌더링 최적화.md",
     "next.js/next 에러~.md",
     "react-uqery",
     "무제 폴더",
