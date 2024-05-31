@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next.js/next 에러.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next.js/next 에러.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "next.js/next 에러.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "next.js/next 에러.md"
+                "file": "프로젝트 설정 참고자료/참고.md"
               }
             }
           }
@@ -146,26 +146,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "983c78c83b7c61d6",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
-    "next.js/next 에러~.md",
-    "react-uqery/정리.md",
-    "next.js/next 에러.md",
     "next.js/next14.md",
+    "next.js/next 에러.md",
+    "pnpm/pnpm.md",
+    "react-uqery/정리.md",
+    "recoil/recoil.md",
+    "README.md",
+    "설계/FSD.md",
+    "최적화/브라우더 렌더링 최적화.md",
+    "javascript_2024/자바스크립트 엔진 강의 정리.md",
+    "react/react.dev.md",
+    "next.js/next 에러~.md",
     "react-uqery",
     "무제 폴더",
     "무제 파일.canvas",
-    "javascript_2024/자바스크립트 엔진 강의 정리.md",
-    "README.md",
     "().md",
-    "최적화/브라우더 렌더링 최적화.md",
     "javascript_2024",
     "최적화",
     "next.js",
     "프로젝트 설정 참고자료/참고.md",
-    "pnpm/pnpm.md",
-    "react/react.dev.md",
-    "recoil/recoil.md",
     "2024-02-04.md",
     "프로젝트 설정 참고자료",
     "pnpm/pnpm~.md",
