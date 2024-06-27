@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/디자인 패턴.md",
+                "file": "next.js/next 에러.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/디자인 패턴.md",
+                "file": "next.js/next 에러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/디자인 패턴.md",
+                "file": "next.js/next 에러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/디자인 패턴.md"
+                "file": "next.js/next 에러.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "9b1578dad571a508",
   "lastOpenFiles": [
-    "최적화/브라우더 렌더링 최적화.md",
-    "nuxt.md",
-    "react/디자인 패턴.md",
+    "react-uqery/정리.md",
+    "키워드 API.md",
     "FSD.md",
     "README.md",
-    "react-uqery/정리.md",
+    "nuxt.md",
+    "최적화/브라우더 렌더링 최적화.md",
+    "react/react.dev.md",
+    "react/디자인 패턴.md",
     "javascript_2024/자바스크립트 엔진 강의 정리.md",
     "next.js/next 에러.md",
-    "react/react.dev.md",
     "프로젝트 설정 참고자료/참고.md",
     "next.js/next14.md",
     "pnpm/pnpm.md",
