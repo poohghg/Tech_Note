@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
+                "file": "react/디자인 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
+                "file": "react/디자인 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
+                "file": "react/디자인 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md"
+                "file": "react/디자인 패턴.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "9b1578dad571a508",
   "lastOpenFiles": [
+    "최적화/브라우더 렌더링 최적화.md",
     "nuxt.md",
     "react/디자인 패턴.md",
     "FSD.md",
-    "최적화/브라우더 렌더링 최적화.md",
     "README.md",
     "react-uqery/정리.md",
     "javascript_2024/자바스크립트 엔진 강의 정리.md",
