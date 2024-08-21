@@ -3,6 +3,7 @@
 ##### 원인
 
 - 리액트를 통해 렌더링 될 최초의 결과물이 hydration할 html과 일치 하지 않아 발생한다.
+- https://blog.hwahae.co.kr/all/tech/13604
 
 ##### 주로 발생하는 케이스
 
@@ -20,3 +21,4 @@
     - 대체 컴포넌트 반드시 사용
 - suppressHydrationWarning 사용
   - 이 방법은 text content 대상으로만 가능하다. nested 된 dom 구조에 suppressHydrationWarning을 적용한다면 hydration mismatch 에러가 발생한다.
+- 일반적인 [하이드레이션 불일치 해결방법](https://nextjs.org/docs/messages/react-hydration-error) 참조
