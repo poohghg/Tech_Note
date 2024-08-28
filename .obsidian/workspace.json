@@ -28,9 +28,19 @@
                 "currentVersion": "1.6.5"
               }
             }
+          },
+          {
+            "id": "0e2b7c6692c03c50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5b274751c14e29f9",
+  "active": "0e2b7c6692c03c50",
   "lastOpenFiles": [
     "react-uqery/정리.md",
     "키워드 API.md",
