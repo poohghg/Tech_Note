@@ -33,9 +33,11 @@
             "id": "0e2b7c6692c03c50",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "react-uqery/정리.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next.js/next 에러.md",
+                "file": "react-uqery/정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "next.js/next 에러.md",
+                "file": "react-uqery/정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "next.js/next 에러.md"
+                "file": "react-uqery/정리.md"
               }
             }
           }
@@ -169,11 +171,14 @@
   },
   "active": "0e2b7c6692c03c50",
   "lastOpenFiles": [
-    "react-uqery/정리.md",
+    "검색 페이지.md",
+    "검색개편 API.md",
+    "웹뷰.md",
     "키워드 API.md",
-    "FSD.md",
-    "README.md",
     "nuxt.md",
+    "README.md",
+    "FSD.md",
+    "react-uqery/정리.md",
     "최적화/브라우더 렌더링 최적화.md",
     "react/react.dev.md",
     "react/디자인 패턴.md",
@@ -201,7 +206,6 @@
     "무제 파일.md",
     "recoil",
     "react/recoil.md",
-    "react/무제 파일.canvas",
-    "2024-02-02.md"
+    "react/무제 파일.canvas"
   ]
 }
