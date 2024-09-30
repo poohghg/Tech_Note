@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript_2024/자바스크립트 엔진 강의 정리.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript_2024/자바스크립트 엔진 강의 정리.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript_2024/자바스크립트 엔진 강의 정리.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript_2024/자바스크립트 엔진 강의 정리.md"
+                "file": "프로젝트 설정 참고자료/참고.md"
               }
             }
           }
