@@ -1,4 +1,4 @@
-### SCSS & CSS Module
+### SCSS & CSS Modulep
 
 > **Sass**(Syntactically Awesome Style Sheets)
 >
