@@ -302,6 +302,8 @@ The `NextResponse` API allows you to:
 6. 모든 props들을 구성하고, _app.js > page Component 순서로 rendering.
 7. 모든 Content를 구성하고 _document.js를 실행하여 html 형태로 출력한다.
 
+ex) getserverside 요청은 서버에서 페이지 요청시 실행된다. 위 실행순서상 2번.
+
 #### [쿠키 사용](https://nextjs.org/docs/app/building-your-application/routing/middleware#using-cookies)
 
 ```tsx
@@ -668,9 +670,6 @@ revalidatePath 또는 revalidateTag를 통해 캐시를 무효화 하려면 서�
 - 해당 함수는 서버컴포넌에서 사용 가능하다.
 - 해당 URL에 있던 캐시를 삭제하고 다시 생성한다.
 - 캐시 삭제 후 서버컴포넌트를 재생성 한다.
-
-
-
 
 
 
