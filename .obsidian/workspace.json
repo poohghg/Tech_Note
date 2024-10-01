@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
+                "file": "웹뷰.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
+                "file": "웹뷰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
+                "file": "웹뷰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md"
+                "file": "웹뷰.md"
               }
             }
           }
@@ -183,31 +183,31 @@
   },
   "active": "806c6e7f47ad005a",
   "lastOpenFiles": [
-    "css/scss.md",
-    "conflict-files-obsidian-git.md",
-    "최적화/브라우더 렌더링 최적화.md",
-    "react/react.dev.md",
-    "react/디자인 패턴.md",
-    "키워드 API.md",
-    "웹뷰.md",
     "아이폰 <-> mac 연결.md",
     "스터디 - 디자인패턴.md",
+    "recoil/recoil.md",
     "react-uqery/정리.md",
+    "react/react.dev.md",
+    "react/디자인 패턴.md",
+    "pnpm/pnpm.md",
+    "next.js/next14.md",
+    "next.js/next 에러.md",
+    "javascript_2024/자바스크립트 엔진 강의 정리.md",
+    "프로젝트 설정 참고자료/참고.md",
+    "최적화/브라우더 렌더링 최적화.md",
+    "css/scss.md",
+    "conflict-files-obsidian-git.md",
+    "키워드 API.md",
+    "웹뷰.md",
     "react-uqery",
     "nuxt.md",
-    "next.js/next 에러.md",
     "git.md",
     "FSD.md",
-    "프로젝트 설정 참고자료/참고.md",
-    "javascript_2024/자바스크립트 엔진 강의 정리.md",
     "README.md",
     "().md",
     "javascript_2024",
-    "next.js/next14.md",
     "최적화",
     "next.js",
-    "pnpm/pnpm.md",
-    "recoil/recoil.md",
     "무제 파일.canvas",
     "2024-02-04.md",
     "프로젝트 설정 참고자료",
