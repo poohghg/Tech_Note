@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f505e0632509e7e",
+        "id": "02cc249ceea74385",
         "type": "tabs",
         "children": [
           {
-            "id": "9b1578dad571a508",
+            "id": "05a4f780131d3546",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react-uqery/정리.md",
+                "file": "react/디자인 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react-uqery/정리.md",
+                "file": "react/디자인 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react-uqery/정리.md",
+                "file": "react/디자인 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react-uqery/정리.md"
+                "file": "react/디자인 패턴.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9b1578dad571a508",
+  "active": "05a4f780131d3546",
   "lastOpenFiles": [
+    "react-uqery/정리.md",
     "스터디 - 디자인패턴.md",
     "git.md",
     "아이폰 <-> mac 연결.md",
-    "react-uqery/정리.md",
     "키워드 API.md",
     "README.md",
     "nuxt.md",
