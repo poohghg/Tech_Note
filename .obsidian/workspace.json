@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5b274751c14e29f9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "7f04e987aa114203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스터디 - 디자인패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스터디 - 디자인패턴.md",
+                "file": "react-uqery/정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스터디 - 디자인패턴.md",
+                "file": "react-uqery/정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스터디 - 디자인패턴.md"
+                "file": "react-uqery/정리.md"
               }
             }
           }
@@ -169,12 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7f04e987aa114203",
+  "active": "9b1578dad571a508",
   "lastOpenFiles": [
+    "스터디 - 디자인패턴.md",
     "git.md",
     "아이폰 <-> mac 연결.md",
     "react-uqery/정리.md",
-    "스터디 - 디자인패턴.md",
     "키워드 API.md",
     "README.md",
     "nuxt.md",
