@@ -13,48 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트 설정 참고자료/참고.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93317efe5b41582e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "최적화/브라우더 렌더링 최적화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e8ae37f47aa4952",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "806c6e7f47ad005a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "FSD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,13 +146,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "806c6e7f47ad005a",
+  "active": "983c78c83b7c61d6",
   "lastOpenFiles": [
+    "프로젝트 설정 참고자료/참고.md",
+    "최적화/브라우더 렌더링 최적화.md",
+    "Users/khg/Library/Application.md",
+    "FSD.md",
+    "Users/khg/Library",
+    "Users/khg",
+    "Users",
     "README.md",
     "conflict-files-obsidian-git.md",
     "nuxt.md",
     "git.md",
-    "FSD.md",
     "웹뷰.md",
     "아이폰 <-> mac 연결.md",
     "스터디 - 디자인패턴.md",
@@ -199,8 +170,6 @@
     "next.js/next14.md",
     "next.js/next 에러.md",
     "javascript_2024/자바스크립트 엔진 강의 정리.md",
-    "프로젝트 설정 참고자료/참고.md",
-    "최적화/브라우더 렌더링 최적화.md",
     "css/scss.md",
     "키워드 API.md",
     "react-uqery",
@@ -215,7 +184,6 @@
     "react/test.md",
     "pnpm",
     "react/정리.md",
-    "무제 파일.md",
     "recoil",
     "react/무제 파일.canvas"
   ]
