@@ -146,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "983c78c83b7c61d6",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "리팩토링",
     "프로젝트 설정 참고자료/참고.md",
     "최적화/브라우더 렌더링 최적화.md",
     "Users/khg/Library/Application.md",
@@ -183,7 +184,6 @@
     "pnpm/pnpm~.md",
     "react/test.md",
     "pnpm",
-    "react/정리.md",
     "recoil",
     "react/무제 파일.canvas"
   ]
