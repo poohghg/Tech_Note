@@ -146,11 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "983c78c83b7c61d6",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "리팩토링/코드의  나쁜 냄새.md",
-    "최적화/브라우더 렌더링 최적화.md",
+    "javascript_2024/자바스크립트 엔진 강의 정리.md",
     "리팩토링/기본적인 리팩터링.md",
+    "최적화/브라우더 렌더링 최적화.md",
     "리팩토링/코드의  나쁜 냄새~.md",
     "FSD.md",
     "리팩토링",
@@ -173,7 +174,6 @@
     "pnpm/pnpm.md",
     "next.js/next14.md",
     "next.js/next 에러.md",
-    "javascript_2024/자바스크립트 엔진 강의 정리.md",
     "css/scss.md",
     "키워드 API.md",
     "react-uqery",
