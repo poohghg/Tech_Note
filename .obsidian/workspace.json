@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fa0dd769c5089eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -181,8 +193,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "806c6e7f47ad005a",
+  "active": "5fa0dd769c5089eb",
   "lastOpenFiles": [
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "nuxt.md",
     "git.md",
     "FSD.md",
@@ -200,10 +214,8 @@
     "프로젝트 설정 참고자료/참고.md",
     "최적화/브라우더 렌더링 최적화.md",
     "css/scss.md",
-    "conflict-files-obsidian-git.md",
     "키워드 API.md",
     "react-uqery",
-    "README.md",
     "().md",
     "javascript_2024",
     "최적화",
