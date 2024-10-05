@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹뷰.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹뷰.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹뷰.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹뷰.md"
+                "file": "README.md"
               }
             }
           }
@@ -183,6 +183,10 @@
   },
   "active": "806c6e7f47ad005a",
   "lastOpenFiles": [
+    "nuxt.md",
+    "git.md",
+    "FSD.md",
+    "웹뷰.md",
     "아이폰 <-> mac 연결.md",
     "스터디 - 디자인패턴.md",
     "recoil/recoil.md",
@@ -198,11 +202,7 @@
     "css/scss.md",
     "conflict-files-obsidian-git.md",
     "키워드 API.md",
-    "웹뷰.md",
     "react-uqery",
-    "nuxt.md",
-    "git.md",
-    "FSD.md",
     "README.md",
     "().md",
     "javascript_2024",
