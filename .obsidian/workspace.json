@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FSD.md",
+                "file": "리팩토링/기본적인 리팩터링.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FSD.md",
+                "file": "리팩토링/기본적인 리팩터링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FSD.md",
+                "file": "리팩토링/기본적인 리팩터링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FSD.md"
+                "file": "리팩토링/기본적인 리팩터링.md"
               }
             }
           }
@@ -146,13 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "983c78c83b7c61d6",
   "lastOpenFiles": [
+    "FSD.md",
+    "리팩토링/기본적인 리팩터링.md",
     "리팩토링",
     "프로젝트 설정 참고자료/참고.md",
     "최적화/브라우더 렌더링 최적화.md",
     "Users/khg/Library/Application.md",
-    "FSD.md",
     "Users/khg/Library",
     "Users/khg",
     "Users",
@@ -184,7 +185,6 @@
     "pnpm/pnpm~.md",
     "react/test.md",
     "pnpm",
-    "recoil",
     "react/무제 파일.canvas"
   ]
 }
