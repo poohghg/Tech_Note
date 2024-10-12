@@ -16,5 +16,14 @@
       ],
       "key": "C"
     }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "1"
+    }
   ]
 }
