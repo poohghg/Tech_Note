@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/디자인 패턴.md",
+                "file": "타입스크립트/무제 파일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "디자인 패턴"
+              "title": "무제 파일"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/디자인 패턴.md",
+                "file": "타입스크립트/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "디자인 패턴의 백링크"
+              "title": "무제 파일의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/디자인 패턴.md",
+                "file": "타입스크립트/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "디자인 패턴의 나가는 링크"
+              "title": "무제 파일의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/디자인 패턴.md"
+                "file": "타입스크립트/무제 파일.md"
               },
               "icon": "lucide-list",
-              "title": "디자인 패턴 개요"
+              "title": "무제 파일 개요"
             }
           }
         ]
@@ -164,11 +164,14 @@
   },
   "active": "126108a8d3ce29cf",
   "lastOpenFiles": [
+    "javascript_2024/자바스크립트 엔진 강의 정리.md",
+    "타입스크립트/무제 파일.md",
+    "react/디자인 패턴.md",
+    "react/react.dev.md",
     "타입스크립트",
     "리팩토링/기본적인 리팩터링.md",
     "Pasted image 20241012132749.png",
     "리팩토링/코드의  나쁜 냄새.md",
-    "javascript_2024/자바스크립트 엔진 강의 정리.md",
     "최적화/브라우더 렌더링 최적화.md",
     "리팩토링/코드의  나쁜 냄새~.md",
     "FSD.md",
@@ -187,8 +190,6 @@
     "스터디 - 디자인패턴.md",
     "recoil/recoil.md",
     "react-uqery/정리.md",
-    "react/react.dev.md",
-    "react/디자인 패턴.md",
     "pnpm/pnpm.md",
     "next.js/next14.md",
     "next.js/next 에러.md",
@@ -201,7 +202,6 @@
     "next.js",
     "무제 파일.canvas",
     "프로젝트 설정 참고자료",
-    "pnpm",
     "react/무제 파일.canvas"
   ]
 }
