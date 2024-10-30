@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "스터디 - 디자인패턴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "스터디 - 디자인패턴"
             }
           },
           {
@@ -178,12 +178,12 @@
   },
   "active": "126108a8d3ce29cf",
   "lastOpenFiles": [
-    "FSD.md",
-    "README.md",
-    "git.md",
-    "아이폰 <-> mac 연결.md",
     "실업급여.md",
+    "FSD.md",
     "웹뷰.md",
+    "git.md",
+    "README.md",
+    "아이폰 <-> mac 연결.md",
     "키워드 API.md",
     "nuxt.md",
     "Application.md",
