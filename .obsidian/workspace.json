@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/react.dev.md",
+                "file": "타입스크립트/이펙티브 타입스크립트 - 3.타입 추론.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react.dev"
+              "title": "이펙티브 타입스크립트 - 3.타입 추론"
             }
           },
           {
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 261.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -178,6 +178,10 @@
   },
   "active": "126108a8d3ce29cf",
   "lastOpenFiles": [
+    "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
+    "README.md",
+    "recoil/recoil.md",
+    "react/react.dev.md",
     "react/디자인 패턴.md",
     "pnpm/pnpm.md",
     "css/scss.md",
@@ -187,14 +191,12 @@
     "리팩토링/캡슐화.md",
     "최적화/브라우더 렌더링 최적화.md",
     "타입스크립트/이펙티브 타입스크립트 - 3.타입 추론.md",
-    "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "프로젝트 설정 참고자료/참고.md",
     "스터디 - 디자인패턴.md",
     "실업급여.md",
     "FSD.md",
     "웹뷰.md",
     "git.md",
-    "README.md",
     "아이폰 <-> mac 연결.md",
     "키워드 API.md",
     "nuxt.md",
@@ -203,7 +205,6 @@
     "Pasted image 20241012132749.png",
     "Pasted image 20241028163849.png",
     "Pasted image 20241030144834.png",
-    "react/react.dev.md",
     "타입스크립트",
     "리팩토링/코드의  나쁜 냄새~.md",
     "리팩토링",
@@ -211,7 +212,6 @@
     "Users/khg",
     "Users",
     "conflict-files-obsidian-git.md",
-    "recoil/recoil.md",
     "react-uqery/정리.md",
     "react-uqery",
     "javascript_2024",
