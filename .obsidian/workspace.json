@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/캡슐화.md",
+                "file": "타입스크립트/이펙티브 타입스크립트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "캡슐화"
+              "title": "이펙티브 타입스크립트"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -165,11 +164,11 @@
   },
   "active": "126108a8d3ce29cf",
   "lastOpenFiles": [
+    "리팩토링/캡슐화.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "타입스크립트/이펙티브 타입스크립트.md",
     "실업급여.md",
-    "리팩토링/캡슐화.md",
     "Pasted image 20241028164635.png",
     "Pasted image 20241028163849.png",
     "javascript_2024/자바스크립트 엔진 강의 정리.md",
