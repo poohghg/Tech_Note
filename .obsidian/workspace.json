@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "126108a8d3ce29cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리팩토링/기본적인 리팩터링.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "기본적인 리팩터링"
-            }
-          },
-          {
             "id": "fdd5f42120ef7758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
+                "file": "타입스크립트/이펙티브 타입스크립트 - 3.타입 추론.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이펙티브 타입스크립트 - 2.타입 시스템"
+              "title": "이펙티브 타입스크립트 - 3.타입 추론"
             }
           }
         ]
@@ -177,14 +163,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "126108a8d3ce29cf",
+  "active": "fdd5f42120ef7758",
   "lastOpenFiles": [
+    "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
+    "리팩토링/기본적인 리팩터링.md",
     "Pasted image 20241030152734.png",
     "리팩토링/캡슐화.md",
     "리팩토링/코드의  나쁜 냄새.md",
-    "리팩토링/기본적인 리팩터링.md",
     "최적화/브라우더 렌더링 최적화.md",
-    "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "타입스크립트/이펙티브 타입스크립트 - 3.타입 추론.md",
     "README.md",
     "recoil/recoil.md",
