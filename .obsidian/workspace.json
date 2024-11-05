@@ -35,8 +35,7 @@
               "title": "캡슐화"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +177,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3d7889abb99a3a02",
+  "active": "7e7f45c8feb07f42",
   "lastOpenFiles": [
-    "리팩토링/기능 이동.md",
     "리팩토링/캡슐화.md",
+    "리팩토링/기능 이동.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "스터디 - 디자인패턴.md",
