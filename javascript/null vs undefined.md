@@ -18,8 +18,25 @@ var foo = null;
 foo; //null
 ```
 
+### null 과 undefined 의 차이
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > 출처
 > 
-> [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/null)
-> 
+> - [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/null)
+> - https://inpa.tistory.com/entry/%F0%9F%93%9A-null-undefined-NaN
+
+
