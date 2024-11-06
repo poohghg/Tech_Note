@@ -21,7 +21,13 @@ foo; //null
 ### undefined
 
 undefined은 javaScript의 원시 자료형 하나이다.
-undefined 는 전역 객체의 속성이다. 즉 전역 범위 에서의 변수이다. 값을 할당하지 않은 변수는 undefined 자료형이다. 메서드나 선언도 평가할 변수가 값을 할당받지 않은 경우에 undefined을 반환한다. 함수가는 값을 명시적으로 반환하지 않으면 undefined을 반환한다.
+undefined는 전역 객체의 속성이다. 즉 전역 범위 에서의 변수이다. 값을 할당하지 않은 변수는 undefined 자료형이다. 메서드나 선언도 평가할 변수가 값을 할당받지 않은 경우에 undefined을 반환한다. 함수가는 값을 명시적으로 반환하지 않으면 undefined을 반환한다.
+
+- 반한
+
+
+
+> 개념적으로, `undefined`는 값이 없음을 의미하고, `null`은 객체가 없음을 의미합니다. ([`typeof null === "object"`](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/typeof#typeof_null)에 대한 변명이 될 수도 있습니다). 일반적으로 값이 없는 경우 언어의 기본값은 `undefined`입니다.
 
 
 
