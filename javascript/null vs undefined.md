@@ -18,16 +18,23 @@ var foo = null;
 foo; //null
 ```
 
+### undefined
+
+
+
 ### null 과 undefined 의 차이
 
-
-
-
-
-
-
-
-
+```
+typeof null; // "object" (하위호환 유지를 위해 "null"이 아님)
+typeof undefined; // "undefined"
+null === undefined; // false
+null == undefined; // true
+null === null; // true
+null == null; // true
+!null; // true
+isNaN(1 + null); // false
+isNaN(1 + undefined); // true
+```
 
 
 
