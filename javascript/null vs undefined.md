@@ -20,7 +20,8 @@ foo; //null
 
 ### undefined
 
-전역 
+undefined은 javaScript의 원시 자료형 하나이다.
+undefined 는 전역 객체의 속성이다. 즉 전역 번위에서의 변수이다.
 
 
 
