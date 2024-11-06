@@ -30,9 +30,6 @@ undefined는 전역 객체의 속성이다. 즉 전역 범위 에서의 변수�
 - 내장 API중 요소를 찾을 수 없을 때 undefined을 반환
 
 > 개념적으로, `undefined`는 값이 없음을 의미하고, `null`은 객체가 없음을 의미합니다. ([`typeof null === "object"`](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/typeof#typeof_null)에 대한 변명이 될 수도 있습니다). 일반적으로 값이 없는 경우 언어의 기본값은 `undefined`입니다.
-
-
-
 ### null 과 undefined 의 차이
 
 null 과 undefined 의 차이점은 메모리 측면에서 설명될 수 있다.
