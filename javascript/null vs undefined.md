@@ -19,4 +19,7 @@ foo; //null
 ```
 
 
-> https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/null
+> 출처
+> 
+> [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/null)
+> 
