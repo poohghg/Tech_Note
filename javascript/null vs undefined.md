@@ -50,11 +50,6 @@ isNaN(1 + null); // false
 isNaN(1 + undefined); // true
 ```
 
-
-
-
-
-
 > 출처
 > 
 > - [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/null)
