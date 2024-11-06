@@ -9,3 +9,14 @@ null은 리터럴로써 null이라 쓰인다. null은 undefined과 같이 글로
 - 객체 속성값을 초기화
 - 함수의 매개변수의 초기화
 
+```
+// 정의되지 않고 초기화된 적도 없는 foo
+foo; //ReferenceError: foo is not defined
+
+// 존재하지만 값이나 자료형이 존재하지 않는 foo
+var foo = null;
+foo; //null
+```
+
+
+> https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/null
