@@ -20,6 +20,8 @@ foo; //null
 
 ### undefined
 
+전역 
+
 
 
 ### null 과 undefined 의 차이
