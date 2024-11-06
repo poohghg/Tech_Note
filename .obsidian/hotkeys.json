@@ -8,15 +8,6 @@
       "key": "Q"
     }
   ],
-  "editor:toggle-code": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "editor:toggle-numbered-list": [
     {
       "modifiers": [
@@ -24,6 +15,15 @@
         "Mod"
       ],
       "key": "1"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
     }
   ]
 }
