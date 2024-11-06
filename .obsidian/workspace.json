@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이폰 <-> mac 연결.md",
+                "file": "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "아이폰 <-> mac 연결"
+              "title": "자바스크립트 전체 정리본"
             }
           }
         ],
@@ -205,8 +205,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "21d84fe9b1b1a2ce",
   "lastOpenFiles": [
+    "아이폰 <-> mac 연결.md",
+    "react/react.md",
+    "javascript/이전 자료/jwt.md",
+    "javascript/이전 자료/프론트자료.md",
+    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "javascript/이전 자료",
     "javascript/무제 폴더",
     "실업급여~.md",
@@ -237,13 +242,9 @@
     "next.js/next14.md",
     "next.js/next 에러.md",
     "react-uqery/정리.md",
-    "Users/khg/Library/Application.md",
     "Users/khg/Library",
     "Users/khg",
     "Users",
-    "실업급여.md",
-    "아이폰 <-> mac 연결.md",
-    "타입스크립트/이펙티브 타입스크립트 - 3.타입 추론.md",
     "Pasted image 20241105134226.png",
     "Pasted image 20241028164635.png",
     "Pasted image 20241012132749.png",
@@ -252,7 +253,6 @@
     "리팩토링",
     "react-uqery",
     "javascript",
-    "최적화",
     "무제 파일.canvas",
     "react/무제 파일.canvas"
   ]
