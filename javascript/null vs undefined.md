@@ -21,8 +21,7 @@ foo; //null
 ### undefined
 
 undefined은 javaScript의 원시 자료형 하나이다.
-undefined는 전역 객체의 속성이다. 즉 전역 범위 에서의 변수이다. 값을 할당하지 않은 변수는 undefined 자료형이다. 메서드나 선언도 평가할 변수가 값을 할당받지 않은 경우에 undefined을 반환한다. 함수가
-값을 명시적으로 반환하지 않으면 undefined을 반환한다.
+undefined는 전역 객체의 속성이다. 즉 전역 범위 에서의 변수이다. 값을 할당하지 않은 변수는 undefined 자료형이다. 메서드나 선언도 평가할 변수가 값을 할당받지 않은 경우에 undefined을 반환한다. 함수가 값을 명시적으로 반환하지 않으면 undefined을 반환한다.
 
 - 반한 값이 없는 retrun문 암시적으로 undefined을 반환
 - 존재하지 않는 객체 속성에 접근 하면 undefined가 반환
