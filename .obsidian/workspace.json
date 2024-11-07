@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next.js/next14.md",
+                "file": "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "next14"
+              "title": "이펙티브 타입스크립트 - 5.any 다루기"
             }
           }
         ]
@@ -164,6 +164,11 @@
   },
   "active": "28d18ed998ac6528",
   "lastOpenFiles": [
+    "타입스크립트/타입 종류.md",
+    "README.md",
+    "recoil/recoil.md",
+    "실업급여.md",
+    "next.js/next14.md",
     "javascript/null vs undefined.md",
     "javascript/이전 자료/jwt.md",
     "javascript/이전 자료/프론트자료.md",
@@ -177,7 +182,6 @@
     "리팩토링/캡슐화.md",
     "리팩토링/기능 이동.md",
     "최적화/브라우더 렌더링 최적화.md",
-    "타입스크립트/타입 종류.md",
     "무제 파일.canvas",
     "2024-11-06.md",
     "타입스크립트/이펙티브 타입스크립트 - 4.타입 설계.md",
@@ -195,9 +199,6 @@
     "Pasted image 20241105134450.png",
     "Pasted image 20241105134459.png",
     "Pasted image 20241106141827.png",
-    "README.md",
-    "scope.md",
-    "무제 파일.md",
     "프로그래밍",
     "Users/khg/Library",
     "Users/khg",

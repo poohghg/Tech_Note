@@ -1,6 +1,6 @@
 ## Recoil
 
-Recoil은 Atomic구조를 통해 만드어진 페이스북에 개발한 상태관리 라이브러리다.
+Recoil은 Atomic구조를 통해 만들어진 페이스북에 개발한 상태관리 라이브러리다.
 
 - 오직 React만을 위해 React처럼  내부상태만 이용
 - 작은 Atom단위로 관리
