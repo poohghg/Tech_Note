@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
+                "file": "타입스크립트/무제 파일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이펙티브 타입스크립트 - 5.any 다루기"
+              "title": "무제 파일"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -164,6 +164,8 @@
   },
   "active": "28d18ed998ac6528",
   "lastOpenFiles": [
+    "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
+    "타입스크립트/무제 파일.md",
     "타입스크립트/타입 종류.md",
     "README.md",
     "recoil/recoil.md",
@@ -177,7 +179,6 @@
     "프로그래밍/git.md",
     "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/FSD.md",
-    "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "리팩토링/캡슐화.md",
     "리팩토링/기능 이동.md",
@@ -192,7 +193,6 @@
     "react/react.md",
     "javascript/이전 자료",
     "javascript/무제 폴더",
-    "실업급여~.md",
     "Pasted image 20241030152734.png",
     "Pasted image 20241104152428.png",
     "Pasted image 20241104152436.png",
