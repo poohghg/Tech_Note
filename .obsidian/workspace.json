@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
+                "file": "javascript/null vs undefined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이펙티브 타입스크립트 - 5.any 다루기"
+              "title": "null vs undefined"
             }
           },
           {
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -194,13 +193,13 @@
   },
   "active": "28d18ed998ac6528",
   "lastOpenFiles": [
+    "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "리팩토링/캡슐화.md",
     "리팩토링/기능 이동.md",
     "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/FSD.md",
     "최적화/브라우더 렌더링 최적화.md",
-    "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
     "타입스크립트/타입 종류.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "프로그래밍/git.md",
