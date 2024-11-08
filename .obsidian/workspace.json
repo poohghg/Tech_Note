@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "050a1c55b1b2cfeb",
+        "id": "3c556cae882ba077",
         "type": "tabs",
         "children": [
           {
-            "id": "28d18ed998ac6528",
+            "id": "3ca253f1d3cf2d04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "타입스크립트/이펙티브 타입스크립트 - 6.타입 선언과 @types.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "이펙티브 타입스크립트 - 6.타입 선언과 @types"
+              "title": "새 탭"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -163,10 +158,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "28d18ed998ac6528",
+  "active": "3ca253f1d3cf2d04",
   "lastOpenFiles": [
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "타입스크립트/이펙티브 타입스크립트 - 6.타입 선언과 @types.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
     "타입스크립트/타입 종류.md",
     "README.md",
