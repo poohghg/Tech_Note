@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -162,7 +163,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "3ca253f1d3cf2d04",
   "lastOpenFiles": [
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/기능 이동.md",
