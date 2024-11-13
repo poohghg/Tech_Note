@@ -35,8 +35,7 @@
               "title": "캡슐화"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -177,8 +177,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "985119074f9a117f",
+  "active": "37c9488310ecf76f",
   "lastOpenFiles": [
+    "리팩토링/캡슐화.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "타입스크립트/이펙티브 타입스크립트 - 7.코드를 작성하고 실행하기.md",
     "프로그래밍/스터디 - 디자인패턴.md",
@@ -192,7 +193,6 @@
     "Pasted image 20241112173926.png",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/기능 이동.md",
-    "리팩토링/캡슐화.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "Pasted image 20241111131654.png",
     "Pasted image 20241111131637.png",
