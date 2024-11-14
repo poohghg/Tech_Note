@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "리팩토링/dd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "dd"
             }
           },
           {
@@ -178,6 +178,8 @@
   },
   "active": "4a154304adcda85d",
   "lastOpenFiles": [
+    "README.md",
+    "리팩토링/dd~.md",
     "javascript/프로토타입.md",
     "scope.md",
     "리팩토링/dd.md",
@@ -206,11 +208,9 @@
     "타입스크립트/이펙티브 타입스크립트 - 6.타입 선언과 @types.md",
     "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
     "타입스크립트/타입 종류.md",
-    "README.md",
     "recoil/recoil.md",
     "실업급여.md",
     "next.js/next14.md",
-    "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "무제 파일.canvas",
     "javascript/이전 자료",
     "javascript/무제 폴더",
