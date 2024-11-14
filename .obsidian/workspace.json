@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -177,11 +176,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4a154304adcda85d",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "scope.md",
+    "javascript/프로토타입.md",
+    "리팩토링/dd.md",
     "javascript/이전 자료/프론트자료.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
-    "javascript/프로토타입.md",
     "javascript/null vs undefined.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/이전 자료/jwt.md",
@@ -195,7 +196,6 @@
     "타입스크립트/이펙티브 타입스크립트 - 7.코드를 작성하고 실행하기.md",
     "최적화/브라우더 렌더링 최적화.md",
     "Pasted image 20241112175537.png",
-    "scope.md",
     "Users/khg/Library/Application.md",
     "Users/khg/Library",
     "Users/khg",
@@ -212,7 +212,6 @@
     "next.js/next14.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "무제 파일.canvas",
-    "2024-11-06.md",
     "javascript/이전 자료",
     "javascript/무제 폴더",
     "Pasted image 20241030152734.png",
