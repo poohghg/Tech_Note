@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/dd.md",
+                "file": "javascript/프로토타입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dd"
+              "title": "프로토타입"
             }
           },
           {
@@ -180,10 +180,10 @@
   "active": "4a154304adcda85d",
   "lastOpenFiles": [
     "README.md",
+    "리팩토링/dd.md",
     "리팩토링/dd~.md",
     "javascript/프로토타입.md",
     "scope.md",
-    "리팩토링/dd.md",
     "javascript/이전 자료/프론트자료.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "javascript/null vs undefined.md",
