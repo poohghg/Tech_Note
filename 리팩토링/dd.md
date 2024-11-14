@@ -277,8 +277,8 @@ function constructorFunction() {
 - 일반 함수를 new 연산자와 사용하여 this또는 객체를 반환하지 않는다면 빈객체가 반환된다.
 
 - New 연산자 없이 생성자 함수로 호출하면 일반 함수로 호출된다.
-
-- ```javascript
+ 
+```javascript
   function newTarget() {
     function Info(name, age) {
       //  new 연산자없이 호출되었는지 확인하여 없이 호출하였다면, 재귀 호출한다.
