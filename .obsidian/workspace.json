@@ -35,7 +35,8 @@
               "title": "자바스크립트 전체 정리본"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +178,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4a154304adcda85d",
+  "active": "b4a81501cfcbc69d",
   "lastOpenFiles": [
-    "javascript/null vs undefined.md",
     "javascript/프로토타입.md",
+    "javascript/null vs undefined.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "README.md",
     "리팩토링/dd.md",
