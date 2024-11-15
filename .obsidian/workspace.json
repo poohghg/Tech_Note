@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/프로토타입.md",
+                "file": "javascript/null vs undefined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로토타입"
+              "title": "null vs undefined"
             }
           },
           {
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -179,15 +178,15 @@
   },
   "active": "4a154304adcda85d",
   "lastOpenFiles": [
+    "javascript/프로토타입.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "README.md",
     "리팩토링/dd.md",
     "리팩토링/dd~.md",
-    "javascript/프로토타입.md",
     "scope.md",
     "javascript/이전 자료/프론트자료.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "javascript/null vs undefined.md",
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/이전 자료/jwt.md",
     "리팩토링/캡슐화.md",
     "프로그래밍/스터디 - 디자인패턴.md",
