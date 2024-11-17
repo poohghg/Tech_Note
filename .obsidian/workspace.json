@@ -35,7 +35,8 @@
               "title": "자바스크립트 엔진 강의 정리"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +178,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4a154304adcda85d",
+  "active": "64d7ca46dbedb521",
   "lastOpenFiles": [
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/화살표 함수.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/null vs undefined.md",
     "javascript/프로토타입.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
