@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -178,10 +179,11 @@
   },
   "active": "4a154304adcda85d",
   "lastOpenFiles": [
+    "javascript/자바스크립트 엔진 강의 정리.md",
+    "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "리팩토링/캡슐화.md",
     "javascript/화살표 함수.md",
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/null vs undefined.md",
     "javascript/프로토타입.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
@@ -210,7 +212,6 @@
     "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
     "타입스크립트/타입 종류.md",
     "recoil/recoil.md",
-    "실업급여.md",
     "무제 파일.canvas",
     "javascript/이전 자료",
     "javascript/무제 폴더",
