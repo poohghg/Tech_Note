@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/캡슐화.md",
+                "file": "javascript/자바스크립트 엔진 강의 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "캡슐화"
+              "title": "자바스크립트 엔진 강의 정리"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "64d7ca46dbedb521",
   "lastOpenFiles": [
+    "리팩토링/캡슐화.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "프로그래밍/FSD.md",
     "프로그래밍/스터디 - 디자인패턴.md",
@@ -183,7 +184,6 @@
     "javascript/화살표 함수.md",
     "javascript/프로토타입.md",
     "javascript/null vs undefined.md",
-    "리팩토링/캡슐화.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "README.md",
     "리팩토링/dd.md",
