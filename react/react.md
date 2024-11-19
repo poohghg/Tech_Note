@@ -58,8 +58,6 @@
 - 부모 컴포넌트가 리렌더링 되는 경우
 - this.forceUpdate로 강제로 렌더링을 트리거할 때
 
-
-
 1. 위의 조건을 통해 컴포넌트 리렌더링
 2. 구현부 실행 = props 취득, hook 실행, 내부 변수 및 함수 재 생성
 3. return 실행, 렌더링 시작
@@ -68,16 +66,9 @@
 6. useLayoutEffect: 브라우저가 화면에 Paint하기 전에 useLayoutEffect에 등록해둔 effect(부수 효과 함수)가 동기적으로 실행되며, 이때 state, redux store 등의 변경이 있다면 한번 더 리렌더링
 7. Paint: 브라우저가 실제 DOM을 화면에 그림. didUpdate 완료.
 8. useEffect: update되어 화면에 그려진 직후, useEffect에 등록해둔 effect(부수 효과 함수)가 비동기로 실행
-
-
-
 ### FLUX
 
 <img src="https://github.com/poohghg/prepare_frontend_interview/raw/main/images/flux1.PNG" alt="FLUX 패턴" style="zoom:50%;" />
-
-
-
-
 
 - FLUX는 추상적인 개념이다. 
 - 패턴에서는 단방향 데이터 흐름을 강조한다.

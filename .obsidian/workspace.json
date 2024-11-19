@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/react.md",
+                "file": "react/디자인 패턴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react"
+              "title": "디자인 패턴"
             }
           },
           {
@@ -178,6 +178,7 @@
   },
   "active": "4a154304adcda85d",
   "lastOpenFiles": [
+    "react/react.md",
     "react/react.dev.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
@@ -210,7 +211,6 @@
     "Pasted image 20241111131637.png",
     "타입스크립트/이펙티브 타입스크립트 - 6.타입 선언과 @types.md",
     "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
-    "타입스크립트/타입 종류.md",
     "무제 파일.canvas",
     "javascript/이전 자료",
     "javascript/무제 폴더",
