@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "캡슐화"
             }
+          },
+          {
+            "id": "5dba85a898e402de",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241012132749.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241012132749"
+            }
           }
         ]
       }
@@ -165,15 +177,16 @@
   },
   "active": "64d7ca46dbedb521",
   "lastOpenFiles": [
+    "Pasted image 20241012132749.png",
+    "리팩토링/기능 이동.md",
+    "리팩토링/캡슐화.md",
     "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/FSD.md",
     "프로그래밍/git.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
-    "리팩토링/캡슐화.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "최적화/브라우더 렌더링 최적화.md",
-    "리팩토링/기능 이동.md",
     "리팩토링/기본적인 리팩터링.md",
     "프로젝트 설정 참고자료/참고.md",
     "아이폰 <-> mac 연결.md",
@@ -190,7 +203,6 @@
     "README.md",
     "리팩토링/dd.md",
     "리팩토링/dd~.md",
-    "scope.md",
     "Pasted image 20241112175537.png",
     "Users/khg/Library",
     "Users/khg",
@@ -206,7 +218,6 @@
     "Pasted image 20241104152436.png",
     "Pasted image 20241105134450.png",
     "Pasted image 20241105134459.png",
-    "Pasted image 20241106141827.png",
     "프로그래밍",
     "타입스크립트",
     "리팩토링",
