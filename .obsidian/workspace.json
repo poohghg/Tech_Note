@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08542b17629ae0f4",
+        "id": "6b1b7d9f464e8f0e",
         "type": "tabs",
         "children": [
           {
-            "id": "45ceb2357f3c2294",
+            "id": "e1e6e2f7382f043a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -162,12 +163,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "45ceb2357f3c2294",
+  "active": "e1e6e2f7382f043a",
   "lastOpenFiles": [
-    "리팩토링/기본적인 리팩터링.md",
-    "리팩토링/데이터 조직화.md",
     "리팩토링/캡슐화.md",
+    "리팩토링/기본적인 리팩터링.md",
     "리팩토링/코드의  나쁜 냄새.md",
+    "리팩토링/데이터 조직화.md",
     "리팩토링/기능 이동.md",
     "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
     "javascript/array 와 set.md",
