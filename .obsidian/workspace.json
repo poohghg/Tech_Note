@@ -49,7 +49,8 @@
               "title": "캡슐화"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +192,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e1e6e2f7382f043a",
+  "active": "d364ed0d3b377d56",
   "lastOpenFiles": [
     "리팩토링/기능 이동.md",
     "리팩토링/데이터 조직화.md",
