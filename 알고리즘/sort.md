@@ -10,9 +10,9 @@
 
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 
-- ```
+``` ts
   arr.sort([compareFunction])
-  ```
+```
 
 - `compareFunction`이 제공되지 않으면 요소를 문자열로 변환하고 유니 코드 코드 포인트 순서로 문자열을 비교하여 정렬됩니다. 
   - a,b를 인자로 받았을때
