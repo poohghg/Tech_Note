@@ -49,7 +49,8 @@
               "title": "캡슐화"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +192,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e1e6e2f7382f043a",
+  "active": "5b87e86694688a9f",
   "lastOpenFiles": [
+    "리팩토링/데이터 조직화.md",
     "리팩토링/캡슐화.md",
     "리팩토링/기능 이동.md",
-    "리팩토링/데이터 조직화.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
