@@ -94,6 +94,10 @@
 3. 조합: 해결한 부분 문제의 답을 이용하여 다시 큰 문제를 해결한다.
 	1. 정렬된 부분 배열을 하나의 배열로 다시 병합한다.
 
+![[Pasted image 20241127164933.png]]
+
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FODZ1l%2FbtqC7qVOcKv%2FBbXSyczuyzepKvhM941UF1%2Fimg.png
+
 - 일반적으로 재귀 함수를 이용하여 구현
 - 큰 문제를 작은 문제로 분할하는 방식이 동일한 경우가 많기 때문이다.
 - 더 이상 쪼갤 수 없는 크기가 될 때까지 게속하여 분할한다.
