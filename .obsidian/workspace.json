@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +192,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "09821f3399ba1fcf",
+  "active": "d364ed0d3b377d56",
   "lastOpenFiles": [
-    "리팩토링/조건부 로직 간소화.md",
     "리팩토링/캡슐화.md",
+    "리팩토링/조건부 로직 간소화.md",
     "알고리즘/sort.md",
     "Pasted image 20241127164951.png",
     "Pasted image 20241127164933.png",
