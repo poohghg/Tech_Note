@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/조건부 로직 간소화.md",
+                "file": "리팩토링/데이터 조직화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "조건부 로직 간소화"
+              "title": "데이터 조직화"
             }
           },
           {
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -194,8 +193,8 @@
   },
   "active": "d364ed0d3b377d56",
   "lastOpenFiles": [
-    "리팩토링/캡슐화.md",
     "리팩토링/조건부 로직 간소화.md",
+    "리팩토링/캡슐화.md",
     "알고리즘/sort.md",
     "Pasted image 20241127164951.png",
     "Pasted image 20241127164933.png",
