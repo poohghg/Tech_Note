@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -191,13 +192,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d364ed0d3b377d56",
+  "active": "09821f3399ba1fcf",
   "lastOpenFiles": [
+    "리팩토링/기본적인 리팩터링.md",
     "리팩토링/데이터 조직화.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "리팩토링/캡슐화.md",
-    "리팩토링/기본적인 리팩터링.md",
     "리팩토링/기능 이동.md",
     "알고리즘/sort.md",
     "Pasted image 20241127164951.png",
