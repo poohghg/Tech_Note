@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "639b0b7fc6d96530",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241112175537.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241112175537"
+            }
+          },
+          {
             "id": "d364ed0d3b377d56",
             "type": "leaf",
             "state": {
@@ -193,6 +205,8 @@
   },
   "active": "0110d6b87d5cc45f",
   "lastOpenFiles": [
+    "Pasted image 20241112175537.png",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "리팩토링/조건부 로직 간소화.md",
     "알고리즘/sort.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
@@ -222,10 +236,7 @@
     "javascript/array 와 set.md",
     "javascript/무제 폴더",
     "Pasted image 20241012132749.png",
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "아이폰 <-> mac 연결.md",
-    "실업급여.md",
-    "Pasted image 20241112175537.png",
     "Users/khg/Library",
     "Users/khg",
     "Users",
