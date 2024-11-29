@@ -113,13 +113,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -204,7 +202,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0110d6b87d5cc45f",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "Pasted image 20241112175537.png",
     "javascript/자바스크립트 엔진 강의 정리.md",
