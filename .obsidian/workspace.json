@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/캡슐화.md",
+                "file": "알고리즘/그리디.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "캡슐화"
+              "title": "그리디"
             }
           },
           {
@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -218,17 +219,18 @@
   },
   "active": "812e1d27c3918520",
   "lastOpenFiles": [
+    "알고리즘/해쉬테이블.md",
+    "알고리즘/힙.md",
+    "알고리즘/sort.md",
+    "리팩토링/캡슐화.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/데이터 조직화.md",
     "리팩토링/조건부 로직 간소화.md",
     "알고리즘/그리디.md",
-    "리팩토링/캡슐화.md",
-    "알고리즘/해쉬테이블.md",
     "리팩토링/기능 이동.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "Pasted image 20241112175537.png",
-    "알고리즘/sort.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "react/react.md",
     "react/디자인 패턴.md",
@@ -248,7 +250,6 @@
     "타입스크립트/프로그래밍/스터디 - 디자인패턴.md",
     "타입스크립트/프로그래밍/FSD.md",
     "타입스크립트/프로그래밍/git.md",
-    "javascript/array 와 set.md",
     "javascript/무제 폴더",
     "Pasted image 20241012132749.png",
     "Users/khg/Library",
