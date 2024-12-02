@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/기능 이동.md",
+                "file": "리팩토링/캡슐화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기능 이동"
+              "title": "캡슐화"
             }
           },
           {
@@ -128,12 +128,12 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -218,13 +218,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "812e1d27c3918520",
+  "active": "961f1dd00c955d62",
   "lastOpenFiles": [
+    "리팩토링/코드의  나쁜 냄새.md",
+    "리팩토링/기능 이동.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/데이터 조직화.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/캡슐화.md",
-    "리팩토링/코드의  나쁜 냄새.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "Pasted image 20241112175537.png",
     "알고리즘/sort.md",
@@ -233,7 +234,6 @@
     "react/디자인 패턴.md",
     "타입스크립트/이펙티브 타입스크립트 - 7.코드를 작성하고 실행하기.md",
     "타입스크립트/이펙티브 타입스크립트 - 6.타입 선언과 @types.md",
-    "리팩토링/기능 이동.md",
     "최적화/브라우더 렌더링 최적화.md",
     "디자인 패턴/디자인 패턴 공부 목록.md",
     "알고리즘/배열.md",
