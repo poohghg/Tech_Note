@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "undefiend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
