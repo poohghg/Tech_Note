@@ -89,7 +89,8 @@
               "title": "react"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,10 +232,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "812e1d27c3918520",
+  "active": "425a2cef0acfa6b9",
   "lastOpenFiles": [
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/클로저.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/null vs undefined.md",
     "javascript/array 와 set.md",
     "javascript/프로토타입.md",
