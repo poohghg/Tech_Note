@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/그리디.md",
+                "file": "알고리즘/힙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "그리디"
+              "title": "힙"
             }
           },
           {
@@ -234,6 +234,7 @@
   "active": "812e1d27c3918520",
   "lastOpenFiles": [
     "알고리즘/트리.md",
+    "알고리즘/그리디.md",
     "javascript/화살표 함수.md",
     "javascript/프로토타입.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
@@ -252,7 +253,6 @@
     "알고리즘/sort.md",
     "알고리즘/힙.md",
     "알고리즘/배열.md",
-    "알고리즘/그리디.md",
     "react-uqery/정리.md",
     "README.md",
     "알고리즘/해쉬테이블.md",
