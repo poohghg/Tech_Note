@@ -89,7 +89,8 @@
               "title": "react"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,11 +232,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "812e1d27c3918520",
+  "active": "425a2cef0acfa6b9",
   "lastOpenFiles": [
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "Pasted image 20241206142419.png",
     "javascript/프로토타입.md",
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/클로저.md",
     "javascript/null vs undefined.md",
     "javascript/array 와 set.md",
@@ -274,7 +275,6 @@
     "Users/khg/Library",
     "Users/khg",
     "Users",
-    "Pasted image 20241112173926.png",
     "무제 파일.canvas",
     "javascript/이전 자료",
     "타입스크립트/프로그래밍",
