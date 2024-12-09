@@ -130,6 +130,11 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 - 전역 상태 - zustand
 - 서버 상태 - tanStack Query v5
 
+모킹 툴
+
+- [mockoon](https://mockoon.com/)
+	- cli,gu
+
 
 
 
