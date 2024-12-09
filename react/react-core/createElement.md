@@ -4,6 +4,14 @@ createElement를 사용하면 React 엘레먼트를 생성할 수 있다. JSX를
 const element = createElement(type, props, ...children)
 ```
 
+> JSX
+> 
+> 
+> 
+
+
+
+
 `type`, `prop`, `children`를 인수로 제공하고 `createElement`을 호출하여 React 엘리먼트를 생성
 
 ``` ts
