@@ -66,3 +66,5 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 
 - type: 전달받은 type
 - props: ref와 key를 제외한 전달받은 props type이 type.defaultProps를 가지는 컴포넌트라면, 누락되거나, 정의되지 않은 props는 type.defaulteProps 값을 가져온다.
+- ref: 전달받은 `ref`. 누락된 경우 `null`.
+- key: 전달받은 `key`를 강제 변환한 문자열. 누락된 경우 `null`.
