@@ -138,6 +138,8 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 
 현재 ci  빌드 test가 불가능한 상태여서 간단하게 husky 사용해서 stage commit에서 lint,tsc 검사만 하려고 합니다.(의견  필요)
 
+린트,프리티
+
 
 
 
