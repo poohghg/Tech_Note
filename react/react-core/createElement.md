@@ -115,18 +115,18 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 
 프로젝트 패키지 매니저
 
-노드 버전 관리 매니저 -[ volta node](https://volta.sh/)
-- 프로젝트 별 node , 패키지 매니저 버전을 자동으로 지정 할 수 있어 편리해서 사용하려고 합니다.
-패키지 매니저 관리 - pnpm
+- 노드 버전 관리 매니저 -[ volta node](https://volta.sh/)
+	- 프로젝트 별 node , 패키지 매니저 버전을 자동으로 지정 할 수 있어 편리해서 사용하려고 합니다.
+- 패키지 매니저 관리 - pnpm
 
 개발 프레임워크
-next - 15
-react - 19.2 rc2
-typescript - ^ 5
+- next - 15
+- react - 19.2 rc2
+- typescript - ^ 5
 
 상태관리 라이브러리
 전역 상태 - zustand
-서버 상태 - 
+서버 상태 - tanStack Query v5
 
 
 
