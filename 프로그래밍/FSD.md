@@ -230,7 +230,7 @@ FSD에서는 다음으로 구성되어 있다.
     - 해당 슬라이스의 공용 타입 또는 상위 레이어에서 사용하는 타입 정의
     - 세그멘트 내 각 기능별 파일 내 타입은 해당 파일에서 정의 
   - 특정 기능을 담당하는 클래스
-  - ex) model.ts ,atom.ts, selectors.ts
+  - ex) type.ts, class.ts
 - lib: infra structural code
   - 슬라이스 내에서 사용되는 보조 기능.
   - utils
@@ -239,6 +239,7 @@ FSD에서는 다음으로 구성되어 있다.
   - 해당 세그멘트 내 다양한 타입이 있을 시 폴더 구조로 변경
 - api: backend api를 호출하기 위한 코드들
 - consts - 필요한 상수.
+- state - 전역 상태 정의 
 
 Index.ts
 
