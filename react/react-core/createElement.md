@@ -56,8 +56,13 @@ props?: Attributes & P | null,
 
 
 #### 매개변수
+
 - type:  type 인수는 유효한 React 컴포넌트여야 한다. 태그 이름 또는 React 컴포넌트가 올 수 있다.
 - props: props는 객체 또는 선택적 속성이다. React는 전달한 props와 일치하는 프로퍼티를 가진 엘레멘트를 생성한다. props 객체의 key와 ref 특수하기 때문에 생성한 element에서 props 프로퍼티로 사용할 수 없다. 대신 element.ref 또는 element.key로 사용가능 하다.
 - 선택사항: `...children`: 0개 이상의 자식 노드. React 엘리먼트, 문자열, 숫자, [포탈](https://ko.react.dev/reference/react-dom/createPortal), 빈 노드(`null`, `undefined`, `true`, `false`) 그리고 React 노드 배열을 포함한 모든 React 노드가 될 수 있다.
 
 #### 반환값
+
+createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 반환한다.
+
+- type: 전달받은 type
