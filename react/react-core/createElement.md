@@ -144,7 +144,9 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 - git
 	- Angular commit convention
 	- https://www.conventionalcommits.org/en/v1.0.0-beta.4/
-
+- 폴더 아키텍처
+	- FSD 차용 
+	- FSD를
 
 
 
