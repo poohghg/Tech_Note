@@ -138,7 +138,8 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 
 나머지
 
-- 현재 ci  빌드 test가 불가능한 상태여서 간단하게 husky 사용해서 stage commit에서 lint,tsc 검사만 하려고 합니다.(의견  필요)
+- 허스키
+	- 현재 ci  빌드 test가 불가능한 상태여서 간단하게 husky 사용해서 commit staged에서 lint,tsc 검사만 하려고 합니다.(의견  필요)
 - 린트,프리티어는 세팅만 해놓겠습니다. 필요한 설정 해주시면 감사하겠습니다.
 - git
 	- Angular commit convention
