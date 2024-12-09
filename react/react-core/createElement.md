@@ -54,7 +54,6 @@ props?: Attributes & P | null,
 
 ```
 
-
 #### 매개변수
 
 - type:  type 인수는 유효한 React 컴포넌트여야 한다. 태그 이름 또는 React 컴포넌트가 올 수 있다.
@@ -66,4 +65,4 @@ props?: Attributes & P | null,
 createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 반환한다.
 
 - type: 전달받은 type
-- props: ref와 key를 제외한 전달받은 props type이 type.defaultProps를 가지는 컴포넌트라면, 누락되거나, 정의되지 않은 props는 t
+- props: ref와 key를 제외한 전달받은 props type이 type.defaultProps를 가지는 컴포넌트라면, 누락되거나, 정의되지 않은 props는 type.defaulteProps 값을 가져온다.
