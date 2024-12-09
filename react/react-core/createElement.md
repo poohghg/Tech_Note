@@ -57,4 +57,4 @@ props?: Attributes & P | null,
 
 #### 매개변수
 - type:  type 인수는 유효한 React 컴포넌트여야 한다. 태그 이름 또는 React 컴포넌트가 올 수 있다.
-- props: props는 객체 또는 선택적 속성이다. Reac
+- props: props는 객체 또는 선택적 속성이다. React는 전달한 props와 일치하는 프로퍼티를 가진 엘레멘트를 생성한다. props 객체의 key와 ref 특수하기 때문에 생성한 element에서 사용할 수 없다.
