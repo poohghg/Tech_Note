@@ -6,5 +6,54 @@ const element = createElement(type, props, ...children)
 
 `type`, `prop`, `children`를 인수로 제공하고 `createElement`을 호출하여 React 엘리먼트를 생성
 
+``` ts
+// DOM Elements  
+// TODO: generalize this to everything in `keyof ReactHTML`, not just "input"  
+function createElement(  
+type: "input",  
+props?: InputHTMLAttributes<HTMLInputElement> & ClassAttributes<HTMLInputElement> | null,  
+...children: ReactNode[]): DetailedReactHTMLElement<InputHTMLAttributes<HTMLInputElement>, HTMLInputElement>;  
+
+function createElement<P extends HTMLAttributes<T>, T extends HTMLElement>(  
+type: keyof ReactHTML,  
+props?: ClassAttributes<T> & P | null,  
+...children: ReactNode[]): DetailedReactHTMLElement<P, T>;  
+
+function createElement<P extends SVGAttributes<T>, T extends SVGElement>(  
+type: keyof ReactSVG,  
+props?: ClassAttributes<T> & P | null,  
+...children: ReactNode[]): ReactSVGElement;  
+
+function createElement<P extends DOMAttributes<T>, T extends Element>(  
+type: string,  
+props?: ClassAttributes<T> & P | null,  
+...children: ReactNode[]): DOMElement<P, T>;  
+  
+// Custom components  
+  
+function createElement<P extends {}>(  
+type: FunctionComponent<P>,  
+props?: Attributes & P | null,  
+...children: ReactNode[]): FunctionComponentElement<P>;  
+
+function createElement<P extends {}>(  
+type: ClassType<P, ClassicComponent<P, ComponentState>, ClassicComponentClass<P>>,  
+props?: ClassAttributes<ClassicComponent<P, ComponentState>> & P | null,  
+...children: ReactNode[]): CElement<P, ClassicComponent<P, ComponentState>>;  
+
+function createElement<P extends {}, T extends Component<P, ComponentState>, C extends ComponentClass<P>>(  
+type: ClassType<P, T, C>,  
+props?: ClassAttributes<T> & P | null,  
+...children: ReactNode[]): CElement<P, T>;  
+
+function createElement<P extends {}>(  
+type: FunctionComponent<P> | ComponentClass<P> | string,  
+props?: Attributes & P | null,  
+...children: ReactNode[]): ReactElement<P>;
+
+
+```
+
+
 #### 매개변수
 - type:  type 인수는 유효한 React 컴포넌트여야 한다. 태그 이름 또는 React 컴포넌트가 올 수 있다.
