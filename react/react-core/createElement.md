@@ -116,7 +116,7 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 프로젝트 패키지 매니저
 
 - 노드 버전 관리 매니저 -[ volta node](https://volta.sh/)
-	- 프로젝트 별 node , 패키지 매니저 버전을 자동으로 지정 할 수 있어 편리해서 사용하려고 합니다.
+	- 프로젝트 별 node , 패키지 매니저 버전을 자동으로 지정 할 수 있어 편리해서 사용하려고 합니다.(의견  필요)
 - 패키지 매니저 관리 - pnpm
 
 개발 프레임워크
@@ -124,6 +124,7 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 - next - 15
 - react - 19.2 rc2
 - typescript - ^ 5
+- css - scss
 
 상태관리 라이브러리
 
@@ -135,7 +136,7 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 - [mockoon](https://mockoon.com/)
 	- cli,gui로 세팅이 가능하고 사용하기 쉬워서 세팅하려고 합니다.
 
-현재 ci test가 불가능한 상태여서 간다
+현재 ci test가 불가능한 상태여서 간단하게 husky 사용해서 stage commit에서 lint,tsc 검사만 하려고 합니다. 
 
 
 
