@@ -87,7 +87,7 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 - 사용자 컴포넌트를 렌더링하기위해선 태그를 반드시 대문자로 시작해야한다.
 - children의 경우 정적인 경우에만 여러 인수로 전달해야한다. 그렇지고 않고 매 렌더링마다 동적으로 변환다면 ReactNodeList 형태로 전달해주고 key를 설정해주어야 한다.
 
->  React 엘레먼트란?
+>  React 엘리먼트란?
 >  
 >  엘리먼트는 사용자 인터페이스의 일부에 대한 표현이다. . 예를 들어 `<Greeting name="Taylor" />`와 `createElement(Greeting, { name: 'Taylor' })`는 모두 다음과 같은 객체를 생성한다.
 
