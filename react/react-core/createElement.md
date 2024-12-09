@@ -121,7 +121,14 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 
 개발 프레임워크
 next - 15
-react - 19.2 a
+react - 19.2 rc2
+typescript - ^ 5
+
+상태관리 라이브러리
+전역 상태 - zustand
+서버 상태 - 
+
+
 
 
 
