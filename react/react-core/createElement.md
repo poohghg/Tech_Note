@@ -146,6 +146,7 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 	- https://www.conventionalcommits.org/en/v1.0.0-beta.4/
 - 폴더 아키텍처
 	- FSD 차용 
+	- FSD 폴더 구조는 정리해서 doc 문서화 해놓겠습니다. 확인 하시고 의견 주시면 감사하겠습니다.
 
 
 
