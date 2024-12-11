@@ -114,6 +114,8 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 
 
 
+바벨은 jsx 코드를 js코드로 변환한다.
+
 
 
 
