@@ -117,7 +117,8 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 바벨은 jsx 코드를 js코드로 변환한다.
 
 > **`runtime: 'automatic'`**  
-React 17+에서는 JSX가 `React.createElement`를 명시적으로 호출하지 않고 `jsx`, `jsxs` 함수를 사용합니다. 이 옵션을 활성화하면 `import React from 'react'`를 생략할 수 있습니다.
+> React 17+에서는 JSX가 `React.createElement`를 명시적으로 호출하지 않고 `jsx`, `jsxs` 함수를 사용합니다. 이 옵션을 활성화하면 `import React from 'react'`를 생략할 수 있습니다.
+
 
 
 
