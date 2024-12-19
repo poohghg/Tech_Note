@@ -35,8 +35,7 @@
               "title": "프로토타입"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +177,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8a58cc262714834c",
+  "active": "73b0895e3d2af523",
   "lastOpenFiles": [
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/프로토타입.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "리팩토링/캡슐화.md",
     "리팩토링/조건부 로직 간소화.md",
