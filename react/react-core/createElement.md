@@ -10,11 +10,6 @@ const element = createElement(type, props, ...children)
 > 
 > React 컴포넌트는 JSX라는 확장된 문법을 사용하여 마크업을 나타낸다.
 > 
-> 규칙
-> 1. 하나의 루트 엘리먼트로 반환하기
-> 2. 모든 태그는 닫아주기
-> 3. 대부분 캐멀 케이스로
->
 
 `type`, `prop`, `children`를 인수로 제공하고 `createElement`을 호출하여 React 엘리먼트를 생성
 
