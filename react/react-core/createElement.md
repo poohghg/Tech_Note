@@ -93,9 +93,7 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 
 	type: Greeting,  
 	props: {  
-	
 		name: 'Taylor'  
-	
 	},  
 	key: null,  
 	ref: null,  
