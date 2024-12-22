@@ -121,14 +121,11 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 
 `vite.config.ts` 파일은 Vite가 제공하는 **ESBuild의 설정을 래핑**하고, 이를 통해 JSX를 트랜스파일하는 과정을 제어할 수 있습니다. 따라서 **ESBuild와 관련된 설정**은 `vite.config.ts`의 `esbuild` 옵션에서 직접 처리하면 됩니다.
 
-
-- **`createDomNode` 함수**:
-    
-    - `element.type`이 `TEXT_ELEMENT`인 경우 텍스트 노드를 생성.
-    - 그렇지 않으면 해당 태그 이름(`div`, `span` 등)으로 DOM 요소를 생성.
-    - 자식 요소가 있는 경우 재귀적으로 DOM 트리를 생성.
+render 함수 구현
+- `element.type`이 `TEXT_ELEMENT`인 경우 텍스트 노드를 생성.
+- 그렇지 않으면 해당 태그 이름(`div`, `span` 등)으로 DOM 요소를 생성.
+- 자식 요소가 있는 경우 재귀적으로 DOM 트리를 생성.
 - **`updateDomProperties` 함수**:
-    
     - `children` 프로퍼티는 무시하고, 이벤트 리스너(`onClick`, `onChange` 등)와 일반 DOM 속성을 설정.
     - 일반 속성(`className`, `id` 등)은 DOM 노드에 직접 추가하거나, `setAttribute`를 통해 설정.
 - **`render` 함수**:
