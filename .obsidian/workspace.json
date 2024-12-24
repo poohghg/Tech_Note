@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/캡슐화.md",
+                "file": "javascript/자바스크립트 엔진 강의 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "캡슐화"
+              "title": "자바스크립트 엔진 강의 정리"
             }
           },
           {
@@ -179,6 +179,7 @@
   },
   "active": "73b0895e3d2af523",
   "lastOpenFiles": [
+    "리팩토링/캡슐화.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "react/react-core/createElement.md",
     "Pasted image 20241219154311.png",
@@ -186,7 +187,6 @@
     "Pasted image 20241219151628.png",
     "javascript/프로토타입.md",
     "리팩토링/코드의  나쁜 냄새.md",
-    "리팩토링/캡슐화.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/데이터 조직화.md",
     "프로그래밍/무제.md",
