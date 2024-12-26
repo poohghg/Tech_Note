@@ -104,10 +104,7 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 > 리액트 엘리먼트는 React가 컴포넌트를 렌더링하도록 지시하는 설명서와 비슷하다. App 컴포넌트에서 이 객체를 반환함으로써 React에게 다음 할 일을 지시할 수 있다.
 > 
 > 엘리먼트 생성 비용은 매우 저렴하므로 엘리먼트 생성을 최적화하거나 피하려고 노력할 필요가 없다.
-
-
-
-바벨은 jsx 코드를 js코드로 변환한다.
+#### 바벨은 jsx 코드를 js코드로 변환한다.
 
 > **`runtime: 'automatic'`**  
 > React 17+에서는 JSX가 `React.createElement`를 명시적으로 호출하지 않고 `jsx`, `jsxs` 함수를 사용합니다. 이 옵션을 활성화하면 `import React from 'react'`를 생략할 수 있습니다.
@@ -122,17 +119,4 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 `vite.config.ts` 파일은 Vite가 제공하는 **ESBuild의 설정을 래핑**하고, 이를 통해 JSX를 트랜스파일하는 과정을 제어할 수 있습니다. 따라서 **ESBuild와 관련된 설정**은 `vite.config.ts`의 `esbuild` 옵션에서 직접 처리하면 됩니다.
 
 
-- **`createDomNode` 함수**:
-    - `element.type`이 `TEXT_ELEMENT`인 경우 텍스트 노드를 생성.
-    - 그렇지 않으면 해당 태그 이름(`div`, `span` 등)으로 DOM 요소를 생성.
-    - 자식 요소가 있는 경우 재귀적으로 DOM 트리를 생성.
-- **`updateDomProperties` 함수**:
-    - `children` 프로퍼티는 무시하고, 이벤트 리스너(`onClick`, `onChange` 등)와 일반 DOM 속성을 설정.
-    - 일반 속성(`className`, `id` 등)은 DOM 노드에 직접 추가하거나, `setAttribute`를 통해 설정.
-- **`render` 함수**:
-    - 생성된 DOM 트리를 루트 컨테이너에 추가.
 
-
-- useState 함수 구현
-	- 모둘 변수를 클로저 형태로 구현
-	- 상태 업데이트 후 리랜더링 하는 방식이 궁금합니다. 이 부분에서 많이 막혀있습니다.
