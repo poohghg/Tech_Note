@@ -11,8 +11,10 @@
 			- 엘레멘트 타입,키,props을 비교하여 변경된 부분을 업데이트
 			-  **key** 는 부모 트리 내 자식 노드간 비교
 	- diff 함수는 재귀적으로 동작 변경된 props를 수정,삭제 하기위해
-
+- useEffect 훅 작성
+	- 인덱스로 effect로 저장
+		- 초
 - render 및 rerender 함수 변경
 	- render 함수시 현재 커밋될 Virtual DOM을 저장
 	- rerender 과정에서 Virtual DOM 트리구성 시 diff 알고리즘으로 변경될 부분만 업데이트 후 커밋 되도록 변경
-	- 커밋 후 runEffects useEffect)
+	- 커밋 후 runEffects(등록된 useEffect 콜백 함수) 실행되도록 적용
