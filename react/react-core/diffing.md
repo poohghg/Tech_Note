@@ -5,4 +5,5 @@
 
 
 - diff 알고리즘 구현
-	- 이전 Virtual DOM과 새로운 Virtual DOM의 변경된 부분만 업데이트 하도록 적
+	- 이전 Virtual DOM과 새로운 Virtual DOM의 변경된 부분만 업데이트 하도록 적용
+	- 
