@@ -13,8 +13,9 @@
 	- diff 함수는 재귀적으로 동작 변경된 props를 수정,삭제 하기위해
 - useEffect 훅 작성
 	- 인덱스로 effect로 저장
-		- 초
+		- 초기 effect시는 무조건 실행
+		- deps가 없거나, deps값이 변경되었을대 콜백이 실행되도록 콜백이벤트 관리 객체를 적용
 - render 및 rerender 함수 변경
 	- render 함수시 현재 커밋될 Virtual DOM을 저장
 	- rerender 과정에서 Virtual DOM 트리구성 시 diff 알고리즘으로 변경될 부분만 업데이트 후 커밋 되도록 변경
-	- 커밋 후 runEffects(등록된 useEffect 콜백 함수) 실행되도록 적용
+	- dom이 실제 트리에 커밋 후 runEffects(등록된 useEffect 콜백 함수) 실행되도록 적용
