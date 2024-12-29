@@ -14,4 +14,5 @@
 
 - render 및 rerender 함수 변경
 	- render 함수시 현재 커밋될 Virtual DOM을 저장
-	- rerender
+	- rerender 과정에서 Virtual DOM 트리구성 시 diff 알고리즘으로 변경될 부분만 업데이트 후 커밋 되도록 변경
+	- 커밋 후 runEffects useEffect)
