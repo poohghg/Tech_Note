@@ -114,8 +114,11 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 - **React 17 이상**: Babel과 `runtime: 'automatic'` 설정을 사용하면 더 깔끔하고 효율적인 JSX 트랜스폼이 가능합니다.
 - ESBuild는 간단한 환경에 적합하고, Babel은 복잡하거나 유연한 설정이 필요한 프로젝트에 적합합니다.
 
-
 `vite.config.ts` 파일은 Vite가 제공하는 **ESBuild의 설정을 래핑**하고, 이를 통해 JSX를 트랜스파일하는 과정을 제어할 수 있습니다. 따라서 **ESBuild와 관련된 설정**은 `vite.config.ts`의 `esbuild` 옵션에서 직접 처리하면 됩니다.
 
+```ts
+export default defineConfig({ plugins: [ tsconfigPaths(), ], esbuild: { jsx: 'transform', jsxDev: false, jsxImportSource: '@/libs/jsx', jsxInject: `import { createElement } from '@/libs/jsx/jsx-runtime'`, jsxFactory: 'createElement', }, });
 
+
+```
 
