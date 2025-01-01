@@ -119,6 +119,10 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 ```ts
 export default defineConfig({ plugins: [ tsconfigPaths(), ], esbuild: { jsx: 'transform', jsxDev: false, jsxImportSource: '@/libs/jsx', jsxInject: `import { createElement } from '@/libs/jsx/jsx-runtime'`, jsxFactory: 'createElement', }, });
 
-
 ```
 
+- [https://legacy.reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html](https://legacy.reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
+- `esbuild` 옵션에서 `jsx`를 `'transform'`으로 설정하여 JSX를 트랜스파일링합니다.
+- `jsxImportSource`를 설정하여 사용자 정의 JSX 런타임을 지정합니다.
+- `jsxInject`를 통해 모든 JSX 파일에 자동으로 `import { jsx } from '@/libs/jsx/jsx-runtime'`를 추가합니다.
+- `jsxFactory`를 `'jsx.createElement'`으로 설정하여 JSX가 `jsx.createElement` 함수로 변환되도록 합니다.
