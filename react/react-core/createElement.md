@@ -126,3 +126,62 @@ export default defineConfig({ plugins: [ tsconfigPaths(), ], esbuild: { jsx: 'tr
 - `jsxImportSource`를 설정하여 사용자 정의 JSX 런타임을 지정합니다.
 - `jsxInject`를 통해 모든 JSX 파일에 자동으로 `import { jsx } from '@/libs/jsx/jsx-runtime'`를 추가합니다.
 - `jsxFactory`를 `'jsx.createElement'`으로 설정하여 JSX가 `jsx.createElement` 함수로 변환되도록 합니다.
+
+- Vite와 Babel을 사용하여 개발 환경을 어떻게 구축하셨나요?
+    - Vite를 선택한 이유와 그 장점은 무엇인가요?
+        **Webpack** ↔ **Vite**는 **빠른 개발 서버**와 **효율적인 번들링**을 제공하는 도구로, 특히 모듈 핫 리로딩(HMR)이 매우 빠릅니다. 다음과 같은 이유로 선택했습니다:
+        - **ES 모듈 기반 빌드**: Vite는 최신 브라우저의 ES 모듈 지원을 활용하여 빠르게 파일을 제공.
+        - **빠른 스타트업 시간**: Webpack과 비교하여 초기 번들링 시간이 훨씬 짧음.
+        - **플러그인 에코시스템**: Rollup 기반으로 확장성이 뛰어남.
+- JSX란 무엇이며, 왜 React에서 사용하는지 설명해 주세요.
+    
+    - 의견
+        
+        **JSX란 무엇인가요?**
+        
+        JSX(JavaScript XML)는 **JavaScript의 확장 문법**으로, UI를 선언적으로 작성할 수 있게 해줍니다. HTML과 유사한 문법으로 작성할 수 있어 직관적이고 가독성이 높습니다.
+        
+        **React에서 사용하는 이유**
+        
+        - **가독성 향상**: UI 구조를 한눈에 이해 가능.
+        - **컴포넌트 기반 개발**: HTML-like 코드를 JavaScript에서 직접 작성 가능.
+        - **Virtual DOM과의 통합**: JSX는 내부적으로 React의 createElement 함수로 변환되어 Virtual DOM 객체를 생성합니다.
+    - JSX는 어떻게 자바스크립트 코드로 변환되나요?
+        
+        JSX는 Babel과 같은 트랜스파일러를 통해 **React의** createElement **함수 호출**로 변환됩니다.
+        
+- 프로젝트에서 Babel을 어떻게 설정하여 JSX를 트랜스파일링했나요? Babel이란 것은 무엇인가요?
+    
+    - **Babel이란?**
+        - Babel은 **JavaScript 트랜스파일러**로, 최신 JavaScript 코드를 오래된 브라우저에서도 실행할 수 있도록 트랜스파일링합니다.
+    - 설정하신 옵션들의 역할은 무엇인가요?
+        - jsx 문법을 js 코드로 변환하는 역할
+- `createElement` 함수는 어떻게 구현하셨나요?
+    
+    ```jsx
+    function createElement(type, props, ...children) {
+      return {
+        type,
+        props: {
+          ...props,
+          children: children.map(child =>
+            typeof child === "object" ? child : { type: "TEXT_ELEMENT", props: { nodeValue: child, children: [] } }
+          )
+        }
+      };
+    }
+    ```
+    
+- Virtual DOM이란 무엇이며, 실제 DOM과의 차이점은 무엇인가요?
+    
+    - Virtual DOM은 **메모리 내에서 가상으로 생성되는 DOM 객체 트리**입니다. UI 상태를 추적하고 업데이트를 효율적으로 수행하기 위해 사용됩니다.
+    - **Virtual DOM**: 메모리에서 동작하며, 업데이트 시 빠른 비교(diffing) 후 실제 DOM에 최소한의 변경을 적용. → React Batching, useState의 setState를 이용해서 상태를 변경할 때 한번에 모아서 업데이트 하는 것
+    - **실제 DOM**: 브라우저가 렌더링하는 실제 UI 구조. DOM 업데이트는 상대적으로 느림.
+    - 브라우저 렌더링
+        - 레이아웃 → 페인팅
+        - **reflow** → **repaint**
+- JSX 코드가 어떻게 Virtual DOM 객체로 변환되는지 설명해 주세요.
+- Virtual DOM과 실제 DOM의 차이점을 설명해 주세요. 프레임워크에서 Virtual DOM을 사용하는 이유는 무엇인가요?
+
+    - **성능 최적화**: 전체 DOM 업데이트 대신 필요한 부분만 변경.
+    - **추상화**: 개발자는 DOM 조작 대신 React의 선언적 UI를 작성
