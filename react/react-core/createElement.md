@@ -109,7 +109,6 @@ createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 �
 > **`runtime: 'automatic'`**  
 > React 17+에서는 JSX가 `React.createElement`를 명시적으로 호출하지 않고 `jsx`, `jsxs` 함수를 사용합니다. 이 옵션을 활성화하면 `import React from 'react'`를 생략할 수 있습니다.
 
-
 - **Babel**과 **ESBuild**는 모두 JSX를 컴파일하여 React 코드가 동작할 수 있도록 준비합니다.
 - **React 16 이하**: `React.createElement` 스타일을 지원하는 ESBuild 설정을 사용할 수 있습니다.
 - **React 17 이상**: Babel과 `runtime: 'automatic'` 설정을 사용하면 더 깔끔하고 효율적인 JSX 트랜스폼이 가능합니다.
