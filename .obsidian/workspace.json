@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 종류.md",
+                "file": "javascript/null vs undefined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 종류"
+              "title": "null vs undefined"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "6f926c173292726e",
   "lastOpenFiles": [
+    "타입스크립트/타입 종류.md",
     "javascript/null vs undefined.md",
     "javascript/array 와 set.md",
     "javascript/화살표 함수.md",
@@ -185,7 +186,6 @@
     "프로그래밍/FSD.md",
     "디자인 패턴/디자인 패턴 공부 목록.md",
     "Pasted image 20241227165556.png",
-    "타입스크립트/타입 종류.md",
     "react/react.md",
     "react/react.dev.md",
     "react/디자인 패턴.md",
