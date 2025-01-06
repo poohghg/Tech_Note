@@ -17,5 +17,6 @@
 		- 전송 계층 - TCP, UDP
 		- 인터넷 계층 - IP
 		- 네트워크 인터페이스 계층
+![[Pasted image 20250106194347.png]] 
 - PORT
 - DNS
