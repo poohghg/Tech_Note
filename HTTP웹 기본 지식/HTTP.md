@@ -28,6 +28,10 @@
 			- 검증 정보 등
 		- IP 패킷 생성, TCP 데이터 포함
 			- 출발지 IP, 목적지 IP
+
+![[Pasted image 20250106195241.png]]
+
+
 ![[Pasted image 20250106194347.png]] 
 - PORT
 - DNS
