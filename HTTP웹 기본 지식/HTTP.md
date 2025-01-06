@@ -31,6 +31,8 @@
 	- 전송 제어 프로토콜(Transmission Control Protocol) 특징
 		- 연결 지향 - TCP 3 way handshake(가상 연결)
 			- 연결 후 메시지를 전달
+			- TCP 3 way handshake의 연결 과정
+				- SYN - 싱크로나이저라로 씬이라는 메시지를 본
 		- 데이터 전달 보증
 		- 순서 보장
 		- 신뢰할 수 있는 프로토콜
