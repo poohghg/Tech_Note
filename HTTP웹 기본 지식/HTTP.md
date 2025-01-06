@@ -75,6 +75,11 @@
 		3. DNS 서버가 클라이언트에 실제 IP를 응답
 		4. 클라이언트가 실제 서버 IP에 요청
 
+#### 브라우저에서 서버에 자원 요청 과정
+
+
+
+
 > 브라우저의 핵심 기능은 필요한 리소스(HTML,CSS,자바스크립트,이미지,폰트)등의 정적 파일 또는 동적으로 생성한 데이터를 서버에 요청하고 응답 받아 브라우저에 시각적으로 렌더링하는 것이다.
 > 
   브라우저의 주소창에 URL 입력 -> 호스트 이름이 DNS를 통해 IP주소로 변환 -> 이 주소를 갖는 서버에게 요청을 전송
@@ -83,10 +88,7 @@
 > 3. **브라우저는 [HTTP](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-http) [프로토콜](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-프로토콜)을 사용하여 요청 메시지를 생성하고 HTTP 요청 메시지는 [TCP](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-tcp)/[IP](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-ip) 프로토콜을 사용하여 서버로 전송됩니다.**
 > 4. **서버는 [response](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-response) 메시지를 생성하여 다시 브라우저에게 데이터를 전송합니다.**
 > 5. **브라우저는 response를 받아 [파싱](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-파싱)하여 화면에 [렌더링](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-렌더링)합니다.**
->
-> 참조
->
-> https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md
+
 
 - DNS(**Domain Name System**): 도메인 이름 시스템은 사용자가 입력한 도메인을 머신이 읽을 수 있는 IP주소로 변환하는 시스템이다.
 - URL(Uniform Resource Locator): URL은 통합 자원 지시자로 인터넷의 리소스를 가르키는 표준명칭으로 서버의 자원을 요청할때 사용된다.URL을 통해 인터넷 상의 모든 리소스를 요청할 수 있으며, HTTP, FTP 등의 자원 요청도 가능합니다.

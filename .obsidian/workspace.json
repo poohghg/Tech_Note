@@ -35,7 +35,8 @@
               "title": "자바스크립트 전체 정리본"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +178,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f926c173292726e",
+  "active": "26dbf37093322303",
   "lastOpenFiles": [
-    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "HTTP웹 기본 지식/HTTP.md",
+    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "프로그래밍/git.md",
     "Pasted image 20250106195302.png",
     "Pasted image 20250106195241.png",
