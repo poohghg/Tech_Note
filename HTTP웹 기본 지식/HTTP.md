@@ -74,3 +74,24 @@
 		2. DNS 서버에 요청
 		3. DNS 서버가 클라이언트에 실제 IP를 응답
 		4. 클라이언트가 실제 서버 IP에 요청
+
+> 브라우저의 핵심 기능은 필요한 리소스(HTML,CSS,자바스크립트,이미지,폰트)등의 정적 파일 또는 동적으로 생성한 데이터를 서버에 요청하고 응답 받아 브라우저에 시각적으로 렌더링하는 것이다.
+
+- 브라우저의 주소창에 URL 입력 -> 호스트 이름이 DNS를 통해 IP주소로 변환 -> 이 주소를 갖는 서버에게 요청을 전송
+
+> 1. **사용자가 웹 브라우저를 통해 google.com 을 입력하면 URL 주소 중 도메인 네임 부분을 [DNS](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-dns) 서버에서 검색합니다.**
+> 2. **DNS 서버에서 해당 도메인 네임에 해당하는 IP 주소를 찾아 사용자가 입력한 [URL](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-url) 정보와 함께 전달합니다.**
+> 3. **브라우저는 [HTTP](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-http) [프로토콜](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-프로토콜)을 사용하여 요청 메시지를 생성하고 HTTP 요청 메시지는 [TCP](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-tcp)/[IP](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-ip) 프로토콜을 사용하여 서버로 전송됩니다.**
+> 4. **서버는 [response](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-response) 메시지를 생성하여 다시 브라우저에게 데이터를 전송합니다.**
+> 5. **브라우저는 response를 받아 [파싱](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-파싱)하여 화면에 [렌더링](https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md#gear-렌더링)합니다.**
+>
+> 참조
+>
+> https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/what-happens-when-type-google.md
+
+- DNS(**Domain Name System**): 도메인 이름 시스템은 사용자가 입력한 도메인을 머신이 읽을 수 있는 IP주소로 변환하는 시스템이다.
+- URL(Uniform Resource Locator): URL은 통합 자원 지시자로 인터넷의 리소스를 가르키는 표준명칭으로 서버의 자원을 요청할때 사용된다.URL을 통해 인터넷 상의 모든 리소스를 요청할 수 있으며, HTTP, FTP 등의 자원 요청도 가능합니다.
+- HTTP(HyperText Transfer Protocol): HTTP는 TCP기반의 클라이언트와 서버 사이에 이루어지는 요청/응답 프로토콜이다.HTTP는 Text Protocol로 사람이 쉽게 읽고 쓸 수 있습니다. 프로토콜 설계상 클라이언트가 요청을 보내면 반드시 응답을 받아야 합니다. 응답을 받아야 다음 request를 보낼 수 있습니다.
+- TCP:TCP (**T**ransmission **C**ontrol **P**rotocol)은 두 개의 호스트를 연결하고 데이트 스트림을 교환하게 해주는 중요한 네트워크 프로토콜이다. TCP는 데이터 전송을 제어하고 데이터를 어떻게 보낼지, 어떻게 맞출지를 정한다.또한 데이터와 패킷이 보내진 순선대로 전달 하는 것을 보장해준다.신뢰성과 연결성을 책임지기 위한 프로토콜이며, 호스트와 호스트간의 데이터 전송은 IP(인터넷 계층 프로토콜)에 의지하면서 동시에 신뢰성 있는 전송에 대해서는 TCP가 책임지는 구조입니다.
+
+
