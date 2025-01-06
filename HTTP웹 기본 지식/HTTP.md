@@ -67,3 +67,5 @@
 		- HTTPS - 443
 - DNS
 	- IP는 변경될 수 있다.
+	- DNS(Domain Name System)
+		- 도메인 명을 IP 주소로 변환
