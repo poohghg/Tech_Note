@@ -21,7 +21,7 @@
 		- 프로그램이 메시지 생성
 		- SOCKET 라이브러리를 통해 전달
 		- TCP 정보 생성, 메시지 데이터 포함
-		- IP 패킷 생성, TCP epdl
+		- IP 패킷 생성, TCP 데이터 포함
 ![[Pasted image 20250106194347.png]] 
 - PORT
 - DNS
