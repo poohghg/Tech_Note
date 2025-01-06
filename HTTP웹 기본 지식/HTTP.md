@@ -28,8 +28,11 @@
 			- 검증 정보 등
 		- IP 패킷 생성, TCP 데이터 포함
 			- 출발지 IP, 목적지 IP
-	- 특징
-		- 전송 제어 프로토콜(Transmission Control Protocol)
+	- 전송 제어 프로토콜(Transmission Control Protocol) 특징
+		- 연결 지향
+		- 데이터 전달 보등
+		- 순서 보장
+		- 신뢰할 수 있는 프로토콜
 ![[Pasted image 20250106194347.png]] 
 
 ![[Pasted image 20250106195302.png]]
