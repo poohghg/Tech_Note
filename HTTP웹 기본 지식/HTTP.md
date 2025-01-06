@@ -48,8 +48,5 @@
 ![[Pasted image 20250106194347.png]] 
 
 ![[Pasted image 20250106195302.png]]
-
-- 
-- 
 - PORT
 - DNS
