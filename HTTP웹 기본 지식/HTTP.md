@@ -45,6 +45,8 @@
 			- 패킷의 순서를 보장한다.
 		- 신뢰할 수 있는 프로토콜
 		- 현재는 대부분 TCP 사용
+	- 사용자 데이터그램 프로토콜(User Datagram Protocol)의 특징
+		- 하얀 도화지에 비유
 ![[Pasted image 20250106194347.png]] 
 
 ![[Pasted image 20250106195302.png]]
