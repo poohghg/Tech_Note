@@ -69,3 +69,7 @@
 	- IP는 변경될 수 있다.
 	- DNS(Domain Name System)
 		- 도메인 명을 IP 주소로 변환
+	- DNS 사용
+		1. 도메인 명 입력
+		2. DNS 서버에 요청
+		3. DNS 서버가 실제 IP
