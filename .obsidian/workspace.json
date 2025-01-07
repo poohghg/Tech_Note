@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP웹 기본 지식/HTTP.md",
+                "file": "타입스크립트/타입 메모.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "타입 메모"
             }
           },
           {
@@ -179,9 +179,9 @@
   },
   "active": "1e21ee80a4b77de0",
   "lastOpenFiles": [
-    "Pasted image 20250107222057.png",
-    "최적화/브라우더 렌더링 최적화.md",
     "HTTP웹 기본 지식/HTTP.md",
+    "최적화/브라우더 렌더링 최적화.md",
+    "Pasted image 20250107222057.png",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "Pasted image 20250107210910.png",
     "Pasted image 20250107210858.png",
@@ -215,7 +215,6 @@
     "Pasted image 20250103153108.png",
     "Pasted image 20241227165556.png",
     "Pasted image 20241226182335.png",
-    "Pasted image 20241219154311.png",
     "react/react-core",
     "디자인 패턴",
     "javascript/무제 폴더",
