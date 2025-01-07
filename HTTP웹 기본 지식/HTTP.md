@@ -76,6 +76,9 @@
 		4. 클라이언트가 실제 서버 IP에 요청
 ---
 ### URI와 웹 브라우저 요청 흐름
+
+![[Pasted image 20250107210910.png]]
+
 #### URI(Uniform Resource Identifier)
 
 **URI**(Uniform Resource Identifier)는 하나의 리소스를 가리키는 문자열이다.
