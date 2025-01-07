@@ -86,6 +86,11 @@
 - URL: 리소스의 위치/주소
 - URN: 리소스의 이름
 
+##### URL 단어의 뜻
+- Uniform: 리소스를 식별하는 통일된 바 
+- Resource 
+- Identifier
+
 #### URL(Uniform Resource Locator)
 
 URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으로 각각의 유효한 URL은 고유한 리소스를 가리킨다. 이러한 리소스는 HTML 페이지, CSS 문서, 이미지 등이 될 수 있다. URL로 표시되는 리소스와 URL 자체는 웹 서버에서 처리 된다.
