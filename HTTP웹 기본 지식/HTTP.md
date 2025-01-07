@@ -86,10 +86,10 @@
 - URL: 리소스의 위치/주소
 - URN: 리소스의 이름
 
-##### URL 단어의 뜻
-- Uniform: 리소스를 식별하는 통일된 바 
-- Resource 
-- Identifier
+##### URI 단어의 뜻
+- Uniform: 리소스를 식별하는 통일된 방식 
+- Resource: 자원, URI로 식별할 수 있는 모든 것(제한 없음)
+- Identifier: 다른 항목과 구별하는데 필요한 정보
 
 #### URL(Uniform Resource Locator)
 
