@@ -76,7 +76,7 @@
 		4. 클라이언트가 실제 서버 IP에 요청
 ---
 ### URI와 웹 브라우저 요청 흐름
-#### URI(Uniform Resource Locator)
+#### URI(Uniform Resource Identifier)
 
 **URI**(Uniform Resource Identifier)는 하나의 리소스를 가리키는 문자열이다.
 가장 흔한 URI는 URL로, 웹 상에서의 위치로 리소스를 식별한다. 반면, URN은 주어진 이름공간 안의 이름으로 리소스를 식별한다.
