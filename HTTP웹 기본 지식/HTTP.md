@@ -75,9 +75,17 @@
 		3. DNS 서버가 클라이언트에 실제 IP를 응답
 		4. 클라이언트가 실제 서버 IP에 요청
 ---
-### URL(Uniform Resource Locator)
+### URI(Uniform Resource Locator)
+
+#### URI
+
+**URI**(Uniform Resource Identifier)는 하나의 리소스를 가리키는 문자열입니다.
+갖
 
 
+
+
+URL은 인터넷에서 웹 페이지, 이미지, 비디오 등 리소싀 
 
 
 
