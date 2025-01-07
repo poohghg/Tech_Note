@@ -171,5 +171,7 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 > 
 ---
 
+### HTTP(Hyper Text Transfer Protocol)
 
-
+- HTTP 메시지에 모든 것을 전송
+- HTML,TEXT,이미지,음성,
