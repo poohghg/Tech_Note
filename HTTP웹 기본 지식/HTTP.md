@@ -174,4 +174,7 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 ### HTTP(Hyper Text Transfer Protocol)
 
 - HTTP 메시지에 모든 것을 전송
-- HTML,TEXT,이미지,음성,
+- HTML, TEXT, 이미지, 음성, 영상, 파일 등
+- JSON,XML (API)
+- 거의 모든 형태의 데이터 전송 가능
+- 서버간에 데이터 전송 가능
