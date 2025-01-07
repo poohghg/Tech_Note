@@ -141,6 +141,7 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 1. 웹 브라우저(클라이언트)가 HTTP 메시지 생성
 	- 대략적인 메시지 형태는 아래와 같다
 	- GET / search?q=hello HTTP/1.1 HOST:www.google.com
+ 2. 소켓 라이브러리를 통해 OS 계층 TCP/IP 계층에 메시지
 
 
 
