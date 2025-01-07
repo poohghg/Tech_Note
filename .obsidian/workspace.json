@@ -35,8 +35,7 @@
               "title": "브라우더 렌더링 최적화"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -177,8 +177,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f7e9d3b9dc1a55d2",
+  "active": "1e21ee80a4b77de0",
   "lastOpenFiles": [
+    "최적화/브라우더 렌더링 최적화.md",
     "HTTP웹 기본 지식/HTTP.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "Pasted image 20250107210910.png",
@@ -199,7 +200,6 @@
     "프로그래밍/클린코드의 이해.md",
     "프로그래밍/무제.md",
     "HTTP웹 기본 지식",
-    "최적화/브라우더 렌더링 최적화.md",
     "javascript/array 와 set.md",
     "javascript/클로저.md",
     "react/react-core/render.md",
