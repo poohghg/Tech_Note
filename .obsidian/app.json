@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "img",
-  "useMarkdownLinks": false,
-  "showUnsupportedFiles": false
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }

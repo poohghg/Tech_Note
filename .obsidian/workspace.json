@@ -89,8 +89,7 @@
               "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "명령어/이미지 파일 마크다운 링크로 변경.md",
+                "file": "HTTP웹 기본 지식/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "이미지 파일 마크다운 링크로 변경의 백링크"
+              "title": "HTTP의 백링크"
             }
           },
           {
@@ -231,10 +230,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8bc02661dcf7f99c",
+  "active": "d43dd8627aebd2df",
   "lastOpenFiles": [
-    "HTTP웹 기본 지식/HTTP.md",
+    "img/Pasted image 20250108183921.png",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
+    "img/Pasted image 20250108183856.png",
+    "HTTP웹 기본 지식/HTTP.md",
     "명령어",
     "img/Pasted image 20250108183318.png",
     "img/Pasted image 20250108183104.png",
@@ -249,7 +250,6 @@
     "img/Pasted image 20250107222057.png",
     "img/Pasted image 20250108182050.png",
     "img/Pasted image 20250108181525.png",
-    "img/Pasted image 20250108174131.png",
     "img",
     "플러그인.md",
     "무제 파일.canvas",
@@ -271,7 +271,6 @@
     "디자인 패턴/디자인 패턴 공부 목록.md",
     "react/react-core/render.md",
     "react/react-core/diffing.md",
-    "react/react-core/createElement.md",
     "HTTP웹 기본 지식",
     "react/react-core",
     "디자인 패턴",
