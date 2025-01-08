@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "94210aab936901a7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Pasted image 20250107210910.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250107210910"
+            }
+          },
+          {
             "id": "1308f1209b4ab782",
             "type": "leaf",
             "state": {
@@ -221,6 +233,8 @@
   },
   "active": "8bc02661dcf7f99c",
   "lastOpenFiles": [
+    "img/Pasted image 20250107210910.png",
+    "HTTP웹 기본 지식/HTTP.md",
     "img/Pasted image 20241012132749.png",
     "react-uqery/정리.md",
     "recoil/recoil.md",
@@ -229,7 +243,6 @@
     "img/Pasted image 20250108182319.png",
     "img/Pasted image 20241030144834.png",
     "img/Pasted image 20250107222057.png",
-    "HTTP웹 기본 지식/HTTP.md",
     "img/Pasted image 20250108182050.png",
     "img/Pasted image 20250108181525.png",
     "img/Pasted image 20250108174131.png",
