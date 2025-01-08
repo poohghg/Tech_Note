@@ -215,4 +215,4 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 ![Pasted image 20250108183104.png](../img/Pasted%20image%2020250108183104.png)
 
 
-![[../img/Pasted image 20250108183318.png|Pasted image 20250108183318.png]]
+![Pasted image 20250108183318.png](../img/Pasted%20image%2020250108183318.png)
