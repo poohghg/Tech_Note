@@ -37,7 +37,7 @@ undefined은 변수가 초기화 되지 않았거나, 객체의 속성이 존재
 반면 null은 개발자가 의도적으로 값이 없음을 할당한 경우에 사용 되는 값으로, 이때의 변수는 빈 객체를 가르키는 객체포인터 이기 때문에 주소값을 나중에라도 받기 위해 크기가 있다.
 
 
-```
+``` js
 typeof null; // "object" (하위호환 유지를 위해 "null"이 아님)
 typeof undefined; // "undefined"
 null === undefined; // false
