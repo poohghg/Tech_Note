@@ -11,12 +11,14 @@
             "id": "d43dd8627aebd2df",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250107210646.png"
+                "file": "HTTP웹 기본 지식/HTTP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250107210646"
+              "icon": "lucide-file",
+              "title": "HTTP"
             }
           }
         ]
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20250107210646.png",
+                "file": "HTTP웹 기본 지식/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pasted image 20250107210646의 백링크"
+              "title": "HTTP의 백링크"
             }
           },
           {
@@ -162,6 +164,7 @@
   },
   "active": "d43dd8627aebd2df",
   "lastOpenFiles": [
+    "Pasted image 20250107210646.png",
     "HTTP웹 기본 지식/HTTP.md",
     "Pasted image 20250108174311.png",
     "Pasted image 20250108174131.png",
@@ -195,7 +198,6 @@
     "Pasted image 20250107222057.png",
     "Pasted image 20250107210910.png",
     "Pasted image 20250107210858.png",
-    "Pasted image 20250107210646.png",
     "Pasted image 20250106195302.png",
     "Pasted image 20250106195241.png",
     "HTTP웹 기본 지식",
