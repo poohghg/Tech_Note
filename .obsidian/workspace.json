@@ -47,7 +47,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20250108174131.png"
+                "file": "img/Pasted image 20250108174131.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20250108174131"
@@ -206,13 +206,15 @@
   },
   "active": "d43dd8627aebd2df",
   "lastOpenFiles": [
-    "Pasted image 20250108181525.png",
-    "Pasted image 20250108181149.png",
+    "recoil/recoil.md",
+    "img/Pasted image 20250108181525.png",
+    "img/Pasted image 20250108174131.png",
+    "img",
     "HTTP웹 기본 지식/HTTP.md",
-    "Pasted image 20250108174131.png",
-    "Pasted image 20250107210646.png",
-    "Pasted image 20250108174311.png",
-    "Pasted image 20250108174059.png",
+    "img/Pasted image 20250108181149.png",
+    "img/Pasted image 20250107210646.png",
+    "img/Pasted image 20250108174311.png",
+    "img/Pasted image 20250108174059.png",
     "README.md",
     "2025-01-08.md",
     "플러그인.md",
@@ -227,22 +229,20 @@
     "javascript/화살표 함수.md",
     "javascript/array 와 set.md",
     "javascript/null vs undefined.md",
-    "Pasted image 20241012132749.png",
+    "img/Pasted image 20241012132749.png",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/데이터 조직화.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "리팩토링/캡슐화.md",
     "디자인 패턴/디자인 패턴 공부 목록.md",
-    "recoil/recoil.md",
     "react/react-core/render.md",
     "react/react-core/diffing.md",
     "react/react-core/createElement.md",
     "react/디자인 패턴.md",
-    "Pasted image 20250107222057.png",
-    "Pasted image 20250107210910.png",
-    "Pasted image 20250107210858.png",
-    "Pasted image 20250106195302.png",
+    "img/Pasted image 20250107222057.png",
+    "img/Pasted image 20250107210910.png",
+    "img/Pasted image 20250107210858.png",
     "HTTP웹 기본 지식",
     "react/react-core",
     "디자인 패턴",
@@ -252,7 +252,6 @@
     "Users",
     "javascript/이전 자료",
     "프로그래밍",
-    "타입스크립트",
     "react/무제 파일.canvas"
   ]
 }
