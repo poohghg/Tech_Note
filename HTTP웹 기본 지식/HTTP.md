@@ -210,4 +210,4 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 ![[../Pasted image 20250108174059.png|Pasted image 20250108174059.png]]
 ![[../Pasted image 20250108174131.png|Pasted image 20250108174131.png]]
 
-![[../Pasted image 20250108174311.png|Pasted image 20250108174311.png]]
+![img](../Pasted image 20250108174311.png|Pasted image 20250108174311.png)
