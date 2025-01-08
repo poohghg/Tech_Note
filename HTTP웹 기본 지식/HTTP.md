@@ -79,7 +79,7 @@
 ---
 ### URI와 웹 브라우저 요청 흐름
 
-![[../Pasted image 20250107210910.png|Pasted image 20250107210910.png]]
+![[../Pasted image 20250107210910.png]]
 
 #### URI(Uniform Resource Identifier)
 
