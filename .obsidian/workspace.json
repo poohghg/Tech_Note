@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "8b2fd60513b1e05a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250108174131.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250108174131"
+            }
+          },
+          {
             "id": "7d1ee18ae3d114ac",
             "type": "leaf",
             "state": {
@@ -174,10 +186,10 @@
   },
   "active": "d43dd8627aebd2df",
   "lastOpenFiles": [
+    "Pasted image 20250108174131.png",
     "HTTP웹 기본 지식/HTTP.md",
     "Pasted image 20250107210646.png",
     "Pasted image 20250108174311.png",
-    "Pasted image 20250108174131.png",
     "Pasted image 20250108174059.png",
     "README.md",
     "2025-01-08.md",
