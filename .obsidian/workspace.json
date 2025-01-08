@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/scss.md",
+                "file": "2025-01-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scss"
-            }
-          },
-          {
-            "id": "f7e9d3b9dc1a55d2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "2025-01-08"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +73,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,11 +162,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f7e9d3b9dc1a55d2",
+  "active": "1e21ee80a4b77de0",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "2025-01-08.md",
+    "css/scss.md",
+    "homeObject.md",
     "HTTP웹 기본 지식/HTTP.md",
     "최적화/브라우더 렌더링 최적화.md",
-    "css/scss.md",
     "javascript/모던 자바스크립트 심화.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/클로저.md",
@@ -200,9 +191,6 @@
     "react/디자인 패턴.md",
     "react/react.md",
     "알고리즘/그리디.md",
-    "next.js/next 에러.md",
-    "next.js/next14.md",
-    "프로젝트 설정 참고자료/참고.md",
     "Pasted image 20250107222057.png",
     "Pasted image 20250107210910.png",
     "Pasted image 20250107210858.png",
@@ -219,7 +207,6 @@
     "Users/khg/Library",
     "Users/khg",
     "Users",
-    "무제 파일.canvas",
     "javascript/이전 자료",
     "프로그래밍",
     "타입스크립트",
