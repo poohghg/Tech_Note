@@ -11,14 +11,12 @@
             "id": "d43dd8627aebd2df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "HTTP웹 기본 지식/HTTP.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250107210646.png"
               },
-              "icon": "lucide-file",
-              "title": "HTTP"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250107210646"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP웹 기본 지식/HTTP.md",
+                "file": "Pasted image 20250107210646.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "HTTP의 백링크"
+              "title": "Pasted image 20250107210646의 백링크"
             }
           },
           {
@@ -164,6 +162,8 @@
   },
   "active": "d43dd8627aebd2df",
   "lastOpenFiles": [
+    "HTTP웹 기본 지식/HTTP.md",
+    "Pasted image 20250108174311.png",
     "Pasted image 20250108174131.png",
     "Pasted image 20250108174059.png",
     "README.md",
@@ -172,7 +172,6 @@
     "무제 파일.canvas",
     "homeObject.md",
     "css/scss.md",
-    "HTTP웹 기본 지식/HTTP.md",
     "최적화/브라우더 렌더링 최적화.md",
     "javascript/모던 자바스크립트 심화.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
@@ -199,9 +198,7 @@
     "Pasted image 20250107210646.png",
     "Pasted image 20250106195302.png",
     "Pasted image 20250106195241.png",
-    "Pasted image 20250106194347.png",
     "HTTP웹 기본 지식",
-    "Pasted image 20250103153108.png",
     "react/react-core",
     "디자인 패턴",
     "javascript/무제 폴더",
