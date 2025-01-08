@@ -22,6 +22,26 @@
             }
           },
           {
+            "id": "1308f1209b4ab782",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "f325a45d76f6320d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
             "id": "8b2fd60513b1e05a",
             "type": "leaf",
             "state": {
@@ -186,8 +206,8 @@
   },
   "active": "d43dd8627aebd2df",
   "lastOpenFiles": [
-    "Pasted image 20250108174131.png",
     "HTTP웹 기본 지식/HTTP.md",
+    "Pasted image 20250108174131.png",
     "Pasted image 20250107210646.png",
     "Pasted image 20250108174311.png",
     "Pasted image 20250108174059.png",
