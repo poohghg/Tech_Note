@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP웹 기본 지식/HTTP.md",
+                "file": "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "이펙티브 타입스크립트 - 5.any 다루기"
             }
           },
           {
@@ -145,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -232,10 +232,14 @@
   },
   "active": "d43dd8627aebd2df",
   "lastOpenFiles": [
+    "타입스크립트/이펙티브 타입스크립트 - 4.타입 설계.md",
+    "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
+    "타입스크립트/이펙티브 타입스크립트 - 6.타입 선언과 @types.md",
+    "타입스크립트/이펙티브 타입스크립트 - 7.코드를 작성하고 실행하기.md",
+    "HTTP웹 기본 지식/HTTP.md",
     "img/Pasted image 20250108183921.png",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
     "img/Pasted image 20250108183856.png",
-    "HTTP웹 기본 지식/HTTP.md",
     "명령어",
     "img/Pasted image 20250108183318.png",
     "img/Pasted image 20250108183104.png",
@@ -249,7 +253,6 @@
     "img/Pasted image 20241030144834.png",
     "img/Pasted image 20250107222057.png",
     "img/Pasted image 20250108182050.png",
-    "img/Pasted image 20250108181525.png",
     "img",
     "플러그인.md",
     "무제 파일.canvas",
@@ -268,9 +271,6 @@
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "리팩토링/캡슐화.md",
-    "디자인 패턴/디자인 패턴 공부 목록.md",
-    "react/react-core/render.md",
-    "react/react-core/diffing.md",
     "HTTP웹 기본 지식",
     "react/react-core",
     "디자인 패턴",
