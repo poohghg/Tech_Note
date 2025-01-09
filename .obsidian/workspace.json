@@ -233,6 +233,7 @@
   },
   "active": "d43dd8627aebd2df",
   "lastOpenFiles": [
+    "img/Pasted image 20250109160844.png",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "타입스크립트/타입 메모.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
@@ -271,7 +272,6 @@
     "javascript/array 와 set.md",
     "javascript/null vs undefined.md",
     "리팩토링/기본적인 리팩터링.md",
-    "리팩토링/데이터 조직화.md",
     "HTTP웹 기본 지식",
     "react/react-core",
     "디자인 패턴",
