@@ -49,8 +49,7 @@
               "title": "array 와 set"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +191,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "37d7fbdf01378c57",
+  "active": "f5bb202fa0c38320",
   "lastOpenFiles": [
-    "javascript/자바스크립트 자료형.md",
     "javascript/array 와 set.md",
+    "javascript/자바스크립트 자료형.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "README.md",
     "Users/khg/Library/Application.md",
