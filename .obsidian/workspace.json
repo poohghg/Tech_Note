@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/클린코드의 이해.md",
+                "file": "프로그래밍/git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "클린코드의 이해"
+              "title": "git"
             }
           }
         ]
@@ -164,7 +164,14 @@
   },
   "active": "f5bb202fa0c38320",
   "lastOpenFiles": [
+    "프로그래밍/FSD.md",
+    "Users/khg/Library/Application.md",
+    "Users/khg/Library",
+    "Users/khg",
+    "Users",
+    "프로그래밍/git.md",
     "프로그래밍/스터디 - 디자인패턴.md",
+    "프로그래밍/클린코드의 이해.md",
     "프로그래밍/무제.md",
     "최적화/브라우더 렌더링 최적화.md",
     "프로젝트 설정 참고자료/vite.md",
@@ -196,20 +203,13 @@
     "img/Pasted image 20241012132749.png",
     "react-uqery/정리.md",
     "recoil/recoil.md",
-    "README.md",
     "img/Pasted image 20250108182319.png",
     "img",
-    "플러그인.md",
     "무제 파일.canvas",
-    "homeObject.md",
-    "css/scss.md",
     "HTTP웹 기본 지식",
     "react/react-core",
     "디자인 패턴",
     "javascript/무제 폴더",
-    "Users/khg/Library",
-    "Users/khg",
-    "Users",
     "javascript/이전 자료",
     "react/무제 파일.canvas"
   ]
