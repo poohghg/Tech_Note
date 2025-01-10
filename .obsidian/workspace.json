@@ -11,10 +11,14 @@
             "id": "f5bb202fa0c38320",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "javascript/자바스크립트 자료형.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자바스크립트 자료형"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "array 와 set"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,10 +176,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "adb1b827c368a1ec",
+  "active": "f5bb202fa0c38320",
   "lastOpenFiles": [
-    "javascript/자바스크립트 자료형.md",
     "javascript/array 와 set.md",
+    "javascript/자바스크립트 자료형.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "README.md",
     "Users/khg/Library/Application.md",
