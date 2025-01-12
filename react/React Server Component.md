@@ -1,4 +1,4 @@
->참조
+>참조ffff
 >
 >[RSC From Scratch](https://github.com/reactwg/server-components/discussions/5)
 >
