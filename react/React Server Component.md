@@ -10,7 +10,7 @@
 - 상위 router 함수는 동기식이다.
 	- 내부 renderJSXToHTML 함수의 컴포넌트 반환은 비동기다
 	- 서버 컴포넌트면 비동기
-### React의 SSR 렌더링 방식
+### # React의 SSR 렌더링 방식
 
 Server Side Rendering를 사용하면 서버의 리액트 구성 요소에서 HTML을 생성하고 해당 HTML을 클라이언트에 보낼 수 있다. SSR을 사용하면 자바스크립트 번들이 로드되고 실행되기 전에 사용자가 페이지의 콘텐츠를 볼 수 있다.
 
@@ -55,7 +55,7 @@ SSR 과정 자체로는 사용자와의 상호작용을 더 빠르게 만들지 
 - 특히 네트워크 상황이 좋지 않은 유저들에게 유저가 인식하는 성능 향상을 가져온다.
 - 쉬운 인덱싱과 빠른 속도는 Search Engine Optimization에도 도움이 된다.
 
-### React 18: Streaming HTML and Selective Hydration
+### # React 18: Streaming HTML and Selective Hydration
 
 
 
