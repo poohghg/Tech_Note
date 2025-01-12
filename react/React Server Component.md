@@ -79,7 +79,7 @@ React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 
 
 이때 서버 쪽에서 댓글 데이터가 준비되면, 리액트는 동일한 Stream에 추가되는 HTML과, 해당 HTML을 올바른 “위치”에 주입하기 위한 작은 inline “script” 태그를 보내준다.
 
-이는 "You have to fetch everything before you can show anything" 문제를 해결 한다. 서버에서 데이터 패칭 시간을 기다릴 필요가 없이
+이는 "You have to fetch everything before you can show anything" 문제를 해결 한다. 서버에서 데이터 패칭 시간을 기다릴 필요가 없다. 해당 부분만 HTML 스트리밍 상에 나중에 들어오게 할 수 있다.
 
 
 
