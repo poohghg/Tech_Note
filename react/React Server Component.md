@@ -81,6 +81,9 @@ React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 
 
 이는 "You have to fetch everything before you can show anything" 문제를 해결 한다. 서버에서 데이터 패칭 시간을 기다릴 필요가 없다. 해당 부분만 HTML 스트리밍 상에 나중에 들어오게 할 수 있다.
 
+또한 React 18에서 Suspense는 댓글 위젯이 로드되기 전에 애플리케이션을 하이드레이션 할 수 있게 해준다. Selective Hydration을 통해 스트리밍 되는 부분을 제외하고 하이
+
+
 
 
 
