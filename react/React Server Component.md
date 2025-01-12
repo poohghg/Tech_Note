@@ -135,6 +135,7 @@ React 18은 SSR에 대한 두 가지 주요 기능을 제공한다.
 `<Suspense>` 요소는 이러한 모든 기능에 대한 옵트인 역할을 한다. 개선 사항 자체는 React 내부에서 자동으로 이루어지며 기존 React 코드의 대부분에서 작동한다. 이는 로딩 상태를 선언적으로 표현하는 힘을 보여줍니다. 에서 `if (isLoading)` 로 `<Suspense>`큰 변화처럼 보이지 않을 수 있지만 이러한 모든 개선 사항의 잠금을 해제한다.
 ### # React Server Component
 
+https://velog.io/@seeh_h/React-Server-Component-Streaming-SSR%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0
 
 
 
