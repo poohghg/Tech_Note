@@ -248,7 +248,8 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 				- 절대경로는 "/"로 시작하는 경로이다.
 			- HTTP Version 으로 구성
 		- 헤더
-			- ㄹ
+			- field-name: field-valus OWS(띄어쓰기 허용)
+			- field-name은 대소문자 구문이 없다.
 	- 응답 메시지
 		- 시작 라인
 			- start-line = request-line/status-line
