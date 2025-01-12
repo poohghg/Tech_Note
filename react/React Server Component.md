@@ -87,7 +87,7 @@ SSR 과정 자체로는 사용자와의 상호작용을 더 빠르게 만들지 
 
 #### Streaming HTML before all the data is fetched
 
-React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 준비되기 전까지 fallback UI를 보여주도록 할 수 있다. 최초 렌더링된 HTML에는 댓글 컴포넌트 대신 fallback UI가 생성 된다.
+React18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 준비되기 전까지 fallback UI를 보여주도록 할 수 있다. 최초 렌더링된 HTML에는 댓글 컴포넌트 대신 fallback UI가 생성 된다.
 
 이때 서버 쪽에서 댓글 데이터가 준비되면, 리액트는 동일한 Stream에 추가되는 HTML과, 해당 HTML을 올바른 “위치”에 주입하기 위한 작은 inline script 태그를 보내준다.
 
@@ -99,7 +99,7 @@ React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 
 
 #### Hydrating the page before all the code has loaded
 
-React 18에서 Suspense는 특정 컴포넌트가 로드되기 전에 애플리케이션을 하이드레이션 할 수 있게 해준다. Selective Hydration을 통해 스트리밍(Suspense하위 컴포넌트)되는 부분을 제외하고 하이드리이션을 수행한다.
+React18에서 Suspense는 특정 컴포넌트가 로드되기 전에 애플리케이션을 하이드레이션 할 수 있게 해준다. Selective Hydration을 통해 스트리밍(Suspense하위 컴포넌트)되는 부분을 제외하고 하이드리이션을 수행한다.
 
 Suspense로 부분적으로 컴포넌트를 묶음으로써 리액트가 Streaming과 Hydration이 렌더링을 Block 하는 것을 막아준다.
 - 이는 하이드레이션 시작하기 위해 모든 코드가 로드되는 것을 기다릴 필요가 없다.
@@ -109,7 +109,9 @@ Suspense로 부분적으로 컴포넌트를 묶음으로써 리액트가 Streami
  -  만약 Straming HTML보다도 나머지 부분의 자바스크립트(인라인 스크립트) 코드가 더 빨리 로드되었다면 리액트는 나머지 페이지를 먼저 Hydration 한다. 
  - Straming HTML이 먼저 도착하든, 자바스크립트 코드가 먼저 도착하든 Suspense는 일관적으로 non-blocking 하게 동작하며 리액트는 그저 먼저 도착한 것을 먼저 처리할 뿐이다.
 
-#### Hydrating the page before all the code has loaded
+#### Interactive with the page before all the components have hydrated
+
+React18에서 
 
 
 
