@@ -28,6 +28,10 @@ Server Side Rendering를 사용하면 서버의 리액트 구성 요소에서 HT
 - SSR은 **waterfall** 현상이 있다.
 - SSR은 "All or Nothing"
 
+##### 기존 리액트 SSR의 문제점
+- You have to fetch everything before you can show anything
+- ## You have to load everything before you can hydrate anything
+
 #### What is SSR?
 
 SSR을 사용하지 않는다면 자바스크립트가 로딩되는 동안 유저는 빈 페이지를 보게 된다.
