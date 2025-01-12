@@ -109,7 +109,7 @@ Suspense로 부분적으로 컴포넌트를 묶음으로써 리액트가 Streami
  -  만약 Straming HTML보다도 나머지 부분의 자바스크립트(인라인 스크립트) 코드가 더 빨리 로드되었다면 리액트는 나머지 페이지를 먼저 Hydration 한다. 
  - Straming HTML이 먼저 도착하든, 자바스크립트 코드가 먼저 도착하든 Suspense는 일관적으로 non-blocking 하게 동작하며 리액트는 그저 먼저 도착한 것을 먼저 처리할 뿐이다.
 
-#### ## Hydrating the page before all the code has loaded
+#### Hydrating the page before all the code has loaded
 
 
 
