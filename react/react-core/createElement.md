@@ -5,7 +5,7 @@ const element = createElement(type, props, ...children)
 ```
 
 > JSX
-> JavaScript + HTML 유형의 새로운 문법이다. -> JSON 트리 형태로 변호
+> JavaScript + HTML 유형의 새로운 문법이다. -> JSON 트리 형태로 변환된다.
 > 
 > _JSX_는 JavaScript를 확장한 문법으로, JavaScript 파일을 HTML과 비슷하게 마크업을 작성할 수 있도록 해준다.
 > React 컴포넌트는 JSX라는 확장된 문법을 사용하여 마크업을 나타낸다.
@@ -136,9 +136,7 @@ export default defineConfig({ plugins: [ tsconfigPaths(), ], esbuild: { jsx: 'tr
 - JSX란 무엇이며, 왜 React에서 사용하는지 설명해 주세요.
     
     - 의견
-        
         **JSX란 무엇인가요?**
-        
         JSX(JavaScript XML)는 **JavaScript의 확장 문법**으로, UI를 선언적으로 작성할 수 있게 해줍니다. HTML과 유사한 문법으로 작성할 수 있어 직관적이고 가독성이 높습니다.
         
         **React에서 사용하는 이유**
