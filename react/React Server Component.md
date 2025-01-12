@@ -5,7 +5,7 @@
 
 #### React의 SSR 렌더링 방식
 
-Server Side Re
+Server Side Rendering를 사용하면 서버의 리액트 구성 요소에서 HTML을 생성하고 해당 HTML을 클라이언트에 보낼 수 있다. SSR을 사용하면 자바스크립
 
 
 
