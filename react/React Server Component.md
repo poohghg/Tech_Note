@@ -2,8 +2,7 @@
 >
 >[RSC From Scratch](https://github.com/reactwg/server-components/discussions/5)
 >
->
->
+
   
 
 
