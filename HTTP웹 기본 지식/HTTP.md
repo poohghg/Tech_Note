@@ -247,6 +247,8 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 				- absolute-path`[?query]` = 절대경로 ? 쿼리
 				- 절대경로는 "/"로 시작하는 경로이다.
 			- HTTP Version 으로 구성
+		- 헤더
+			- ㄹ
 	- 응답 메시지
 		- 시작 라인
 			- start-line = request-line/status-line
