@@ -230,6 +230,7 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 			- HTTP/2: Persistent Connections의 개념을 더욱 발전시켜, 하나의 연결에서 멀티플렉싱을 통해 동시 다중 요청을 처리.
 			- HTTP/3: TCP 대신 UDP 기반의 QUIC 프로토콜을 사용하여 연결 설정 시간을 더 줄이고 성능을 최적화.
 - HTTP 메시지
+	- ![[Pasted image 20250113021251.png]]
 	- HTTP 메세지 구조
 		- start-line 시작 라인
 		- header 헤더
