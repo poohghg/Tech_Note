@@ -241,7 +241,10 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 			- start-line = request-line/status-line
 			- start-line = method SP(공백) request-target SP HTTP-version CRLF(엔터)
 			- HTTP 메서드
+				- GET, POST, PUT, DELETE
+				- 서버가 수행해야 할 동작을 지정한다.
 			- 요청 대상
+				- s
 			- HTTP Version 으로 구성
 
 
