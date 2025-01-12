@@ -60,13 +60,6 @@ SSR 과정 자체로는 사용자와의 상호작용을 더 빠르게 만들지 
 - **Streaming HTML** on the server. To opt into it, you’ll need to switch from renderToString to the new renderToPipeableStream method, as [described here](https://github.com/reactwg/react-18/discussions/22).
 - **Selective Hydration** on the client. To opt into it, you’ll need to [switch to hydrateRoot](https://github.com/reactwg/react-18/discussions/5) on the client and then start wrapping parts of your app with Suspense.
 
-React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 준비되기 전까지 fallback UI를 보여주도록 할 수 있다. 최초 렌더링된 HTML에는 댓글 컴포넌트 대신  fallback UI가 생성 된다.
-
-이때 서버 쪽에서 댓글 데이터가 준비되면, 리액트는 동일한 Stream에 추가되는 HTML과, 해당 HTML을 올바른 “위치”에 주입하기 위한 작은 inline “script” 태그를 보내준다.
-
-이는
-
-
 ``` ts
 <Layout>  
 	<NavBar />  
@@ -82,7 +75,11 @@ React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 
 
 ![[Pasted image 20250113003645.png]]
 
+React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 준비되기 전까지 fallback UI를 보여주도록 할 수 있다. 최초 렌더링된 HTML에는 댓글 컴포넌트 대신  fallback UI가 생성 된다.
 
+이때 서버 쪽에서 댓글 데이터가 준비되면, 리액트는 동일한 Stream에 추가되는 HTML과, 해당 HTML을 올바른 “위치”에 주입하기 위한 작은 inline “script” 태그를 보내준다.
+
+이는 "You have to fetch everything before you can show anything" 문제를 해결 한다. 서버에서 데이터 패칭 시간을 기다릴 필요가 없이
 
 
 
