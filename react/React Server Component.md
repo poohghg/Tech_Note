@@ -95,6 +95,10 @@ React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 
 - 서버에서 데이터 패칭 시간을 기다릴 필요가 없다. 
 - 해당 부분만 HTML 스트리밍 상에 나중에 들어오게 할 수 있다.
 
+컴포넌트 구성을 위해 서버에서 모든 데이터가 준비 될 필요가 없다. 해당 부분만 HTML 스트리밍 상에 나주
+
+#### Hydrating the page before all the code has loaded
+
 React 18에서 Suspense는 댓글 위젯이 로드되기 전에 애플리케이션을 하이드레이션 할 수 있게 해준다. Selective Hydration을 통해 스트리밍(Suspense의 컴포넌트) 되는 부분을 제외하고 하이드리에션을 수행한다.
 
 Suspense로 부분적으로 컴포넌트를 묶음으로써 리액트가 Streaming과 Hydration이 렌더링을 Block 하는 것을 막아준다.
