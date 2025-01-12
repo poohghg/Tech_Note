@@ -60,7 +60,7 @@ SSR 과정 자체로는 사용자와의 상호작용을 더 빠르게 만들지 
 - **Streaming HTML** on the server. To opt into it, you’ll need to switch from renderToString to the new renderToPipeableStream method, as [described here](https://github.com/reactwg/react-18/discussions/22).
 - **Selective Hydration** on the client. To opt into it, you’ll need to [switch to hydrateRoot](https://github.com/reactwg/react-18/discussions/5) on the client and then start wrapping parts of your app with Suspense.
 
-React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 준비되기 전까지 fallback UI를 보여주도록 할 수 있다.
+React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 준비되기 전까지 fallback UI를 보여주도록 할 수 있다. 최초 렌더링된 HTML에는 댓글 컴포넌트 대신  fallback ui가 생성 된다, 
 
 ``` ts
 <Layout>  
