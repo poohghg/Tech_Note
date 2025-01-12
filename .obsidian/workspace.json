@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 메모.md",
+                "file": "HTTP웹 기본 지식/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 메모"
+              "title": "HTTP"
             }
           },
           {
@@ -178,6 +178,7 @@
   },
   "active": "960480a424d88290",
   "lastOpenFiles": [
+    "타입스크립트/타입 메모.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "react/React Server Component.md",
     "img/Pasted image 20250113011454.png",
@@ -208,7 +209,6 @@
     "Users/khg/Library",
     "Users/khg",
     "Users",
-    "프로그래밍/스터디 - 디자인패턴.md",
     "img/Pasted image 20250107210910.png",
     "img/Pasted image 20250109163432.png",
     "img/Pasted image 20250109161618.png",
