@@ -54,7 +54,7 @@ SSR 과정 자체로는 사용자와의 상호작용을 더 빠르게 만들지 
 	- 유저들은 자바스크립트 번들이 로도되는 동안 정적 컨텐츠를 볼 수 있다.
 - 특히 네트워크 상황이 좋지 않은 유저들에게 유저가 인식하는 성능 향상을 가져온다.
 - 쉬운 인덱싱과 빠른 속도는 Search Engine Optimization에도 도움이 된다.
-
+---
 ### # React 18: Streaming HTML and Selective Hydration
 
 
