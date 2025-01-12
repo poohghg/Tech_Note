@@ -172,7 +172,7 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 > 
 ---
 
-### HTTP(Hyper Text Transfer Protocol)
+### # HTTP(Hyper Text Transfer Protocol)
 
 - HTTP 메시지에 모든 것을 전송
 - HTML, TEXT, 이미지, 음성, 영상, 파일 등
@@ -272,4 +272,6 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 	- HTTP 메시지도 매우 단순하다.
 
 ---
-#### HTTP 메서드
+### HTTP 메서드
+
+URL 구성시 가중 중요한것은 리소스 식별이다.
