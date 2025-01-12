@@ -1,5 +1,6 @@
 >참조ffff
 >
+>[New Suspense SSR Architecture in React 18](https://github.com/reactwg/react-18/discussions/37)
 >[RSC From Scratch](https://github.com/reactwg/server-components/discussions/5)
 >
 
