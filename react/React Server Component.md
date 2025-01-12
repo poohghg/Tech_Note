@@ -111,7 +111,10 @@ Suspense로 부분적으로 컴포넌트를 묶음으로써 리액트가 Streami
 
 #### Interactive with the page before all the components have hydrated
 
-React18에서 특정 ㅋ
+![[Pasted image 20250113011454.png]]
+
+
+React18에서는 하이드레이션이 진행되는 동안 하이드레이션이 완료된 컴포넌트와 상호작용시 ㅇ
 
 
 
