@@ -238,8 +238,11 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 		- message Body
 	- 요청 메시지
 		- 시작라인
-			- start-line/request-line/status-line
+			- start-line = request-line/status-line
 			- start-line = method SP(공백) request-target SP HTTP-version CRLF(엔터)
+			- HTTP 메서드
+			- 요청 대상
+			- HTTP Version 으로 구성
 
 
 - 단순함, 확장 가능
