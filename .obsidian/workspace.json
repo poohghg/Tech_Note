@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/코드의  나쁜 냄새.md",
+                "file": "react/React Server Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "코드의  나쁜 냄새"
+              "title": "React Server Component"
             }
           },
           {
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -206,8 +207,9 @@
   },
   "active": "f5bb202fa0c38320",
   "lastOpenFiles": [
-    "javascript/array 와 set.md",
     "리팩토링/코드의  나쁜 냄새.md",
+    "react/React Server Component.md",
+    "javascript/array 와 set.md",
     "리팩토링/캡슐화.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/기능 이동.md",
@@ -234,7 +236,6 @@
     "프로젝트 설정 참고자료/참고.md",
     "HTTP웹 기본 지식/HTTP.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
-    "javascript/이전 자료/jwt.md",
     "img/Pasted image 20250107210910.png",
     "img/Pasted image 20250109163432.png",
     "img/Pasted image 20250109161618.png",
