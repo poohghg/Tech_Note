@@ -69,7 +69,7 @@ props?: Attributes & P | null,
 
 #### 반환값
 
-createElement는 아래 프로퍼티를 가지는 React 엘레멘트 객체를 반환한다.
+createElement는 아래 프로퍼티를 가지는 React Element객체를 반환한다.
 
 - type: 전달받은 type
 - props: ref와 key를 제외한 전달받은 props type이 type.defaultProps를 가지는 컴포넌트라면, 누락되거나, 정의되지 않은 props는 type.defaulteProps 값을 가져온다.
