@@ -1,6 +1,7 @@
 >참조
 >
 >[New Suspense SSR Architecture in React 18](https://github.com/reactwg/react-18/discussions/37)
+  [RFC: React Server Components]()
 >[RSC From Scratch](https://github.com/reactwg/server-components/discussions/5)
 
 - 브라우저에는 리액트 서버컴포넌트가 없다.
