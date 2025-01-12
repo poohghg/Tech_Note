@@ -22,6 +22,8 @@ Server Side Rendering를 사용하면 서버의 리액트 구성 요소에서 HT
 	- 하이드레이션 과정이다.
 
 문제는 다음 단계를 시작하기 전에 전체 앱에 대해 각 단계를 완료해야 한다는 것이다.
+- SSR은 **waterfall** 현상이 있다.
+- SSR은 "All or Nothing"
 
 
 
