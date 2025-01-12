@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/React Server Component.md",
+                "file": "react/react-core/createElement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Server Component"
+              "title": "createElement"
             }
           },
           {
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -207,8 +206,9 @@
   },
   "active": "f5bb202fa0c38320",
   "lastOpenFiles": [
-    "리팩토링/코드의  나쁜 냄새.md",
+    "react/react.md",
     "react/React Server Component.md",
+    "리팩토링/코드의  나쁜 냄새.md",
     "javascript/array 와 set.md",
     "리팩토링/캡슐화.md",
     "리팩토링/조건부 로직 간소화.md",
@@ -235,7 +235,6 @@
     "프로젝트 설정 참고자료/vite.md",
     "프로젝트 설정 참고자료/참고.md",
     "HTTP웹 기본 지식/HTTP.md",
-    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "img/Pasted image 20250107210910.png",
     "img/Pasted image 20250109163432.png",
     "img/Pasted image 20250109161618.png",
