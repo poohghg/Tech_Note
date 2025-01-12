@@ -111,7 +111,7 @@ Suspense로 부분적으로 컴포넌트를 묶음으로써 리액트가 Streami
 
 #### Interactive with the page before all the components have hydrated
 
-React18에서 
+React18에서 특정 ㅋ
 
 
 
