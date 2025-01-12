@@ -30,7 +30,10 @@ Server Side Rendering를 사용하면 서버의 리액트 구성 요소에서 HT
 
 ##### 기존 리액트 SSR의 문제점
 - You have to fetch everything before you can show anything
-- ## You have to load everything before you can hydrate anything
+	- 서버에서 HTML을 렌더하는 시점에 컴포넌트를 렌더링하기 위한 모든 데이터가 준비되어야 한다.
+- You have to load everything before you can hydrate anything
+	- 
+- You have to hydrate everything before you can interact with anything
 
 #### What is SSR?
 
