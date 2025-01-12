@@ -32,8 +32,9 @@ Server Side Rendering를 사용하면 서버의 리액트 구성 요소에서 HT
 - You have to fetch everything before you can show anything
 	- 서버에서 HTML을 렌더하는 시점에 컴포넌트를 렌더링하기 위한 모든 데이터가 준비되어야 한다.
 - You have to load everything before you can hydrate anything
-	- HTML 하이드레이션 과정에서 하이드레이션을 하기위해 모든 컴포넌트의 자바스크립트 파일이 로드어야 한다.
+	- 클라이언트의 HTML 하이드레이션 과정에서 하이드레이션을 하기위해 모든 컴포넌트의 자바스크립트 파일이 로드어야 한다.
 - You have to hydrate everything before you can interact with anything
+	- 사용자와 상호작용을 하기위해서는 모든 컴포넌트가 하이드레이션 과정을 끝내야한다.
 
 #### What is SSR?
 
