@@ -35,8 +35,7 @@
               "title": "모던 자바스크립트 심화"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +177,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "960480a424d88290",
+  "active": "f5bb202fa0c38320",
   "lastOpenFiles": [
-    "react/React Server Component.md",
     "javascript/모던 자바스크립트 심화.md",
+    "react/React Server Component.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "react/react.md",
     "react/디자인 패턴.md",
