@@ -79,13 +79,15 @@ React 18은 페이지의 부분을 Suspense로 감싸서 특정 컴포넌트가 
 
 이때 서버 쪽에서 댓글 데이터가 준비되면, 리액트는 동일한 Stream에 추가되는 HTML과, 해당 HTML을 올바른 “위치”에 주입하기 위한 작은 inline “script” 태그를 보내준다.
 
-이는 "You have to fetch everything before you can show anything" 문제를 해결 한다. 서버에서 데이터 패칭 시간을 기다릴 필요가 없다. 해당 부분만 HTML 스트리밍 상에 나중에 들어오게 할 수 있다.
+이는 "You have to fetch everything before you can show anything" 문제를 해결 한다. 
+- 서버에서 데이터 패칭 시간을 기다릴 필요가 없다. 
+- 해당 부분만 HTML 스트리밍 상에 나중에 들어오게 할 수 있다.
 
 또한 React 18에서 Suspense는 댓글 위젯이 로드되기 전에 애플리케이션을 하이드레이션 할 수 있게 해준다. Selective Hydration을 통해 스트리밍(Suspense의 컴포넌트) 되는 부분을 제외하고 하이드리에션을 수행한다.
 
 Suspense로 부분적으로 컴포넌트를 묶음으로써 리액트가 Streaming과 Hydration이 렌더링을 Block 하는 것을 막아준다.
 - 이는 하이드레이션 시작하기 위해 모든 코드가 로드되는 것을 기다릴 필요가 없다.
-	- 코드의 부분부분이 로드될 때 마다 하이들
+- 코드의 부분부분이 로드될 때 마다 하이드레이션을 진행 할 수 있다.
 
 
 
