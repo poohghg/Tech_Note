@@ -53,4 +53,7 @@ React 개발팀은 기존의 알고리즘으로는 대규모 앱 컴포넌트를
 ##### Render 단계
 
  `ReatRootDOM.render()`는 JSX 등으로 작성된 코드가 실제 DOM으로 커밋되기까지 모든 과정을 의미한다.
- - JSX 또는 React.createElement()로 작서
+ - JSX 또는 React.createElement()로 작성된 코드를 ReactElement로 변경하는 작업
+ - 
+
+
