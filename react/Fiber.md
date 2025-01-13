@@ -11,4 +11,8 @@
 	- React 엘리먼트는 객체이다.
 - JSX 표현식은 createElement 함수(_JSX) 함수를 통해 React 엘리먼트로 치환된다.
 	- 참조 [[createElement]]
-- qus
+- 변경된 부분만 업데이트 하기
+	- React DOM은 업데이트 시 변경된 부분만 native DOM에 반영한다.
+	- 이는 내부 diff 알고리즘을 통해 변경된 부분만 업데이트 후 실제 DOM에 반영한다.
+		- 참조 [[diffing]]
+	- 
