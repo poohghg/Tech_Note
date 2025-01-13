@@ -1,4 +1,5 @@
 > 참조
+> 
 > [React 파이버 아키텍처 분석](https://d2.naver.com/helloworld/2690975)
 > [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs&t=1334s)
 
@@ -34,3 +35,6 @@
 - React는 컴포넌트트리에 대한 추가 정보를 포함하기 위해 “fibers”라는 내부 객체를 사용한다.
 - 브라우저에서 일반적인 UI 업데이트 주기는 초당 60회이다. 약 16ms가 소요된다. 잦은 업데이트로 인해 코드가 연속적으로 16ms 이상의 시간을 소비하며 실행된다면, 화면은 갱신 되지 못하고 끊기는 현상이 발생한다.
 - React 파이버 구조에서는 UI 갱신 작업은 작은 단위로 나누어 내부적으로 스케줄링 함으로써 React 사용자가 신경쓰지 않더라도 대규모 UI 갱신에도 16ms를 초과하지 않도록 작업한다.
+
+#### 동시성 슼
+
