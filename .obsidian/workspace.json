@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/클린코드의 이해.md",
+                "file": "클린코드/클린코드의 이해.md",
                 "mode": "source",
                 "source": false
               },
@@ -162,8 +162,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "960480a424d88290",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "클린코드",
     "최적화/브라우더 렌더링 최적화.md",
     "react/React Server Component.md",
     "HTTP웹 기본 지식/HTTP.md",
@@ -194,7 +195,6 @@
     "scope.md",
     "homeObject.md",
     "javascript/null vs undefined.md",
-    "javascript/화살표 함수.md",
     "Users/khg/Library",
     "Users/khg",
     "Users",
