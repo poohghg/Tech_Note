@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pasted image 20250106194347.png\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
