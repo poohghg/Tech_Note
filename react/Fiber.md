@@ -50,4 +50,7 @@ React 개발팀은 기존의 알고리즘으로는 대규모 앱 컴포넌트를
 3. Commit 단계: 새로운 DOM 엘리먼트를 브라우저 뷰에 커밋한다.
 4. Update 단계: props, state 변경 시 해당 컴포넌트와 하위 컴포넌트에 대해 위 과정을 반복한다.
 
-##### render 단ㄱ
+##### Render 단계
+
+ `ReatRootDOM.render()`는 JSX 등으로 작성된 코드가 실제 DOM으로 커밋되기까지 모든 과정을 의미한다.
+ - JSX 또는 React.createElement()로 작서
