@@ -46,3 +46,5 @@ React 개발팀은 기존의 알고리즘으로는 대규모 앱 컴포넌트를
 
 1. Render 단계: JSX 선언 또는 React.createElement()를 통해 JSX를 일반 객체인 ReactElement로 치환한다.
 2. Reconcile 단계: 이전에 렌더링된 ReactElement트리와 새로 렌더링할 ReactElement트리를 비교하여 변경점을 적용한다.
+3. Commit 단계: 새로운 DOM 엘리먼트를 브라우저 뷰에 커밋한다.
+4. Update 단계: props, state 변경 시 ㅎ
