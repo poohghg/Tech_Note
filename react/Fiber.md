@@ -16,7 +16,7 @@
 	- 이는 내부 diff 알고리즘을 통해 변경된 부분만 업데이트 후 실제 DOM에 반영한다.
 		- 참조 [[diffing]]
 	- 이전 React Element와 타입,키,Props가 다르면 업데이트가 진행된다.
-		- 부모내 돌이한 형제 중 key가 동일할때는 이전 React Element를 사용한다.
+		- 부모 내 자식의 형제 중 key가 동일할때는 이전 React Element를 사용한다.
 - 재조정(Reconciliation)
 	- 
 	- 루트 엘리먼트의 타입이 다르면 이전 트리를 버리고 완전히 새로운 트리를 구축한다.
