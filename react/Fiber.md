@@ -7,3 +7,6 @@
 
 ### 복습
 
+- JSX 선언된 표현식은 React 엘리먼트 객체로 치환된다.
+	- React 엘리먼트는 객체이다.
+- JSX 표현식은 createElement 함수(_JSX) 함수를 통해 ㄹ
