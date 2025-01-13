@@ -44,4 +44,4 @@ React 개발팀은 기존의 알고리즘으로는 대규모 앱 컴포넌트를
 
 #### React의 동작 단계
 
-1. Render 단계: 
+1. Render 단계: JSX 선언 또는 React.createElement()를 통해 JSX를
