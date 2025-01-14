@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/Fiber.md",
+                "file": "javascript/자바스크립트 자료형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiber"
+              "title": "자바스크립트 자료형"
             }
           },
           {
@@ -101,8 +101,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,11 +193,12 @@
   },
   "active": "e18e72245fa6968a",
   "lastOpenFiles": [
-    "react/react-core/createElement.md",
+    "javascript/모던 자바스크립트 심화.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "react/Fiber.md",
+    "react/react-core/createElement.md",
     "react/react.md",
     "react/React Server Component.md",
-    "javascript/모던 자바스크립트 심화.md",
     "클린코드/클린코드의 이해.md",
     "클린코드/(번역) 코드 다듬기 개발자를 생각하게 하지 마세요..md",
     "클린코드",
@@ -212,7 +212,6 @@
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "img/Pasted image 20250113011454.png",
     "img/Pasted image 20250113003645.png",
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "react/디자인 패턴.md",
     "react-uqery/정리.md",
     "javascript/array 와 set.md",
