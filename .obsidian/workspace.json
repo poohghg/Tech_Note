@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,10 +206,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3096fa153b31502d",
+  "active": "e68b788d6abecb3b",
   "lastOpenFiles": [
-    "react/react-core/createElement.md",
     "javascript/자바스크립트 자료형.md",
+    "img/Pasted image 20250115175540.png",
+    "react/react-core/createElement.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "HTTP웹 기본 지식/HTTP.md",
     "react/React Server Component.md",
@@ -239,7 +240,6 @@
     "리팩토링/기능 이동.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/데이터 조직화.md",
-    "README.md",
     "Users/khg/Library",
     "Users/khg",
     "Users",
@@ -247,7 +247,6 @@
     "img/Pasted image 20250109163432.png",
     "img/Pasted image 20250109161618.png",
     "img/Pasted image 20250109160844.png",
-    "img/Pasted image 20250108183921.png",
     "명령어",
     "img",
     "무제 파일.canvas",
