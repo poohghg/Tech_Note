@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,10 +206,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e68b788d6abecb3b",
+  "active": "3096fa153b31502d",
   "lastOpenFiles": [
-    "javascript/자바스크립트 자료형.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
+    "javascript/자바스크립트 자료형.md",
     "react/react-core/createElement.md",
     "HTTP웹 기본 지식/HTTP.md",
     "react/React Server Component.md",
