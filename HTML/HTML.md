@@ -40,4 +40,6 @@ HTML(Hypertext Markup Language,하이퍼텍스트 마크업 언어)는 프로그
 
 ![[Pasted image 20250116225615.png]]
 
-##### DOM  Tree ㄱ
+##### DOM  Tree 구성 과정
+
+1. 
