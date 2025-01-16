@@ -42,4 +42,5 @@ HTML(Hypertext Markup Language,하이퍼텍스트 마크업 언어)는 프로그
 
 ##### DOM  Tree 구성 과정
 
-1. 
+1. 서버에 HTML 요청: 서버는 요청을 처리하여 HTML 문서를 응답
+2. HTML 파싱 시작: 브라우저의 
