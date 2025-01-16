@@ -77,7 +77,8 @@
               "title": "HTTP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,10 +220,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e18e72245fa6968a",
+  "active": "e68b788d6abecb3b",
   "lastOpenFiles": [
-    "HTML/HTML.md",
+    "img/Pasted image 20250116225615.png",
     "HTTP웹 기본 지식/HTTP.md",
+    "HTML/HTML.md",
     "기타/이력서 강의.md",
     "프로그래밍/무제.md",
     "클린코드/클린코드의 이해.md",
@@ -246,7 +248,6 @@
     "리팩토링/코드의  나쁜 냄새.md",
     "react/react-core/createElement.md",
     "javascript/자바스크립트 자료형.md",
-    "javascript/null vs undefined.md",
     "기타",
     "img/Pasted image 20250116182711.png",
     "HTML",
