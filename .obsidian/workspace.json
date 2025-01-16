@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/HTML 이란?.md",
+                "file": "HTML/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML 이란?"
+              "title": "HTML"
             }
           },
           {
@@ -238,7 +238,7 @@
   "lastOpenFiles": [
     "img/Pasted image 20250116182711.png",
     "javascript/자바스크립트 엔진 강의 정리.md",
-    "HTML/HTML 이란?.md",
+    "HTML/HTML.md",
     "HTML",
     "javascript/자바스크립트 자료형.md",
     "javascript/null vs undefined.md",
