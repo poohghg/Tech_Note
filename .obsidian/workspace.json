@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,9 +234,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1419b6ea9ddf76bb",
+  "active": "7598e3abaef6bba8",
   "lastOpenFiles": [
     "javascript/자바스크립트 자료형.md",
+    "javascript/null vs undefined.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "프로그래밍/FSD.md",
     "프로그래밍/스터디 - 디자인패턴.md",
@@ -249,7 +250,6 @@
     "react/디자인 패턴.md",
     "HTTP웹 기본 지식/HTTP.md",
     "javascript/모던 자바스크립트 심화.md",
-    "javascript/null vs undefined.md",
     "javascript/array 와 set.md",
     "javascript/화살표 함수.md",
     "javascript/프로토타입.md",
