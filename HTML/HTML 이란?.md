@@ -12,3 +12,11 @@ HTML(Hypertext Markup Language,하이퍼텍스트 마크업 언어)는 프로그
 #### 속성(Attributes)
 
 속성은 요소에 실제론 나타내고 싶지 않지만 추가적인 내용을 담고 싶을때 사용한다.
+
+#### 문서의 구조
+
+1. `<html></html>`: [`<html>`](https://developer.mozilla.org/ko/docs/Web/HTML/Element/html) 요소이다. 이 요소는 전체 페이지의 콘텐츠를 포함하며, 기본 요소로도 알려져 있다.
+2. `<head></head>`: `<head>` 요소입니다. 이 요소는 홈페이지 이용자에게는 보이지 않지만 검색 결과에 노출 될 키워드, 홈페이지 설명, CSS 스타일, character setdeclaration 등 HTML 페이지의 모든 내용을 담고 있습니다. 자세한 내용은 다음 장에서 다룹니다.
+3. `<meta charset="utf-8">`: 이 요소는 HTML 문서의 문자 인코딩 설정을 UTF-8로 지정하는 것이며 예시에서 지정한 UTF-8에는 전세계에서 사용되는 언어에 대한 대부분의 문자가 포함됩니다. 이 설정을 사용하면 페이지에 포함 된 모든 텍스트 내용을 처리 할 수 있습니다. 이것을 설정하면 나중에 문자 인코딩과 관련된 일부 문제를 피하는 데 도움이 될 수 있으므로 문자 인코딩 설정을 하지 않을 이유가 없습니다.
+4. `<title></title>`: [`<title>`](https://developer.mozilla.org/ko/docs/Web/HTML/Element/title) 요소입니다. 이 요소를 사용하면 페이지 제목이 설정되며 페이지가 로드되는 브라우저 탭에 표시되는 제목으로 사용됩니다. 페이지 제목은 페이지가 책갈피 될 때 페이지를 설명하는 데에도 사용됩니다.
+5. `<body></body>`: [`<body>`](https://developer.mozilla.org/ko/docs/Web/HTML/Element/body) 요소 여기에는 텍스트, 이미지, 비디오, 게임, 재생 가능한 오디오 트랙 등을 비롯하여 페이지에 표시되는 모든 콘텐츠가 포함됩니다.
