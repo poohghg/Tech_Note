@@ -31,3 +31,7 @@ HTML(Hypertext Markup Language,하이퍼텍스트 마크업 언어)는 프로그
 3. `<meta charset="utf-8">`: 이 요소는 HTML 문서의 문자 인코딩 설정을 UTF-8로 지정하는 것이며 예시에서 지정한 UTF-8에는 전세계에서 사용되는 언어에 대한 대부분의 문자가 포함된다. 이 설정을 사용하면 페이지에 포함 된 모든 텍스트 내용을 처리 할 수 있다. 
 4. `<title></title>`: [`<title>`](https://developer.mozilla.org/ko/docs/Web/HTML/Element/title)  이 요소를 사용하면 페이지 제목이 설정되며 페이지가 로드되는 브라우저 탭에 표시되는 제목으로 사용된다. 페이지 제목은 페이지가 책갈피 될 때 페이지를 설명하는 데에도 사용된다.
 5. `<body></body>`: [`<body>`](https://developer.mozilla.org/ko/docs/Web/HTML/Element/body) 요소 여기에는 텍스트, 이미지, 비디오, 게임, 재생 가능한 오디오 트랙 등을 비롯하여 페이지에 표시되는 모든 콘텐츠가 포함된다.
+
+#### HTML 파싱 과 DOM 생성
+
+브라우저가 서버에 요청하여 응답받은 HTML 문서는 문자열로 이루어진 순수한 텍스트로, 브라우저에 시각적
