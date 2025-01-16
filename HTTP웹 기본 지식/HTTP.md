@@ -259,7 +259,6 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 			- HTML 문서, 이미지, 영상 ,JSON 등등 byte로 표현할 수 있는 모든 데이터는 전송 가능하다.
 	- 응답 메시지
 		- 시작 라인
-			- start-line = request-line/status-line
 			- start-line = HTTP-version CRLF SP(공백) status-code SP(공백) reason-pharse CRLF
 			- HTTP 버전
 			- HTTP 상태 코드: 요청 성공/실패를 나타냄
