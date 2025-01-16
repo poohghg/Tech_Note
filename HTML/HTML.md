@@ -57,4 +57,10 @@ HTML(Hypertext Markup Language,하이퍼텍스트 마크업 언어)는 프로그
 5. 외부 리소스 처리
 	1. HTML 문서 내의 `<script>`, `<link>`, `<img>` 태그를 만나면 브라우저는 해당 리소스를 별도로 요청처리
 		- CSS 파일, 자바스크립트 파일, 이미지 등
-	2.**CSSOM(CSS Object Model)** 트리는 CSS 파일을 파싱하여 별도로 생성 
+	2. **CSSOM(CSS Object Model)** 트리는 CSS 파일을 파싱하여 별도로 생성 
+6. 스크립트 실행과 중단
+	1. `<script>` 태그를 만나면:
+		- **동기적 스크립트**(`<script>` 기본 속성)인 경우 DOM 파싱이 중단.
+		- **비동기적 스크립트**(`async` 또는 `defer` 속성)인 경우 파싱이 계속 진행.
+7. DOM 트리 완성
+	1. 
