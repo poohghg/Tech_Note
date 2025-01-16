@@ -77,8 +77,7 @@
               "title": "HTTP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +219,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e68b788d6abecb3b",
+  "active": "e18e72245fa6968a",
   "lastOpenFiles": [
-    "HTTP웹 기본 지식/HTTP.md",
     "HTML/HTML.md",
+    "HTTP웹 기본 지식/HTTP.md",
     "img/Pasted image 20250116225615.png",
     "기타/이력서 강의.md",
     "프로그래밍/무제.md",
