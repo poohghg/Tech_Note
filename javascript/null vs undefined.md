@@ -27,9 +27,7 @@ undefined은 javaScript의 원시 자료형 하나이다. undefined는 전역 �
 - 초기화가 없는 변수 선언은 변수를 undefined로 암시적으로 초기화
 - 내장 API 중 요소를 찾을 수 없을 때 undefined을 반환
 
-
-> 개념적으로, `undefined`는 값이 없음을 의미하고, `null`은 객체가 없음을 의미합니다. ([`typeof null === "object"`](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/typeof#typeof_null)에 대한 변명이 될 수도 있습니다). 일반적으로 값이 없는 경우 언어의 기본값은 `undefined`입니다.
-
+개념적으로, `undefined`는 값이 없음을 의미하고, `null`은 객체가 없음을 의미한다. ([`typeof null === "object"`](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/typeof#typeof_null)에 대한 변명이 될 수도 있다. 일반적으로 값이 없는 경우 언어의 기본값은 `undefined`이다.
 
 ### null 과 undefined 의 차이
 
