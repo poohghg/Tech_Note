@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/면접서 강의.md",
+                "file": "기타/이력서 강의.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "면접서 강의"
+              "title": "이력서 강의"
             }
           },
           {
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -236,7 +237,7 @@
   "active": "7598e3abaef6bba8",
   "lastOpenFiles": [
     "HTML/HTML.md",
-    "기타/면접서 강의.md",
+    "기타/이력서 강의.md",
     "기타",
     "img/Pasted image 20250116182711.png",
     "javascript/자바스크립트 엔진 강의 정리.md",
