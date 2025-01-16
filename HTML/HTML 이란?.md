@@ -8,4 +8,6 @@ HTML(Hypertext Markup Language,하이퍼텍스트 마크업 언어)는 프로그
 3. **내용(Content):** 요소의 내용이며, 이 경우 단순한 텍스트이다.
 4. **요소(Element):** 여는 태그, 닫는 태그, 내용을 통틀어 요소(element)라고한다.
 
-#### ## [속성(Attributes)](https://developer.mozilla.org/ko/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax#%EC%86%8D%EC%84%B1attributes)
+#### 속성(Attributes)
+
+속성은 요소에 실제론 나타내고 싶지 않지만 추가적인 내용을 담고 싶을때 사용한다.
