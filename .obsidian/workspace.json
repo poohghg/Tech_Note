@@ -87,13 +87,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -180,8 +178,9 @@
   },
   "active": "6e5e5755a6f99bd9",
   "lastOpenFiles": [
-    "react/Fiber.md",
+    "README.md",
     "타입스크립트/타입 메모.md",
+    "react/Fiber.md",
     "HTTP웹 기본 지식/HTTP.md",
     "img/Pasted image 20250116233013.png",
     "HTML/HTML.md",
@@ -207,7 +206,6 @@
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/캡슐화.md",
     "리팩토링/코드의  나쁜 냄새.md",
-    "react/react-core/createElement.md",
     "기타",
     "img/Pasted image 20250116182711.png",
     "HTML",
