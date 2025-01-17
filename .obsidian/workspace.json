@@ -35,7 +35,8 @@
               "title": "자바스크립트 엔진 강의 정리"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +178,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0cdaf468748f2521",
+  "active": "01fa8d4369afa935",
   "lastOpenFiles": [
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/자바스크립트 자료형.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/레이블과 흐름제어.md",
     "타입스크립트/타입 메모.md",
     "최적화/브라우더 렌더링 최적화.md",
