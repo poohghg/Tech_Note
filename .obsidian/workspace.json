@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/Fiber.md",
+                "file": "react/React SSR 과 Hydration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiber"
+              "title": "React SSR 과 Hydration"
             }
           },
           {
@@ -178,6 +178,7 @@
   },
   "active": "0cdaf468748f2521",
   "lastOpenFiles": [
+    "react/Fiber.md",
     "javascript/자바스크립트 자료형.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/레이블과 흐름제어.md",
@@ -193,7 +194,6 @@
     "타입스크립트/이펙티브 타입스크립트 - 5.any 다루기.md",
     "타입스크립트/이펙티브 타입스크립트 - 6.타입 선언과 @types.md",
     "README.md",
-    "react/Fiber.md",
     "img/Pasted image 20250116233013.png",
     "img/Pasted image 20250116225615.png",
     "기타/이력서 강의.md",
