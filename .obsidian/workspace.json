@@ -4,77 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f321696b3f378cd7",
+        "id": "299c6295a7d0c9df",
         "type": "tabs",
         "children": [
           {
-            "id": "e18e72245fa6968a",
+            "id": "6e5e5755a6f99bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP웹 기본 지식/HTTP.md",
+                "file": "타입스크립트/타입 메모.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
-            }
-          },
-          {
-            "id": "e68b788d6abecb3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML"
-            }
-          },
-          {
-            "id": "1419b6ea9ddf76bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/null vs undefined.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "null vs undefined"
-            }
-          },
-          {
-            "id": "5fb13d0b357733db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "react/react-core/createElement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "createElement"
-            }
-          },
-          {
-            "id": "3096fa153b31502d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTTP웹 기본 지식/HTTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "타입 메모"
             }
           }
         ]
@@ -133,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -219,11 +162,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e18e72245fa6968a",
+  "active": "6e5e5755a6f99bd9",
   "lastOpenFiles": [
+    "HTTP웹 기본 지식/HTTP.md",
     "img/Pasted image 20250116233013.png",
     "HTML/HTML.md",
-    "HTTP웹 기본 지식/HTTP.md",
     "img/Pasted image 20250116225615.png",
     "기타/이력서 강의.md",
     "프로그래밍/무제.md",
@@ -262,7 +205,6 @@
     "Users/khg",
     "Users",
     "img/Pasted image 20250107210910.png",
-    "img/Pasted image 20250109163432.png",
     "명령어",
     "img",
     "무제 파일.canvas",
