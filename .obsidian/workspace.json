@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Fiber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +88,12 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -178,7 +178,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e92f0be4173f708b",
+  "active": "1729f22b24650851",
   "lastOpenFiles": [
     "HTTP웹 기본 지식/HTTP.md",
     "img/Pasted image 20250116233013.png",
