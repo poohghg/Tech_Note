@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/자바스크립트 엔진 강의 정리.md",
+                "file": "명령어/이미지 파일 마크다운 링크로 변경.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트 엔진 강의 정리"
+              "title": "이미지 파일 마크다운 링크로 변경"
             }
           }
         ],
@@ -179,16 +179,16 @@
   },
   "active": "01fa8d4369afa935",
   "lastOpenFiles": [
+    "HTML/HTML.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "react/React SSR 과 Hydration.md",
     "react/Fiber.md",
     "react/react.md",
     "javascript/자바스크립트 자료형.md",
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/레이블과 흐름제어.md",
     "타입스크립트/타입 메모.md",
     "최적화/브라우더 렌더링 최적화.md",
     "클린코드/클린코드의 이해.md",
-    "HTML/HTML.md",
     "HTTP웹 기본 지식/HTTP.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "타입스크립트/이펙티브 타입스크립트 - 7.코드를 작성하고 실행하기.md",

@@ -75,7 +75,7 @@ SSR은 리액트 컴포넌트를 서버에서 HTML로 렌더링해서 클라이�
 </Layout>
 ```
 
-![[Pasted image 20250113003645.png]]
+![Pasted image 20250113003645.png](../img/Pasted%20image%2020250113003645.png)
 
 #### Streaming HTML before all the data is fetched
 
@@ -103,7 +103,7 @@ Suspense로 부분적으로 컴포넌트를 묶음으로써 리액트가 Streami
 
 #### Interactive with the page before all the components have hydrated
 
-![[Pasted image 20250113011454.png]]
+![Pasted image 20250113011454.png](../img/Pasted%20image%2020250113011454.png)
 
 
 React18에서는 하이드레이션이 진행되는 동안 하이드레이션이 완료된 컴포넌트와 상호작용시(Mouse Click, Input과 같은 더 중요한 이벤트) 이를 더 우선순위 높게 처리한다.
