@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Object 타입",
+                "query": "tag:#표현문",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -73,12 +73,12 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
