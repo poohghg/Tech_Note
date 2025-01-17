@@ -35,8 +35,7 @@
               "title": "이미지 파일 마크다운 링크로 변경"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +176,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "01fa8d4369afa935",
+  "active": "0cdaf468748f2521",
   "lastOpenFiles": [
+    "명령어/이미지 파일 마크다운 링크로 변경.md",
     "HTML/HTML.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "react/React SSR 과 Hydration.md",
@@ -206,7 +206,6 @@
     "프로그래밍/git.md",
     "알고리즘/그리디.md",
     "알고리즘/배열.md",
-    "알고리즘/백트랭킹.md",
     "기타",
     "img/Pasted image 20250116182711.png",
     "HTML",
