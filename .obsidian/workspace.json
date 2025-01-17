@@ -35,7 +35,8 @@
               "title": "자바스크립트 엔진 강의 정리"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,9 +177,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0cdaf468748f2521",
+  "active": "01fa8d4369afa935",
   "lastOpenFiles": [
+    "react/React SSR 과 Hydration.md",
     "react/Fiber.md",
+    "react/react.md",
     "javascript/자바스크립트 자료형.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/레이블과 흐름제어.md",
@@ -204,8 +207,6 @@
     "알고리즘/그리디.md",
     "알고리즘/배열.md",
     "알고리즘/백트랭킹.md",
-    "알고리즘/이진 탐색.md",
-    "알고리즘/트리.md",
     "기타",
     "img/Pasted image 20250116182711.png",
     "HTML",
