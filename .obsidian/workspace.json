@@ -101,7 +101,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0cdaf468748f2521",
+  "active": "1729f22b24650851",
   "lastOpenFiles": [
     "javascript/프로토타입.md",
     "javascript/array 와 set.md",
