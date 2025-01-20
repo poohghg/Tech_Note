@@ -278,7 +278,11 @@ HTTP API는 HTTP 프로토콜을 사용하여 애플리케이션 간에 데이�
 	- HTTP 메시지도 매우 단순하다.
 
 #### REST API 란?
+#RESTAPI
 
+REST API는 HTTP API의 설계 스타일 중 하나로, REST (Representational State Transfer)라는 아키텍처 원칙을 따른다.
+
+- 
 
 
 ---
