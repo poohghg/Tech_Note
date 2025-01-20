@@ -38,8 +38,8 @@
   "editor:toggle-highlight": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "H"
     }
