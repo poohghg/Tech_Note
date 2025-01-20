@@ -174,6 +174,12 @@ URL은 웹에서 주어진 고유 리소스 주소(위치)이다. 이론적으�
 
 ### # HTTP(Hyper Text Transfer Protocol)
 
+HTTP API는 HTTP 프로토콜을 사용하여 애플리케이션 간에 데이터를 전송하거나 상호작용하는 API이다.
+- HTTP 프로토콜: 인터넷에서 주로 사용되는 통신 규약으로, 클라이언트와 서버 간에 요청(Request)과 응답(Response)을 주고받는 구조입니다.
+- HTTP API는 주로 HTTP 메서드(GET, POST, PUT, DELETE 등)를 통해 동작하며, 데이터 형식으로는 JSON, XML, HTML 등이 사용됩니다.
+- HTTP API는 REST, GraphQL, gRPC 같은 여러 스타일로 설계될 수 있습니다.
+
+
 - HTTP 메시지에 모든 것을 전송
 - HTML, TEXT, 이미지, 음성, 영상, 파일 등
 - JSON,XML (API)
