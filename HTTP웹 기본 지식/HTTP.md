@@ -370,7 +370,7 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 	- multipart/form-data
 		- 파일 업로드 같은 바이너리 데이터 전송시 사용
 		- 다른 종류의 여러 파일과 폼의 내용을 함께 전송 가능하다.
-	- HTML Form 전송은 GET/POST 메서드만 
+	- HTML Form 전송은 GET/POST 메서드만 지원한다.
 - HTTP API를 통한 데이터 전송
 	- 회원 가입, 상품 주문, 데이터 변경
 	- 서버 to 서버, 웹 클라이언트, Ajax
