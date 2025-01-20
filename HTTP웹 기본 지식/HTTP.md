@@ -390,8 +390,8 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 		- 파일 등록 /files/{filename} -> PUT
 		- PUT /files/star.jpg
 	- 클라이언트가 직접 리소스의 URI 
-	- 클아이언트가 직접 리소스의 URL를 
+	- 클아이언트가 직접 리소스의 URL를 알고 관리한다.
 	- 정적 컨텐츠 관리, 원격 파일 관리
 - HTTP FORM 사용
 	- 웹 페이지 회원 관리
-	- GET, POSt만 지원
+	- GET, POST만 지원
