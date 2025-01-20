@@ -379,3 +379,10 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 		- 아이폰, 안드로이드
 	- Ajax
 		- HTML에서 Form 전송대신 자바스크립트 AJAX 모델 사용
+
+#### HTTP API 설계 예시
+
+- HTTP API - 컬렉션
+	- POST 기반 등록
+		- 회원 관리 API 제공
+- HTTP
