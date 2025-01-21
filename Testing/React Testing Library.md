@@ -17,4 +17,10 @@
 	- 차이점은 사용하는 파일을 지정하는 설정과 구성 구문이다.
 
 
-## React Test Lib
+## React Test Library
+
+### 문법 정리
+
+#### render
+
+- 시뮬레이터될 DO
