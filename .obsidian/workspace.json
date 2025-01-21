@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/React Testing Library.md",
+                "file": "타입스크립트/타입 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Testing Library"
+              "title": "타입 시스템"
             }
           },
           {
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -220,8 +221,9 @@
   },
   "active": "0cdaf468748f2521",
   "lastOpenFiles": [
-    "클린코드/클린코드의 이해.md",
     "Testing/React Testing Library.md",
+    "타입스크립트/타입 시스템.md",
+    "클린코드/클린코드의 이해.md",
     "Testing",
     "무제 폴더",
     "javascript/자바스크립트 자료형.md",
@@ -247,7 +249,6 @@
     "next.js/next 에러.md",
     "react/react-core/createElement.md",
     "react/react-core/diffing.md",
-    "react/react-core/render.md",
     "img/Pasted image 20250116233013.png",
     "img/Pasted image 20250116225615.png",
     "기타",
