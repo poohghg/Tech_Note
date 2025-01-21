@@ -218,8 +218,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0cdaf468748f2521",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "무제 폴더",
     "javascript/자바스크립트 자료형.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/모던 자바스크립트 심화.md",
@@ -245,7 +246,6 @@
     "react/react-core/createElement.md",
     "react/react-core/diffing.md",
     "react/react-core/render.md",
-    "명령어/이미지 파일 마크다운 링크로 변경.md",
     "img/Pasted image 20250116233013.png",
     "img/Pasted image 20250116225615.png",
     "기타",
