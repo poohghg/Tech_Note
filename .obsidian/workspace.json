@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "클린코드/클린코드의 이해.md",
+                "file": "Testing/무제 파일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "클린코드의 이해"
+              "title": "무제 파일"
             }
           },
           {
@@ -218,15 +218,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "0cdaf468748f2521",
   "lastOpenFiles": [
+    "클린코드/클린코드의 이해.md",
+    "Testing/무제 파일.md",
+    "Testing",
     "무제 폴더",
     "javascript/자바스크립트 자료형.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/모던 자바스크립트 심화.md",
     "HTTP웹 기본 지식/HTTP.md",
     "HTML/HTML.md",
-    "클린코드/클린코드의 이해.md",
     "타입스크립트/타입 메모.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "javascript/화살표 함수.md",
@@ -265,8 +267,6 @@
     "명령어",
     "img",
     "무제 파일.canvas",
-    "HTTP웹 기본 지식",
-    "react/react-core",
     "react/무제 파일.canvas"
   ]
 }
