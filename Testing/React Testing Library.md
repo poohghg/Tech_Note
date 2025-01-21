@@ -25,4 +25,4 @@
 
 ####  expect
 
--  j
+-  jest/Vitest 전역 평가 실행자다
