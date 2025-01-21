@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "클린코드/클린코드의 이해.md",
+                "file": "프로그래밍/FSD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "클린코드의 이해"
+              "title": "FSD"
             }
           },
           {
@@ -104,10 +104,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"- **HTTP 프로토콜**: 인터넷에서 주로 사용되는 통신 규약으로, 클라이언트와 서버 간에 요청(Request)과 응답(Response)을 주고받는 구조입니다.- HTTP API는 주로 HTTP 메서드(GET, POST, PUT, DELETE 등)를 통해 동작하며, 데이터 형식으로는 JSON, XML, HTML 등이 사용됩니다.- HTTP API는 REST, GraphQL, gRPC 같은 여러 스타일로 설계될 수 있습니다.\"",
+                "query": "발견 가능성",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -115,7 +115,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,7 @@
   },
   "active": "fc8b997658231ab2",
   "lastOpenFiles": [
+    "클린코드/클린코드의 이해.md",
     "리팩토링/캡슐화.md",
     "리팩토링/데이터 조직화.md",
     "타입스크립트/타입 시스템.md",
@@ -220,7 +222,6 @@
     "img/Pasted image 20250121185918.png",
     "img/Pasted image 20250121185713.png",
     "Testing/React Testing Library.md",
-    "클린코드/클린코드의 이해.md",
     "Testing",
     "무제 폴더",
     "javascript/자바스크립트 자료형.md",
