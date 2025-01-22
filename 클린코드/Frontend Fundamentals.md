@@ -40,7 +40,10 @@ function LoginStartPage() {
 }
 
 ```
-- dnl
+
+- 위 코드는 로그인 되어있을시 홈으로 보내느 로직이다.
+- `useCheckLogin`, `onChecked`, `status`, `"LOGGED_IN"`과 같은 변수나 값을 모두 읽어야 해당 코드의 역할을 알 수 있다.
+- 이는 가독성 
 
 ### 예측 가능성
 
