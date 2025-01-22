@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e689862a8089d3f9",
+        "id": "23a1f7ecf8a2986b",
         "type": "tabs",
         "children": [
           {
-            "id": "77fa8da3f187f76a",
+            "id": "dba1b2d1215e3f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/react.md",
+                "file": "클린코드/Frontend Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react"
-            }
-          },
-          {
-            "id": "7f349d81ab011cce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "react/react-core/diffing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "diffing"
-            }
-          },
-          {
-            "id": "01fa8d4369afa935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "명령어/이미지 파일 마크다운 링크로 변경.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "이미지 파일 마크다운 링크로 변경"
+              "title": "Frontend Fundamentals"
             }
           }
         ]
@@ -101,13 +73,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -192,13 +162,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "77fa8da3f187f76a",
+  "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
+    "Testing/React Testing Library.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
     "react/react-core/diffing.md",
+    "react/react.md",
     "클린코드/Frontend Fundamentals.md",
     "리팩토링/기능 이동.md",
-    "react/react.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/데이터 조직화.md",
     "리팩토링/캡슐화.md",
@@ -215,7 +186,6 @@
     "img/Pasted image 20250121190148.png",
     "img/Pasted image 20250121185918.png",
     "img/Pasted image 20250121185713.png",
-    "Testing/React Testing Library.md",
     "Testing",
     "무제 폴더",
     "javascript/자바스크립트 자료형.md",
