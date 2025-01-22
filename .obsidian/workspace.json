@@ -49,8 +49,7 @@
               "title": "기능 이동"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +192,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "54a3ad85c38f994a",
+  "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
-    "클린코드/Frontend Fundamentals.md",
     "리팩토링/기능 이동.md",
+    "클린코드/Frontend Fundamentals.md",
     "react/디자인 패턴.md",
     "Testing/React Testing Library.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
