@@ -102,7 +102,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,12 +195,12 @@
   },
   "active": "54a3ad85c38f994a",
   "lastOpenFiles": [
+    "리팩토링/기능 이동.md",
+    "클린코드/Frontend Fundamentals.md",
     "Testing/React Testing Library.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
     "react/react-core/diffing.md",
     "react/react.md",
-    "클린코드/Frontend Fundamentals.md",
-    "리팩토링/기능 이동.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/데이터 조직화.md",
     "리팩토링/캡슐화.md",
