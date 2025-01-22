@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/디자인 패턴.md",
+                "file": "클린코드/Frontend Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "디자인 패턴"
+              "title": "Frontend Fundamentals"
             }
           }
         ],
@@ -195,6 +195,7 @@
   },
   "active": "54a3ad85c38f994a",
   "lastOpenFiles": [
+    "react/디자인 패턴.md",
     "클린코드/Frontend Fundamentals.md",
     "리팩토링/기능 이동.md",
     "Testing/React Testing Library.md",
@@ -226,7 +227,6 @@
     "타입스크립트/타입 메모.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "javascript/화살표 함수.md",
-    "react/디자인 패턴.md",
     "react/React SSR 과 Hydration.md",
     "react/Fiber.md",
     "javascript/프로토타입.md",
