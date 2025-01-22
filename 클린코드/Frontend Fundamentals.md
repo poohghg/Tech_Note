@@ -24,8 +24,23 @@
 
 사람이 코드를 읽을 때 동시에 고려할 수 있는 총 맥락의 숫자는 제한되어있다. 내 코드를 읽는 사람들이 코드를 쉽게 읽을 수 있도록 하기 위해서 불필요한 맥락을 추상화할 수 있다.
 
+``` tsx
+function LoginStartPage() {
+  useCheckLogin({
+    onChecked: (status) => {
+      if (status === "LOGGED_IN") {
+        location.href = "/home";
+      }
+    }
+  });
 
+  /* ... 로그인 관련 로직 ... */
 
+  return <>{/* ... 로그인 관련 컴포넌트 ... */}</>;
+}
+
+```
+- dnl
 
 ### 예측 가능성
 
