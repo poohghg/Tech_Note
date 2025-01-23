@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HOC",
+                "query": "tag:#예측",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -192,7 +191,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dba1b2d1215e3f91",
+  "active": "1729f22b24650851",
   "lastOpenFiles": [
     "리팩토링/기능 이동.md",
     "클린코드/Frontend Fundamentals.md",
