@@ -67,6 +67,16 @@ function LoginStartPage() {
 ##### 2.매직 넘버에 이름 붙이기
 
 **매직 넘버**(Magic Number)란 정확한 뜻을 밝히지 않고 소스 코드 안에 직접 숫자 값을 넣는 것을 말한다.
+
+```tsx
+async function onLikeClick() { 
+	await postLike(url); 
+	await delay(300); 
+	await refetchPostLike(); 
+}
+```
+
+
 ### 예측 가능성
 
 #예측가능성
