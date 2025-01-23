@@ -190,8 +190,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dba1b2d1215e3f91",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "타입스크립트/타입 메모.md",
+    "타입스크립트/타입 시스템.md",
     "클린코드/Frontend Fundamentals.md",
     "리팩토링/기능 이동.md",
     "react/디자인 패턴.md",
@@ -204,7 +206,6 @@
     "리팩토링/캡슐화.md",
     "클린코드/클린코드의 이해.md",
     "프로그래밍/FSD.md",
-    "타입스크립트/타입 시스템.md",
     "img/Pasted image 20250121234343.png",
     "img/Pasted image 20250121234331.png",
     "img/Pasted image 20250121234305.png",
@@ -221,7 +222,6 @@
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/모던 자바스크립트 심화.md",
     "HTTP웹 기본 지식/HTTP.md",
-    "타입스크립트/타입 메모.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "javascript/화살표 함수.md",
     "react/React SSR 과 Hydration.md",
