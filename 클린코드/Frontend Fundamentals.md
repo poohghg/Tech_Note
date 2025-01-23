@@ -47,6 +47,8 @@ function LoginStartPage() {
 - `useCheckLogin`, `onChecked`, `status`, `"LOGGED_IN"`과 같은 변수나 값을 모두 읽어야 해당 코드의 역할을 알 수 있다.
 - 이는 가독성 측면에서 좋지 않다. 위 코드를 추상화하여 코드를 읽는 사람이 한 번에 알아야 하는 맥락 생성 할 수 있다.
 
+코드에서 구현 상세루ㅡ
+
 ### 예측 가능성
 
 #예측가능성
