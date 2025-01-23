@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/자바스크립트 자료형.md",
+                "file": "타입스크립트/타입 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트 자료형"
+              "title": "타입 시스템"
             }
           },
           {
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -192,6 +193,7 @@
   },
   "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
+    "javascript/자바스크립트 자료형.md",
     "타입스크립트/타입 시스템.md",
     "img/Pasted image 20250124011116.png",
     "타입스크립트/타입 메모.md",
@@ -219,7 +221,6 @@
     "img/Pasted image 20250121185713.png",
     "Testing",
     "무제 폴더",
-    "javascript/자바스크립트 자료형.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/모던 자바스크립트 심화.md",
     "HTTP웹 기본 지식/HTTP.md",
