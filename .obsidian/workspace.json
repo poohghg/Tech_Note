@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/HTML.md",
+                "file": "타입스크립트/타입 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "타입 시스템"
             }
           },
           {
@@ -192,11 +192,12 @@
   },
   "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
-    "명령어/이미지 파일 마크다운 링크로 변경.md",
+    "타입스크립트/타입 메모.md",
     "타입스크립트/타입 시스템.md",
+    "HTML/HTML.md",
+    "명령어/이미지 파일 마크다운 링크로 변경.md",
     "javascript/자바스크립트 자료형.md",
     "img/Pasted image 20250124011116.png",
-    "타입스크립트/타입 메모.md",
     "클린코드/Frontend Fundamentals.md",
     "리팩토링/기능 이동.md",
     "react/디자인 패턴.md",
@@ -213,7 +214,6 @@
     "img/Pasted image 20250121234305.png",
     "img/Pasted image 20250121233954.png",
     "img/Pasted image 20250121233755.png",
-    "HTML/HTML.md",
     "img/template.ts",
     "img/Pasted image 20250121190148.png",
     "img/Pasted image 20250121185918.png",
