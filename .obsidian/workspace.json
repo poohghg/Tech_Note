@@ -63,8 +63,7 @@
               "title": "기능 이동"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,14 +206,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "701b0f77345a413d",
+  "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
-    "최적화/브라우더 렌더링 최적화.md",
+    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
+    "클린코드/Frontend Fundamentals.md",
     "브라우저/이벤트 루프.md",
+    "최적화/브라우더 렌더링 최적화.md",
     "브라우저",
     "기타/이력서 강의.md",
     "타입스크립트/핸드북.md",
-    "클린코드/Frontend Fundamentals.md",
     "react/Fiber.md",
     "javascript/모던 자바스크립트 심화.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
@@ -246,7 +246,6 @@
     "Testing",
     "HTTP웹 기본 지식/HTTP.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
-    "javascript/화살표 함수.md",
     "img/Pasted image 20250116233013.png",
     "기타",
     "HTML",
