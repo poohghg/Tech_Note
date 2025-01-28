@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "브라우저/이벤트 루프.md",
+                "file": "타입스크립트/타입 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이벤트 루프"
+              "title": "타입 시스템"
             }
           },
           {
@@ -115,8 +115,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,9 +207,9 @@
   },
   "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
+    "브라우저/이벤트 루프.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "클린코드/Frontend Fundamentals.md",
-    "브라우저/이벤트 루프.md",
     "최적화/브라우더 렌더링 최적화.md",
     "브라우저",
     "기타/이력서 강의.md",
