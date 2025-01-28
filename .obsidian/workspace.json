@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/화살표 함수.md",
+                "file": "javascript/자바스크립트 자료형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "화살표 함수"
+              "title": "자바스크립트 자료형"
             }
           },
           {
@@ -207,10 +207,11 @@
   },
   "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
+    "javascript/화살표 함수.md",
+    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "javascript/자바스크립트 자료형.md",
     "타입스크립트/타입 시스템.md",
     "브라우저/이벤트 루프.md",
-    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "클린코드/Frontend Fundamentals.md",
     "최적화/브라우더 렌더링 최적화.md",
     "브라우저",
@@ -244,7 +245,6 @@
     "img/Pasted image 20250121185713.png",
     "Testing",
     "HTTP웹 기본 지식/HTTP.md",
-    "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
     "img/Pasted image 20250116233013.png",
     "기타",
     "HTML",
