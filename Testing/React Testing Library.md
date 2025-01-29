@@ -1,3 +1,8 @@
+> 참조
+> 
+> https://testing-library.com/docs/
+
+
 
 - 테스팅 방식
 	- 유저가 실제 사용하는 방식으로 테스트 해라
