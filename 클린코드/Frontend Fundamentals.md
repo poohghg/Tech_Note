@@ -116,6 +116,19 @@ API 호출과 관련된 Hook들처럼 같은 종류의 함수나 Hook이 서로 
 
 함수나 컴포넌트의 이름, 파라미터, 반환 값에 드러나지 않는 숨은 로직이 있다면, 함께 협업하는 동료들이 동작을 예측하는 데 어려움을 겪을수 있다.
 
+``` ts
+async function fetchBalance(): Promise<number> {
+  const balance = await http.get<number>("...");
+
+  logging.log("balance_fetched");
+
+  return balance;
+}
+
+```
+- 위 함수의 이름과 파라밑
+
+
 ### 응집도
 
 #응집도
