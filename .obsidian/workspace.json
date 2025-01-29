@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/React Testing Library.md",
+                "file": "클린코드/Frontend Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Testing Library"
+              "title": "Frontend Fundamentals"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
+    "Testing/React Testing Library.md",
     "README.md",
     "javascript/자바스크립트 자료형.md",
     "img/Pasted image 20250128221653.png",
@@ -228,7 +229,6 @@
     "img/Pasted image 20250124011116.png",
     "리팩토링/기능 이동.md",
     "react/디자인 패턴.md",
-    "Testing/React Testing Library.md",
     "react/react-core/diffing.md",
     "react/react.md",
     "리팩토링/기본적인 리팩터링.md",
