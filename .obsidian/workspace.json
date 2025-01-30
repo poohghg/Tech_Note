@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/자바스크립트 자료형.md",
+                "file": "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트 자료형"
+              "title": "자바스크립트 전체 정리본"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Iterator",
+                "query": "__proto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -223,6 +222,7 @@
   },
   "active": "aeede623b63b9aea",
   "lastOpenFiles": [
+    "javascript/자바스크립트 자료형.md",
     "클린코드/Frontend Fundamentals.md",
     "타입스크립트/타입 메모.md",
     "타입스크립트/핸드북.md",
@@ -231,7 +231,6 @@
     "브라우저/렌더링.md",
     "브라우저/이벤트 루프.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
-    "javascript/자바스크립트 자료형.md",
     "Testing/React Testing Library.md",
     "README.md",
     "img/Pasted image 20250128221653.png",
