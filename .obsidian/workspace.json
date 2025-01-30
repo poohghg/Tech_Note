@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#이터레이션",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -205,7 +206,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1729f22b24650851",
+  "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
     "클린코드/Frontend Fundamentals.md",
     "타입스크립트/타입 메모.md",
