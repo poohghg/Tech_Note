@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "__proto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
