@@ -2,6 +2,10 @@
 > 
 > https://testing-library.com/docs/
 
+#### 테스트란 ?
+
+애플리케이션의 품질과
+
 
 
 - 테스팅 방식
