@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
+                "file": "javascript/자바스크립트 엔진 강의 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트 전체 정리본"
+              "title": "자바스크립트 엔진 강의 정리"
             }
           },
           {
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -222,6 +223,7 @@
   },
   "active": "aeede623b63b9aea",
   "lastOpenFiles": [
+    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "javascript/자바스크립트 자료형.md",
     "클린코드/Frontend Fundamentals.md",
     "타입스크립트/타입 메모.md",
@@ -235,7 +237,6 @@
     "README.md",
     "img/Pasted image 20250128221653.png",
     "javascript/화살표 함수.md",
-    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "최적화/브라우더 렌더링 최적화.md",
     "브라우저",
     "기타/이력서 강의.md",
