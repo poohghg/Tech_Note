@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/React Testing Library.md",
+                "file": "타입스크립트/타입 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Testing Library"
+              "title": "타입 시스템"
             }
           },
           {
@@ -236,9 +236,9 @@
   },
   "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
+    "Testing/React Testing Library.md",
     "javascript/자바스크립트 자료형.md",
     "README.md",
-    "Testing/React Testing Library.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "클린코드/Frontend Fundamentals.md",
