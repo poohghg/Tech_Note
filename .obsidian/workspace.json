@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/자바스크립트 자료형.md",
+                "file": "타입스크립트/타입 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트 자료형"
+              "title": "타입 시스템"
             }
           },
           {
@@ -91,7 +91,8 @@
               "title": "기능 이동"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -234,17 +234,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dba1b2d1215e3f91",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "타입스크립트/핸드북.md",
+    "타입스크립트/타입 메모.md",
+    "javascript/자바스크립트 자료형.md",
     "타입스크립트/타입 시스템.md",
     "Testing/React Testing Library.md",
-    "javascript/자바스크립트 자료형.md",
     "README.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "클린코드/Frontend Fundamentals.md",
-    "타입스크립트/타입 메모.md",
-    "타입스크립트/핸드북.md",
     "react/React SSR 과 Hydration.md",
     "브라우저/렌더링.md",
     "브라우저/이벤트 루프.md",
