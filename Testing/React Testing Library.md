@@ -104,6 +104,9 @@
 
 #### vitest
 
-- 별다른 설정 없이
+- 별다른 설정 없이 vite 기반에서 테스트 구종
+- 추가 설정 없이 ESM, TypeScript, JSX 사용 가능하다.
+- Jest 호환 API 및 가이드 제공
+- https://vitest.dev/
 
 
