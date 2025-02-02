@@ -136,7 +136,7 @@
 
 - 테스트를 실행하기 전 수행해야 하는 작업
 - https://vitest.dev/api/#setup-and-teardown
-- `beforEach` : 
+- `beforEach` :  각각의 테스트가 실행되기 전 
 - `beforAll` :  스코프 및 파일 내에 한번만 호출된다. `beforEach` 보다 우선순위가 높게 실행된다.
 
 ##### teardown
