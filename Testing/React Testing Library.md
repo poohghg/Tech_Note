@@ -127,6 +127,7 @@
 ##### 매처
 
 - 기대 결과를 검증하기 위해 사용되는 일종의 API 집합이다.
-- vitest에서는 다양한 기본 매처를 제공하며, 이를 확장
+- vitest에서는 다양한 기본 매처를 제공하며, 이를 확장하여 단언을 실행할 수 있다.
+- https://github.com/testing-library/jest-dom?tab=readme-ov-file#custom-matchers
 
 
