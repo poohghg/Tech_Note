@@ -135,10 +135,11 @@
 ##### setup
 
 - 테스트를 실행하기 전 수행해야 하는 작업
+- https://vitest.dev/api/#setup-and-teardown
 
 ##### teardown
 
-- 테스트를 실행한 뒤 수행해야
+- 테스트를 실행한 뒤 수행해야 하는 작업
 
 
 
