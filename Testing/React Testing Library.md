@@ -109,7 +109,7 @@
 - 추가 설정 없이 ESM, TypeScript, JSX 사용 가능하다.
 - Jest 호환 API 및 가이드 제공
 - jsDOM
-	- 
+	- 웹 사이트 표준을 자바스크립트로 Node.js 환경에
 
 
 
