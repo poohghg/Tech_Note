@@ -136,7 +136,8 @@
 
 - 테스트를 실행하기 전 수행해야 하는 작업
 - https://vitest.dev/api/#setup-and-teardown
--  `beforEach` : 
+- `beforEach` : 
+- `beforAll` :  스크프 및 파일내에 한번만 호출된다. `beforEach` 보다 우선
 
 ##### teardown
 
