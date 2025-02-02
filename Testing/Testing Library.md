@@ -135,6 +135,7 @@
 ##### setup
 
 - 테스트를 실행하기 전 수행해야 하는 작업
+	- 테스트 컨테스마다 반복되는 작업을 정의한다.
 - https://vitest.dev/api/#setup-and-teardown
 - `beforEach` : 스코프 및 파일 내에 각각의 테스트가 실행되기 전 실행된다.
 - `beforAll` :  스코프 및 파일 내에 한번만 호출된다. `beforEach` 보다 우선순위가 높게 실행된다.
