@@ -132,21 +132,21 @@
 - https://vitest.dev/api/expect.html
 - https://github.com/testing-library/jest-dom?tab=readme-ov-file#custom-matchers
 
-##### setup 과 
-
-- 테스트를 실행하기 전 수행해야 하는 작업
-	- 테스트 컨테스마다 반복되는 작업을 정의한다.
-	- 테스트가 독립적으로 실행되지 않는 변수 및 조건을 주는건 좋지않다. -> 테스트가 깨질 수 있다.
-- https://vitest.dev/api/#setup-and-teardown
-- `beforEach` : 스코프 및 파일 내에 각각의 테스트가 실행되기 전 실행된다.
-- `beforAll` :  스코프 및 파일 내에 한번만 호출된다. `beforEach` 보다 우선순위가 높게 실행된다.
-
-##### teardown
-
-- 테스트를 실행한 뒤 수행해야 하는 작업
-- 보통 테스트에 의해 생성된 상태를 초기화하는 경우에 사용된다.
--  `afterEach` : 스코프 및 파일 내에 각각의 테스트가 실행된 후 실행된다.
-- `afterAll` :  스코프 및 파일 내에 한번만 호출된다. 모든 테스트가 완료된 후 실행된다.
+##### setup 과 teardown
+- setup
+	- 테스트를 실행하기 전 수행해야 하는 작업
+		- 테스트 컨테스마다 반복되는 작업을 정의한다.
+		- 테스트가 독립적으로 실행되지 않는 변수 및 조건을 주는건 좋지않다. -> 테스트가 깨질 수 있다.
+	- https://vitest.dev/api/#setup-and-teardown
+	- `beforEach` : 스코프 및 파일 내에 각각의 테스트가 실행되기 전 실행된다.
+	- `beforAll` :  스코프 및 파일 내에 한번만 호출된다. `beforEach` 보다 우선순위가 높게 실행된다.
+- teardown
+	- 테스트를 실행한 뒤 수행해야 하는 작업
+	- 보통 테스트에 의해 생성된 상태를 초기화하는 경우에 사용된다.
+	- `afterEach` : 스코프 및 파일 내에 각각의 테스트가 실행된 후 실행된다.
+	- `afterAll` :  스코프 및 파일 내에 한번만 호출된다. 모든 테스트가 완료된 후 실행된다.
+- setup 과 teardown 를 통해 테스트 실행 전, 후 실행되어야 할 반복 작업을 관리할 수 있다.
+- 테스트 별로 별도의 스코프로 동작하기 때문에 독립적인 테스트를 ㄱ
 
 
 
