@@ -136,6 +136,7 @@
 
 - 테스트를 실행하기 전 수행해야 하는 작업
 - https://vitest.dev/api/#setup-and-teardown
+-  `beforEach` : 
 
 ##### teardown
 
