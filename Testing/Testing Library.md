@@ -132,4 +132,20 @@
 - https://vitest.dev/api/expect.html
 - https://github.com/testing-library/jest-dom?tab=readme-ov-file#custom-matchers
 
+##### setup
+
+- 테스트를 실행하기 전 수행해야 하는 작업
+
+##### teardown
+
+- 테스트를 실행한 뒤 수행해야
+
+
+
+
+
+
+
+
+
 
