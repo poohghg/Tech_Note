@@ -132,11 +132,11 @@
 - https://vitest.dev/api/expect.html
 - https://github.com/testing-library/jest-dom?tab=readme-ov-file#custom-matchers
 
-##### setup
+##### setup 과 
 
 - 테스트를 실행하기 전 수행해야 하는 작업
 	- 테스트 컨테스마다 반복되는 작업을 정의한다.
-	- 테스트가 독립적으로 실행되지 않는 변수 및 조건을 주느
+	- 테스트가 독립적으로 실행되지 않는 변수 및 조건을 주는건 좋지않다. -> 테스트가 깨질 수 있다.
 - https://vitest.dev/api/#setup-and-teardown
 - `beforEach` : 스코프 및 파일 내에 각각의 테스트가 실행되기 전 실행된다.
 - `beforAll` :  스코프 및 파일 내에 한번만 호출된다. `beforEach` 보다 우선순위가 높게 실행된다.
