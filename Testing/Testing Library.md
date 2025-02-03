@@ -1,6 +1,7 @@
 > 참조
 > 
 > https://testing-library.com/docs/
+> https://github.com/practical-fe-testing/test-example-shopping-mall
 
 ### # 테스트란 ?
 
