@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -239,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,7 +253,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b3835d066b8fb695",
+  "active": "f32bd17956299493",
   "lastOpenFiles": [
     "타입스크립트/타입 메모.md",
     "Testing/Testing Library.md",
