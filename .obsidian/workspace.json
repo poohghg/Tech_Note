@@ -239,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,11 +248,10 @@
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "copilot:Open Copilot Chat": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f32bd17956299493",
+  "active": "b3835d066b8fb695",
   "lastOpenFiles": [
     "타입스크립트/타입 메모.md",
     "Testing/Testing Library.md",
