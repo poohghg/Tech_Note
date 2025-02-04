@@ -231,13 +231,23 @@
               "icon": "lucide-list",
               "title": "이펙티브 타입스크립트 개요"
             }
+          },
+          {
+            "id": "f7955b0564f93436",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,10 +256,11 @@
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f32bd17956299493",
+  "active": "f7955b0564f93436",
   "lastOpenFiles": [
     "타입스크립트/타입 메모.md",
     "Testing/Testing Library.md",
