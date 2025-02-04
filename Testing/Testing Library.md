@@ -176,7 +176,8 @@
 	- 모킹된 모의 객체 호출에 대한 히스토리 초기화
 	- 모킹된 모듈의 구현을 초기화하지는 않는다 -> 모킹된 상태로 유지됨
 	- 반면, 모킹 히스토리가 계속 쌓임 -> 다른 테스트에 영향을 줄 수 있다.
-	- vitest의 
+	- vitest의 resetMocks(), clearMocks(), restoreMocks() 함수를 사용하여 초기화를 진행한다.
+	- 참고 : https://vitest.dev/api/#mocking
 ### # 단위 테스트
 
 
