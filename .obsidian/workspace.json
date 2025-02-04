@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -260,7 +259,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f7955b0564f93436",
+  "active": "f32bd17956299493",
   "lastOpenFiles": [
     "타입스크립트/타입 메모.md",
     "Testing/Testing Library.md",
