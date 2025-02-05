@@ -184,6 +184,10 @@
 	    - 모킹된 모듈의 구현을 초기화한다.
 	- 참고 : https://vitest.dev/api/mock.html
 
+##### act
+
+- `act()`함수는 상호 작용
+
 
 
 
