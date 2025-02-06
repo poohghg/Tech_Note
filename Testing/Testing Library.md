@@ -222,6 +222,8 @@
 - fireEvnet의 클릭은 단순하게 클릭 이벤트만 발생 시킨다.
 	- 실제 브라우저에서는 사용자가 요소 클릭시 pointerdown, pointerup, click 등의 이벤트가 연쇄적으로 발생한다.
 	- 유저 이벤트의 경우 위 상황이 고려되어 있다.
+- `userEvent` 로 불가능한 테스트의 경우 `fireEvent`를 사용한다.
+	- `s`
 
 
 
