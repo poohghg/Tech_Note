@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 시스템.md",
+                "file": "클린코드/Frontend Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 시스템"
+              "title": "Frontend Fundamentals"
             }
           }
         ],
@@ -252,8 +252,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "f32bd17956299493",
   "lastOpenFiles": [
+    "브라우저/이벤트 루프.md",
+    "브라우저/렌더링.md",
+    "프로젝트 설정 참고자료/참고.md",
+    "디자인 패턴/디자인 패턴 공부 목록.md",
+    "프로젝트 설정 참고자료/vite.md",
+    "타입스크립트/타입 시스템.md",
     "Testing/Testing Library.md",
     "기타/이력서.md",
     "기타/권혁구_자기소개서.md",
@@ -268,20 +274,14 @@
     "react/react-core/render.md",
     "react/react-core/diffing.md",
     "javascript/자바스크립트 자료형.md",
-    "타입스크립트/타입 시스템.md",
     "README.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "클린코드/Frontend Fundamentals.md",
-    "브라우저/렌더링.md",
-    "브라우저/이벤트 루프.md",
     "img/Pasted image 20250128221653.png",
     "javascript/화살표 함수.md",
     "최적화/브라우더 렌더링 최적화.md",
     "브라우저",
-    "기타/이력서 강의.md",
-    "javascript/모던 자바스크립트 심화.md",
-    "HTML/HTML.md",
     "img/Pasted image 20250124011116.png",
     "img/Pasted image 20250121234343.png",
     "img/Pasted image 20250121234331.png",
