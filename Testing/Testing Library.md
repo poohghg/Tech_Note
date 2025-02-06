@@ -211,7 +211,7 @@
 ##### fireEvnet
 
 - fire 이벤트의 클릭은 단순하게 클릭 이벤트만 발생 시킨다.
-	- 실제
+	- 실제 브라우저에서는 사용자가 요소 클릭시 pointerdown, pointerup, click 등의 이벤트가 연쇄적으로 발생한다.
 
 
 
