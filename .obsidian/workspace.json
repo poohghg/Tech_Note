@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/이력서.md",
+                "file": "알고리즘/백트랭킹.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이력서"
+              "title": "백트랭킹"
             }
           }
         ],
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -255,6 +254,7 @@
   },
   "active": "f32bd17956299493",
   "lastOpenFiles": [
+    "기타/이력서.md",
     "기타/권혁구_자기소개서.md",
     "기타/이력서 강의.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
@@ -267,7 +267,6 @@
     "클린코드/Frontend Fundamentals.md",
     "클린코드/클린코드의 이해.md",
     "디자인 패턴/디자인 패턴 공부 목록.md",
-    "기타/이력서.md",
     "타입스크립트/타입 메모.md",
     "타입스크립트/핸드북.md",
     "프로그래밍/무제.md",
