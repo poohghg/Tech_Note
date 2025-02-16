@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 시스템.md",
+                "file": "javascript/자바스크립트 자료형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 시스템"
+              "title": "자바스크립트 자료형"
             }
           }
         ],
@@ -254,6 +254,7 @@
   },
   "active": "f32bd17956299493",
   "lastOpenFiles": [
+    "타입스크립트/타입 시스템.md",
     "알고리즘/백트래킹.md",
     "img/Pasted image 20250214162652.png",
     "알고리즘/이진 탐색.md",
@@ -267,7 +268,6 @@
     "기타/권혁구_자기소개서.md",
     "기타/이력서 강의.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
-    "타입스크립트/타입 시스템.md",
     "프로젝트 설정 참고자료/vite.md",
     "프로젝트 설정 참고자료/참고.md",
     "브라우저/렌더링.md",
