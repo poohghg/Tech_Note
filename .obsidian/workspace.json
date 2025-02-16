@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/백트래킹.md",
+                "file": "타입스크립트/타입 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백트래킹"
+              "title": "타입 시스템"
             }
           }
         ],
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -255,13 +254,13 @@
   },
   "active": "f32bd17956299493",
   "lastOpenFiles": [
+    "알고리즘/백트래킹.md",
     "img/Pasted image 20250214162652.png",
     "알고리즘/이진 탐색.md",
     "알고리즘/재귀.md",
     "알고리즘/sort.md",
     "알고리즘/해쉬테이블.md",
     "알고리즘/배열.md",
-    "알고리즘/백트래킹.md",
     "알고리즘/그리디.md",
     "Testing/Testing Library.md",
     "기타/이력서.md",
@@ -292,7 +291,6 @@
     "img/template.ts",
     "img/Pasted image 20250121190148.png",
     "img/Pasted image 20250121185918.png",
-    "img/Pasted image 20250121185713.png",
     "Testing",
     "기타",
     "HTML",
