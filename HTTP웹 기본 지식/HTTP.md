@@ -471,14 +471,18 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 		- 검색 엔진 등에서 URL을 변경
 		- 캐시를 사용하고, 리다이렉트 요청을 다시 보내지 않는다.
 		- 301 Moved Permanently
+		- 308 Permanent Redirect
 	- 일시 리다이렉션 - 일시적인 변경
 		- 주문 완료 후 주문 내역 화면으로 이동
 		- PRG: Post/Redirect/Get
-		- 302 Found, 307 Temporary Redirect, 303 See Other\
+		- 302 Foun, 
+		- 307 Temporary Redirect 
+		- 303 See Other
 	- 특수 리다이렉션
 		- 결과 대신 캐시를 사용
 - 300 Multiple Choices
 	- 여러 선택지, 리소스에 여러 선택지가 있음
 - 301 Moved Permanently
+	- 리다이렉트
 	- 리소스가 완전히 새로운 URL로 변경
 	- 검색엔진 등에서도 새로운 URL로 변경
