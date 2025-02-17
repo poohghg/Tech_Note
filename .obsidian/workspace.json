@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/이력서 강의.md",
+                "file": "HTTP웹 기본 지식/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이력서 강의"
+              "title": "HTTP"
             }
           }
         ],
@@ -254,9 +254,9 @@
   },
   "active": "f32bd17956299493",
   "lastOpenFiles": [
+    "기타/이력서 강의.md",
     "기타/이력서.md",
     "기타/권혁구_자기소개서.md",
-    "기타/이력서 강의.md",
     "javascript/자바스크립트 자료형.md",
     "타입스크립트/타입 시스템.md",
     "알고리즘/백트래킹.md",
