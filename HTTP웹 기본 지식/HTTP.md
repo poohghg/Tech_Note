@@ -458,7 +458,7 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 
 #### 3xx (Redirection)
 - 요청을 완료하기 위해 유저 에이전트의 추가 조치가 필요
-- 웹 브라우저는 3xx 응답의 결과에 Location 헤더가 있으면, Locatio
+- 웹 브라우저는 3xx 응답의 결과에 Location 헤더가 있으면, Location 위치로 자동 이동(리다이렉트)
 - 300 Multiple Choices
 	- 여러 선택지, 리소스에 여러 선택지가 있음
 - 301 Moved Permanently
