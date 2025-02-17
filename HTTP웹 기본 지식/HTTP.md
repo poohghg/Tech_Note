@@ -470,7 +470,6 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 	- 영구 리다이렉션 - 특정 리소스의 URL가 영구적으로 이동
 		- 예 /users -> /members
 		- 검색 엔진 등에서 URL을 변경
-		- 캐시를 사용하고, 리다이렉트 요청을 다시 보내지 않는다.
 		- 301 Moved Permanently
 		- 308 Permanent Redirect
 	- 일시 리다이렉션 - 일시적인 변경
