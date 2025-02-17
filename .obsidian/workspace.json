@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/모던 자바스크립트 심화.md",
+                "file": "javascript/자바스크립트 자료형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "모던 자바스크립트 심화"
+              "title": "자바스크립트 자료형"
             }
           }
         ],
@@ -159,8 +159,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,6 +254,8 @@
   },
   "active": "f32bd17956299493",
   "lastOpenFiles": [
+    "javascript/자바스크립트 엔진 강의 정리.md",
+    "javascript/모던 자바스크립트 심화.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "브라우저/렌더링.md",
     "브라우저/이벤트 루프.md",
@@ -283,8 +284,6 @@
     "클린코드/클린코드의 이해.md",
     "디자인 패턴/디자인 패턴 공부 목록.md",
     "타입스크립트/타입 메모.md",
-    "타입스크립트/핸드북.md",
-    "프로그래밍/무제.md",
     "img/Pasted image 20250128221653.png",
     "브라우저",
     "img/Pasted image 20250124011116.png",
