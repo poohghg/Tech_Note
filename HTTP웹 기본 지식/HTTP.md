@@ -474,6 +474,8 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 		- 301 Moved Permanently
 		- 308 Permanent Redirect
 	- 일시 리다이렉션 - 일시적인 변경
+		- 리소스의 URL가 일시적으로 변경
+			- 따라서 검색 엔진 등에서 URL을 변경하면 안된다.
 		- 주문 완료 후 주문 내역 화면으로 이동
 		- PRG: Post/Redirect/Get
 		- 302 Foun, 
