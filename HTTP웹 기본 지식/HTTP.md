@@ -437,3 +437,7 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 	- 299 ??? -> 2xx(Successful)로 해석
 	- 451 ??? -> 4xx(Client Error)로 해석
 	- 599 ??? -> 5xx(Server Error)로 해석
+
+#### 1xx(Informational)
+- 요청이 수신되어 처리중
+- 거의 사용하지 않
