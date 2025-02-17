@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 시스템.md",
+                "file": "클린코드/Frontend Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 시스템"
+              "title": "Frontend Fundamentals"
             }
           },
           {
@@ -254,8 +254,8 @@
   },
   "active": "2af7d52f78307b14",
   "lastOpenFiles": [
-    "타입스크립트/타입 메모.md",
     "타입스크립트/타입 시스템.md",
+    "타입스크립트/타입 메모.md",
     "HTML/HTML.md",
     "react/React SSR 과 Hydration.md",
     "react/react.md",
