@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "브라우저/이벤트 루프.md",
+                "file": "알고리즘/백트래킹.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이벤트 루프"
+              "title": "백트래킹"
             }
           },
           {
@@ -255,6 +255,7 @@
   },
   "active": "b7a32201699b0ed3",
   "lastOpenFiles": [
+    "브라우저/이벤트 루프.md",
     "HTTP웹 기본 지식/HTTP.md",
     "README.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
@@ -271,7 +272,6 @@
     "react/Fiber.md",
     "next.js/next 에러.md",
     "next.js/next14.md",
-    "브라우저/이벤트 루프.md",
     "브라우저/렌더링.md",
     "기타/이력서 강의.md",
     "javascript/null vs undefined.md",
