@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 메모.md",
+                "file": "알고리즘/백트래킹.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 메모"
+              "title": "백트래킹"
             }
           },
           {
@@ -105,8 +105,7 @@
               "title": "HTML"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -253,8 +251,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7a32201699b0ed3",
+  "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
+    "타입스크립트/타입 메모.md",
+    "리팩토링/기능 이동.md",
+    "HTML/HTML.md",
+    "javascript/화살표 함수.md",
     "알고리즘/백트래킹.md",
     "img/Pasted image 20250219160912.png",
     "img/Pasted image 20250219160839.png",
@@ -263,12 +265,10 @@
     "README.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
     "자바스크립트 기본 문법.md",
-    "타입스크립트/타입 메모.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "최적화/브라우더 렌더링 최적화.md",
     "클린코드/Frontend Fundamentals.md",
     "타입스크립트/타입 시스템.md",
-    "HTML/HTML.md",
     "react/React SSR 과 Hydration.md",
     "react/react.md",
     "react/디자인 패턴.md",
@@ -279,10 +279,8 @@
     "기타/이력서 강의.md",
     "javascript/null vs undefined.md",
     "javascript/array 와 set.md",
-    "javascript/화살표 함수.md",
     "javascript/프로토타입.md",
     "javascript/클로저.md",
-    "javascript/자바스크립트 자료형.md",
     "img/Pasted image 20250218015812.png",
     "img/Pasted image 20250218014445.png",
     "img/Pasted image 20250218014408.png",
