@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "브라우저/이벤트 루프.md",
+                "file": "javascript/자바스크립트 자료형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이벤트 루프"
+              "title": "자바스크립트 자료형"
             }
           },
           {
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "getElementById",
+                "query": "이터레이터",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,9 +255,9 @@
   },
   "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
+    "브라우저/이벤트 루프.md",
     "img/Pasted image 20250219185838.png",
     "프로그래밍/무제.md",
-    "브라우저/이벤트 루프.md",
     "알고리즘/백트래킹.md",
     "타입스크립트/타입 메모.md",
     "리팩토링/기능 이동.md",
@@ -291,7 +291,6 @@
     "브라우저",
     "img/Pasted image 20250124011116.png",
     "img/Pasted image 20250121234343.png",
-    "img/Pasted image 20250121234331.png",
     "img/template.ts",
     "Testing",
     "기타",
