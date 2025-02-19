@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "비동기 통신",
+                "query": "getElementById",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,12 +158,12 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -254,6 +254,8 @@
   },
   "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
+    "프로그래밍/무제.md",
+    "브라우저/이벤트 루프.md",
     "알고리즘/백트래킹.md",
     "타입스크립트/타입 메모.md",
     "리팩토링/기능 이동.md",
@@ -261,7 +263,6 @@
     "javascript/화살표 함수.md",
     "img/Pasted image 20250219160912.png",
     "img/Pasted image 20250219160839.png",
-    "브라우저/이벤트 루프.md",
     "HTTP웹 기본 지식/HTTP.md",
     "README.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
@@ -281,7 +282,6 @@
     "javascript/null vs undefined.md",
     "javascript/array 와 set.md",
     "javascript/프로토타입.md",
-    "javascript/클로저.md",
     "img/Pasted image 20250218015812.png",
     "img/Pasted image 20250218014445.png",
     "img/Pasted image 20250218014408.png",
