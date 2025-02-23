@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "브라우저/이벤트 루프.md",
+                "file": "알고리즘/백트래킹.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이벤트 루프"
+              "title": "백트래킹"
             }
           },
           {
@@ -158,13 +158,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -255,8 +253,8 @@
   },
   "active": "dba1b2d1215e3f91",
   "lastOpenFiles": [
-    "javascript/자바스크립트 자료형.md",
     "브라우저/이벤트 루프.md",
+    "javascript/자바스크립트 자료형.md",
     "img/Pasted image 20250219185838.png",
     "프로그래밍/무제.md",
     "알고리즘/백트래킹.md",
