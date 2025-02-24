@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -168,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "223310c1d8f60683",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "브라우저/이벤트 루프.md",
     "javascript/화살표 함수.md",
