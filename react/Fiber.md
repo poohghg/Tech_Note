@@ -99,3 +99,4 @@ fiberNode{
 - return : return 속성은 현재의 fiber에서 처리를 완료 한후, 돌아오는 상위 fiber를 말한다. 이를 부모 fiber라고 말할수 있다. 만약 하나의 fiber가 여러개의 자식 fiber를 가진다면, 각각 자식 fiber들의 return 속성 값은 부모 fiber가 됩니다.  
 -  type: 타입은 컴포넌트의 구성요소이다. class가 될수도, function이 될수도,DOM element 가 될수도 있다.
 - key : key는 재조정 과정에서 해당 fiber가 변화나, 요소 추가, 삭제 같은 것들을 식별함으로써 재사용 될수 있는지 아닌지를 결정한다.
+- alternate : fiber를 flush 한다는 것은, 렌더링 된 결과물을 화면에 출력한다는 것을 의미이다.  어느 시점에서든, 컴포넌트 인스턴스는 2개의 동일한 fiber를 가지고 있습니다. current Fiber와 work-in-progress Fiber입니다. work-in-progress Fiber는 아직 작업이 완료되지 않은 fiber입니다. 개념적으로 아직 리턴되지 않은 스택프레임 입니다.  current fiber의 alternate는 work-in-progress이며, 그 반대로 work-in-progress의 alternate는 current fiber 입니다.  fiber의 alternate는 cloneFiber라고 불리는 함수에 의해서 필요에 따라 생성됩니다.  항상 새로운 객체를 만들기보다, cloneFiber는 객체 할당을 최소화하여 만약 fiber의 alternate가 존재한다면 이를 재사용하려고 시도합니다.
