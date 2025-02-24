@@ -102,4 +102,12 @@ fiberNode{
 - alternate : fiber를 flush 한다는 것은, 렌더링 된 결과물을 화면에 출력한다는 것을 의미이다.  어느 시점에서든, 컴포넌트 인스턴스는 2개의 동일한 fiber를 가지고 있다. current Fiber와 work-in-progress Fiber이다. 
 	- work-in-progress Fiber는 아직 작업이 완료되지 않은 fiber이다. 개념적으로 아직 리턴되지 않은 스택프레임이다.  
 	- current fiber의 alternate는 work-in-progress이며, 그 반대로 work-in-progress의 alternate는 current fiber이다.  
-	- fiber의 alternate는 cloneFiber라고 불리는 함수에 의해서 필요에 따라 생성된다.  항상 새로운 객체를 만들기보다, cloneFiber는 객체 할당을 최소화하여 만약 fiber의 alternate가 존재한다면 이를 재사용하려고 시도합니다.
+	- fiber의 alternate는 cloneFiber라고 불리는 함수에 의해서 필요에 따라 생성된다.  항상 새로운 객체를 만들기보다, cloneFiber는 객체 할당을 최소화하여 만약 fiber의 alternate가 존재한다면 이를 재사용하려고 시도한다.
+- updateQueue : 이 큐들은, 모든 상태와 DOM 업데이트들, 그리고 다른 효과(effect)들을 큐에 추가하여 관리한다.
+- memoizedState : 이전 렌더링때의 상태값을 참조
+- memoizedProps and pendingProps : 개념적으로, props는 함수의 인자로 생각할 수 있다.  
+    fiber의 pendingProps는 실행의 시작 부분에서 설정되며, memoizedProps는 끝 부분에서 설정됩니다. 
+    들어오는 pendingProps가 memoizedProps와 같을 때, 이는 Fiber의 이전 출력을 재사용할 수 있다는 신호이며, 불필요한 작업을 방지합니다.
+- tag : 이것은 fiber의 타입을 명시합니다. 예를 들어, 클래스 컴포넌트, 함수 컴포넌트, 호스트 포털 등이 있습니다. (tag 속성이 type속성보다 더 넓은 범위의 의미를 가지고 있습니다.)
+- effectTag : 이것은 적용되어야 할 부수 효과(side-effect)에 대한 정보를 담고 있습니다.
+- nextEffect : 이것은 이펙트 리스트 안에 있는 업데이트 되어야할 다음 노드를 가리킵니다.
