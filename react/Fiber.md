@@ -94,4 +94,5 @@ fiberNode{
 }
 ```
 
-
+- stateNode는 해당 fiber가 속해 있는 컴포넌트 인스턴스를 나타낸다.
+- child와 sibling은 현재 fiber노드와 관계 되어있는 다른 fiber들을 가리킨다.
