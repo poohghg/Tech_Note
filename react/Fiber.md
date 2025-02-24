@@ -128,7 +128,11 @@ React가 DOM에 어떤것을 랜더링하기 전에, 각각의 fiber(작업단�
 
 하나는 current tree, 또 다른 하나는 workInProgress tree 이다. current tree는 현재 우리의 UI에 렌더된 트리이다.리액트는 일관되지 않은 UI를 나타낼수도 있기 때문에, 이 tree를 변경하지 못한다.대신에 리액트는 workInProgress라는 트리를 교체하고 모든 변경 사항들이 적용되면 포인터를 교체한다.모든 사항이 적용된 workInProgress트리는 current tree가 되고, 해당 current tree의 복제본을 만들어서 또 다른 workInProgress 트리를 생성한다.
 
-#### Render/Reconciliation Phase
+#### 2.Render/Reconciliation Phase
+
+이 단계에서 리액트는 아래의 단계를 따르는 workinProgress tree를 만든다.
+
+1.  setState() 메서드 호출: 컴포넌트의 상태를 업데이트하기 위해 setState() 메서드가 호출되면, React는 requestIdleCallback()을 사용하여 작업을 예약합니다. 이 함수는 메인 스레드에게 유휴(Idle) 시간이 생기면 해당 작업을 수행하라고 알립니다.
 
 
 
