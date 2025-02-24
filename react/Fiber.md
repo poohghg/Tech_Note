@@ -76,6 +76,13 @@ Scheduling은 동작 처리(work) 들이 수행 될때를 결정하는 역할을
 - 실제 DOM노드, 컴포넌트의 인스턴스에 대응되며 렌더링 작업을 관리하는데 필요한 정보를 담고 있다.
 - fiber객체는 fiber 노드들간의 관계와 정보를 추적할 수 있도록 하는 특정한 프로퍼티를 가지고 있다.
 
+#### Fiber의 이점
+
+1. 자
+
+
+
+
 ```javascript
 fiberNode{  
    stateNode,
