@@ -107,8 +107,8 @@ fiberNode{
 - memoizedState : 이전 렌더링때의 상태값을 참조
 - memoizedProps and pendingProps : 개념적으로, props는 함수의 인자로 생각할 수 있다.  fiber의 pendingProps는 실행의 시작 부분에서 설정되며, memoizedProps는 끝 부분에서 설정된다. 들어오는 pendingProps가 memoizedProps와 같을 때, 이는 Fiber의 이전 출력을 재사용할 수 있다는 신호이며, 불필요한 작업을 방지한다.
 - tag : 이것은 fiber의 타입을 명시합니다. 예를 들어, 클래스 컴포넌트, 함수 컴포넌트, 호스트 포털 등이 있다. (tag 속성이 type속성보다 더 넓은 범위의 의미를 가지고 있다.)
-- effectTag : 이것은 적용되어야 할 부수 효과(side-effect)에 대한 정보를 담고 있다.
-- nextEffect : 이것은 이펙트 리스트 안에 있는 업데이트 되어야할 다음 노드를 가리킨다.
+- effectTag : 적용되어야 할 부수 효과(side-effect)에 대한 정보를 담고 있다.
+- nextEffect : 이펙트 리스트 안에 있는 업데이트 되어야할 다음 노드를 가리킨다.
 
 #### 알아두면 좋은점
 
@@ -136,7 +136,7 @@ React가 DOM에 어떤것을 랜더링하기 전에, 각각의 fiber(작업단�
 2. `workInProgress`파이버 트리 생성: 이제 React는 현재의 파이버 트리에서 요소들을 복제하여 `workInProgress` 파이버 트리를 만들기 시작한다. 그리고 각 노드를 순회하면서 변경이 필요한지 결정한다.
 3. 변경된 노드 처리: 특정 노드가 업데이트 된 경우 그 노드는 `effect list`에 추가된다. 이 리스트는 커밋 단계에서 실제 DOM에 반영되는 변경 사항을 추적한다.`
 	- 이 리스트는 선형 연결 리스트 구조이다.
-	- 
+4. phase 완료
 
 
 
