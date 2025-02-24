@@ -61,5 +61,10 @@ React 개발팀은 기존의 알고리즘으로는 대규모 앱 컴포넌트를
 
  `Reconcile`이라는 작업은 좁은 의미로 FiberNode를 생성하고 기존 생성된 FiberNode를 보면 `alternate`, `child`, `memoizedProps`, `memoizedState` 모두 `null`이다. FiberNode만 생성했을 뿐 `SimpleComp()`는 호출하지 않았다.
 
+- UI의 업데이트 된 상태를 반영하기 위해서, 리액트 엘리먼트의 current tree에 적용되어야하는 모든 변경사항들은, 재조정 과정 동안 reconciler에 의해 결정된다.
+
+###
+
+
 
 
