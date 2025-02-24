@@ -75,4 +75,23 @@ Scheduling은 동작 처리(work) 들이 수행 될때를 결정하는 역할을
 - fiber의 구현체는 객체이다. 이는 리액트 정보를 포함하고 있는 간단한 자바스크립트 객체인것이다.
 - fiber객체는 fiber 노드들간의 관계와 정보를 추적할 수 있도록 하는 특정한 프로퍼티를 가지고 있다.
 
+```javascript
+fiberNode{  
+   stateNode,
+   child,
+   sibling,
+   return,
+   type,
+   alternate,
+   key,
+   updateQueue,
+   memoizedState,
+   pendingProps,
+   memoizedProps,
+   tag,
+   effectTag,
+   nextEffect
+}
+```
+
 
