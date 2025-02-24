@@ -97,3 +97,5 @@ fiberNode{
 - stateNode는 해당 fiber가 속해 있는 컴포넌트 인스턴스를 나타낸다.
 - child와 sibling은 현재 fiber노드와 관계 되어있는 다른 fiber들을 가리킨다.
 - return : return 속성은 현재의 fiber에서 처리를 완료 한후, 돌아오는 상위 fiber를 말한다. 이를 부모 fiber라고 말할수 있다. 만약 하나의 fiber가 여러개의 자식 fiber를 가진다면, 각각 자식 fiber들의 return 속성 값은 부모 fiber가 됩니다.  
+-  type: 타입은 컴포넌트의 구성요소이다. class가 될수도, function이 될수도,DOM element 가 될수도 있다.
+- key : key는 재조정 과정에서 해당 fiber가 변화나, 요소 추가, 삭제 같은 것들을 식별함으로써 재사용 될수 있는지 아닌지를 결정한다.
