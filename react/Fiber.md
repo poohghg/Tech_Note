@@ -96,4 +96,4 @@ fiberNode{
 
 - stateNode는 해당 fiber가 속해 있는 컴포넌트 인스턴스를 나타낸다.
 - child와 sibling은 현재 fiber노드와 관계 되어있는 다른 fiber들을 가리킨다.
-- eturn : return 속성은 현재의 fiber에서 처리를 완료 한후, 프로그램이 돌아가야만 하는 상위 fiber를 말한다. 이를 부모 fiber라고 말할수 있다. 만약 하나의 fiber가 여러개의 자식 fiber를 가진다면, 각각 자식 fiber들의 return 속성 값은 부모 fiber가 됩니다.  
+- return : return 속성은 현재의 fiber에서 처리를 완료 한후, 돌아오는 상위 fiber를 말한다. 이를 부모 fiber라고 말할수 있다. 만약 하나의 fiber가 여러개의 자식 fiber를 가진다면, 각각 자식 fiber들의 return 속성 값은 부모 fiber가 됩니다.  
