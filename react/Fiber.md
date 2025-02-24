@@ -133,7 +133,7 @@ React가 DOM에 어떤것을 랜더링하기 전에, 각각의 fiber(작업단�
 이 단계에서 리액트는 아래의 단계를 따르는 workinProgress tree를 만든다.
 
 1.  `setState()` 메서드 호출: 컴포넌트의 상태를 업데이트하기 위해 setState() 메서드가 호출되면, React는 requestIdleCallback()을 사용하여 작업을 예약한다. 이 함수는 메인 스레드에게 유휴(Idle) 시간이 생기면 해당 작업을 수행하라고 알린다.
-2. `workInProgress `파이버 트리 생성: 이제 React는 현재의 파이버 트리에서 요소들을 복제하여 `workInProgress` 파이버 트리를 만들기 시작합니다. 그리고는 각 노드를 순회하면서 변경이 필요한지 결정합니다.
+2. `workInProgress `파이버 트리 생성: 이제 React는 현재의 파이버 트리에서 요소들을 복제하여 `workInProgress` 파이버 트리를 만들기 시작합니다. 그리고는 각 노드를 순회하면서 변경이 필요한지 결정한다.
 
 
 
