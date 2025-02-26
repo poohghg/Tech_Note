@@ -34,8 +34,17 @@
 
 
 ``` js
-
-fun
-
-
+// graph : 인접 리스트 형태의 그래프
+// v : 시작 노드
+// visited : 방문 처리를 위한 배열
+function dfs(graph, v, visited) {
+  // 현재 노드를 방문 처리
+  visited[v] = true;
+  // 현재 노드와 연결된 다른 노드를 재귀적으로 방문
+  for (let i = 0; i < graph[v].length; i++) {
+    if (!visited[graph[v][i]]) {
+      dfs(graph, graph[v][i], visited);
+    }
+  }
+}
 ```
