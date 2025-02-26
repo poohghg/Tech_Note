@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/Fiber.md",
+                "file": "javascript/array 와 set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiber"
+              "title": "array 와 set"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -170,9 +169,9 @@
   },
   "active": "223310c1d8f60683",
   "lastOpenFiles": [
+    "react/Fiber.md",
     "img/Pasted image 20250224184823.png",
     "react/React SSR 과 Hydration.md",
-    "react/Fiber.md",
     "img/Pasted image 20250224182316.png",
     "브라우저/이벤트 루프.md",
     "javascript/화살표 함수.md",
@@ -206,7 +205,6 @@
     "img/Pasted image 20250214162652.png",
     "img/Pasted image 20250128221653.png",
     "브라우저",
-    "img/Pasted image 20250124011116.png",
     "img/template.ts",
     "Testing",
     "기타",
