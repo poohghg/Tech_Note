@@ -158,14 +158,12 @@
 ##### 단언(assertion)
 
 - 테스트가 통과하기 위한 조건을 기술하여 검증을 실행한다.
-
 ##### 매처
 
 - 기대 결과를 검증하기 위해 사용되는 일종의 API 집합이다.
 - vitest에서는 다양한 기본 매처를 제공하며, 이를 확장하여 단언을 실행할 수 있다.
 - https://vitest.dev/api/expect.html
 - https://github.com/testing-library/jest-dom?tab=readme-ov-file#custom-matchers
-
 ##### setup 과 teardown
 - setup
 	- 테스트를 실행하기 전 수행해야 하는 작업
@@ -182,6 +180,7 @@
 - setup 과 teardown 를 통해 테스트 실행 전, 후 실행되어야 할 반복 작업을 관리할 수 있다.
 - 테스트 별로 별도의 스코프로 동작하기 때문에 독립적인 테스트를 구성하는데 도움을 받을 수 있다.
 - setup 과 teardown에서 전역 변수를 사용한 조건 처리는 독립성을 보장하지 못하고, 신뢰성이 낮아지므로 지양해야한다.
+---
 ###  # Testing Library
 
 - 특정 프레임워크나 라이브러리에 종속되지 않는다.
