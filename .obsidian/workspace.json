@@ -35,8 +35,7 @@
               "title": "React SSR 과 Hydration"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +181,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15dbe979bfad4d3f",
+  "active": "223310c1d8f60683",
   "lastOpenFiles": [
-    "기타/이력서 강의.md",
     "react/React SSR 과 Hydration.md",
+    "기타/이력서 강의.md",
     "알고리즘/DFS.md",
     "img/Pasted image 20250226171120.png",
     "알고리즘/데이터 구조.md",
