@@ -260,6 +260,11 @@
 - `userEvent` 로 불가능한 테스트의 경우 `fireEvent`를 사용한다.
 	- `scroll`, `focus`, `blur` 등의 이벤트는 `fireEvent`를 사용한다.`
 
+##### 상태 관리와 통합 테스트
+
+- 원하는 상태로 통합 테스트를 하기 위해 zustand 모킹이 필요하다.
+- 웹
+
 
 
 
