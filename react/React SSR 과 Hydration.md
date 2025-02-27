@@ -57,7 +57,7 @@ SSR은 리액트 컴포넌트를 서버에서 HTML로 렌더링해서 클라이�
 - 쉬운 인덱싱과 빠른 속도는 Search Engine Optimization에도 도움이 된다.
 
 ---
-### # React 18: Streaming HTML and Selective Hydration
+### # React 18:  
 
 - **Streaming HTML** on the server. To opt into it, you’ll need to switch from renderToString to the new renderToPipeableStream method, as [described here](https://github.com/reactwg/react-18/discussions/22).
 - **Selective Hydration** on the client. To opt into it, you’ll need to [switch to hydrateRoot](https://github.com/reactwg/react-18/discussions/5) on the client and then start wrapping parts of your app with Suspense.
