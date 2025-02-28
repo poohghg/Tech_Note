@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/CORS.md",
+                "file": "Web/성능.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CORS"
+              "title": "성능"
             }
           },
           {
@@ -184,8 +184,9 @@
   },
   "active": "223310c1d8f60683",
   "lastOpenFiles": [
-    "WEB/HTTP.md",
-    "WEB/CORS.md",
+    "Web/HTTP.md",
+    "Web/성능.md",
+    "Web/CORS.md",
     "Testing/Testing Library.md",
     "기타/이력서 강의.md",
     "react/React SSR 과 Hydration.md",
@@ -215,7 +216,6 @@
     "HTML/HTML.md",
     "img/Pasted image 20250219160912.png",
     "img/Pasted image 20250219160839.png",
-    "README.md",
     "img/Pasted image 20250218015812.png",
     "img/Pasted image 20250218014445.png",
     "img/Pasted image 20250218014408.png",
