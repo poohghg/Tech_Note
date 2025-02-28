@@ -14,3 +14,4 @@
 	- 요청 헤더의  `origin` 필드에 요청 출처를 담아 보낸다.
 	- 서버는 `Access-Control-Allow-Origin` 헤더에 허용할 출처를 담아 응답한다.
 	- 안전한 헤더를 사용한다.
+	- 안전하지 않은 헤더를 사용하려면 서버에서 `Access-Control-Allow-Headers` 헤더를 사용해 허용해야 한다.
