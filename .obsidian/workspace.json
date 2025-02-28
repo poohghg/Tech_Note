@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/성능.md",
+                "file": "HTML/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "성능"
+              "title": "HTML"
             }
           },
           {
@@ -183,8 +183,8 @@
   },
   "active": "223310c1d8f60683",
   "lastOpenFiles": [
-    "Web/HTTP.md",
     "Web/성능.md",
+    "Web/HTTP.md",
     "Web/CORS.md",
     "Testing/Testing Library.md",
     "기타/이력서 강의.md",
