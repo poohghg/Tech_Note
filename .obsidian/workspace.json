@@ -35,8 +35,7 @@
               "title": "HTML"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +184,10 @@
   },
   "active": "15dbe979bfad4d3f",
   "lastOpenFiles": [
-    "Web/HTTP.md",
     "HTML/HTML.md",
-    "react/React SSR 과 Hydration.md",
     "Web/성능.md",
+    "Web/HTTP.md",
+    "react/React SSR 과 Hydration.md",
     "Web/CORS.md",
     "Testing/Testing Library.md",
     "기타/이력서 강의.md",
