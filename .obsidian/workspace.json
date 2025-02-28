@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/HTTP.md",
+                "file": "WEB/CORS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "CORS"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -181,8 +182,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "223310c1d8f60683",
   "lastOpenFiles": [
+    "WEB/HTTP.md",
+    "WEB/CORS.md",
     "Testing/Testing Library.md",
     "기타/이력서 강의.md",
     "react/React SSR 과 Hydration.md",
@@ -212,9 +215,7 @@
     "HTML/HTML.md",
     "img/Pasted image 20250219160912.png",
     "img/Pasted image 20250219160839.png",
-    "WEB/HTTP.md",
     "README.md",
-    "명령어/이미지 파일 마크다운 링크로 변경.md",
     "img/Pasted image 20250218015812.png",
     "img/Pasted image 20250218014445.png",
     "img/Pasted image 20250218014408.png",
