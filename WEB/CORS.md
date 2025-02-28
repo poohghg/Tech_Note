@@ -25,3 +25,5 @@
 	    - 클라이언트는 `Access-Control-Request-Method` 헤더에 실제 요청할 메소드를 담아 보낸다.
 	    - 서버는 `Access-Control-Allow-Methods` 헤더에 허용할 메소드를 담아 응답한다.
 	    - 브라우저는 사전 요청에 대한 응답을 확인하고, 실제 요청을 보낸다.
+- CORS를 사용하는 요청
+	- 
