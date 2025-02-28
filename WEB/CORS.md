@@ -5,6 +5,7 @@
 	- 브라우저는 실행중인 어플리케이션의 출처와 다른 출처의 자원을 요청하면 차단한다.
 		- 동일 출처 정책
 - 해결: 서버가 허용할 출처를 명시한다.
-	-  Server Response `Access-Control-Allow-Origin` 헤더를 사용한다.
+	-  Server Response에 `Access-Control-Allow-Origin` 헤더를 사용한다.
 	- `*`: 모든 출처 허용
 	- `https://example.com`: 특정 출처 허용`
+	- 브라우저는 서버의 응답을 확인하고, 허용된 출처의 요청만
