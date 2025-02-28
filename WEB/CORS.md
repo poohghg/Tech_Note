@@ -8,4 +8,6 @@
 	-  Server Response에 `Access-Control-Allow-Origin` 헤더를 사용한다.
 	- `*`: 모든 출처 허용
 	- `https://example.com`: 특정 출처 허용`
-	- 브라우저는 서버의 응답을 확인하고, 허용된 출처의 요청만
+	- 브라우저는 서버의 응답을 확인하고, 허용된 출처의 요청를 허용한다.
+- 단순 요청
+	- 
