@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CORS.md",
+                "file": "Web/성능.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CORS"
+              "title": "성능"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -183,6 +184,7 @@
   },
   "active": "15dbe979bfad4d3f",
   "lastOpenFiles": [
+    "Web/CORS.md",
     "Web/HTTP.md",
     "react/디자인 패턴.md",
     "react/Fiber.md",
@@ -192,7 +194,6 @@
     "클린코드/Frontend Fundamentals.md",
     "pnpm/pnpm.md",
     "Testing/Testing Library.md",
-    "Web/CORS.md",
     "Web/성능.md",
     "README.md",
     "기타/이력서 강의.md",
