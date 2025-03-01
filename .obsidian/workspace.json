@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "이터레이터",
+                "query": "tag:#DOMTREE구성과정",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,6 +185,8 @@
   },
   "active": "15dbe979bfad4d3f",
   "lastOpenFiles": [
+    "HTML/HTML.md",
+    "Web/성능.md",
     "Web/CORS.md",
     "Web/HTTP.md",
     "react/디자인 패턴.md",
@@ -194,10 +197,8 @@
     "클린코드/Frontend Fundamentals.md",
     "pnpm/pnpm.md",
     "Testing/Testing Library.md",
-    "Web/성능.md",
     "README.md",
     "기타/이력서 강의.md",
-    "HTML/HTML.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "알고리즘/DFS.md",
     "img/Pasted image 20250226171120.png",
