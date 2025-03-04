@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Testing Library.md",
+                "file": "HTML/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Library"
+              "title": "HTML"
             }
           },
           {
@@ -197,6 +197,7 @@
   },
   "active": "15dbe979bfad4d3f",
   "lastOpenFiles": [
+    "Testing/Testing Library.md",
     "Web/성능(로딩 최적화).md",
     "HTML/HTML.md",
     "타입스크립트/타입 시스템.md",
@@ -216,7 +217,6 @@
     "react/React SSR 과 Hydration.md",
     "클린코드/Frontend Fundamentals.md",
     "pnpm/pnpm.md",
-    "Testing/Testing Library.md",
     "README.md",
     "기타/이력서 강의.md",
     "img/Pasted image 20250226171120.png",
