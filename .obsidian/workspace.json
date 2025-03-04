@@ -49,8 +49,7 @@
               "title": "CORS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,13 +196,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fd3e322628555f05",
+  "active": "15dbe979bfad4d3f",
   "lastOpenFiles": [
+    "Web/CORS.md",
     "Web/성능(로딩 최적화).md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "알고리즘/DFS.md",
     "Web/HTTP.md",
-    "Web/CORS.md",
     "브라우저/이벤트 루프.md",
     "브라우저/렌더링.md",
     "알고리즘/데이터 구조.md",
