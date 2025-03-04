@@ -35,7 +35,8 @@
               "title": "자바스크립트 전체 정리본"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,11 +183,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15dbe979bfad4d3f",
+  "active": "223310c1d8f60683",
   "lastOpenFiles": [
+    "Web/성능.md",
     "알고리즘/DFS.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
-    "Web/성능.md",
     "Web/HTTP.md",
     "Web/CORS.md",
     "브라우저/이벤트 루프.md",
