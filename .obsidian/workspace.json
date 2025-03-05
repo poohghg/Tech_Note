@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/보안.md",
+                "file": "Web/CORS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "보안"
+              "title": "CORS"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "15dbe979bfad4d3f",
   "lastOpenFiles": [
-    "Web/CORS.md",
     "Web/보안.md",
+    "Web/CORS.md",
     "Web/성능(로딩 최적화).md",
     "HTML/HTML.md",
     "Testing/Testing Library.md",
