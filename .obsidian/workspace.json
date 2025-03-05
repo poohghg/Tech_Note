@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/HTML.md",
+                "file": "Web/성능(로딩 최적화).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "성능(로딩 최적화)"
             }
           },
           {
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -197,9 +198,9 @@
   },
   "active": "15dbe979bfad4d3f",
   "lastOpenFiles": [
+    "HTML/HTML.md",
     "Testing/Testing Library.md",
     "Web/성능(로딩 최적화).md",
-    "HTML/HTML.md",
     "타입스크립트/타입 시스템.md",
     "Web/CORS.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
