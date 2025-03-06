@@ -615,7 +615,7 @@ message body - RFC7230(최신)
 - Content-Encoding
 	- 표현 데이터의 압축 방식
 	- 데이터를 전달하는 곳에서 압축 후 인코딩 헤더 추가
-	- 데이터를 읽는 쪽에서 인코딩 헤더의 정보로 압축 해제
+	- 데이터를 읽는 쪽에서 메시지 바디를 인코딩 헤더의 정보로 압축 해제
 	- gzip, deflate, identity
 - Content-Language: 
 	- 표현 데이터의 자연 언어
