@@ -645,3 +645,8 @@ message body - RFC7230(최신)
 	- 생략시 1
 	- Accept-Language: ko-KR, en;q=0.9
 		- 한국어(1) q 생략, 영어(0.9)
+- 구체적인 것이 우선이다.
+- Accept: text/*, text/html, text/html;level=1, text/html;level=2;q=0.4
+	- text/html;level=1
+	- text/html
+	- text/*
