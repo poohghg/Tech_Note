@@ -611,17 +611,18 @@ message body - RFC7230(최신)
 
 - Content-Type: 
 	- 표현 데이터의 현식
-	-  text/html; charset=utf-8, application/json, image/png , ...
+	-  text/html; charset=utf-8, application/json, image/png
 - Content-Encoding
 	- 표현 데이터의 압축 방식
 	- 데이터를 전달하는 곳에서 압축 후 인코딩 헤더 추가
 	- 데이터를 읽는 쪽에서 메시지 바디를 인코딩 헤더의 정보로 압축 해제
-	- gzip, deflate, identity
+	- gzip, deflate, identity(압)
 - Content-Language: 
 	- 표현 데이터의 자연 언어
 	- ko, en, en-US
 - Content-Length: 
 	- 표현 데이터의 길이
 	- Transfer-Encoding을 사용하면 Content-Length를 사용하면 안된다.
-		- Transfer-Encoding 내부에 정보들이 
+		- Transfer-Encoding 내부에 정보들이 들어가기 때문에 Content-Length를 사용하면 안된다.
+		- Transfer-Encoding: chunked
 	- 바이트 단위
