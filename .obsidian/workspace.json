@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5beff38121ee386f",
+        "id": "11aba162a57d7e43",
         "type": "tabs",
         "children": [
           {
-            "id": "f02a212cfb202716",
+            "id": "759e14e1793d4807",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "명령어/이미지 파일 마크다운 링크로 변경.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "이미지 파일 마크다운 링크로 변경"
             }
           }
         ]
@@ -138,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "명령어/이미지 파일 마크다운 링크로 변경.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "이미지 파일 마크다운 링크로 변경 의 개요"
             }
           }
         ],
@@ -164,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f02a212cfb202716",
+  "active": "759e14e1793d4807",
   "lastOpenFiles": [
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "Web/CORS.md",
