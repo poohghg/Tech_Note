@@ -11,17 +11,14 @@
             "id": "759e14e1793d4807",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -98.064453125,
-                  "zoom": 0
-                }
+                "file": "Web/HTTP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "무제"
+              "icon": "lucide-file",
+              "title": "HTTP"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제.canvas",
+                "file": "Web/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 의 백링크"
+              "title": "HTTP 의 백링크"
             }
           },
           {
@@ -143,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제.canvas",
+                "file": "Web/HTTP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "HTTP 의 개요"
             }
           }
         ]
@@ -170,6 +167,7 @@
   },
   "active": "759e14e1793d4807",
   "lastOpenFiles": [
+    "리팩토링/기능 이동.md",
     "무제.canvas",
     "타입스크립트/타입 메모.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
