@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/보안.md",
+                "file": "타입스크립트/핸드북.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "보안"
+              "title": "핸드북"
             }
           },
           {
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -198,12 +197,12 @@
   },
   "active": "15dbe979bfad4d3f",
   "lastOpenFiles": [
+    "타입스크립트/타입 시스템.md",
+    "Web/보안.md",
     "HTML/HTML.md",
     "Web/CORS.md",
-    "Web/보안.md",
     "Web/성능(로딩 최적화).md",
     "Testing/Testing Library.md",
-    "타입스크립트/타입 시스템.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "알고리즘/DFS.md",
     "Web/HTTP.md",
