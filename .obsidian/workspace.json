@@ -4,63 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b020e559aa8fcaa5",
+        "id": "5beff38121ee386f",
         "type": "tabs",
         "children": [
           {
-            "id": "15dbe979bfad4d3f",
+            "id": "f02a212cfb202716",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "명령어/이미지 파일 마크다운 링크로 변경.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "이미지 파일 마크다운 링크로 변경"
-            }
-          },
-          {
-            "id": "9827a721c4af41f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/CORS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CORS"
-            }
-          },
-          {
-            "id": "223310c1d8f60683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "자바스크립트 전체 정리본"
-            }
-          },
-          {
-            "id": "fd3e322628555f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/CORS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CORS"
+              "title": "새 탭"
             }
           }
         ]
@@ -209,12 +163,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15dbe979bfad4d3f",
+  "active": "f02a212cfb202716",
   "lastOpenFiles": [
+    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
+    "Web/CORS.md",
+    "명령어/이미지 파일 마크다운 링크로 변경.md",
     "Web/HTTP.md",
     "img/Pasted image 20250306161956.png",
     "img/Pasted image 20250306161930.png",
-    "Web/CORS.md",
     "Web/보안.md",
     "img/Pasted image 20250306152248.png",
     "img/Pasted image 20250306152228.png",
@@ -224,7 +180,6 @@
     "HTML/HTML.md",
     "Web/성능(로딩 최적화).md",
     "Testing/Testing Library.md",
-    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "알고리즘/DFS.md",
     "브라우저/이벤트 루프.md",
     "브라우저/렌더링.md",
