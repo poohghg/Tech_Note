@@ -533,4 +533,8 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 	- 예) 요청 파라미터가 잘못되거나, API 스펙이 맞지 않을때
 - 401 Unauthorized
 	- 인증 되지 않음
-	- 401 오류 발생시 응답에 
+	- 401 오류 발생시 응답에 WWW-Authenticate 헤더와 함께 인증 방법을 설명
+	- 참고
+	- 인증(Authentication)과 인가(Authorization)
+		- 인증(Authentication): 본인이 누구인지 확인(로그인)
+		- 인가: 권한 부여
