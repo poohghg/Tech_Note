@@ -300,6 +300,31 @@ describe('타이머 테스트', () => {
 	- 브라우저는 서비스 워커를 사용, Node.js는 http 요청을 가로채는 인턱셉터를 사용
 	- setup 과 teardown을 통해 API 모킹을 초기화하고 제거한다.
 
+```ts
+
+import { setupServer } from 'msw/node'
+
+const server = setupServer(
+  rest.get('https://api.example.com/posts', (req, res, ctx) => {
+    return res(ctx.json({ title: 'test' }))
+  })
+)
+
+// 테스트 실행 전 서버를 시작한다.
+beforeAll(() => server.listen())
+
+// 테스트 실행 후 서버를 종료한다.
+afterEach(() => server.resetHandlers())
+
+// 
+afterAll(() => server.close())
+```
+
+
+
+
+```
+
 
 
 
