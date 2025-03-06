@@ -601,3 +601,8 @@ message body - RFC7230(최신)
 - 표현은 요청이나 응답에서 전달할 실제 데이터
 - 표현 헤더는 표현 데이터를 해석할 수 있는 정보를 제공
 	- 데이터 타입, 길이, 압축, 가공 등등
+##### 참고
+- RFC723x 변화
+	- 엔티티 -> 표현
+	- Representation -> Representation Metadata + Representation Data
+	- 표현 
