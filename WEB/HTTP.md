@@ -573,4 +573,4 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 - HTTP 전송에 필용한 모든 부가정보
 	- 메시지 바디의 내용, 메시지 바디의 크기, 압축, 인증, 요청 클라이언트 정보, 서버 정보, 캐시 관리 정보 등등
 - 표준 헤더가 많음
-	- https://www.iana.org/assignments/message-headers/message-headers.xhtml
+	- https://developer.mozilla.org/ko/docs/Web/HTTP/Headers
