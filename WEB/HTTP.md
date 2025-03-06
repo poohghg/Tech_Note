@@ -586,3 +586,9 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 - Request Header
 	- 요청 정보
 	- Accept, Accept-Charset, Accept-Encoding, Accept-Language, Authorization, Expect, From, Host, If-Match, If-Modified-Since, If-None-Match, If-Range, If-Unmodified-Since, Max-Forwards, Proxy-Authorization, Range, Referer, TE, User-Agent
+- Response Header
+	- 응답 정보
+	- Accept-Ranges, Age, ETag, Location, Proxy-Authenticate, Retry-After, Server, Vary, WWW-Authenticate
+- Entity Header
+	- 엔티티 바디 정보
+	- Allow, Content-Encoding, Content-Language, Content-Length, Content-Location, Content-MD5, Content-Range, Content-Type, Expires, Last-Modified
