@@ -562,3 +562,8 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 
 ---
 ###  # HTTP 헤더
+
+![[Pasted image 20250306152248.png]]
+
+- header-field = field-name ":" OWS field-value OWS
+- field-name은 대소문자 구분이 없다.
