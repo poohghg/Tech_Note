@@ -538,6 +538,6 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 	- 인증(Authentication)과 인가(Authorization)
 		- 인증(Authentication): 본인이 누구인지 확인(로그인)
 		- 인가(Authorization): 권한 부여 (Admin 권한처럼 특정 리소스에 접근할 수 있는 권한, 인증이 있어야 인간가 있음)
-		- 오류 메시지가 Unauthorized 이지만, 인증 실패가 아니라 권한이 없는 경우에도 사용한다.
-
-#### 403 
+		- 오류 메시지가 Unauthorized 이지만, 인증 실패가 아니라 권한이 없는 경우에도 사용한다
+- 403 Forbidden
+	- 서버가 요청을 이해했지만 승인을 거부함
