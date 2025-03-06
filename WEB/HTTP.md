@@ -589,7 +589,7 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 - Response Header
 	- 응답 정보
 	- Accept-Ranges, Age, ETag, Location, Proxy-Authenticate, Retry-After, Server, Vary, WWW-Authenticate
-- Entity Header
+- Entity Header -> 표현헤더로 변경
 	- 엔티티 바디 정보
 	- Allow, Content-Encoding, Content-Language, Content-Length, Content-Location, Content-MD5, Content-Range, Content-Type, Expires, Last-Modified
 
@@ -600,3 +600,5 @@ message body - RFC7230(최신)
 - 메시지 본문 = 페이로드(payload)
 - 표현은 요청이나 응답에서 전달할 실제 데이터
 - 표현 헤더는 표현 데이터를 해석할 수 있는 정보를 제공
+	- 데이터 타입, 길이, 압축, 가공 등등
+- 참고: 표현 헤더는 표현 데이터와 무관하게 웹 캐시가 저장하고 관리할 수 있다.
