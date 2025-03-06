@@ -313,10 +313,10 @@ const server = setupServer(
 // 테스트 실행 전 서버를 시작한다.
 beforeAll(() => server.listen())
 
-// 테스트 실행 후 서버를 종료한다.
+// 테스트 실행 후 서버를 초기화한다.
 afterEach(() => server.resetHandlers())
 
-// 
+// 테스트 실행 후 서버를 종료한다.
 afterAll(() => server.close())
 ```
 
