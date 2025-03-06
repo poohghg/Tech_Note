@@ -635,3 +635,13 @@ message body - RFC7230(최신)
 - Accept-Charset: 클라이언트가 선호하는 문자 인코딩
 - Accept-Encoding: 클라이언트가 선호하는 압축 인코딩
 - Accept-Language: 클라이언트가 선호하는 자연 언어
+
+#### 협상과 우선순위
+
+![[Pasted image 20250306161956.png]]
+
+- Quality Value(q)
+	- 0~1, 클수록 높은 우선순위
+	- 생략시 1
+  - Accept-Language: ko-KR, en;q=0.9
+    - 한국어(1), 영어(0.9)
