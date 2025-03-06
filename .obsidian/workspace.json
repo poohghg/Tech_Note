@@ -11,10 +11,12 @@
             "id": "f02a212cfb202716",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ]
@@ -136,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기타/이력서.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "이력서 의 개요"
+              "title": "개요"
             }
           }
         ],
