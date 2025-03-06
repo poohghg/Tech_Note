@@ -239,6 +239,36 @@
 	- 테스트가 실행 된 후 다른 테스트에 영향을 주지 않기 위해 타이머 모킹을 해제해야한다.
 	- `useRealTimers()` 함수를 사용하여 타이머를 복원한다.
 
+``` ts
+
+import { useFakeTimers, useRealTimers } from 'vitest'
+
+describe('타이머 테스트', () => {
+  let clock
+
+  beforeEach(() => {
+    clock = useFakeTimers()
+  })
+
+  afterEach(() => {
+    useRealTimers()
+  })
+
+  it('타이머 테스트', () => {
+    const callback = vi.fn()
+    setTimeout(callback, 1000)
+    clock.advanceTimersByTime(1000)
+    expect(callback).toHaveBeenCalled()
+  })
+})
+```
+
+
+
+
+```
+
+
 #### userEvent
 
 - 실제 사용자가 사용하는 것처럼 이벤트가 연쇄적으로 발생
