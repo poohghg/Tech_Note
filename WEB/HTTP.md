@@ -622,4 +622,6 @@ message body - RFC7230(최신)
 	- ko, en, en-US
 - Content-Length: 
 	- 표현 데이터의 길이
+	- Transfer-Encoding을 사용하면 Content-Length를 사용하면 안된다.
+		- Transfer-Encoding 내부에 정보들이 
 	- 바이트 단위
