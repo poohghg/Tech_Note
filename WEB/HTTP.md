@@ -577,3 +577,12 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 - 필요시 임의의 헤더 추가가 가능하다.
 	- 커스텀 헤더 추가 가능
 	- X-로 시작하는 커스텀 헤더
+
+#### HTTP 헤더 분류
+
+- General Header
+	- 메시지 전체에 적용되는 정보
+	- Cache-Control, Connection, Date, Pragma, Trailer, Transfer-Encoding, Upgrade, Via, Warning
+- Request Header
+	- 요청 정보
+	- Accept, Accept-Charset, Accept-Encoding, Accept-Language, Authorization, Expect, From, Host, If-Match, If-Modified-Since, If-None-Match, If-Range, If-Unmodified-Since, Max-Forwards, Proxy-Authorization, Range, Referer, TE, User-Agent
