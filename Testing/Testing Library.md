@@ -184,6 +184,11 @@
 ---
 ### # Queries
 
+쿼리는 Testing Library에서 페이지의 요소를 찾는 데 제공하는 방법이다. [쿼리에는 여러 유형이](https://testing-library.com/docs/queries/about#types-of-queries) 있다 ("get", "find", "query").
+
+#### 쿼리의 종류
+
+- `getBy`: 쿼리에 대한 일치하는 노드를 반환하고, 일치하는 요소가 없거나 두 개 이상의 일치 항목이 있는 경우 
 
 
 ###  # Testing Library
