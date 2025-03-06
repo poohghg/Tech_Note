@@ -628,9 +628,10 @@ message body - RFC7230(최신)
 	- 바이트 단위
 
 #### 협상(Coontent Negotiation)
-
 클라이언트가 선호하는 표현 요청
 
-
 - 협상 헤더는 요칭시에만 사용한다.
-- Accept: 
+- Accept: 클라이언트가 선호하는 미디어 타입 전달
+- Accept-Charset: 클라이언트가 선호하는 문자 인코딩
+- Accept-Encoding: 클라이언트가 선호하는 압축 인코딩
+- Accept-Language: 클라이언트가 선호하는 자연 언어
