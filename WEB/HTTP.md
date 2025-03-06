@@ -605,4 +605,4 @@ message body - RFC7230(최신)
 - RFC723x 변화
 	- 엔티티 -> 표현
 	- Representation -> Representation Metadata + Representation Data
-	- 표현 
+	- 표현 = 표현 메타데이터 + 표현 데이터
