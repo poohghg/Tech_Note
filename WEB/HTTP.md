@@ -643,5 +643,5 @@ message body - RFC7230(최신)
 - Quality Value(q)
 	- 0~1, 클수록 높은 우선순위
 	- 생략시 1
-  - Accept-Language: ko-KR, en;q=0.9
-    - 한국어(1), 영어(0.9)
+	- Accept-Language: ko-KR, en;q=0.9
+		- 한국어(1) q 생략, 영어(0.9)
