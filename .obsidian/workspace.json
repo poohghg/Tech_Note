@@ -11,14 +11,17 @@
             "id": "759e14e1793d4807",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "타입스크립트/타입 메모.md",
-                "mode": "source",
-                "source": false
+                "file": "무제.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "타입 메모"
+              "icon": "lucide-layout-dashboard",
+              "title": "무제"
             }
           }
         ]
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP웹 기본 지식/HTTP.md",
+                "file": "무제.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "HTTP의 백링크"
+              "title": "무제 의 백링크"
             }
           },
           {
@@ -142,22 +145,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "타입스크립트/타입 메모.md",
+                "file": "무제.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "타입 메모 의 개요"
+              "title": "무제 의 개요"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +172,8 @@
   },
   "active": "759e14e1793d4807",
   "lastOpenFiles": [
+    "무제.canvas",
+    "타입스크립트/타입 메모.md",
     "명령어/이미지 파일 마크다운 링크로 변경.md",
     "2025-03-06.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
@@ -181,7 +184,6 @@
     "Web/보안.md",
     "img/Pasted image 20250306152248.png",
     "img/Pasted image 20250306152228.png",
-    "타입스크립트/타입 메모.md",
     "타입스크립트/핸드북.md",
     "타입스크립트/타입 시스템.md",
     "HTML/HTML.md",
@@ -200,7 +202,6 @@
     "클린코드/Frontend Fundamentals.md",
     "pnpm/pnpm.md",
     "README.md",
-    "기타/이력서 강의.md",
     "img/Pasted image 20250226171120.png",
     "img/Pasted image 20250224184823.png",
     "img/Pasted image 20250224182316.png",
