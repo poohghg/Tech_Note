@@ -592,3 +592,7 @@ URL 구성시 가중 중요한것은 리소스 식별이다.
 - Entity Header
 	- 엔티티 바디 정보
 	- Allow, Content-Encoding, Content-Language, Content-Length, Content-Location, Content-MD5, Content-Range, Content-Type, Expires, Last-Modified
+
+#### HTTP Body
+
+- 메시지 본문은 엔
