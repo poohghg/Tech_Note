@@ -63,8 +63,7 @@
               "title": "CORS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -210,8 +210,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9827a721c4af41f5",
+  "active": "15dbe979bfad4d3f",
   "lastOpenFiles": [
+    "Web/CORS.md",
     "Web/보안.md",
     "Web/HTTP.md",
     "img/Pasted image 20250306152248.png",
@@ -220,7 +221,6 @@
     "타입스크립트/핸드북.md",
     "타입스크립트/타입 시스템.md",
     "HTML/HTML.md",
-    "Web/CORS.md",
     "Web/성능(로딩 최적화).md",
     "Testing/Testing Library.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
