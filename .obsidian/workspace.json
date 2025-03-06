@@ -77,13 +77,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -170,7 +168,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "759e14e1793d4807",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "무제.canvas",
     "타입스크립트/타입 메모.md",
