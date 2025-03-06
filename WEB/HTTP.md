@@ -627,4 +627,10 @@ message body - RFC7230(최신)
 		- Transfer-Encoding: chunked
 	- 바이트 단위
 
-#### 협상(Cpm)
+#### 협상(Coontent Negotiation)
+
+클라이언트가 선호하는 표현 요청
+
+
+- 협상 헤더는 요칭시에만 사용한다.
+- Accept: 
