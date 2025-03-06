@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Testing Library.md",
+                "file": "Web/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Library"
+              "title": "HTTP"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Testing Library.md",
+                "file": "Web/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Testing Library 의 백링크"
+              "title": "HTTP 의 백링크"
             }
           },
           {
@@ -169,6 +169,7 @@
   },
   "active": "759e14e1793d4807",
   "lastOpenFiles": [
+    "Testing/Testing Library.md",
     "Web/HTTP.md",
     "무제.canvas",
     "리팩토링/기능 이동.md",
@@ -186,7 +187,6 @@
     "타입스크립트/타입 시스템.md",
     "HTML/HTML.md",
     "Web/성능(로딩 최적화).md",
-    "Testing/Testing Library.md",
     "알고리즘/DFS.md",
     "브라우저/이벤트 루프.md",
     "브라우저/렌더링.md",
