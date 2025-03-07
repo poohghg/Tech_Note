@@ -688,3 +688,4 @@ message body - RFC7230(최신)
 	- Server: Apache/2.2.22 (Debian) / nginx
 	- 응답에서 사용
 - Date: 메시지가 발생한 날짜와 시간
+	- 응답에서 사용
