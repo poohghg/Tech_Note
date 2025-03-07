@@ -696,6 +696,8 @@ message body - RFC7230(최신)
 - Host: 요청한 호스트 정보 (도메인)
 	- 요청에서 사용
 		- 필수 값이다.
+	- 하나의 서버가 여러 도메인을 처리해야 할 때
+	- 하나의 IP 주소에 여러 도메인이 적용되어 있을 때
 - Location 
 - Allow
 - Retry-After
