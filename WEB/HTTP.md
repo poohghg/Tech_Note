@@ -762,4 +762,12 @@ HTTP는 무상태(Stateless) 프로토콜이다. 클라이언트와 서버가 �
 	- 예) path=/home
 	- 이 경로를 포함한 하위 경로 페이지에서만 쿠키 접근 가능
 	- 일반적으로 path =/로 루트로 지정
+- 보안
+	- Secure
+		- 쿠키는 HTTP, HTTPS 를 구분하지 않고 전송
+	    - HTTPS인 경우에만 쿠키 전송
+    - HttpOnly
+        - 자바스크립트에서 쿠키에 접근 불가
+	- SameSite
+
 
