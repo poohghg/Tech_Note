@@ -758,4 +758,7 @@ HTTP는 무상태(Stateless) 프로토콜이다. 클라이언트와 서버가 �
 		- 현재 문서의 도메인이 example.org 에서 쿠키를 생성하고 domain 지정을 생략
 		- example.org 에서만 쿠키 접근
 		- dev.example.org는 쿠키 미접근
+- 경로 (Path)
+	- 예) path=/home
+	- 이 경로를 포함한 하위 경로 페이지에서만 쿠키 접
 
