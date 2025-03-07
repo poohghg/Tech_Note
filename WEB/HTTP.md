@@ -708,4 +708,5 @@ message body - RFC7230(최신)
 	- Allow: GET, HEAD, PUT
 - Retry-After: 유저 에이전트가 다음 요청을 하기까지 기다려야 하는 시간
 	- 503(Service Unavailable): 서비스가 언제까지 불능인지 알려줄 수 있음
-	- Retry-After: Fri, 31 Dec 1999 23:59:59 GMT
+	- Retry-After: Fri, 31 Dec 1999 23:59:59 GMT (날짜 표기)
+	- Retry-After: 120 (초단위 표기)
