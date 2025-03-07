@@ -718,3 +718,4 @@ message body - RFC7230(최신)
 - WWW-Authenticate: 리소스 접근시 필요한 인증 방법 정의
 	- 401 Unauthorized 응답과 함께 사용
 	- WWW-Authenticate: Basic realm="User Visible Realm"
+	- 
