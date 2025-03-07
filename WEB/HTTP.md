@@ -765,9 +765,12 @@ HTTP는 무상태(Stateless) 프로토콜이다. 클라이언트와 서버가 �
 - 보안
 	- Secure
 		- 쿠키는 HTTP, HTTPS 를 구분하지 않고 전송
-	    - HTTPS인 경우에만 쿠키 전송
+	    - Secure를 적용하면 HTTPS인 경우에만 전송
     - HttpOnly
+	    - XSS(크로스 사이트 스크립팅) 공격을 방지하기 위해 사용
         - 자바스크립트에서 쿠키에 접근 불가
+        - HTTP 전송에만 사용
 	- SameSite
+		- XSRF(사이트간 요청 위조) 공격 방지
 
 
