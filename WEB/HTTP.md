@@ -701,5 +701,7 @@ message body - RFC7230(최신)
 	- 하나의 IP 주소에 여러 도메인이 적용되어 있을 때
 - Location: 페이지 리다이렉션
 	- 웹 브라우저는 3xx 응답의 결과에 Location 헤더가 있으면, Location 위치로 자동 이동(리다이렉트)
+	- 201 Created: Location값은 요청에 의해 생성된 리소스 URL
+	- 3xx Redirection: Location 값은 요청을 자동으로 리다이렉션 할 리소스 URL
 - Allow
 - Retry-After
