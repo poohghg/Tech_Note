@@ -755,5 +755,7 @@ HTTP는 무상태(Stateless) 프로토콜이다. 클라이언트와 서버가 �
 		- domain=example.org를 지정해서 쿠키를 생성하면
 		- example.org, www.example.org, my.example.org등 서브 도메인에서도 사용 가능하다.
 	- 생략: 현재 문서 기준 도메인만 적용
-		- 현재 문서의 도메인이 example.org 에서 쿠키를 생성하고
+		- 현재 문서의 도메인이 example.org 에서 쿠키를 생성하고 domain 지정을 생략
+		- example.org 에서만 쿠키 접근
+		- dev.example.org는 쿠키 미접근
 
