@@ -718,4 +718,8 @@ message body - RFC7230(최신)
 - WWW-Authenticate: 리소스 접근시 필요한 인증 방법 정의
 	- 401 Unauthorized 응답과 함께 사용
 	- WWW-Authenticate: Basic realm="User Visible Realm"
-	- 
+
+#### 쿠키
+
+- Set-Cookie: 서버에서 클라이언트로 쿠키 전달(응답)
+	- Set-Cookie: key=value, key2=value2
