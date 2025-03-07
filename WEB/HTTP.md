@@ -741,4 +741,6 @@ HTTP는 무상태(Stateless) 프로토콜이다. 클라이언트와 서버가 �
 			- sessionStorage: 세션 보관
 				- 세션 종료시 데이터 삭제
 				- 용량이 작다.
+	- 생명 주기
+		- Set-Cookie: Expires=Sat, 26-Mar-2022 07:28:00 GMT
 
