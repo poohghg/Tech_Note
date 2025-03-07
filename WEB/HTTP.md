@@ -650,3 +650,10 @@ message body - RFC7230(최신)
 		- text/html;level=1
 		- text/html
 		- text/*
+
+#### 전송 방식
+
+- 단순 전송
+- 압축 전송
+- 분할 전송
+- 범위 전송
