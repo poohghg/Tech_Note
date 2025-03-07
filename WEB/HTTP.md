@@ -693,5 +693,9 @@ message body - RFC7230(최신)
 
 #### 특별한 정보
 
-- Host
-- Location
+- Host: 요청한 호스트 정보 (도메인)
+	- 요청에서 사용
+		- 필수 값이다.
+- Location 
+- Allow
+- Retry-After
