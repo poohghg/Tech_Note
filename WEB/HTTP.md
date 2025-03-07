@@ -723,3 +723,4 @@ message body - RFC7230(최신)
 
 - Set-Cookie: 서버에서 클라이언트로 쿠키 전달(응답)
 	- Set-Cookie: key=value, key2=value2
+- Cookie: 클라이언트가 서버에게 쿠키 전달(요청)
