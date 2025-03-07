@@ -659,5 +659,8 @@ message body - RFC7230(최신)
 	- 서버에서 응답 데이터를 압축해서 전송
 	- Content-Encoding을 명시하여 전송
 - 분할 전송
-	- 
+	- 여러개의 응답 메시지를 전송
+	- Transfer-Encoding: chunked
+	- Content-Length를 사용하면 안된다.
+		- chunked ake
 - 범위 전송
