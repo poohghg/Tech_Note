@@ -699,6 +699,7 @@ message body - RFC7230(최신)
 		- 필수 값이다.
 	- 하나의 서버가 여러 도메인을 처리해야 할 때
 	- 하나의 IP 주소에 여러 도메인이 적용되어 있을 때
-- Location 
+- Location: 페이지 리다이렉션
+	- 웹 브라우저는 3xx 응답의 결과에 Location 헤더가 있으면, Location 위치로 자동 이동(리다이렉트)
 - Allow
 - Retry-After
