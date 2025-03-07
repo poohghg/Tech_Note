@@ -662,5 +662,7 @@ message body - RFC7230(최신)
 	- 여러개의 응답 메시지를 전송
 	- Transfer-Encoding: chunked
 	- Content-Length를 사용하면 안된다.
-		- chunked ake
+		- chunked 마다 길이를 명시
 - 범위 전송
+	- 범위를 지정해서 요청 후 응답
+	- Range: bytes=5001-10000/10000
