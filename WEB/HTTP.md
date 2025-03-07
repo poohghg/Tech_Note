@@ -749,5 +749,9 @@ HTTP는 무상태(Stateless) 프로토콜이다. 클라이언트와 서버가 �
 		- 0 이나 음수를 지정하면 쿠키 삭제
 	- 세션 쿠키: 만료 날짜를 생략하면 브라우저 종료시 까지만 유지
 	- 영속 쿠키: 만료 날짜를 입력하면 해당 날짜까지 유지
-- 도메인 (Do)
+- 도메인 (Domain)
+	- 예) domain=example.org
+	- 명시: 명시한 기준 도메인 + 서브 도메인 포함
+		- domain=example.org를 지정해서 쿠키를 생성하면
+		- example.org, www.example.org, my.example.org등 서브 도메이
 
