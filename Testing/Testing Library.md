@@ -346,7 +346,10 @@ afterAll(() => server.close())
 	- Teardown(afterEach)에서 `server.resetHandlers()`를 사용하여 동적인 API 모킹 초기화
 	- 일관된 모킹 데이터로 안정성 있는 테스트 작성
 
+#### 통합 테스트의 한계
 
+- 전체 워크플로우를 검증하는 경우 지나치게 모킹에 의존하게 된다.
+- 모킹 사 
 
 
 
