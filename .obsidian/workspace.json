@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -183,9 +184,9 @@
   },
   "active": "4387bbafa7754c6e",
   "lastOpenFiles": [
-    "img/Pasted image 20250310162943.png",
     "알고리즘/DFS.md",
     "알고리즘/BFS.md",
+    "img/Pasted image 20250310162943.png",
     "testing/Testing Library.md",
     "javascript/array 와 set.md",
     "알고리즘/백트래킹.md",
@@ -219,7 +220,6 @@
     "img/Pasted image 20250226171120.png",
     "img/Pasted image 20250224184823.png",
     "img/Pasted image 20250224182316.png",
-    "img/Pasted image 20250219185838.png",
     "브라우저",
     "img/template.ts",
     "testing",
