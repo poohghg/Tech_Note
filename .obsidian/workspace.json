@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/BFS.md",
+                "file": "testing/Testing Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFS"
+              "title": "Testing Library"
             }
           },
           {
@@ -196,10 +196,10 @@
   },
   "active": "5e38664e1f5b0d74",
   "lastOpenFiles": [
+    "알고리즘/BFS.md",
     "알고리즘/DFS.md",
     "javascript/Map 과 Object.md",
     "javascript/array 와 set.md",
-    "알고리즘/BFS.md",
     "img/Pasted image 20250310163749.png",
     "img/Pasted image 20250310162943.png",
     "testing/Testing Library.md",
