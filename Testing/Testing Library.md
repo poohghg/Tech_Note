@@ -344,7 +344,7 @@ afterAll(() => server.close())
 - server.use() 
 	- API에 대해 상황에 따라 다른 모킹을 하기 위해 사용한다.
 	- Teardown(afterEach)에서 `server.resetHandlers()`를 사용하여 동적인 API 모킹 초기화
-	- 
+	- 일관된 모킹 데이터로 안정성 있는 테스트 작성
 
 
 
