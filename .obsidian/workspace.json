@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/핸드북.md",
+                "file": "Web/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "핸드북"
+              "title": "HTTP"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -169,6 +168,7 @@
   },
   "active": "2f7c5aae952a3aa1",
   "lastOpenFiles": [
+    "타입스크립트/핸드북.md",
     "testing/Testing Library.md",
     "알고리즘/BFS.md",
     "알고리즘/DFS.md",
@@ -192,7 +192,6 @@
     "Web/보안.md",
     "img/Pasted image 20250306152248.png",
     "img/Pasted image 20250306152228.png",
-    "타입스크립트/핸드북.md",
     "타입스크립트/타입 시스템.md",
     "HTML/HTML.md",
     "Web/성능(로딩 최적화).md",
