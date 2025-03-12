@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/HTTP.md",
+                "file": "javascript/화살표 함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "화살표 함수"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "2f7c5aae952a3aa1",
   "lastOpenFiles": [
+    "Web/HTTP.md",
     "타입스크립트/핸드북.md",
     "testing/Testing Library.md",
     "알고리즘/BFS.md",
@@ -177,7 +178,6 @@
     "img/Pasted image 20250310163749.png",
     "img/Pasted image 20250310162943.png",
     "알고리즘/백트래킹.md",
-    "Web/HTTP.md",
     "img/Pasted image 20250307160644.png",
     "img/Pasted image 20250307160633.png",
     "무제.canvas",
