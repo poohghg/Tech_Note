@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -168,8 +169,9 @@
   },
   "active": "2f7c5aae952a3aa1",
   "lastOpenFiles": [
-    "javascript/프로토타입.md",
+    "Web/CORS.md",
     "Web/보안.md",
+    "javascript/프로토타입.md",
     "react/react-core/createElement.md",
     "react/react-core/render.md",
     "react/react-core/diffing.md",
@@ -195,7 +197,6 @@
     "명령어/이미지 파일 마크다운 링크로 변경.md",
     "2025-03-06.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
-    "Web/CORS.md",
     "img/Pasted image 20250306161956.png",
     "img/Pasted image 20250306161930.png",
     "img/Pasted image 20250306152248.png",
