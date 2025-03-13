@@ -3,7 +3,6 @@
 > 
 > - [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/null)
 > - https://inpa.tistory.com/entry/%F0%9F%93%9A-null-undefined-NaN
-
 ### null
 
 **`null`** 은 JavaScript의 [원시 값](https://developer.mozilla.org/ko/docs/Glossary/Primitive) 중 하나로, 어떤 값이 의도적으로 비어 있음을 표현하며 불리언 연산에서는 [거짓](https://developer.mozilla.org/ko/docs/Glossary/Falsy)으로 취급한다.
@@ -15,7 +14,7 @@ null은 리터럴로써 null이라 쓰인다. null은 undefined과 같이 글로
 - 객체 속성값을 초기화
 - 함수의 매개변수의 초기화
 
-```
+``` js
 // 정의되지 않고 초기화된 적도 없는 foo
 foo; //ReferenceError: foo is not defined
 
