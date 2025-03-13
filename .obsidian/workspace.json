@@ -49,7 +49,8 @@
               "title": "자바스크립트 엔진 강의 정리"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,15 +196,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2f7c5aae952a3aa1",
+  "active": "fc6620f7a2e866b1",
   "lastOpenFiles": [
+    "javascript/프로토타입.md",
+    "javascript/자바스크립트는 왜 프로토타입을 선택했을까 (요약).md",
     "img/Pasted image 20250314013033.png",
     "img/Pasted image 20250314012750.png",
     "img/Pasted image 20250314010431.png",
     "img/Pasted image 20250314010424.png",
     "javascript/자바스크립트 엔진 강의 정리.md",
-    "javascript/프로토타입.md",
-    "javascript/자바스크립트는 왜 프로토타입을 선택했을까 (요약).md",
     "javascript/null vs undefined.md",
     "javascript/Map 과 Object.md",
     "javascript/array 와 set.md",
@@ -233,7 +234,6 @@
     "무제.canvas",
     "img/Pasted image 20250306161956.png",
     "img/Pasted image 20250306161930.png",
-    "img/Pasted image 20250306152248.png",
     "브라우저",
     "img/template.ts",
     "testing",
