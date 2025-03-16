@@ -824,3 +824,9 @@ HTTP는 무상태(Stateless) 프로토콜이다. 클라이언트와 서버가 �
 ![[Pasted image 20250317001715.png]]
 
 ![[Pasted image 20250317002640.png]]
+
+##### Last-Modified, If-Modified-Since 단점
+
+- 1초 미안 단위로 캐시 조정이 불가능하다.
+- 날짜 기반의 로직 사용
+- 데이터를
