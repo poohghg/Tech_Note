@@ -852,6 +852,28 @@ HTTP는 무상태(Stateless) 프로토콜이다. 클라이언트와 서버가 �
 	- 예) 서버는 배타 오프 기간인 3일 동안 파일이 변경되어도 같은 Etag를 유지하도록 설정 가능
 	- 애플리케이션 배포 주기에 맞추어 ETag 갱신
 
+##### 캐시 제어 헤더
+
+- Cache-Control: 캐시 제어
+- Cache-Control: max-age=600
+	- 600초(10분) 동안 캐시를 사용
+- Cache-Control: no-cache
+	- 데이터는 캐시해도 되지만, 항상 서버에 검증하고 사용
+- Cache-Control: no-store
+	- 데이터에 민감한 정보가 있으므로 저장하면 안된다.
+- Cache-Control: public
+	- 리소스를 캐시해도 되고, 공유해도 된다.
+- Cache-Control: private
+	- 개인 캐시에만 저장해야 한다.
+- Cache-Control: no-transform
+	- 프록시 등은 응답을 변환해서는 안된다.
+- Cache-Control: must-revalidate
+	- 캐시 만료 후 최초 검증을 서버에 요청해야 한다.
+- Cache-Control: proxy-revalidate
+	- 프록시 캐시 만료 후 최초 검증을 서버에 요청해야 한다.
+- Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+	- 캐시를 사용하면 안된다.`
+
 
 
 
