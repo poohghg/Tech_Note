@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,11 +237,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6b22f4ae3b083613",
+  "active": "ab24d68b1f876997",
   "lastOpenFiles": [
+    "javascript/자바스크립트 자료형.md",
     "javascript/모던 자바스크립트 심화.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
-    "javascript/자바스크립트 자료형.md",
     "javascript/프로토타입.md",
     "Web/HTTP.md",
     "브라우저/이벤트 루프.md",
