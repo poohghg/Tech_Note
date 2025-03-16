@@ -91,8 +91,7 @@
               "title": "자바스크립트 엔진 강의 정리"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -238,8 +236,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ab24d68b1f876997",
+  "active": "2f7c5aae952a3aa1",
   "lastOpenFiles": [
+    "react/Fiber.md",
     "react/React SSR 과 Hydration.md",
     "react/react-core/diffing.md",
     "react/react-core/render.md",
@@ -275,7 +274,6 @@
     "Web/보안.md",
     "Web/CORS.md",
     "타입스크립트/핸드북.md",
-    "testing/Testing Library.md",
     "무제.canvas",
     "브라우저",
     "img/template.ts",
