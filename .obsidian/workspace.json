@@ -91,7 +91,8 @@
               "title": "자바스크립트 엔진 강의 정리"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -236,8 +238,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2f7c5aae952a3aa1",
+  "active": "ab24d68b1f876997",
   "lastOpenFiles": [
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/프로토타입.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/기능 이동.md",
@@ -263,7 +266,6 @@
     "react/Fiber.md",
     "react/React SSR 과 Hydration.md",
     "react/react-core/diffing.md",
-    "react/react-core/render.md",
     "img/Pasted image 20250317002640.png",
     "img/Pasted image 20250317002627.png",
     "img/Pasted image 20250317001715.png",
