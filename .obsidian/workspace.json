@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/최단 경로.md",
+                "file": "프로젝트 설정 참고자료/참고.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최단 경로"
+              "title": "참고"
             }
           },
           {
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -253,10 +252,11 @@
   },
   "active": "2f7c5aae952a3aa1",
   "lastOpenFiles": [
+    "프로젝트 설정 참고자료/vite.md",
+    "알고리즘/최단 경로.md",
     "img/Pasted image 20250318172831.png",
     "img/Pasted image 20250318170256.png",
     "알고리즘/백트래킹.md",
-    "알고리즘/최단 경로.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "react/Fiber.md",
     "javascript/프로토타입.md",
@@ -288,7 +288,6 @@
     "img/Pasted image 20250316235909.png",
     "img/Pasted image 20250314013033.png",
     "img/Pasted image 20250314012750.png",
-    "img/Pasted image 20250314010431.png",
     "무제.canvas",
     "브라우저",
     "img/template.ts",
