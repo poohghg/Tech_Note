@@ -1,6 +1,6 @@
 > 참조
 > 
-> 	https://tech.kakaobank.com/posts/2411-solid-truth-or-myths-for-developers/
+> https://tech.kakaobank.com/posts/2411-solid-truth-or-myths-for-developers/
 
 ## SOLID 원칙의 중요성 
 
