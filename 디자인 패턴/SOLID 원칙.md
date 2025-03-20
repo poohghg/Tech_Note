@@ -2,6 +2,10 @@
 > 
 > https://tech.kakaobank.com/posts/2411-solid-truth-or-myths-for-developers/
 
+## SOLID 원칙의 중요성 
+
+SOLID 원칙은 함수와 데이터 구조를 효과적으로 결합하고, 이 집합들을 서로 유기적으로 연결하는 방법을 제시한다. 
+
 
 ## Single Responsibility Principle(SRP)
 
