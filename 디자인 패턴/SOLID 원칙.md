@@ -2,6 +2,7 @@
 > 
 > https://ko.wikipedia.org/wiki/SOLID_(%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%EC%84%A4%EA%B3%84)
 > https://tech.kakaobank.com/posts/2411-solid-truth-or-myths-for-developers/
+> https://fe-developers.kakaoent.com/2023/230330-frontend-solid/
 
 ## SOLID 원칙의 중요성 
 
@@ -28,6 +29,7 @@ SOLID 원칙은 함수와 데이터 구조를 효과적으로 결합하고, 이 
 
 ## Open-Closed Principle(개방-폐쇄 원칙)
 
+- SRP의 최종 버전은 다음과 같다. 하나의 모듈은 하나의, 오직 하나의 액터에 대해서만 책임져야 한다.
 - 확장에 열려 있고, 변경에는 닫혀있어야 한다.
 	- 새로운 기능을 추가할 때 기존의 코드를 변경하지 않아야 한다.
 - 확장에 대해 열려 있다.
