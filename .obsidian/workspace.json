@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -250,7 +251,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "2f7c5aae952a3aa1",
   "lastOpenFiles": [
     "디자인 패턴/SOLID 원칙.md",
     "프로젝트 설정 참고자료/참고.md",
