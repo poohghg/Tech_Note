@@ -1,5 +1,6 @@
 > 참조
 > 
+> https://ko.wikipedia.org/wiki/SOLID_(%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%EC%84%A4%EA%B3%84)
 > https://tech.kakaobank.com/posts/2411-solid-truth-or-myths-for-developers/
 
 ## SOLID 원칙의 중요성 
@@ -98,6 +99,7 @@ const calculator = new AreaCalculator(shapes);
 -  **“사용하지 않는 것에 의존하지 않아야 한다.”**
 - 인터페이스는 클라이언트에 필요한 메서드만 제공해야 한다.
 	- 클라이언트가 사용하지 않는 메서드에 의존하지 않아야 한다.
+- 인터페이스 분리 원칙은 큰 덩어리의 인터페이스들을
 
 ![[Pasted image 20250322012706.png]]
 
