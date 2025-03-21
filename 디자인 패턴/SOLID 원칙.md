@@ -109,5 +109,6 @@ const calculator = new AreaCalculator(shapes);
 
 ## Dependency Inversion Principle(의존 역전 원칙)
 
-
-- : **“추상화에 의존해야 하며 구체화에 의존하면 안 된다.”**
+- 고수준 모듈은 저수준 모듈에 의존해서는 안된다.
+	- 둘 다 추상화에 의존해야 한다.
+- **“추상화에 의존해야 하며 구체화에 의존하면 안 된다.”**
