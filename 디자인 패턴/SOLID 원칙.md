@@ -78,16 +78,6 @@ const calculator = new AreaCalculator(shapes);
 
 ```
 
-
-```
-
-
-```
-
-
-
-```
-
 ## Liskov Substitution Principle(LSP)
 
 > 1. 타입 T가 있습니다.  
