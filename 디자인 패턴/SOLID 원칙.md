@@ -45,6 +45,9 @@ interface Shape {
   area(): number;
 }
 
+// 새로운 도형을 추가할 때, AreaCalculator 클래스를 수정하지 않아도 된다.
+// 확장에 열려 있다.
+
 class Circle implements Shape {
   constructor(private radius: number) {}
 
@@ -73,9 +76,8 @@ const shapes = [new Circle(5), new Square(4)];
 
 const calculator = new AreaCalculator(shapes);
 
-console.log(calculator.sum());
+```
 
-// 
 
 ```
 
