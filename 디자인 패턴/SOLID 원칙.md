@@ -43,6 +43,41 @@ SOLID 원칙은 함수와 데이터 구조를 효과적으로 결합하고, 이 
 
 // 기존 코드
 
+class Product {
+  public name: string;
+  public price: number;
+
+  constructor(name: string, price: number) {
+    this.name = name;
+    this.price = price;
+  }
+}
+
+
+// 변경된 코드
+
+class Product {
+  public name: string;
+  public price: number;
+
+  constructor(name: string, price: number) {
+    this.name = name;
+    this.price = price;
+  }
+}
+
+class ProductRepository {
+  private products: Product[] = [];
+
+  public add(product: Product) {
+    this.products.push(product);
+  }
+
+  public getAll() {
+    return this.products;
+  }
+}
+
 ```
 
 ## Liskov Substitution Principle(LSP)
