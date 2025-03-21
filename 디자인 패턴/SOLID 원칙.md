@@ -111,6 +111,7 @@ const calculator = new AreaCalculator(shapes);
 
 ## Dependency Inversion Principle(의존 역전 원칙)
 
+- 상위 계층이 하위 계층에 ㅇ
 - 고수준 모듈은 저수준 모듈에 의존해서는 안된다.
 	- 둘 다 추상화에 의존해야 한다.
 - **“추상화에 의존해야 하며 구체화에 의존하면 안 된다.”**
