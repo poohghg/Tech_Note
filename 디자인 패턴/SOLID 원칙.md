@@ -15,7 +15,7 @@ SOLID 원칙은 함수와 데이터 구조를 효과적으로 결합하고, 이 
 	- 깔금한 코드는 디버깅과 유지보수성를 쉽게 만들어 소프트웨어 품질 향상에 기여한다.
 
 결합도가 낮고 응집도가 높으며 가독성이 좋은 코드를 작성하는 것이 모든 소프트웨어 설계가 추구하는 궁극적인 지향점이다. 이를 통해 유연하고 유지보수하기 쉬운 소프트웨어를 개발할 수 있다.
-## Single Responsibility Principle(SRP)
+## Single Responsibility Principle(단일 책임 원칙)
 
 - 한 객체는 하나의 책임만 가져야 한다.
 	- 책임 = 변경의 이유
@@ -26,7 +26,7 @@ SOLID 원칙은 함수와 데이터 구조를 효과적으로 결합하고, 이 
 	- 서로 다른 책임을 분리하면 응집도가 높아지고, 결합도가 낮아진다.
 	- 이는 가독성과 재사용성이 높아지고 유지보수가 쉬워진다.
 
-## Open-Closed Principle(OCP)
+## Open-Closed Principle(개방-폐쇄 원칙)
 
 - 확장에 열려 있고, 변경에는 닫혀있어야 한다.
 	- 새로운 기능을 추가할 때 기존의 코드를 변경하지 않아야 한다.
@@ -79,7 +79,7 @@ const calculator = new AreaCalculator(shapes);
 
 ```
 
-## Liskov Substitution Principle(LSP)
+## Liskov Substitution Principle(리스코프 치환 원칙)
 
 > 1. 타입 T가 있습니다.  
 > 2. _(정답을 미리 알려드리면)_ 서브타입 S가 있습니다.  
@@ -94,7 +94,7 @@ const calculator = new AreaCalculator(shapes);
 	- 자식 클래스에서 부모 클래스의 메소드를 오버라이딩 할 때, 부모 클래스의 메소드가 하는 일을 변경하면 안된다.(타입을 치환해도 프로그램의 행위가 변하지 않아야 한다.)
 	- 부모 클래스를 자식 클래스로 갈아 꼇을 때 에러가 발생한다 ? -> LSP 위반
 
-## Interface Segregation Principle(ISP)
+## Interface Segregation Principle (인터페이스 분리 원칙)
 
 -  **“사용하지 않는 것에 의존하지 않아야 한다.”**
 - 인터페이스는 클라이언트에 필요한 메서드만 제공해야 한다.
@@ -107,4 +107,5 @@ const calculator = new AreaCalculator(shapes);
 
 ![[Pasted image 20250322012714.png]]
 
-## Dependency Inversion Principle(DIP)
+## Dependency Inversion Principle (의존 역전 원칙)
+
