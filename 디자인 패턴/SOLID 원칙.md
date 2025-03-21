@@ -41,42 +41,48 @@ SOLID 원칙은 함수와 데이터 구조를 효과적으로 결합하고, 이 
 
 // OCP
 
-// 기존 코드
+interface Shape {
+  area(): number;
+}
 
-class Product {
-  public name: string;
-  public price: number;
+class Circle implements Shape {
+  constructor(private radius: number) {}
 
-  constructor(name: string, price: number) {
-    this.name = name;
-    this.price = price;
+  area() {
+    return this.radius ** 2 * Math.PI;
   }
 }
 
+class Square implements Shape {
+  constructor(private width: number) {}
 
-// 변경된 코드
-
-class Product {
-  public name: string;
-  public price: number;
-
-  constructor(name: string, price: number) {
-    this.name = name;
-    this.price = price;
+  area() {
+    return this.width ** 2;
   }
 }
 
-class ProductRepository {
-  private products: Product[] = [];
+class AreaCalculator {
+  constructor(private shapes: Shape[]) {}
 
-  public add(product: Product) {
-    this.products.push(product);
-  }
-
-  public getAll() {
-    return this.products;
+  sum() {
+    return this.shapes.reduce((acc, shape) => acc + shape.area(), 0);
   }
 }
+
+const shapes = [new Circle(5), new Square(4)];
+
+const calculator = new AreaCalculator(shapes);
+
+console.log(calculator.sum());
+
+// 
+
+```
+
+
+```
+
+
 
 ```
 
