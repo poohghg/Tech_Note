@@ -119,3 +119,4 @@ const calculator = new AreaCalculator(shapes);
 	- 즉 변동성이 큰 구현체보다 안정된 인터페이스를 참조해야한다.
 
 ![[Pasted image 20250322014014.png]]
+- .**제어흐름과 반대 방향으로 역전되는 이유**로 인해 이 원칙의 이름을 ‘의존성 역전 원칙’인 DIP라고 부른다.
