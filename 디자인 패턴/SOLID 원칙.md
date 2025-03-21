@@ -95,3 +95,6 @@ const calculator = new AreaCalculator(shapes);
 
 ## Interface Segregation Principle(ISP)
 
+-  **“사용하지 않는 것에 의존하지 않아야 한다.”**
+- 인터페이스는 클라이언트에 필요한 메서드만 제공해야 한다.
+  - 클라이언트가 사용하지 않는 메서드에 의존하지 않아야 한다.
