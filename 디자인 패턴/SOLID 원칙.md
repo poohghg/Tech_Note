@@ -106,3 +106,5 @@ const calculator = new AreaCalculator(shapes);
 ![[Pasted image 20250322012706.png]]
 
 ![[Pasted image 20250322012714.png]]
+
+## Dependency Inversion Principle(DIP)
