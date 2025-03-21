@@ -107,5 +107,7 @@ const calculator = new AreaCalculator(shapes);
 
 ![[Pasted image 20250322012714.png]]
 
-## Dependency Inversion Principle (의존 역전 원칙)
+## Dependency Inversion Principle(의존 역전 원칙)
 
+
+- : **“추상화에 의존해야 하며 구체화에 의존하면 안 된다.”**
