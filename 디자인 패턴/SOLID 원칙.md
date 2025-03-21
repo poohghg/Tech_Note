@@ -93,3 +93,5 @@ const calculator = new AreaCalculator(shapes);
 	- 자식 클래스에서 부모 클래스의 메소드를 오버라이딩 할 때, 부모 클래스의 메소드가 하는 일을 변경하면 안된다.(타입을 치환해도 프로그램의 행위가 변하지 않아야 한다.)
 	- 부모 클래스를 자식 클래스로 갈아 꼇을 때 에러가 발생한다 ? -> LSP 위반
 
+## Interface Segregation Principle(ISP)
+
