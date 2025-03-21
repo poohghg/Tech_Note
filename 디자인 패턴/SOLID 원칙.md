@@ -117,3 +117,5 @@ const calculator = new AreaCalculator(shapes);
 	- 반면 구현체가 수정되면 인터페이스는 수정하지 않아도 된다.
 	- 따라서 인터페이스는 구현체보다 변동성이 낮다.
 	- 즉 변동성이 큰 구현체보다 안정된 인터페이스를 참조해야한다.
+
+![[Pasted image 20250322014014.png]]
