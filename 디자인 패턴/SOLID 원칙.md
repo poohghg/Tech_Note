@@ -94,6 +94,23 @@ const calculator = new AreaCalculator(shapes);
 
 ```
 
+```ts
+interface Animal {
+  makeSound(): void;
+}
+
+class Dog implements Animal {
+  makeSound(): void {
+    console.log('Woof!');
+  }
+}
+
+// -
+
+
+
+```
+
 ## Liskov Substitution Principle(리스코프 치환 원칙)
 
 > 1. 타입 T가 있습니다.  
