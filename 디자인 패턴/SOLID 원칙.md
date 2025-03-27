@@ -105,9 +105,27 @@ class Dog implements Animal {
   }
 }
 
-// -
+// -> 새로운 기능을 추가하기 위해 기존 인터페이스를 수정하지 않고 새로운 인터페이스와 클래스를 생성할 수 있다.
 
+interface Animal {
+  makeSound(): void;
+}
 
+interface AdvancedAnimal extends Animal {
+  doTrick(): void;
+}
+
+class Dog implements Animal {
+  makeSound(): void {
+    console.log('Woof!');
+  }
+}
+
+class AdvancedDog extends Dog implements AdvancedAnimal {
+  doTrick(): void {
+    console.log('Dog does a trick!');
+  }
+}
 
 ```
 
