@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "클린코드/클린코드의 이해.md",
+                "file": "타입스크립트/타입 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "클린코드의 이해"
+              "title": "타입 시스템"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "반공변",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,6 +169,7 @@
   },
   "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
+    "클린코드/클린코드의 이해.md",
     "클린코드/Frontend Fundamentals.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/기능 이동.md",
@@ -201,7 +203,6 @@
     "프로젝트 설정 참고자료/vite.md",
     "img/Pasted image 20250318172831.png",
     "img/Pasted image 20250318170256.png",
-    "react/Fiber.md",
     "img/Pasted image 20250317002640.png",
     "img/Pasted image 20250317002627.png",
     "img/Pasted image 20250317001715.png",
