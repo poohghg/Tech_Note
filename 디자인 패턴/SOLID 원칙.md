@@ -132,7 +132,7 @@ class AdvancedDog extends Dog implements AdvancedAnimal {
 ## Liskov Substitution Principle(리스코프 치환 원칙)
 
 > 1. 타입 T가 있습니다.  
-> 2. _(정답을 미리 알려드리면)_ 서브타입 S가 있습니다.  
+> 2.서브타입 S가 있습니다.  
 > 2. T타입으로 만든 프로그램 P가 있습니다.  
 > 3. 프로그램 P에서 T를 서브타입 S로 치환합니다.  
 > 4. 프로그램의 행위가 변하지 않고 정상적으로 동작한다면, S는 T의 하위타입입니다.
