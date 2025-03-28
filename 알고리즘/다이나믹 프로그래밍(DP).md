@@ -36,3 +36,4 @@ const fibo = (n: number): number => {
 
 ```
 
+![[Pasted image 20250328184023.png]]
