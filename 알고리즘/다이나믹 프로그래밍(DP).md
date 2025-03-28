@@ -48,12 +48,11 @@ const fibo = (n: number): number => {
 
 ```ts
 
-const dp = () =>{
- 1. wh
+const dp = () => {
 
+ 1. 종료 조건
+ 2. 이미 해결한 문제라면, 정답을 그대로 반환
+ 3. 점화식에 따라 정답 계산
 
 }
-
-
-
 ```
