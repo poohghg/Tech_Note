@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 시스템.md",
+                "file": "디자인 패턴/SOLID 원칙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 시스템"
+              "title": "SOLID 원칙"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,6 +169,7 @@
   },
   "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
+    "타입스크립트/타입 시스템.md",
     "클린코드/클린코드의 이해.md",
     "클린코드/Frontend Fundamentals.md",
     "리팩토링/기본적인 리팩터링.md",
@@ -201,7 +201,6 @@
     "프로젝트 설정 참고자료/참고.md",
     "디자인 패턴",
     "디자인 패턴.md",
-    "프로젝트 설정 참고자료/vite.md",
     "img/Pasted image 20250318172831.png",
     "img/Pasted image 20250318170256.png",
     "img/Pasted image 20250317002640.png",
