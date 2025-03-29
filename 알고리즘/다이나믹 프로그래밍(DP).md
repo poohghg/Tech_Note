@@ -71,7 +71,22 @@ const dp = () => {
 
 ```ts
 
-식량
+창고 방문하기문제
+인접합 창고를 방문할 수 없다.
+최소 한 칸 이상 떨어진 창고를 방문해야 한다.
+
+const dp = (n:number) =>{
+  const dp = Array.from({length:n},()=>0);
+  
+  dp[0] = arr[0];
+  dp[1] = Math.max(arr[0],arr[1]);
+  
+  for(let i = 2; i < n; i++){
+    dp[i] = Math.max(dp[i-1],dp[i-2]+arr[i]);
+  }
+  return dp[n-1];
+}
+
 
 
 
