@@ -87,7 +87,4 @@ const dp = (n:number) =>{
   return dp[n-1];
 }
 
-
-
-
 ```
