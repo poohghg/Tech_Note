@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/최단 경로.md",
+                "file": "react/React SSR 과 Hydration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최단 경로"
+              "title": "React SSR 과 Hydration"
             }
           }
         ],
@@ -183,8 +183,8 @@
   },
   "active": "7bfb4f087263a17c",
   "lastOpenFiles": [
-    "알고리즘/백트래킹.md",
     "알고리즘/최단 경로.md",
+    "알고리즘/백트래킹.md",
     "javascript/array 와 set.md",
     "react/React SSR 과 Hydration.md",
     "react/Fiber.md",
