@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -181,8 +182,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "7bfb4f087263a17c",
   "lastOpenFiles": [
+    "img/Pasted image 20250330044203.png",
     "react/React SSR 과 Hydration.md",
     "react/React Server Component.md",
     "알고리즘/최단 경로.md",
@@ -210,7 +212,6 @@
     "알고리즘/데이터 구조.md",
     "디자인 패턴/SOLID 원칙.md",
     "타입스크립트/타입 시스템.md",
-    "클린코드/클린코드의 이해.md",
     "img/Pasted image 20250322014541.png",
     "img/Pasted image 20250322014014.png",
     "img/Pasted image 20250322012714.png",
