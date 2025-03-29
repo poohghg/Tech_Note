@@ -11,4 +11,8 @@
 ![[Pasted image 20250330044359.png]]
 
 - 서버에서 먼저 HTML로 렌더링한다. 페이지가 클라이언트에서 동작하기 위해서 자바스크립트 번들이 모두 다운되고  [hydration](https://github.com/reactwg/react-18/discussions/46#discussioncomment-846714)이 완료되어야 하지만 빈 화면 대신 데이터가 존재하는 HTML을 제공함으로써 무거운 자바스크립트 파일이 다운로드되는 동안 사용자에게 의미 있는 콘텐츠를 제공할 수 있다.
-- 서버 사이드 렌더링의 목적은 non-interactive한 버전의 클라이언트 컴포넌트를 최대한 빠르게 브라우저에 전달하
+- 서버 사이드 렌더링의 목적은 non-interactive한 버전의 클라이언트 컴포넌트를 최대한 빠르게 브라우저에 전달하여 초기 페이지의 First Contentful Paint 또는 Largest Contentful Paint 속도를 향상시는 것이다.
+
+## 서버 컴포넌트와 서버 사이드 렌더링의 차이
+
+- 서버 컴포넌트와 서버 사이드 렌더링은 
