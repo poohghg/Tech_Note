@@ -35,8 +35,7 @@
               "title": "최단 경로"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -181,8 +181,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7bfb4f087263a17c",
+  "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
+    "알고리즘/최단 경로.md",
     "알고리즘/다이나믹 프로그래밍(DP).md",
     "img/Pasted image 20250328184023.png",
     "알고리즘/DFS.md",
