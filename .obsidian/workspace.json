@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/array 와 set.md",
+                "file": "알고리즘/시간 복잡도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "array 와 set"
+              "title": "시간 복잡도"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -181,8 +182,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "7bfb4f087263a17c",
   "lastOpenFiles": [
+    "javascript/array 와 set.md",
     "타입스크립트/타입 메모.md",
     "react/React Server Component.md",
     "알고리즘/백트래킹.md",
@@ -190,7 +192,6 @@
     "img/Pasted image 20250330044203.png",
     "react/React SSR 과 Hydration.md",
     "알고리즘/최단 경로.md",
-    "javascript/array 와 set.md",
     "react/Fiber.md",
     "react/React.md",
     "next.js/next14.md",
