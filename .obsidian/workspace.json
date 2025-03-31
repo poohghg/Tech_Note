@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/의사코드.md",
+                "file": "javascript/프로토타입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "의사코드"
+              "title": "프로토타입"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
-    "알고리즘/시간 복잡도.md",
     "알고리즘/의사코드.md",
+    "알고리즘/시간 복잡도.md",
     "알고리즘/백트래킹.md",
     "알고리즘/sort.md",
     "img/Pasted image 20250331123611.png",
