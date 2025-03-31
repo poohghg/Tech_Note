@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/화살표 함수.md",
+                "file": "javascript/array 와 set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "화살표 함수"
+              "title": "array 와 set"
             }
           },
           {
@@ -183,6 +183,7 @@
   "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
     "javascript/프로토타입.md",
+    "javascript/화살표 함수.md",
     "알고리즘/의사코드.md",
     "알고리즘/시간 복잡도.md",
     "알고리즘/백트래킹.md",
@@ -210,7 +211,6 @@
     "next.js/next 에러.md",
     "Web/CORS.md",
     "Web/성능(로딩 최적화).md",
-    "Web/브라우저.md",
     "img/Pasted image 20250329181330.png",
     "img/Pasted image 20250328184023.png",
     "img/Pasted image 20250322014541.png",
