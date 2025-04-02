@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/null vs undefined.md",
+                "file": "알고리즘/의사코드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "null vs undefined"
+              "title": "의사코드"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
+    "javascript/null vs undefined.md",
     "리팩토링/캡슐화.md",
     "img/Pasted image 20250402171941.png",
     "img/Pasted image 20250402171914.png",
