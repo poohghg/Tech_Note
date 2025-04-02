@@ -49,8 +49,7 @@
               "title": "sort"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +195,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e05ca2e30e482b71",
+  "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
+    "HTML/HTML.md",
     "next.js/Next.js.md",
     "next.js/next14.md",
     "react-uqery/정리.md",
@@ -226,7 +226,6 @@
     "알고리즘/배열.md",
     "알고리즘/해쉬테이블.md",
     "알고리즘/힙.md",
-    "알고리즘/DFS.md",
     "img/Pasted image 20250330044359.png",
     "img/Pasted image 20250330044203.png",
     "img/Pasted image 20250329181330.png",
