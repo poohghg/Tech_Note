@@ -25,5 +25,6 @@
 	- select a specific path to navigate to a specific page
 - 명시적 라우팅 vs 암묵적 라우팅
 	- 명시적 라우팅: 개발자가 직접 라우팅 경로를 설정하는 방식
-	- 
+		- React-router의 경우 명시적으로 path에 컴포넌트를 매핑한다.
 	- 암묵적 라우팅: 프레임워크가 자동으로 라우팅 경로를 설정하는 방식
+	    - Next.js의 경우 pages 디렉토리에 파일을 생성하면 자동으로 라우팅 경로가 설정된다.
