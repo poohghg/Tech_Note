@@ -183,10 +183,10 @@
   },
   "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
+    "리팩토링/캡슐화.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/데이터 조직화.md",
     "javascript/자바스크립트 자료형.md",
-    "리팩토링/캡슐화.md",
     "javascript/모던 자바스크립트 심화.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/클로저.md",
