@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/캡슐화.md",
+                "file": "javascript/null vs undefined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "캡슐화"
+              "title": "null vs undefined"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -182,9 +183,9 @@
   },
   "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
+    "리팩토링/캡슐화.md",
     "img/Pasted image 20250402171941.png",
     "img/Pasted image 20250402171914.png",
-    "리팩토링/캡슐화.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/데이터 조직화.md",
     "javascript/자바스크립트 자료형.md",
@@ -217,7 +218,6 @@
     "img/Pasted image 20250322014541.png",
     "img/Pasted image 20250322014014.png",
     "img/Pasted image 20250322012714.png",
-    "img/Pasted image 20250322012706.png",
     "디자인 패턴",
     "무제.canvas",
     "브라우저",
