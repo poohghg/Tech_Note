@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/의사코드.md",
+                "file": "알고리즘/시간 복잡도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "의사코드"
+              "title": "시간 복잡도"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
+    "알고리즘/의사코드.md",
     "javascript/null vs undefined.md",
     "리팩토링/캡슐화.md",
     "img/Pasted image 20250402171941.png",
@@ -195,7 +196,6 @@
     "javascript/클로저.md",
     "javascript/자바스크립트는 왜 프로토타입을 선택했을까 (요약).md",
     "알고리즘/시간 복잡도.md",
-    "알고리즘/의사코드.md",
     "javascript/array 와 set.md",
     "javascript/프로토타입.md",
     "javascript/화살표 함수.md",
