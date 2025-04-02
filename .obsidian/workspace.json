@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next.js/Next.js.md",
+                "file": "react/React Server Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next.js"
+              "title": "React Server Component"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
-    "HTML/HTML.md",
     "next.js/Next.js.md",
+    "HTML/HTML.md",
     "next.js/next14.md",
     "react-uqery/정리.md",
     "Web/HTTP.md",
