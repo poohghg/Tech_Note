@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -180,7 +181,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "4d782ee1793d30c7",
   "lastOpenFiles": [
     "리팩토링/캡슐화.md",
     "javascript/모던 자바스크립트 심화.md",
