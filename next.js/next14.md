@@ -14,6 +14,7 @@
     ```
 
 - `page.js`경로 세그먼트를 공개적으로 액세스하려면 파일이 필요합니다.
+  ```
 
 - 페이지는 기본적으로 [서버 구성 요소 이지만 ](https://nextjs.org/docs/app/building-your-application/rendering/server-components)[클라이언트 구성 요소](https://nextjs.org/docs/app/building-your-application/rendering/client-components) 로 설정할 수 있습니다.
 
