@@ -19,3 +19,5 @@
 
 ## Routing
 
+#### 라우팅이란?
+- select a specific path to navigate to a specific page
