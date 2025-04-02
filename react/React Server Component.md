@@ -34,5 +34,6 @@
 	- 리액트팀은 컴포넌트 렌더 함수는 즉시 JSX 반환 규칙을 고수하고 있음
 		- 비동기 로직이 있다면?
 			- useEffect나 다른 컴포넌트에서 처리해야함
-			- Promise를 반환하고 
+			- Promise를 반환하고 Sususpense로 처리해야함
+			- fallback + Promise 반환된 값을 렌더링
 
