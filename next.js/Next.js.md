@@ -20,4 +20,6 @@
 ## Routing
 
 #### 라우팅이란?
-- select a specific path to navigate to a specific page
+- 사용자가 요청한 URL에 따라 서버에서 적절한 페이지를 제공하는 기술
+	- select a specific path to navigate to a specific page
+- 
