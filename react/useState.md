@@ -27,8 +27,7 @@ useState는 호출 순서에 따라 상태를 매핑 하는데, 이는 Fiber의 
 	const [count, setCount] = useState(0);
 	
 	const handleClick = () => {
-	// count = 3
-
+		// count = 3
 		setCount(count + 1);
 		setCount(count + 2);
 		setCount(count + 3);
@@ -47,3 +46,6 @@ React에서 setState를 여러 번 호출해도 마지막 호출만 적용되는
 #### 상태 업데이트 배치 처리
 
 React는 여러 개의 setState 호출을 한 번의 렌더링으로 처리하기 위해 상태 업데이트를 배치 처리한다.
+
+- 동일한 렌더 사이클 내에서 상태 업데이트를 병합하기 때문이다.
+- setState 는 비동기적으로 실행되며, React는 모든 setState를 
