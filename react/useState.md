@@ -49,6 +49,10 @@ React는 여러 개의 setState 호출을 한 번의 렌더링으로 처리하�
 
 - 동일한 렌더 사이클 내에서 상태 업데이트를 병합하기 때문이다.
 - setState는 비동기적으로 실행되며, React는 모든 setState를 배치하여 하나의 최종 값으로 병합한다.
-	- 시렞 setState는 비동기 함수는 아니다, 다만 비동기적으로 실행된다.
+	- 실제 setState는 비동기 함수는 아니다, 다만 비동기적으로 실행된다.
 	- queueMicrotask를 사용?
 - React는 최신 setState 호출만 나기고 이전 호출을 덮어씌우는 방식으로 동작한다.
+
+#### Fiber의 상태 스케줄링 및 재조정
+
+React의 fiberㄴ
