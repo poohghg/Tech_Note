@@ -112,7 +112,6 @@ for (let update of updateQueue) {
 
 ```
 
-
 ### 결론
 
 1. **React의 배치 처리 (Batching)**
