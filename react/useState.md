@@ -115,7 +115,6 @@ for (let update of updateQueue) {
 }
 
 // 일반 state 예시
-
 updateQueue = [
   1,2,3
 ];
