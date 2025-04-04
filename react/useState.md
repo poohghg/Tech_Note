@@ -73,7 +73,7 @@ function Example() {
   const [count, setCount] = useState(0);
 
   const handleClick = () => {
-	  //
+	// 6
     setCount(prev => prev + 1);
     setCount(prev => prev + 2);
     setCount(prev => prev + 3); 
@@ -86,3 +86,4 @@ function Example() {
 
 ```
 
+`prevState`를 사용하면 각 `setState` 호출이 독립적으로 처리되어, 상태가 예상대로 누적됩니다.
