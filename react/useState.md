@@ -105,6 +105,13 @@ updateQueue = [
 // 각 함수에 최신 prev 값을 넣어준다.
 
 let state = 0;
+
+// 일반 setState 예시
+for (let update of updateQueue) {
+  state = update(state); // prev => prev + 1
+}
+
+// prev 예시
 for (let update of updateQueue) {
   state = update(state); // prev => prev + 1
 }
