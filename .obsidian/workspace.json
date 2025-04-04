@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/자바스크립트 엔진 강의 정리.md",
+                "file": "javascript/화살표 함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트 엔진 강의 정리"
+              "title": "화살표 함수"
             }
           },
           {
@@ -182,6 +182,8 @@
   },
   "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "javascript/자바스크립트는 왜 프로토타입을 선택했을까 (요약).md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "Web/HTTP.md",
     "Web/CORS.md",
     "Web/성능(로딩 최적화).md",
@@ -206,8 +208,6 @@
     "react-uqery/정리.md",
     "javascript/자바스크립트 자료형.md",
     "알고리즘/시간 복잡도.md",
-    "알고리즘/의사코드.md",
-    "javascript/null vs undefined.md",
     "img/Pasted image 20250402171941.png",
     "img/Pasted image 20250402171914.png",
     "img/Pasted image 20250331123611.png",
