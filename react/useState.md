@@ -101,8 +101,8 @@ updateQueue = [
   () => prev + 1
 ];
 
-렌더링 사이클이 오면, React는 이 큐를 순서대로 실행하면서  
-각 함수에 최신 prev 값을 넣어줍니다.
+// 렌더링 사이클이 오면, React는 이 큐를 순서대로 실행하면서  
+// 각 함수에 최신 prev 값을 넣어준다.
 
 let state = 0;
 for (let update of updateQueue) {
