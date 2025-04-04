@@ -106,16 +106,20 @@ updateQueue = [
 
 let state = 0;
 
-// 일반 setState 예시
-for (let update of updateQueue) {
-  state = update(state); // prev => prev + 1
-}
-
 // prev 예시
 for (let update of updateQueue) {
   state = update(state); // prev => prev + 1
 }
 
+// 일반 state 예시
+
+updateQueue = [
+  1,2,3
+];
+
+for (let update of updateQueue) {
+  state = state + update; // state + 1
+}
 
 ```
 
