@@ -59,4 +59,5 @@ React의 fiber는 상태 업데이트를 스케줄링 하며, 가능한 경우 �
 
 ##### 스케줄링 과정
 
-1. setState가 호출되면, React는 업데이트 객체
+1. setState가 호출되면, React는 업데이트 객체(enqueued update)를 생성하여 현재 컴포넌트의 업데이트 큐(update queue)에 추가한다.
+2. React는 여러 setState 호출을 같은 렌더링 프레임 내에서 배치 처리 하여, 불필요한 렌더링을 방지한다.
