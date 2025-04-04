@@ -35,8 +35,7 @@
               "title": "Fiber"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,12 +181,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "da9a609fca15f516",
+  "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "react/Fiber.md",
     "react/useState.md",
     "알고리즘/sort.md",
     "타입스크립트/핸드북.md",
-    "react/Fiber.md",
     "react/React SSR 과 Hydration.md",
     "react/React Server Component.md",
     "타입스크립트/이펙티브 타입스크립트 - 2.타입 시스템.md",
