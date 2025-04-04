@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/HTTP.md",
+                "file": "javascript/자바스크립트 엔진 강의 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "자바스크립트 엔진 강의 정리"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "Web/HTTP.md",
     "Web/CORS.md",
     "Web/성능(로딩 최적화).md",
     "Web/보안.md",
@@ -203,7 +204,6 @@
     "next.js/Next.js.md",
     "next.js/next14.md",
     "react-uqery/정리.md",
-    "Web/HTTP.md",
     "javascript/자바스크립트 자료형.md",
     "알고리즘/시간 복잡도.md",
     "알고리즘/의사코드.md",
