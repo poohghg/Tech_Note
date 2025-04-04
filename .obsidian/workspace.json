@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/보안.md",
+                "file": "Web/성능(로딩 최적화).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "보안"
+              "title": "성능(로딩 최적화)"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "Web/보안.md",
     "Web/브라우저.md",
     "react/Fiber.md",
     "react/useState.md",
@@ -209,7 +210,6 @@
     "img/Pasted image 20250402171941.png",
     "img/Pasted image 20250402171914.png",
     "리팩토링/조건부 로직 간소화.md",
-    "리팩토링/데이터 조직화.md",
     "img/Pasted image 20250331123611.png",
     "img/Pasted image 20250330044359.png",
     "img/Pasted image 20250330044203.png",
