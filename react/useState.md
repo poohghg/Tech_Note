@@ -8,7 +8,7 @@ useState는 호출 순서에 따라 상태를 매핑 하는데, 이는 Fiber의 
 - React가 훅을 순서 기반으로 추적한다.
 - useState의 호출 순서가 변경되면, React는 기존 상태와 새로운 상태를 올바르게 매핑하지 못한다.
 
-#### Fiber의 관점에서 
+### Fiber의 관점에서 
 
 - React의 Fiber 구조에서 상태는 링크드 리스트 형태로 관리된다.
 - 각 useState는 Fiber노드의 memoizedState에 저장되며, 훅을 호출할 때마다 이 리스르틑 따라가면서 값을 가져온다.
@@ -20,11 +20,12 @@ useState는 호출 순서에 따라 상태를 매핑 하는데, 이는 Fiber의 
 - Fiber는 연결 리스트로 관리하는데, 순서가 어긋나면 올바른 상태를 가져오지 못한다.
 - 훅은 항상 최상위에서 호출하야 React가 에측 가능한 방식으로 상태를 관리할 수 있다.
 
-#### Fiber의 상태 업데이트 및 재조정
+### Fiber의 상태 업데이트 및 재조정
 
 ``` jsx
-	const [count, setCount] = useState(0);
 
+	const [count, setCount] = useState(0);
+	
 	const handleClick = () => {
 	setCount(count + 1);
 	setCount(count + 2);
@@ -33,3 +34,7 @@ useState는 호출 순서에 따라 상태를 매핑 하는데, 이는 Fiber의 
 	};
 
 ```
+
+### setState호출 시 마지막 상태만 적용되는 이유
+
+React에서 setState를 여러 번 호출해도 마짐가 호출만 적용되는 ㄱ
