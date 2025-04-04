@@ -1,4 +1,4 @@
-React는 useState를 초함한 훅들을 컴포넌트가 렌더링될
+React는 useState를 포함한 훅들을 컴포넌트가 렌더링될 때 순서 기반으로 호출한다.
 
 #### 렌더링과 useState의 위치
 
