@@ -6,4 +6,5 @@ useState는 호출 순서에 따라 상태를 매핑하는데, 이는 Fiber의 �
 
 #### Fiber의 관점에서 
 
-- React의 Fib
+- React의 Fiber 구조에서 상태는 링크드 리스트 형태로 관리된다.
+- 각 useState는 Fiber노드의 memoizedState에 저장되며, 훅을 호출할 때마다 이 리스르틑 따라가면서 값을 가져온다.
