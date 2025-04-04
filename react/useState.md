@@ -93,6 +93,26 @@ function Example() {
 
 `prevState`를 사용하면 각 `setState` 호출이 독립적으로 처리되어, 상태가 예상대로 누적됩니다.
 
+``` jsx
+
+// React는 업데이트 큐에 등록.
+updateQueue = [
+  () => prev + 1,
+  () => prev + 1
+];
+
+렌더링 사이클이 오면, React는 이 큐를 순서대로 실행하면서  
+각 함수에 최신 prev 값을 넣어줍니다.
+
+let state = 0;
+for (let update of updateQueue) {
+  state = update(state); // prev => prev + 1
+}
+
+
+```
+
+
 ### 결론
 
 1. **React의 배치 처리 (Batching)**
