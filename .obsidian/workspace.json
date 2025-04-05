@@ -35,7 +35,8 @@
               "title": "Fiber"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +182,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "213eb014470dd37a",
+  "active": "da9a609fca15f516",
   "lastOpenFiles": [
-    "react/Fiber.md",
     "react/Concurrency.md",
+    "react/Fiber.md",
     "react/useState.md",
     "react/React SSR 과 Hydration.md",
     "react/React Server Component.md",
