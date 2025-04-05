@@ -109,3 +109,5 @@ const Example = () => {
 - `isPending`은 상태 업데이트가 진행 중인지 여부를 나타낸다.
 - `startTransition`으로 감싼 업데이트가 실행 중일 때 `isPending`이 `true`가 된다.
 
+### 기존과의 차이점
+
