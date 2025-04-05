@@ -120,7 +120,7 @@ updateQueue = [
 ];
 
 for (let update of updateQueue) {
-  state = state + update; // state + 1
+  state = update; // state = 3
 }
 
 ```

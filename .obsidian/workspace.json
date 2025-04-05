@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prototype",
+                "query": "callback",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +89,12 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -182,7 +182,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "da9a609fca15f516",
+  "active": "1729f22b24650851",
   "lastOpenFiles": [
     "react/Fiber.md",
     "react/Concurrency.md",
