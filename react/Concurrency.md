@@ -36,3 +36,26 @@ root.render(<App />);
 #### Transitions
 
 ``` jsx
+
+import { startTransition, useState } from 'react';
+
+const Example = () => {
+  const [query, setQuery] = useState('');
+  const [results, setResults] = useState([]);
+
+  const handleChange = (e) => {
+    const value = e.target.value;
+    setQuery(value);
+
+    startTransition(() => {
+      const filtered = heavySearch(value);
+      setResults(filtered);
+    });
+  };
+
+  return (
+    <input value={query} onChange={handleChange} />
+  );
+};
+
+```
