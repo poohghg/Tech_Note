@@ -18,3 +18,14 @@ React 18의 동시성 기능은 기존 렌더링 모델을 개선해 더 유연�
 - **Transitions**: 상태 업데이트가 UI에 미치는 영향을 제어할 수 있다.
 - **Suspense**: 비동기 작업을 처리할 때 UI를 일시적으로 대체할 수 있다.
 - **Selective Hydration**: 서버에서 렌더링된 HTML을 클라이언트에서 하이드레이션 할 때, 필요한 부분만 하이드레이션 할 수 있다.
+- **Streaming**: 서버에서 렌더링된 HTML을 클라이언트로 스트리밍할 수 있다.
+
+#### createRoot
+
+``` jsx
+import { createRoot } from 'react-dom/client';
+
+const root = createRoot(document.getElementById('root'));
+root.render(<App />);
+
+```
