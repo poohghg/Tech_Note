@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/Fiber.md",
+                "file": "react/useState.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiber"
+              "title": "useState"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "da9a609fca15f516",
   "lastOpenFiles": [
-    "react/Concurrency.md",
     "react/Fiber.md",
+    "react/Concurrency.md",
     "react/useState.md",
     "react/React SSR 과 Hydration.md",
     "react/React Server Component.md",
