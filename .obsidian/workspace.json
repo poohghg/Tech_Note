@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/React SSR 과 Hydration.md",
+                "file": "react/useState.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React SSR 과 Hydration"
+              "title": "useState"
             }
           },
           {
@@ -182,8 +182,9 @@
   },
   "active": "213eb014470dd37a",
   "lastOpenFiles": [
-    "react/React Server Component.md",
+    "react/Concurrency.md",
     "react/React SSR 과 Hydration.md",
+    "react/React Server Component.md",
     "react/useState.md",
     "react/Fiber.md",
     "기타/이력서 강의.md",
@@ -208,7 +209,6 @@
     "타입스크립트/타입 시스템.md",
     "HTML/HTML.md",
     "프로그래밍/무제.md",
-    "next.js/Next.js.md",
     "img/Pasted image 20250402171941.png",
     "img/Pasted image 20250402171914.png",
     "img/Pasted image 20250331123611.png",
