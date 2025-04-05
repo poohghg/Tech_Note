@@ -29,3 +29,10 @@ const root = createRoot(document.getElementById('root'));
 root.render(<App />);
 
 ```
+
+- React 18부터는 `ReactDOM.render()` 대신 `createRoot()`를 사용해야 **동시성 기능이 활성화**된다.
+- React 내부적으로 렌더링 작업을 스케줄링 하고 중단 가능하게 만든다.
+
+#### Transitions
+
+``` jsx
