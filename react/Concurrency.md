@@ -61,9 +61,11 @@ const Example = () => {
   const [results, setResults] = useState([]);
 
   const handleChange = (e) => {
+	// 바로 반영
     const value = e.target.value;
     setQuery(value);
 
+   // 비긴급, 나중에 반영
     startTransition(() => {
       const filtered = heavySearch(value);
       setResults(filtered);
