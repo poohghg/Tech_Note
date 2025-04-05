@@ -22,12 +22,21 @@ React 18의 동시성 기능은 기존 렌더링 모델을 개선해 더 유연�
 
 #### Automatic Batching
 
+``` jsx
+
+function handleClick() {
+  setCount(c => c + 1);
+  setFlag(f => !f);
+  // 이전 버전: 각각 re-render 발생
+  // React 18: 한 번만 render!
+}
+
+```
+
 - React 18은 여러 상태 업데이트를 자동으로 하나로 묶어 렌더링을 최적화한다.
 - 비동기 함수 내의 setState 호출도 자동으로 배치 처리된다.
-- 
-
-
-
+- 이전 버전에서는 각각의 setState 호출이 별도의 렌더링을 발생시켰지만, React 18에서는 하나의 렌더링으로 처리된다.
+- 이는 성능을 개선하고 불필요한 렌더링을 줄여준다.
 #### createRoot
 
 ``` jsx
