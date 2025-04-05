@@ -63,5 +63,32 @@ const Example = () => {
 - `startTransition`은 **비긴급 작업**(예: 검색 결과 필터링, 리스트 정렬 등)을 낮은 우선순위로 실행하게 한다.
 - 사용자 입력과 같이 긴급한 업데이트를 막지 않고 부드럽게 실행할 수 있게 돕는다.
 
-###
+#### useTransition
+
+``` jsx
+import { useTransition, useState } from 'react';
+
+const Example = () => {
+  const [isPending, startTransition] = useTransition();
+  const [query, setQuery] = useState('');
+
+  const handleChange = (e) => {
+    const value = e.target.value;
+    startTransition(() => {
+      setQuery(value);
+    });
+  };
+
+  return (
+    <div>
+      <input value={query} onChange={handleChange} />
+      {isPending && <span>Loading...</span>}
+    </div>
+  );
+};
+```
+
+- `useTransition`은 **비긴급 상태 업데이트**를 처리하는 Hook이다.
+- `isPending`은 상태 업데이트가 진행 중인지 여부를 나타낸다.
+- `startTransition`으로 감싼 업데이트가 실행 중일 때 `isPending`이 `true`가 된다.
 
