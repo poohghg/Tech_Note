@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/React SSR 과 Hydration.md",
+                "file": "디자인 패턴/SOLID 원칙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React SSR 과 Hydration"
+              "title": "SOLID 원칙"
             }
           }
         ],
@@ -183,6 +183,7 @@
   },
   "active": "da9a609fca15f516",
   "lastOpenFiles": [
+    "react/React SSR 과 Hydration.md",
     "react/React Server Component.md",
     "javascript/콜백 함수.md",
     "javascript/화살표 함수.md",
@@ -192,7 +193,6 @@
     "react/useState.md",
     "react/Fiber.md",
     "react/Concurrency.md",
-    "react/React SSR 과 Hydration.md",
     "기타/이력서 강의.md",
     "기타/인텔리제이.md",
     "img/Pasted image 20250404175401.png",
