@@ -90,3 +90,23 @@
 #### 4. 자동 코드 분할
 
 - 서버 구성 요소는 클라이언트 구성 요소의 모든 가져오기를 잠재적인 코드 분할 지점으로 처리한다.
+
+``` jsx
+
+// PhotoRenderer.js - Server Component
+
+// one of these will start loading *once rendered and streamed to the client*:
+import OldPhotoRenderer from './OldPhotoRenderer.js';
+import NewPhotoRenderer from './NewPhotoRenderer.js';
+
+function Photo(props) {
+  // Switch on feature flags, logged in/out, type of content, etc:
+  if (FeatureFlags.useNewPhotoRenderer) {
+    return <NewPhotoRenderer {...props} />;
+  } else {
+    return <OldPhotoRenderer {...props} />;
+  }
+}
+
+
+```
