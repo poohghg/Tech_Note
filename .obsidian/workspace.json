@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/콜백 함수.md",
+                "file": "react/React SSR 과 Hydration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "콜백 함수"
+              "title": "React SSR 과 Hydration"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -184,8 +183,9 @@
   },
   "active": "da9a609fca15f516",
   "lastOpenFiles": [
-    "javascript/화살표 함수.md",
+    "react/React Server Component.md",
     "javascript/콜백 함수.md",
+    "javascript/화살표 함수.md",
     "javascript/Map 과 Object.md",
     "javascript/null vs undefined.md",
     "javascript/array 와 set.md",
@@ -193,7 +193,6 @@
     "react/Fiber.md",
     "react/Concurrency.md",
     "react/React SSR 과 Hydration.md",
-    "react/React Server Component.md",
     "기타/이력서 강의.md",
     "기타/인텔리제이.md",
     "img/Pasted image 20250404175401.png",
