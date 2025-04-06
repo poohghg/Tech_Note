@@ -82,6 +82,7 @@
 
 ##### RSC Payload
 
+RSC Payload에는 **서버 구성 요소에서 클라이언트 구성 요소로 전달된 모든 props가** 포함된다. 그런 다음 [props가 직렬화된다.](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md#simplified-loading-sequence) .
 
 
 #### 3. 페이지 레벨이 아닌 컴포넌트 레벨
