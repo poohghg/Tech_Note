@@ -35,7 +35,8 @@
               "title": "React Server Component"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,11 +182,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "213eb014470dd37a",
+  "active": "da9a609fca15f516",
   "lastOpenFiles": [
+    "react/React SSR 과 Hydration.md",
     "react/Concurrency.md",
     "react/React Server Component.md",
-    "react/React SSR 과 Hydration.md",
     "react/Fiber.md",
     "기타/인텔리제이.md",
     "클린코드/Frontend Fundamentals.md",
