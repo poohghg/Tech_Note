@@ -145,6 +145,9 @@ async function fetchBalance(): Promise<number> {
 #응집도 
 
 ![[Pasted image 20250407012241.png]]
+
+![[Pasted image 20250407012315.png]]
+
 - 뭉치면 쾌적한 코드 조각
 	- 당장 몰라도 되는 디테일
 	- 세부 구현 사항들
