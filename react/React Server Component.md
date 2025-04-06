@@ -50,5 +50,11 @@
 			- useEffect나 다른 컴포넌트에서 처리해야함
 			- Promise를 반환하고 Sususpense로 처리해야함
 			- fallback + Promise 반환된 값을 렌더링
+#### #### New Mental Model
+
 
 ![[Pasted image 20250407040403.png]]
+
+- 서버 컴포넌트로 구성된 서버 트리가 추가되고, 서버 트리는 서버 컴포넌트로만 구성된다. 이 트리는 리액트 트리보다 먼저 실행되며 실행한 결과값을 리액트 트리로 넘겨준다.
+
+![[Pasted image 20250407040452.png]]
