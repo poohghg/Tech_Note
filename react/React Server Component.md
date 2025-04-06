@@ -51,3 +51,4 @@
 			- Promise를 반환하고 Sususpense로 처리해야함
 			- fallback + Promise 반환된 값을 렌더링
 
+![[Pasted image 20250407040403.png]]
