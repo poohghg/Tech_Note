@@ -50,8 +50,7 @@
 			- useEffect나 다른 컴포넌트에서 처리해야함
 			- Promise를 반환하고 Sususpense로 처리해야함
 			- fallback + Promise 반환된 값을 렌더링
-#### #### New Mental Model
-
+####  New Mental Model
 
 ![[Pasted image 20250407040403.png]]
 
