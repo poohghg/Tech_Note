@@ -37,7 +37,7 @@ const fibo = (n: number): number => {
 
 ```
 
-![[Pasted image 20250328184023.png]]
+![Pasted image 20250328184023.png](../img/Pasted%20image%2020250328184023.png)
 
 - 피보나치 수열의 점화식을 재귀 함수로 구현하면 중복되는 부분 문제가 발생한다.
 - DP는 이문제를 중복되는 부분 문제를 해결하는데 사용된다.
@@ -67,7 +67,7 @@ const dp = () => {
 	- 바텀업 방식: 반복문을 이용해 초기항 부터 계산한다.
 4. 점화식을 실제 코드로 구현하기
 
-![[Pasted image 20250329181330.png]]
+![Pasted image 20250329181330.png](../img/Pasted%20image%2020250329181330.png)
 
 ```ts
 
