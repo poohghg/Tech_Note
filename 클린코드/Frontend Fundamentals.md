@@ -143,7 +143,6 @@ async function fetchBalance(): Promise<number> {
 ### 응집도
 
 #응집도
-
 - 뭉치면 쾌적한 코드 조각
 	- 당장 몰라도 되는 디테일
 - 뭉치면 단단한 코드 조각
