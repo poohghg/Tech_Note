@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react-query/정리.md",
+                "file": "react/Concurrency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "정리"
+              "title": "Concurrency"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -181,8 +182,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "da9a609fca15f516",
   "lastOpenFiles": [
+    "react-query/정리.md",
     "Web/웹뷰 통신.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "react/Fiber.md",
@@ -214,7 +216,6 @@
     "img/Pasted image 20250404175401.png",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "javascript/자바스크립트는 왜 프로토타입을 선택했을까 (요약).md",
-    "Web/HTTP.md",
     "img/Pasted image 20250402171941.png",
     "img/Pasted image 20250402171914.png",
     "img/Pasted image 20250331123611.png",
