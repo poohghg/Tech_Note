@@ -35,8 +35,7 @@
               "title": "Concurrency"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +181,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "da9a609fca15f516",
+  "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "react/Concurrency.md",
     "react-query/정리.md",
     "Web/웹뷰 통신.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
@@ -199,7 +199,6 @@
     "next.js/Next.js.md",
     "next.js/next 에러.md",
     "react/React Server Component.md",
-    "react/Concurrency.md",
     "react/React SSR 과 Hydration.md",
     "img/Pasted image 20250407042008.png",
     "img/Pasted image 20250407040452.png",
