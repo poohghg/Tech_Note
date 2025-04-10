@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인 패턴/SOLID 원칙.md",
+                "file": "Web/웹뷰 통신.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID 원칙"
+              "title": "웹뷰 통신"
             }
           },
           {
@@ -182,6 +182,8 @@
   },
   "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "Web/CORS.md",
+    "디자인 패턴/SOLID 원칙.md",
     "javascript/프로토타입.md",
     "최적화/브라우더 렌더링 최적화.md",
     "기타/전환 과정.md",
@@ -208,11 +210,9 @@
     "img/Pasted image 20250407012315.png",
     "img/Pasted image 20250407012241.png",
     "testing/Testing Library.md",
-    "디자인 패턴/SOLID 원칙.md",
     "javascript/콜백 함수.md",
     "javascript/화살표 함수.md",
     "javascript/Map 과 Object.md",
-    "javascript/null vs undefined.md",
     "img/Pasted image 20250404175401.png",
     "img/Pasted image 20250402171941.png",
     "img/Pasted image 20250402171914.png",
