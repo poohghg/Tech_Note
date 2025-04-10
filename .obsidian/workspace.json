@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/HTTP.md",
+                "file": "기타/전환 과정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "전환 과정"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "Web/HTTP.md",
     "Web/CORS.md",
     "Web/웹뷰 통신.md",
     "디자인 패턴/SOLID 원칙.md",
@@ -212,7 +213,6 @@
     "testing/Testing Library.md",
     "javascript/콜백 함수.md",
     "javascript/화살표 함수.md",
-    "javascript/Map 과 Object.md",
     "img/Pasted image 20250404175401.png",
     "img/Pasted image 20250402171941.png",
     "img/Pasted image 20250402171914.png",
