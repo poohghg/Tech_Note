@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\blong task",
+                "query": "\b로드",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
