@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/HTTP.md",
+                "file": "알고리즘/힙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "힙"
             }
           },
           {
@@ -182,8 +182,16 @@
   },
   "active": "213eb014470dd37a",
   "lastOpenFiles": [
-    "기타/전환 과정.md",
+    "알고리즘/해쉬테이블.md",
+    "알고리즘/트리.md",
+    "알고리즘/최단 경로.md",
+    "알고리즘/이진 탐색.md",
+    "알고리즘/시간 복잡도.md",
+    "알고리즘/배열.md",
+    "알고리즘/백트래킹.md",
+    "알고리즘/의사코드.md",
     "Web/HTTP.md",
+    "기타/전환 과정.md",
     "Web/CORS.md",
     "Web/웹뷰 통신.md",
     "디자인 패턴/SOLID 원칙.md",
@@ -200,19 +208,11 @@
     "react/Fiber.md",
     "클린코드/Frontend Fundamentals.md",
     "javascript/모던 자바스크립트 심화.md",
-    "javascript/자바스크립트 자료형.md",
-    "react/useState.md",
-    "next.js/next 에러.md",
-    "react/React Server Component.md",
-    "react/React SSR 과 Hydration.md",
     "img/Pasted image 20250407042008.png",
     "img/Pasted image 20250407040452.png",
     "img/Pasted image 20250407040403.png",
     "img/Pasted image 20250407012315.png",
     "img/Pasted image 20250407012241.png",
-    "testing/Testing Library.md",
-    "javascript/콜백 함수.md",
-    "javascript/화살표 함수.md",
     "img/Pasted image 20250404175401.png",
     "img/Pasted image 20250402171941.png",
     "img/Pasted image 20250402171914.png",
