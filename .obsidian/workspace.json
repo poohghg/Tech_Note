@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/백트래킹.md",
+                "file": "기타/이력서 강의.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백트래킹"
+              "title": "이력서 강의"
             }
           },
           {
@@ -183,6 +183,10 @@
   },
   "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "기타/이미지 파일 마크다운 링크로 변경.md",
+    "기타/인텔리제이.md",
+    "기타/전환 과정.md",
+    "알고리즘/백트래킹.md",
     "알고리즘/sort.md",
     "알고리즘/DFS.md",
     "알고리즘/BFS.md",
@@ -193,10 +197,8 @@
     "알고리즘/이진 탐색.md",
     "알고리즘/시간 복잡도.md",
     "알고리즘/배열.md",
-    "알고리즘/백트래킹.md",
     "알고리즘/의사코드.md",
     "Web/HTTP.md",
-    "기타/전환 과정.md",
     "Web/CORS.md",
     "Web/웹뷰 통신.md",
     "디자인 패턴/SOLID 원칙.md",
@@ -205,8 +207,6 @@
     "javascript/클로저.md",
     "next.js/Next.js.md",
     "기타/이력서 강의.md",
-    "기타/이미지 파일 마크다운 링크로 변경.md",
-    "기타/인텔리제이.md",
     "react/Concurrency.md",
     "react-query/정리.md",
     "img/Pasted image 20250407042008.png",
