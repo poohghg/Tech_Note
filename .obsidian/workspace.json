@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/useState.md",
+                "file": "react/react-core/createElement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useState"
+              "title": "createElement"
             }
           },
           {
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 543.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -183,12 +184,13 @@
   },
   "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
+    "react/useState.md",
     "react/React.md",
     "react/디자인 패턴.md",
     "타입스크립트/타입 메모.md",
     "타입스크립트/핸드북.md",
     "클린코드/Frontend Fundamentals.md",
-    "react/useState.md",
     "react/Concurrency.md",
     "프로그래밍/FSD.md",
     "프로그래밍/git.md",
@@ -216,7 +218,6 @@
     "알고리즘/힙.md",
     "알고리즘/해쉬테이블.md",
     "알고리즘/트리.md",
-    "알고리즘/최단 경로.md",
     "img/Pasted image 20250407042008.png",
     "img/Pasted image 20250407040452.png",
     "디자인 패턴",

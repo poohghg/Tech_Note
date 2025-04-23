@@ -10,6 +10,7 @@ const element = createElement(type, props, ...children)
 > _JSX_는 JavaScript를 확장한 문법으로, JavaScript 파일을 HTML과 비슷하게 마크업을 작성할 수 있도록 해준다.
 > React 컴포넌트는 JSX라는 확장된 문법을 사용하여 마크업을 나타낸다.
 > 
+> JSX는 자바스크립트로 HTML을 표현할 수 있는 문법이다.
 
 `type`, `prop`, `children`를 인수로 제공하고 `createElement`을 호출하여 React 엘리먼트를 생성
 
