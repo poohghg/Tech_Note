@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/react-core/createElement.md",
+                "file": "기타/인텔리제이.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "createElement"
+              "title": "인텔리제이"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 543.5
+    "width": 276.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -180,8 +180,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "213eb014470dd37a",
   "lastOpenFiles": [
+    "디자인 패턴/SOLID 원칙.md",
+    "react/react-core/createElement.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "react/useState.md",
     "react/React.md",
@@ -195,7 +197,6 @@
     "프로그래밍/무제.md",
     "프로그래밍/스터디 - 디자인패턴.md",
     "클린코드/클린코드의 이해.md",
-    "디자인 패턴/SOLID 원칙.md",
     "알고리즘/다이나믹 프로그래밍(DP).md",
     "기타/이력서 강의.md",
     "img/Pasted image 20250417213717.png",
@@ -215,7 +216,6 @@
     "알고리즘/BFS.md",
     "알고리즘/힙.md",
     "알고리즘/해쉬테이블.md",
-    "알고리즘/트리.md",
     "img/Pasted image 20250407042008.png",
     "img/Pasted image 20250407040452.png",
     "디자인 패턴",
