@@ -88,13 +88,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 543.5,
-    "collapsed": true
+    "width": 543.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -182,7 +180,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "213eb014470dd37a",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "react/useState.md",
