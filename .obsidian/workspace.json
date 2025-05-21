@@ -183,8 +183,9 @@
   },
   "active": "da9a609fca15f516",
   "lastOpenFiles": [
-    "README.md",
+    "프로그래밍/FSD.md",
     "프로그래밍/정리.md",
+    "README.md",
     "Web/HTTP.md",
     "Web/CORS.md",
     "Web/웹뷰 통신.md",
@@ -202,7 +203,6 @@
     "프로젝트 설정 참고자료/vite.md",
     "프로젝트 설정 참고자료/참고.md",
     "프로그래밍/스터디 - 디자인패턴.md",
-    "프로그래밍/FSD.md",
     "프로그래밍/git.md",
     "리팩토링/기능 이동.md",
     "기타/이력서 강의.md",
