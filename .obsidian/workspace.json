@@ -25,14 +25,12 @@
             "id": "da9a609fca15f516",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "클린코드/클린코드의 이해.md",
-                "mode": "source",
-                "source": false
+                "file": "HTML/Pasted image 20250404175401.png"
               },
-              "icon": "lucide-file",
-              "title": "클린코드의 이해"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250404175401"
             }
           }
         ],
@@ -183,7 +181,16 @@
   },
   "active": "da9a609fca15f516",
   "lastOpenFiles": [
+    "HTML/HTML.md",
+    "HTML/Pasted image 20250404175401.png",
+    "프로젝트 설정 참고자료/vite.md",
+    "프로젝트 설정 참고자료/참고.md",
+    "프로그래밍/스터디 - 디자인패턴.md",
+    "프로그래밍/FSD.md",
+    "프로그래밍/git.md",
     "리팩토링/기능 이동.md",
+    "기타/이력서 강의.md",
+    "클린코드/클린코드의 이해.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/캡슐화.md",
@@ -193,7 +200,6 @@
     "디자인 패턴/전략 패턴.md",
     "기타/인텔리제이.md",
     "기타/이미지 파일 마크다운 링크로 변경.md",
-    "기타/이력서 강의.md",
     "README.md",
     "프로그래밍/무제.md",
     "react/React Server Component.md",
@@ -202,14 +208,7 @@
     "react/Fiber.md",
     "react/Concurrency.md",
     "react/디자인 패턴.md",
-    "react/React.md",
-    "react/useState.md",
-    "javascript/모던 자바스크립트 심화.md",
-    "react/패턴/제어 와 비제어 컴포넌트.md",
-    "react/ㅊ.md",
     "react/패턴",
-    "react/react-core/createElement.md",
-    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "img/Pasted image 20250417213717.png",
     "img/Pasted image 20250417213708.png",
     "img/Pasted image 20250417213707.png",
@@ -219,7 +218,6 @@
     "img/Pasted image 20250417205247.png",
     "img/Pasted image 20250417205048.png",
     "img/Pasted image 20250407042008.png",
-    "img/Pasted image 20250407040452.png",
     "디자인 패턴",
     "무제.canvas",
     "브라우저",
