@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -182,7 +181,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "da9a609fca15f516",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "프로그래밍/FSD.md",
     "프로그래밍/정리.md",
