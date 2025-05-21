@@ -25,12 +25,14 @@
             "id": "da9a609fca15f516",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "HTML/Pasted image 20250404175401.png"
+                "file": "recoil/recoil.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250404175401"
+              "icon": "lucide-file",
+              "title": "recoil"
             }
           }
         ],
@@ -181,6 +183,13 @@
   },
   "active": "da9a609fca15f516",
   "lastOpenFiles": [
+    "next.js/next14.md",
+    "next.js/Next.js.md",
+    "next.js/next 에러.md",
+    "javascript/클로저.md",
+    "javascript/자바스크립트는 왜 프로토타입을 선택했을까 (요약).md",
+    "javascript/자바스크립트 자료형.md",
+    "javascript/모던 자바스크립트 심화.md",
     "HTML/HTML.md",
     "HTML/Pasted image 20250404175401.png",
     "프로젝트 설정 참고자료/vite.md",
@@ -201,13 +210,6 @@
     "기타/인텔리제이.md",
     "기타/이미지 파일 마크다운 링크로 변경.md",
     "README.md",
-    "프로그래밍/무제.md",
-    "react/React Server Component.md",
-    "기타/전환 과정.md",
-    "react/React SSR 과 Hydration.md",
-    "react/Fiber.md",
-    "react/Concurrency.md",
-    "react/디자인 패턴.md",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
     "img/Pasted image 20250417213708.png",
