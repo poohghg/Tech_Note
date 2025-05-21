@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "프로그래밍/정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "정리"
             }
           }
         ],
@@ -183,6 +183,8 @@
   },
   "active": "da9a609fca15f516",
   "lastOpenFiles": [
+    "README.md",
+    "프로그래밍/정리.md",
     "Web/HTTP.md",
     "Web/CORS.md",
     "Web/웹뷰 통신.md",
@@ -208,8 +210,6 @@
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/캡슐화.md",
-    "리팩토링/코드의  나쁜 냄새.md",
-    "디자인 패턴/SOLID 원칙.md",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
     "img/Pasted image 20250417213708.png",
