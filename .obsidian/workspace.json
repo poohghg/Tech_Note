@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recoil/recoil.md",
+                "file": "Web/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recoil"
+              "title": "HTTP"
             }
           }
         ],
@@ -183,6 +183,10 @@
   },
   "active": "da9a609fca15f516",
   "lastOpenFiles": [
+    "Web/CORS.md",
+    "Web/웹뷰 통신.md",
+    "testing/Testing Library.md",
+    "recoil/recoil.md",
     "next.js/next14.md",
     "next.js/Next.js.md",
     "next.js/next 에러.md",
@@ -206,10 +210,6 @@
     "리팩토링/코드의  나쁜 냄새.md",
     "디자인 패턴/SOLID 원칙.md",
     "디자인 패턴/IOC와 DI.md",
-    "디자인 패턴/전략 패턴.md",
-    "기타/인텔리제이.md",
-    "기타/이미지 파일 마크다운 링크로 변경.md",
-    "README.md",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
     "img/Pasted image 20250417213708.png",
