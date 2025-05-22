@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 시스템.md",
+                "file": "알고리즘/백트래킹.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 시스템"
+              "title": "백트래킹"
             }
           }
         ],
@@ -183,6 +183,7 @@
   },
   "active": "da9a609fca15f516",
   "lastOpenFiles": [
+    "타입스크립트/타입 시스템.md",
     "프로그래밍/정리.md",
     "next.js/Next.js.md",
     "프로그래밍/FSD.md",
@@ -209,7 +210,6 @@
     "클린코드/클린코드의 이해.md",
     "리팩토링/기본적인 리팩터링.md",
     "리팩토링/조건부 로직 간소화.md",
-    "리팩토링/캡슐화.md",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
     "img/Pasted image 20250417213708.png",
