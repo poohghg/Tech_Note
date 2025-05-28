@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -167,7 +168,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1729f22b24650851",
+  "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/자바스크립트 자료형.md",
