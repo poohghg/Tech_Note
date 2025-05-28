@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/정리.md",
+                "file": "알고리즘/sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "정리"
+              "title": "sort"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -169,10 +168,10 @@
   },
   "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
+    "프로그래밍/정리.md",
     "알고리즘/백트래킹.md",
     "기타/인텔리제이.md",
     "타입스크립트/타입 시스템.md",
-    "프로그래밍/정리.md",
     "next.js/Next.js.md",
     "프로그래밍/FSD.md",
     "README.md",
