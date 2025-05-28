@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "동기",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2ee9ce109947b28d",
+  "active": "1729f22b24650851",
   "lastOpenFiles": [
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/자바스크립트 자료형.md",
