@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/모던 자바스크립트 심화.md",
+                "file": "알고리즘/시간 복잡도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "모던 자바스크립트 심화"
+              "title": "시간 복잡도"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동기",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,6 +169,8 @@
   },
   "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
+    "알고리즘/의사코드.md",
+    "javascript/모던 자바스크립트 심화.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/자바스크립트 자료형.md",
     "브라우저/이벤트 루프.md",
@@ -191,12 +192,10 @@
     "next.js/next 에러.md",
     "javascript/클로저.md",
     "javascript/자바스크립트는 왜 프로토타입을 선택했을까 (요약).md",
-    "javascript/모던 자바스크립트 심화.md",
     "HTML/Pasted image 20250404175401.png",
     "프로젝트 설정 참고자료/vite.md",
     "프로젝트 설정 참고자료/참고.md",
     "프로그래밍/스터디 - 디자인패턴.md",
-    "프로그래밍/git.md",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
     "img/Pasted image 20250417213708.png",
