@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/정리.md",
+                "file": "react/react-core/diffing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "정리"
+              "title": "diffing"
             }
           },
           {
@@ -182,11 +182,12 @@
   },
   "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
+    "react/react-core/createElement.md",
+    "프로그래밍/정리.md",
     "javascript/자바스크립트 자료형.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "디자인 패턴/SOLID 원칙.md",
     "javascript/프로토타입.md",
-    "프로그래밍/정리.md",
     "javascript/화살표 함수.md",
     "web/성능(로딩 최적화).md",
     "web/HTTP.md",
@@ -207,7 +208,6 @@
     "프로그래밍/FSD.md",
     "web/CORS.md",
     "web/웹뷰 통신.md",
-    "testing/Testing Library.md",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
