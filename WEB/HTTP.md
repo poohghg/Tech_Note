@@ -282,9 +282,10 @@ HTTP API는 HTTP 프로토콜을 사용하여 애플리케이션 간에 데이�
 #### REST API 란?
 #RESTAPI
 
-REST API는 HTTP API의 설계 스타일 중 하나로, REST (Representational State Transfer)라는 아키텍처 원칙을 따른다. 말 그래로 자원에 대하여, 자원의 상태에 대한 정보를 주고받는 개발 방식이다. REST의 구서요소는 다음과 같다.
+REST API는 HTTP API의 설계 스타일 중 하나로, REST (Representational State Transfer)라는 아키텍처 원칙을 따른다. 말 그래로 자원에 대하여, 자원의 상태에 대한 정보를 주고받는 개발 방식이다. REST의 구성요소는 다음과 같다.
 
 ##### 필요성
+
 - HTTP는 다양한 HTTP메서드를 지원한다.
 - 실제로는 서버가 HTTP 메서드를 기존 설명에 맞게 사용하지 않더라도, 프로그램 개발이 가능하다.
 - 하지만 각 서비스가 서로 다른 방식으로 개발하면, 개발자 사이의 소통에 문제가 발생할 수 있다.
@@ -295,6 +296,7 @@ REST API는 HTTP API의 설계 스타일 중 하나로, REST (Representational S
 - ==행위에 대한 정의는 HTTP 요청 메소드==를 통해 해야 한다.
 
 ##### 구성요소
+
 - 자원(Resource): REST API는 자원을 중심으로 설계된다. 자원은 고유한 식별자(URI)를 가지며, 클라이언트는 이 URI를 통해 자원에 접근한다.
 - 행위(Verb): REST API는 HTTP 메서드를 사용하여 자원에 대한 행위를 정의한다. 일반적으로 GET, POST, PUT, DELETE 등의 메서드를 사용한다.
 - 표현(Representation): 자원은 다양한 형식으로 표현될 수 있다. JSON, XML, HTML 등이 일반적으로 사용된다.
