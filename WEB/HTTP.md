@@ -283,6 +283,10 @@ HTTP API는 HTTP 프로토콜을 사용하여 애플리케이션 간에 데이�
 #RESTAPI
 
 REST API는 HTTP API의 설계 스타일 중 하나로, REST (Representational State Transfer)라는 아키텍처 원칙을 따른다.
+- HTTP는 다양한 HTTP메서드를 지원한다.
+- 실제로는 서버가 HTTP 메서드를 기존 설명에 맞게 사용하지 않더라도, 프로그램 개발이 가능하다.
+- 하지만 각 서비스가 서로 다른 방식으로 개발하면, 개발자 사이의 소통에
+
 
 - REST API는 REST 설계 원칙에 따르는 HTTP API 이다.
 - 모든 REST API는 HTTP API이지만, 모든 HTTP API REST API는 아니다.
