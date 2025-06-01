@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/react-core/diffing.md",
+                "file": "react/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diffing"
+              "title": "React"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
+    "react/react-core/diffing.md",
     "react/react-core/createElement.md",
     "프로그래밍/정리.md",
     "javascript/자바스크립트 자료형.md",
@@ -207,7 +208,6 @@
     "next.js/Next.js.md",
     "프로그래밍/FSD.md",
     "web/CORS.md",
-    "web/웹뷰 통신.md",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
