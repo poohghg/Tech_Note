@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/React.md",
+                "file": "react/React Server Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "React Server Component"
             }
           },
           {
@@ -182,6 +182,8 @@
   },
   "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
+    "react/Fiber.md",
+    "react/React.md",
     "react/react-core/diffing.md",
     "react/react-core/createElement.md",
     "프로그래밍/정리.md",
@@ -206,8 +208,6 @@
     "알고리즘/백트래킹.md",
     "기타/인텔리제이.md",
     "next.js/Next.js.md",
-    "프로그래밍/FSD.md",
-    "web/CORS.md",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
