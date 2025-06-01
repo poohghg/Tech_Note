@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/성능(로딩 최적화).md",
+                "file": "프로그래밍/정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "성능(로딩 최적화)"
+              "title": "정리"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "HTTP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,13 +88,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -183,11 +180,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0e993395352b5eed",
+  "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
+    "web/성능(로딩 최적화).md",
+    "web/HTTP.md",
     "README.md",
     "알고리즘/시간 복잡도.md",
-    "web/성능(로딩 최적화).md",
     "web/브라우저.md",
     "web/보안.md",
     "타입스크립트/타입 시스템.md",
@@ -204,7 +202,6 @@
     "기타/인텔리제이.md",
     "next.js/Next.js.md",
     "프로그래밍/FSD.md",
-    "web/HTTP.md",
     "web/CORS.md",
     "web/웹뷰 통신.md",
     "testing/Testing Library.md",
