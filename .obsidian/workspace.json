@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/자바스크립트 엔진 강의 정리.md",
+                "file": "디자인 패턴/SOLID 원칙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트 엔진 강의 정리"
+              "title": "SOLID 원칙"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/자바스크립트 자료형.md",
     "프로그래밍/정리.md",
     "javascript/화살표 함수.md",
@@ -195,7 +196,6 @@
     "타입스크립트/핸드북.md",
     "알고리즘/의사코드.md",
     "javascript/모던 자바스크립트 심화.md",
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "브라우저/이벤트 루프.md",
     "HTML/HTML.md",
     "알고리즘/sort.md",
