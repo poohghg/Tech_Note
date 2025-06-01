@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/프로토타입.md",
+                "file": "프로그래밍/정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로토타입"
+              "title": "정리"
             }
           },
           {
@@ -182,9 +182,10 @@
   },
   "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
-    "디자인 패턴/SOLID 원칙.md",
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/자바스크립트 자료형.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
+    "디자인 패턴/SOLID 원칙.md",
+    "javascript/프로토타입.md",
     "프로그래밍/정리.md",
     "javascript/화살표 함수.md",
     "web/성능(로딩 최적화).md",
@@ -207,7 +208,6 @@
     "web/CORS.md",
     "web/웹뷰 통신.md",
     "testing/Testing Library.md",
-    "recoil/recoil.md",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
