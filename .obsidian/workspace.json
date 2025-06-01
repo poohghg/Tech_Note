@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 시스템.md",
+                "file": "web/보안.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 시스템"
+              "title": "보안"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
+    "타입스크립트/타입 시스템.md",
     "타입스크립트/핸드북.md",
     "알고리즘/시간 복잡도.md",
     "알고리즘/의사코드.md",
@@ -180,13 +181,12 @@
     "프로그래밍/정리.md",
     "알고리즘/백트래킹.md",
     "기타/인텔리제이.md",
-    "타입스크립트/타입 시스템.md",
     "next.js/Next.js.md",
     "프로그래밍/FSD.md",
     "README.md",
-    "Web/HTTP.md",
-    "Web/CORS.md",
-    "Web/웹뷰 통신.md",
+    "web/HTTP.md",
+    "web/CORS.md",
+    "web/웹뷰 통신.md",
     "testing/Testing Library.md",
     "recoil/recoil.md",
     "next.js/next14.md",
