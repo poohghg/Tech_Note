@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인 패턴/IOC와 DI.md",
+                "file": "브라우저/이벤트 루프.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IOC와 DI"
+              "title": "이벤트 루프"
             }
           },
           {
@@ -182,6 +182,8 @@
   },
   "active": "2ee9ce109947b28d",
   "lastOpenFiles": [
+    "브라우저/렌더링.md",
+    "디자인 패턴/IOC와 DI.md",
     "알고리즘/시간 복잡도.md",
     "testing/Testing Library.md",
     "타입스크립트/핸드북.md",
@@ -206,8 +208,6 @@
     "web/브라우저.md",
     "web/보안.md",
     "타입스크립트/타입 시스템.md",
-    "알고리즘/의사코드.md",
-    "javascript/모던 자바스크립트 심화.md",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
     "img/Pasted image 20250417213717.png",
