@@ -35,7 +35,8 @@
               "title": "HTTP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +181,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2ee9ce109947b28d",
+  "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "web/HTTP.md",
     "프로그래밍/정리.md",
+    "web/HTTP.md",
     "javascript/콜백 함수.md",
     "next.js/next 에러.md",
     "next.js/Next.js.md",
