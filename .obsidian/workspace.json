@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/FSD.md",
+                "file": "알고리즘/sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FSD"
+              "title": "sort"
             }
           },
           {
@@ -210,6 +210,7 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "프로그래밍/FSD.md",
     "디자인 패턴/SOLID 원칙.md",
     "디자인 패턴/IOC와 DI.md",
     "디자인 패턴/전략 패턴.md",
@@ -228,7 +229,6 @@
     "타입스크립트/이펙티브 타입스크립트 - 6.타입 선언과 @types.md",
     "타입스크립트/핸드북.md",
     "프로그래밍/git.md",
-    "프로그래밍/FSD.md",
     "프로그래밍/정리.md",
     "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/무제.md",
