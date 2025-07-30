@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/성능(로딩 최적화).md",
+                "file": "react/Fiber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "성능(로딩 최적화)"
+              "title": "Fiber"
             }
           },
           {
@@ -116,8 +116,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +208,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1729f22b24650851",
+  "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "react/react-core/createElement.md",
+    "react/디자인 패턴.md",
+    "web/성능(로딩 최적화).md",
     "web/브라우저.md",
     "web/HTTP.md",
     "타입스크립트/핸드북.md",
@@ -234,9 +236,6 @@
     "기타/인텔리제이.md",
     "javascript/모던 자바스크립트 심화.md",
     "프로그래밍/FSD.md",
-    "디자인 패턴/SOLID 원칙.md",
-    "디자인 패턴/IOC와 DI.md",
-    "디자인 패턴/전략 패턴.md",
     "img/Pasted image 20250619180314.png",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
