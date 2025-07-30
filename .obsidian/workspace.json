@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DOMTREE구성과정",
+                "query": "tag:#HTTP상태코드",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "타입스크립트/이펙티브 타입스크립트.md",
+                "file": "프로그래밍/무제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "이펙티브 타입스크립트의 나가는 링크"
+              "title": "무제 의 나가는 링크"
             }
           },
           {
@@ -171,10 +172,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
@@ -192,7 +195,8 @@
               "title": "HTTP 의 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
