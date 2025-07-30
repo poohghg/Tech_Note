@@ -43,5 +43,15 @@
       ],
       "key": "H"
     }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
+    }
   ]
 }
