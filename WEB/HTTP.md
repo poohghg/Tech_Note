@@ -901,10 +901,12 @@ HTTP는 무상태 프로토콜이지만, 세션을 통해 상태를 유지할 �
 - Cache-Control: no-store
 	- 데이터에 민감한 정보가 있으므로 저장하면 안된다.
 	- 메모리에서 사용하고 최대한 빨리 삭제
+	- 브라우저 캐시, 프록시 캐시 모두 저장하지 않는다.
 - Cache-Control: public
 	- 리소스를 캐시해도 되고, 공유해도 된다.
 - Cache-Control: private
 	- 개인 캐시에만 저장해야 한다.
+	- 브라우저 캐시에는 저장 가능하지만, 프록시 캐시는 저장하면 안된다.
 - Cache-Control: no-transform
 	- 프록시 등은 응답을 변환해서는 안된다.
 - Cache-Control: must-revalidate
