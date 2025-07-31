@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#HTTP상태코드",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,13 +116,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -213,7 +211,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0e993395352b5eed",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "react/React Server Component.md",
     "react/React SSR 과 Hydration.md",
