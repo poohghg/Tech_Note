@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/화살표 함수.md",
+                "file": "javascript/array 와 set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "화살표 함수"
+              "title": "array 와 set"
             }
           },
           {
@@ -213,6 +213,7 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "javascript/화살표 함수.md",
     "알고리즘/시간 복잡도.md",
     "알고리즘/다이나믹 프로그래밍(DP).md",
     "프로그래밍/무제.md",
@@ -238,7 +239,6 @@
     "알고리즘/트리.md",
     "알고리즘/최장 증가 부분 수열.md",
     "알고리즘/최단 경로.md",
-    "알고리즘/이진 탐색.md",
     "img/Pasted image 20250619180314.png",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
