@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입스크립트/타입 시스템.md",
+                "file": "타입스크립트/핸드북.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "타입 시스템"
+              "title": "핸드북"
             }
           },
           {
@@ -214,6 +214,7 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "타입스크립트/타입 시스템.md",
     "타입스크립트/타입 메모.md",
     "타입스크립트/핸드북.md",
     "web/HTTP.md",
@@ -239,7 +240,6 @@
     "알고리즘/BFS.md",
     "알고리즘/힙.md",
     "알고리즘/해쉬테이블.md",
-    "알고리즘/트리.md",
     "img/Pasted image 20250619180314.png",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
