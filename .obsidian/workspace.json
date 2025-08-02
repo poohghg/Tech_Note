@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/스터디 - 디자인패턴.md",
+                "file": "javascript/불변성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스터디 - 디자인패턴"
+              "title": "불변성"
             }
           },
           {
@@ -213,13 +213,14 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "리팩토링/캡슐화.md",
+    "javascript/불변성.md",
+    "react/리액트 정리.md",
+    "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/개인 정리.md",
     "프로그래밍/FSD.md",
     "프로그래밍/GIT.md",
-    "프로그래밍/스터디 - 디자인패턴.md",
     "브라우저/이벤트 루프.md",
-    "react/리액트 정리.md",
-    "리팩토링/캡슐화.md",
     "리팩토링/조건부 로직 간소화.md",
     "리팩토링/기능 이동.md",
     "리팩토링/기본적인 리팩터링.md",
@@ -238,7 +239,6 @@
     "디자인 패턴/전략 패턴.md",
     "기타/인텔리제이.md",
     "기타/이력서 강의.md",
-    "기타/이미지 파일 마크다운 링크로 변경.md",
     "img/Pasted image 20250619180314.png",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
