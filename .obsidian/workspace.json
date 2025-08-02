@@ -116,8 +116,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +211,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0e993395352b5eed",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "프로그래밍/무제.md",
     "프로그래밍/정리.md",
