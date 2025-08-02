@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/불변성.md",
+                "file": "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "불변성"
+              "title": "자바스크립트 전체 정리본"
             }
           },
           {
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "힙 메모리",
+                "query": "requestAnimationFrame",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -213,8 +214,8 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "리팩토링/캡슐화.md",
     "javascript/불변성.md",
+    "리팩토링/캡슐화.md",
     "react/리액트 정리.md",
     "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/개인 정리.md",
