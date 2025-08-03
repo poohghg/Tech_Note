@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -211,7 +212,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "0e993395352b5eed",
   "lastOpenFiles": [
     "레퍼런스/최적화",
     "레퍼런스/최적.md",
