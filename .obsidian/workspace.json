@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리팩토링/기본적인 리팩터링.md",
+                "file": "클린코드/Frontend Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기본적인 리팩터링"
+              "title": "Frontend Fundamentals"
             }
           },
           {
@@ -227,6 +227,8 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "클린코드/클린코드의 이해.md",
+    "리팩토링/기본적인 리팩터링.md",
     "리팩토링/기능 이동.md",
     "리팩토링/코드의  나쁜 냄새.md",
     "react/React.md",
@@ -255,8 +257,6 @@
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "javascript/불변성.md",
     "리팩토링/캡슐화.md",
-    "프로그래밍/스터디 - 디자인패턴.md",
-    "프로그래밍/개인 정리.md",
     "img/Pasted image 20250619180314.png",
     "HTML/Pasted image 20250404175401.png",
     "react/패턴",
