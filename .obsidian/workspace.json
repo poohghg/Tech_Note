@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "최적화/장기 작업 최적화.md",
+                "file": "레퍼런스/최적화/프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다!  EP.9 모닥불.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "장기 작업 최적화"
+              "title": "프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다!  EP.9 모닥불"
             }
           },
           {
@@ -227,8 +227,8 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "javascript/바벨 과 폴리필.md",
     "최적화/장기 작업 최적화.md",
+    "javascript/바벨 과 폴리필.md",
     "최적화/브라우더 렌더링 최적화.md",
     "web/브라우저/이벤트 루프.md",
     "web/브라우저/렌더링.md",
