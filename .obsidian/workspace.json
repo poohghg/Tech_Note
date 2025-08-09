@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -225,7 +225,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0e993395352b5eed",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "알고리즘/의사코드.md",
     "알고리즘/정렬.md",
