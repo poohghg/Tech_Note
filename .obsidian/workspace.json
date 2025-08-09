@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/개인 정리.md",
+                "file": "javascript/불변성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개인 정리"
+              "title": "불변성"
             }
           },
           {
@@ -227,6 +227,9 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "javascript/모던 자바스크립트 심화.md",
+    "react-query/정리.md",
+    "프로그래밍/개인 정리.md",
     "레퍼런스/최적화/프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다!  EP.9 모닥불.md",
     "알고리즘/시간 복잡도.md",
     "알고리즘/의사코드.md",
@@ -234,13 +237,11 @@
     "알고리즘/다이나믹 프로그래밍(DP).md",
     "기타/인텔리제이.md",
     "Pasted image 20250404175401.png.md",
-    "프로그래밍/개인 정리.md",
     "리팩토링/캡슐화.md",
     "javascript/프로토타입.md",
     "javascript/자바스크립트는 왜 프로토타입을 선택했을까 (요약).md",
     "javascript/화살표 함수.md",
     "javascript/바벨 과 폴리필.md",
-    "javascript/모던 자바스크립트 심화.md",
     "javascript/클로저.md",
     "react/Fiber.md",
     "프로그래밍/FSD.md",
@@ -252,7 +253,6 @@
     "react/React.md",
     "react/리액트 정리.md",
     "최적화/장기 작업 최적화.md",
-    "최적화/브라우더 렌더링 최적화.md",
     "img/Pasted image 20250804034631.png",
     "레퍼런스/최적화",
     "레퍼런스",
