@@ -91,8 +91,7 @@
               "title": "데이터 조직화"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,10 +240,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c04107125c008244",
+  "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "프로그래밍/소트트웨어 개발.md",
     "web/HTTP.md",
+    "프로그래밍/소트트웨어 개발.md",
     "프로그래밍/FSD.md",
     "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/GIT.md",
