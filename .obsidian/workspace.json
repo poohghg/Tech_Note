@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/무제.md",
+                "file": "도서/패턴으로 익히는 리액트/무제.md",
                 "mode": "source",
                 "source": false
               },
@@ -240,11 +240,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "도서/패턴으로 익히는 리액트",
     "디자인 패턴/SOLID 원칙.md",
+    "도서/패턴으로 익히는 리액트/무제.md",
     "도서/무제.md",
+    "도서/패턴으로 익히는 리액트",
     "도서",
     "클린코드/Frontend Fundamentals.md",
     "클린코드/클린코드의 이해.md",
@@ -288,7 +289,6 @@
     "img/template.ts",
     "testing",
     "기타",
-    "HTML",
     "무제 파일.canvas",
     "react/무제 파일.canvas"
   ]
