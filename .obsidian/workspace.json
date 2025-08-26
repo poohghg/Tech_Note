@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "추상화",
+                "query": "리플로우",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -242,6 +243,8 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
+    "최적화/브라우더 렌더링 최적화.md",
     "HTML/HTML.md",
     "web/성능(로딩 최적화).md",
     "javascript/자바스크립트는 왜 프로토타입을 선택했을까 (요약).md",
@@ -267,8 +270,6 @@
     "react/react-core/diffing.md",
     "react/Fiber.md",
     "img/Pasted image 20250827044954.png",
-    "디자인 패턴/SOLID 원칙.md",
-    "도서/무제.md",
     "도서/패턴으로 익히는 리액트",
     "도서",
     "img/Pasted image 20250804034631.png",
