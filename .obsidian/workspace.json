@@ -91,7 +91,8 @@
               "title": "데이터 조직화"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,8 +241,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0e993395352b5eed",
+  "active": "c04107125c008244",
   "lastOpenFiles": [
+    "최적화/장기 작업 최적화.md",
     "최적화/브라우더 렌더링 최적화.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "HTML/HTML.md",
@@ -267,7 +269,6 @@
     "react/React SSR 과 Hydration.md",
     "react/Concurrency.md",
     "react/react-core/diffing.md",
-    "react/Fiber.md",
     "img/Pasted image 20250827044954.png",
     "도서/패턴으로 익히는 리액트",
     "도서",
