@@ -16,7 +16,7 @@ HTML(Hypertext Markup Language, 하이퍼텍스트 마크업 언어)는 프로�
 
 #### HTML 요소
 
-![Pasted image 20250116182711.png](../img/Pasted%20image%2020250116182711.png)
+![Pasted image 20250116182711.png](Pasted%20image%2020250116182711.png)
 
 1. **여는 태그(Opening tag):** 이것은 요소의 이름과(이 경우 p), 열고 닫는 꺽쇠 괄호로 구성됩니다. 요소가 시작(이 경우 단락의 시작 부분)부터 효과가 적용되기 시작한다.
 2. **닫는 태그(Closing tag):** 이것은 요소의 이름 앞에 슬래시(/)가 있는것을 제외하면 여는 태그(opening tag)와 같습니다. 이것은 요소의 끝(이 경우 단락의 끝 부분)에 위치한다. 닫는 태그를 적어주지 않는 것은 흔한 초심자의 오류이며, 이것은 이상한 결과를 낳게됩니다.
@@ -41,7 +41,7 @@ HTML(Hypertext Markup Language, 하이퍼텍스트 마크업 언어)는 프로�
 - 브라우저 렌더링 엔진은 아래의 과정을 거쳐 브라우저가 이해할 수 있는 자료구조인`DOM(Document Object Model)`을 만든다.
 - DOM 이란 ? HTML 문서의 계층적인 트리 구조로, 브라우저가 HTML 문서를 이해하고 처리하는 방법을 정의한다. DOM은 HTML 문서의 모든 요소를 객체로 표현하며, 이 객체들은 서로 연결되어 있어 요소들 간의 관계를 표현한다. 자바스크립트가 사용 할 수 있는 API를 제공하여, HTML 문서의 요소를 동적으로 조작할 수 있다.
 
-![Pasted image 20250116225615.png](../img/Pasted%20image%2020250116225615.png)
+![Pasted image 20250116225615.png](Pasted%20image%2020250116225615.png)
 
 ##### DOM  Tree 구성 과정
 #DOMTREE구성과정
