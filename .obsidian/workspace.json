@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/패턴으로 익히는 리액트/무제.md",
+                "file": "도서/패턴으로 익히는 리액트/CH.1 리액트 안티 패턴 소개.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "CH.1 리액트 안티 패턴 소개"
             }
           },
           {
@@ -243,7 +243,7 @@
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
     "디자인 패턴/SOLID 원칙.md",
-    "도서/패턴으로 익히는 리액트/무제.md",
+    "도서/패턴으로 익히는 리액트/CH.1 리액트 안티 패턴 소개.md",
     "도서/무제.md",
     "도서/패턴으로 익히는 리액트",
     "도서",
