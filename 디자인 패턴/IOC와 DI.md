@@ -48,7 +48,28 @@ export function ListLayout<T>({ items, children }: ListLayoutProps<T>) {
 
 ```
 
+``` tsx
+// components/UserList.tsx
+import { useEffect, useState } from "react";
+import { fetchUsers } from "../service/UserService";
+import { ListLayout } from "./ListLayout";
 
+export function UserList() {
+  const [users, setUsers] = useState<{ id: number; name: string }[]>([]);
+
+  useEffect(() => {
+    fetchUsers().then(setUsers);
+  }, []);
+
+  return (
+    <ListLayout items={users}>
+      {(user) => <div className="text-blue-600">👤 {user.name}</div>}
+    </ListLayout>
+  );
+}
+
+
+```
 
 
 
