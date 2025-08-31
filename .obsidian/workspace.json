@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "**Transitions**",
+                "query": "startTransition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
