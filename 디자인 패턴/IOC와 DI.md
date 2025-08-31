@@ -25,7 +25,28 @@
 | 주입된 기능 수용 | 외부에서 전달된 `children`, `render`, `action` 등을 표현 |
 
 
+``` tsx
+// components/ListLayout.tsx
+import { ReactNode } from "react";
 
+interface ListLayoutProps<T> {
+  items: T[];
+  children: (item: T) => ReactNode; // 👈 렌더링 전략을 주입
+}
+
+export function ListLayout<T>({ items, children }: ListLayoutProps<T>) {
+  return (
+    <ul className="grid grid-cols-2 gap-4">
+      {items.map((item, index) => (
+        <li key={index} className="p-4 border rounded-xl shadow-sm">
+          {children(item)}
+        </li>
+      ))}
+    </ul>
+  );
+}
+
+```
 
 
 
