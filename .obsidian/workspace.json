@@ -145,8 +145,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,7 +241,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "68e2be3d9834f9ff",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
     "클린코드/클린코드의 이해.md",
     "클린코드/Frontend Fundamentals.md",
