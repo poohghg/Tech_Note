@@ -92,7 +92,7 @@ const BlogPost = ({id}:{id:ing}) => {
 
 ``` tsx
 
-function UserDashboard({ user, posts }: UserDashboardProps) {
+%% function UserDashboard({ user, posts }: UserDashboardProps) {
  return (
  <div>
  <h1>{user.name}</h1>
@@ -109,6 +109,15 @@ function UserDashboard({ user, posts }: UserDashboardProps) {
  <h3>{post.author}</h3>
  <p>{post.summary}</p>
  </div>
+  ))}
+ </div>
+ );
+}
+ %%
+ 
+f
+ 
+export default UserDashboard;
 
 ```
 
