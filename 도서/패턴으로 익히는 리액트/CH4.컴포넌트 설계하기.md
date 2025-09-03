@@ -138,5 +138,6 @@ function UserDashboard({ user, posts }: UserDashboardProps) {
 }
 
 export default UserDashboard;
-
 ```
+
+- 관심사 분리: 컴포넌트의 여러 다른 영역들을 각각의 별도의 컴포넌트로 분리함
