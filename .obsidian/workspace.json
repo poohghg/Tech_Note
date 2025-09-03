@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -256,11 +256,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cb1e8696a3c4bd11",
+  "active": "68e2be3d9834f9ff",
   "lastOpenFiles": [
+    "도서/패턴으로 익히는 리액트/CH2. 필수 개념 이해.md",
     "도서/패턴으로 익히는 리액트/CH3.애플리케이션 구조.md",
     "리팩토링/기본적인 리팩터링.md",
-    "도서/패턴으로 익히는 리액트/CH2. 필수 개념 이해.md",
     "도서/패턴으로 익히는 리액트/CH1. 안티 패턴 소개.md",
     "디자인 패턴/IOC와 DI.md",
     "디자인 패턴/전략 패턴.md",
