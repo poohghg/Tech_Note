@@ -89,3 +89,46 @@ const BlogPost = ({id}:{id:ing}) => {
 ### 3. 합성 활용하기
 
 > 합성(Composition)은 여러 개의 작은 컴포넌트를 조합하여 더 큰 컴포넌트를 만드는 방법이다. 합성을 활용하면 코드의 재사용성이 높아지고, 유지보수와 확장성이 좋아진다.
+
+``` tsx
+
+function UserDashboard({ user, posts }: UserDashboardProps) {
+ return (
+ <div>
+ <h1>{user.name}</h1>
+ <img src={user.avatar} alt="profile" />
+ <h2>Friends</h2>
+ <ul>
+ {user.friends.map((friend) => (
+ <li key={friend}>{friend}</li>
+ ))}
+ </ul>
+ <h2>Latest Posts</h2>
+ {posts.map((post) => (
+ <div key={post.author}>
+ <h3>{post.author}</h3>
+ <p>{post.summary}</p>
+ </div>
+
+```
+
+```tsx
+
+import { UserDashboardProps } from "./types";
+import { UserProfile } from "./UserProfile";
+import { FriendList } from "./FriendList";
+import { PostList } from "./PostList";
+
+function UserDashboard({ user, posts }: UserDashboardProps) {
+  return (
+    <div>
+      <UserProfile user={user} />
+      <FriendList friends={user.friends} />
+      <PostList posts={posts} />
+    </div>
+  );
+}
+
+export default UserDashboard;
+
+```
