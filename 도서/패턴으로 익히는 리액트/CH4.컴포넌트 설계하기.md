@@ -11,10 +11,8 @@
 
 const BlogPost = ({id}:{id:ing}) => {
   const [post, setPost] = useState(null);
-  const [isLiked, setIsLiking] = useState(false);
-
-  ]
-
+  const [isLiked, setIsLiked] = useState(false);
+  
   useEffect(() => {
     fetchPost(id).then(data => setPost(data));
   }, [id]);
@@ -25,9 +23,15 @@ const BlogPost = ({id}:{id:ing}) => {
     <div>
       <h1>{post.title}</h1>
       <p>{post.content}</p>
+      <button onClick={() => setIsLiked(!isLiked)}>
+        {isLiked ? 'Unlike' : 'Like'}
     </div>
   );
 };
 })
   
 ```
+
+위 코드는 단일 책임 원칙을 위반하고 있습니다. `BlogPost` 컴포넌트는 데이터 페칭과 UI 렌더링, 그리고 좋아요 상태 관리를
+
+``` tsx
