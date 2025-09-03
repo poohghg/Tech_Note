@@ -34,7 +34,30 @@ const BlogPost = ({id}:{id:ing}) => {
 
 위 코드는 단일 책임 원칙을 위반하고 있습니다. `BlogPost` 컴포넌트는 데이터 페칭과 UI 렌더링, 그리고 좋아요 상태 관리 까지 3가지 동작을 하나의 컴포넌트에서 수행하기 때문이다.
 
-``` ㅅㄴㅌ
+```tsx
+
+const userFetchPost = async (id: string) => {
+  const response = await fetch(`/api/posts/${id}`);
+  const data = await response.json();
+  return data;
+};
+
+const usePost = (id: string) => {
+  const [post, setPost] = useState(null);
+
+  useEffect(() => {
+    userFetchPost(id).then(data => setPost(data));
+  }, [id]);
+
+  return post;
+};
+
+const LikeButton = () => (
+  <button onClick={onToggle}>
+    {isLiked ? 'Unlike' : 'Like'}
+  </button>
+);
+
 
 ```
 
