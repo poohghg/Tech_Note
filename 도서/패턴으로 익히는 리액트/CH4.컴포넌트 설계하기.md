@@ -32,7 +32,7 @@ const BlogPost = ({id}:{id:ing}) => {
   
 ```
 
-위 코드는 단일 책임 원칙을 위반하고 있습니다. `BlogPost` 컴포넌트는 데이터 페칭과 UI 렌더링, 그리고 좋아요 상태 관리 까지 3가지 동작을 하나의 컴포넌트에서 수행하기 때문이다.
+위 코드는 단일 책임 원칙을 위반하고 있다. `BlogPost` 컴포넌트는 데이터 페칭과 UI 렌더링, 그리고 좋아요 상태 관리 까지 3가지 동작을 하나의 컴포넌트에서 수행하기 때문이다.
 
 ```tsx
 
@@ -53,11 +53,26 @@ const usePost = (id: string) => {
 };
 
 const LikeButton = () => (
-  <button onClick={onToggle}>
-    {isLiked ? 'Unlike' : 'Like'}
-  </button>
+  const [isLiked, setIsLiked] = useState(false);
+  const onToggle = () => setIsLiked(!isLiked);
+  
+  return <button onClick={onToggle}>{isLiked ? 'Unlike' : 'Like'}</button
+
 );
 
+const BlogPost = ({id}:{id:ing}) => {
+  const post = usePost(id);
+
+  if (!post) return <div>Loading...</div>;
+
+  return (
+    <div>
+      <h1>{post.title}</h1>
+      <p>{post.content}</p>
+      <LikeButton />
+    </div>
+  );
+};
 
 ```
 
