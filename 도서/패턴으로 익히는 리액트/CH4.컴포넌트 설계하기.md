@@ -6,3 +6,28 @@
   > 
   > 하나의 컴포넌트는 하나의 작업이나 기능만을 수행하는 것이 이상적이다. 
   > 이 원칙을 따르면 코드 가독성이 높아지고, 유지보수와 테스트 및 디버깅도 쉬워진다.
+  
+``` tsx
+
+const BlogPost = ({id}:{id:ing}) => {
+  const [post, setPost] = useState(null);
+  const [isLiked, setIsLiking] = useState(false);
+
+  ]
+
+  useEffect(() => {
+    fetchPost(id).then(data => setPost(data));
+  }, [id]);
+
+  if (!post) return <div>Loading...</div>;
+
+  return (
+    <div>
+      <h1>{post.title}</h1>
+      <p>{post.content}</p>
+    </div>
+  );
+};
+})
+  
+```
