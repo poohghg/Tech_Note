@@ -154,6 +154,73 @@ export default UserDashboard;
 
 > 컴포넌트를 분리한 뒤에, 합성을 통해 컴포넌트가 분리한 서브 컴포넌트를 prop으로 전달하면 컴포넌트를 사용하는 측에서 서브 컴포넌트를 prop을 통해 직정 제공하도록 하여 Prop Drilling 문제를 해결할 수 있다.
 
+```tsx
+import React from "react";
+
+type HeaderProps = {
+  title: string;
+  subtitle: string;
+  onClick: () => void;
+};
+
+const Header = ({ title, subtitle, onClick }: HeaderProps) => {
+  return (
+    <header onClick={onClick}>
+      <h1>{title}</h1>
+      <h2>{subtitle}</h2>
+    </header>
+  );
+};
+
+type SidebarProps = {
+  links: string[];
+  onLinkClick: (link: string) => void;
+};
+
+const Sidebar = ({ links, onLinkClick }: SidebarProps) => {
+  return (
+    <aside>
+      <ul>
+        {links.map((link) => (
+          <li key={link} onClick={() => onLinkClick(link)}>
+            {link}
+          </li>
+        ))}
+      </ul>
+    </aside>
+  );
+};
+
+type MainProps = {
+  isLoading: boolean;
+  content: React.ReactNode;
+};
+
+const Main = ({ isLoading, content }: MainProps) => {
+  return <>{!isLoading && <main>{content}</main>}</>;
+};
+
+type PageProps = {
+  header: React.ReactNode;
+  sidebar: React.ReactNode;
+  main: React.ReactNode;
+};
+
+function Page({ header, sidebar, main }: PageProps) {
+  return (
+    <div>
+      {header}
+      {sidebar}
+      {main}
+    </div>
+  );
+}
+
+export { Header, Sidebar, Main, Page };
+
+```
+
+
 ``` tsx
 const MySimplePage = () => {
  return (
@@ -169,7 +236,6 @@ const MySimplePage = () => {
 			 </ul>
 		 </aside>
 	 }
-	 main={<div>The main content</div>}
-	 />
+	 main={<div>The main content</div>}/>
  );
 ```
