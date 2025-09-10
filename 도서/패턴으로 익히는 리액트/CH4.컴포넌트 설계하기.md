@@ -154,3 +154,22 @@ export default UserDashboard;
 
 > 컴포넌트를 분리한 뒤에, 합성을 통해 컴포넌트가 분리한 서브 컴포넌트를 prop으로 전달하면 컴포넌트를 사용하는 측에서 서브 컴포넌트를 prop을 통해 직정 제공하도록 하여 Prop Drilling 문제를 해결할 수 있다.
 
+``` tsx
+const MySimplePage = () => {
+ return (
+	 <Page
+		 header={
+		 <h1>A simple header</h1>
+	 }
+	 sidebar={
+		 <aside>
+			 <ul>
+				 <li>Home</li>
+				 <li>About</li>
+			 </ul>
+		 </aside>
+	 }
+	 main={<div>The main content</div>}
+	 />
+ );
+```
