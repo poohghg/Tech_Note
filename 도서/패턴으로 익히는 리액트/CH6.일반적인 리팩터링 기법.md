@@ -32,10 +32,26 @@
 > 
 > 주로 복잡한 표현식의 일부를 의미 있는 이름의 변수로 추출하면 코드를 쉽게 이해하고 다루기 편해진다.
 
+``` ts
+// 리팩터링 전
+const calculateTotalPrice = (items: { price: number; quantity: number }[]) => {
+  return items.reduce((total, item) => total + item.price * item.quantity, 0);
+};
+```
+
+``` ts
+// 리팩터링 후
+const calculateTotalPrice = (items: { price: number; quantity: number }[]) => {
+  const itemTotal = (item: { price: number; quantity: number }) => item.price * item.quantity;
+  return items.reduce((total, item) => total + itemTotal(item), 0);
+};
+
+```
+
 ### 4. 반복문을 파이프라인으로 바꾸기
 
 > 반복문을 파이프라인으로 바꾸기는 말 그대로 반복문 구조를 변환 파이프라인 구조로 변경하는 것이다.
 > 일반적으로 고차 함수 또는 함수형 프로그래밍 기법을 활용하여 구현한다.
 > 
-> 반복문을 파이프라인으로 대체하는 것은 코드를 깔금하게 해주고 가독성을 높여줄 수 있지만, 대용량의 데이터 세트를 다룰 때는 효과적인 선택이 아닐 수 있다. 따라서 대용량의 데이터 세트를 반복해서 다뤄야 하는 경우 유지보수성과 성능 요구사항을 균형 있게 고려해야 한다.
+> 반복문을 파이프라인으로 대체하는 것은 코드를 깔금하게 해주고 가독성을 높여줄 수 있지만, 대용량의 데이터 세트를 다룰 때는 효과적인 선택이 아닐 수 있다. 따라서 대용량의 데이터 세트를 반복해서 다뤄야 하는 경우 유지보수성과 성능 요구사항을 균형 있게 고려해야한다.
 
