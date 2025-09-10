@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
+                "file": "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH4.컴포넌트 설계하기"
+              "title": "CH6.일반적인 리팩터링 기법"
             }
           },
           {
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -258,8 +257,9 @@
   },
   "active": "68e2be3d9834f9ff",
   "lastOpenFiles": [
-    "도서/패턴으로 익히는 리액트/CH3.애플리케이션 구조.md",
     "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
+    "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
+    "도서/패턴으로 익히는 리액트/CH3.애플리케이션 구조.md",
     "도서/패턴으로 익히는 리액트/CH1.안티 패턴 소개.md",
     "도서/패턴으로 익히는 리액트/CH2.필수 개념 이해.md",
     "디자인 패턴/IOC와 DI.md",
@@ -283,7 +283,6 @@
     "web/성능(로딩 최적화).md",
     "web/보안.md",
     "web/브라우저/렌더링.md",
-    "web/브라우저/브라우저.md",
     "img/Pasted image 20250827044954.png",
     "도서/패턴으로 익히는 리액트",
     "도서",
