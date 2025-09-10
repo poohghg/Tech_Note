@@ -225,17 +225,16 @@ export { Header, Sidebar, Main, Page };
 const MySimplePage = () => {
  return (
 	 <Page
-		 header={
-		 <h1>A simple header</h1>
-	 }
-	 sidebar={
-		 <aside>
-			 <ul>
-				 <li>Home</li>
-				 <li>About</li>
-			 </ul>
-		 </aside>
-	 }
-	 main={<div>The main content</div>}/>
+		 header={<h1>A simple header</h1>}
+		 sidebar={
+			 <aside>
+				 <ul>
+					 <li>Home</li>
+					 <li>About</li>
+				 </ul>
+			 </aside>
+		 }
+		 main={<div>The main content</div>}
+	 />
  );
 ```
