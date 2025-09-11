@@ -81,3 +81,19 @@ const calculateTotalPrice = (items: { price: number; quantity: number }[]) => {
 > 조건문 분해하기는 복잡한 조건문을 더 단순하고 이해하기 쉽게 만드는 리팩터링 기법이다. 복잡한 조건문은 여러 개의 논리 연산자와 중첩된 조건문으로 이루어져 있어 가독성을 떨어뜨리고 유지보수를 어렵게 만든다.
 > 
 > 조건문인 if절과 else절을 별도의 함수로 나누고, 각각이 지닌 기능 또는 그것이 무엇을 확인하는지 나타낼 수 있도록 이름을 정해준다. 이름이 잘 지어진 함수로 대체하여, 코드만 보고도 이해할 수 있게 한다.
+
+
+``` ts
+
+function isDiscountEligible(item: Item) {
+	return item.quantity > 10;
+}
+
+function applyDiscountIfEligible(item: Item, subTotal: number) {
+	return isDiscountEligible(item)
+	? subTotal * DISCOUNT_RATE
+	: subTotal;
+}
+
+```
+
