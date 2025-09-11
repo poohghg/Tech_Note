@@ -97,3 +97,4 @@ function applyDiscountIfEligible(item: Item, subTotal: number) {
 
 ```
 
+### 8., 하
