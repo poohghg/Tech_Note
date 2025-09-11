@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "최적화/장기 작업 최적화.md",
+                "file": "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "장기 작업 최적화"
+              "title": "CH6.일반적인 리팩터링 기법"
             }
           },
           {
@@ -158,8 +158,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,11 +257,11 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "최적화/장기 작업 최적화.md",
     "도서/패턴으로 익히는 리액트/CH2.필수 개념 이해.md",
     "리팩토링/기본적인 리팩터링.md",
     "web/브라우저/이벤트 루프.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
-    "최적화/장기 작업 최적화.md",
     "최적화/브라우더 렌더링 최적화.md",
     "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
     "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
