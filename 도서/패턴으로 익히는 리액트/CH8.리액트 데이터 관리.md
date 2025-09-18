@@ -41,9 +41,7 @@
 
 - 안티패턴 (누수: 컴포넌트에 규칙)
 
-ts
-
-```
+``` tsx
 // CartItem.tsx (bad)
 const discount = (total: number, isVip: boolean) =>
   total > 100000 && isVip ? total * 0.1 : 0;
@@ -56,9 +54,7 @@ function CartItem({ total, isVip }: { total: number; isVip: boolean }) {
 
 - 권장 (규칙을 도메인/공유로 추출)
 
-ts
-
-```
+``` tsx
 // domain/pricing.ts (shared lib or call backend)
 export function calculateDiscount(total: number, isVip: boolean) {
   return total > 100000 && isVip ? total * 0.1 : 0;
@@ -73,8 +69,6 @@ function CartItem({ total, isVip }: { total: number; isVip: boolean }) {
 ```
 
 실무 체크리스트 (짧게)
-
-- 동일한 규칙이 코드베이스/서비스에 중복으로 있나 검색(search for keyword).
 - 컴포넌트에 비즈니스 계산/상태 전이 함수가 있는지 확인.
 - 백엔드와 규칙 사양이 문서화·테스트로 일치하는지 검증(통합/계약 테스트).
 - PR 리뷰 템플릿에 “비즈니스 로직이 도메인에 있나?” 추가.
