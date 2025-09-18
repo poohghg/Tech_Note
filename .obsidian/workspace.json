@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "이벤트 루프",
+                "query": "상태란",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -270,8 +271,9 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
+    "react/리액트 정리.md",
     "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
+    "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
     "도서/패턴으로 익히는 리액트/CH3.애플리케이션 구조.md",
     "도서/패턴으로 익히는 리액트/CH7. 테스트 주도 개발.md",
     "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
@@ -285,7 +287,6 @@
     "react/React.md",
     "react/Fiber.md",
     "react/Concurrency.md",
-    "react/리액트 정리.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/null vs undefined.md",
     "javascript/Map 과 Object.md",
