@@ -128,3 +128,7 @@ export const transformUser = (remoteUser: RemoteUser): User => {
 };
 
 ```
+
+> 데이터 변환과 예외 처리 로직을 ACL로 이동하면 컴포넌트가 단순해지고, 데이터의 형식과 예외 상황에 대한 처리가 한 곳에 집중되어 유지보수가 쉬워진다.
+> 
+> ACL 패턴은 ㅎ
