@@ -95,3 +95,36 @@ function CartItem({ total, isVip }: { total: number; isVip: boolean }) {
 > 방어적 프로그래밍은 다양한 상황에서 유용하게 사용되는 좋은 방법이지만, 컴포넌트 안에서 과도하게 널 체크를 하거나 예외 상황에 대한 대응 코드를 작성 하는 것은 복잡하게 하고 이해하기 어렵게 만든다.
 
 `방어적 프로그래밍은 발생할수 있는 오류와 실패 또는 예외 상황 등을 자연스럽게 처리하기 위해, 필요한 코드를 작성하는 것을 의미한다. 애플리케이션이 예상치 못한 상황에서도 정상으로 복원하기 쉽고 안정적으로 동작하기 위함이다.`
+
+
+``` tsx
+
+function UserProfile({ user }: { user: User }) {
+	 const fullName = user && user.name ? user.name : "Loading…";
+	 const subscriptionLevel = user && user.subscription ? user.subscription: "Basic";
+	 const subscriptionExpiry = user && user.expire ? user.expire : "Never";
+	 
+	 return (
+		 <div>
+		 <h1>{fullName}</h1>
+		 <p>Subscription Level: {subscriptionLevel}</p>
+		 <p>Subscription Expiry: {subscriptionExpiry}</p>
+		 </div>
+ );
+
+```
+
+``` tsx
+
+export const transformUser = (remoteUser: RemoteUser): User => {
+ return {
+	 id: remoteUser.user_identification ?? 'N/A',
+	 name: remoteUser.user_full_name ?? 'Unknown User',
+	 isPremium: remoteUser.is_premium_user ?? false,
+	 subscription: (remoteUser.subscription_details?.level ?? 'Basic') as 
+	UserSubscription,
+	 expire: remoteUser.subscription_details?.expiry ?? 'Never',
+ };
+};
+
+```
