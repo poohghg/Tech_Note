@@ -80,3 +80,5 @@ function CartItem({ total, isVip }: { total: number; isVip: boolean }) {
 - 공통 규칙은 npm 패키지(모노레포)로 추출해 재사용.
 
 ### 2. ACL(오류 방지 계층)
+
+> 소프트웨어 개발에서 ACL은 각각 다른 언어를 사용하는 다른 서브시스테 간의 통역가 또는 중재자 역할을한다.
