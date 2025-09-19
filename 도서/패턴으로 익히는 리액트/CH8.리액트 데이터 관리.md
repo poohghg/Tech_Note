@@ -136,4 +136,4 @@ export const transformUser = (remoteUser: RemoteUser): User => {
 
 ### 3. Prop Drilling 문제
 
-> Prop Drilling은 데이터가 필요하지 않은 여러 계층으로 이루어진 컴포넌트들을 통과하여 하위 계층으로 데이터를 전달해야 할 때 발생하는 문제이다.
+> Prop Drilling은 데이터가 필요하지 않은 여러 계층으로 이루어진 컴포넌트들을 통과하여 하위 계층으로 데이터를 전달해야 할 때 발생하는 문제이다. 이러한 구조는 코드 가독성을 떨어트리고 ㅇ
