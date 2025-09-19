@@ -79,3 +79,4 @@ function CartItem({ total, isVip }: { total: number; isVip: boolean }) {
 - 단위 테스트(도메인 로직) + 계약 테스트(API 응답 규격 검증).
 - 공통 규칙은 npm 패키지(모노레포)로 추출해 재사용.
 
+### 2.ACL(
