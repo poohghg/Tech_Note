@@ -18,3 +18,15 @@
 > 가장 많이 사용되는 2가지 기술은 render prop과 합성이다. render prop은 리액트 컴포넌트 간 코드 공유를 위해 함수 prop을 이용하는 기술입니다. render prop으로 구현된 컴포넌트는 자체적으로 렌더링 로직을 구현하는 대신 리액트 요소를 반환하고 이를 호출하는 함수를 사용합니다. 반면에 합성은 작고 재사용 가능한 컴포넌트들을 만들어 이들을 조합해 더 복잡한 UI 요소를 만드는 기술입니다.
 
 #### Render Prop 패턴
+
+```tsx
+
+const Title = ({
+ title,
+ render,
+}: {
+ title: string;
+ render: (s: string) => React.ReactNode;
+}) => <div>{render(title)}</div>;
+
+```
