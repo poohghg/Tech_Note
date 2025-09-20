@@ -27,7 +27,7 @@ const Title = ({
 }: {
  title: string;
  render: (s: string) => React.ReactNode;
-}) => <div>{render(title)}</div>;
+}) => <div>{render("TILTE" | title)}</div>;
 
 
 <Title
@@ -47,7 +47,7 @@ const Title = ({
 }: {
  title: string;
  children: (s: string) => React.ReactNode;
-}) => <div>{children(title)}</div>;
+}) => <div>{children("TILTE" | title)}</div>;
 
 
 <Title title="This is a title">
