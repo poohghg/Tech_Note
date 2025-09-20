@@ -55,6 +55,11 @@ const Title = ({
  const formatted = s.toUpperCase();
  return <h3>{formatted}</h3>;
  }}
-</Titl
+</Title>
 
+// 결과
+
+<div>
+ <h3>TILTE | THIS IS A TITLE</h3>
+</div>
 ```
