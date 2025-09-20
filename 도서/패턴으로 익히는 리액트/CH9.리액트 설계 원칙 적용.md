@@ -29,4 +29,14 @@ const Title = ({
  render: (s: string) => React.ReactNode;
 }) => <div>{render(title)}</div>;
 
+
+<Title
+	title="This is a title"
+	render={(s: string) => {
+		const formatted = s.toUpperCase();
+		return <h3>{formatted}</h3>;
+	}}
+/>
+
+
 ```
