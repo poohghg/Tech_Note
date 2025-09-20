@@ -31,12 +31,30 @@ const Title = ({
 
 
 <Title
-	title="This is a title"
-	render={(s: string) => {
-		const formatted = s.toUpperCase();
-		return <h3>{formatted}</h3>;
-	}}
+ title="This is a title"
+ render={(s: string) => {
+ const formatted = s.toUpperCase();
+ return <h3>{formatted}</h3>;
+ }}
 />
+```
 
+``` tsx
+
+const Title = ({
+ title,
+ children,
+}: {
+ title: string;
+ children: (s: string) => React.ReactNode;
+}) => <div>{children(title)}</div>;
+
+
+<Title title="This is a title">
+ {(s: string) => {
+ const formatted = s.toUpperCase();
+ return <h3>{formatted}</h3>;
+ }}
+</Titl
 
 ```
