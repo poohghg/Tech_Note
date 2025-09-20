@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
+                "file": "디자인 패턴/SOLID 원칙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH9.리액트 설계 원칙 적용"
+              "title": "SOLID 원칙"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "추상화란",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,12 +172,12 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -271,8 +271,9 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "react/리액트 정리.md",
+    "클린코드/클린코드의 이해.md",
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
+    "react/리액트 정리.md",
     "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
     "디자인 패턴/IOC와 DI.md",
     "도서/패턴으로 익히는 리액트/CH7. 테스트 주도 개발.md",
@@ -299,7 +300,6 @@
     "javascript/array 와 set.md",
     "javascript/화살표 함수.md",
     "javascript/클로저.md",
-    "javascript/콜백 함수.md",
     "도서/리팩터링",
     "도서/이펙티브 타입스크립트",
     "img/Pasted image 20250827044954.png",
