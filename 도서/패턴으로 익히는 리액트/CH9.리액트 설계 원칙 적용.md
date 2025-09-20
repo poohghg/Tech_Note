@@ -19,6 +19,8 @@
 
 #### Render Prop 패턴
 
+> 리액트에서 render Prop 패턴은 prop으로 함수를 컴포넌트에 전ㄷ
+
 ```tsx
 
 const Title = ({
