@@ -80,6 +80,35 @@ const Title = ({
 > 합성은 컴포넌트의 재사용성을 높이고, 유지보수를 쉽게 하며, 코드의 가독성을 향상시킨다. 각 컴포넌트가 하나의 역할에 집중할 수 있기 때문에, 시스템 전체의 복잡성을 줄이는 데 도움이 된다.
 
 ``` tsx
+type AvatarProps = {
+ name?: string;
+ role?: string;
+ url: string;
+};
+const Avatar = ({ name, role, url }: AvatarProps) => {
+	 if (name) {
+	 return (
+		 <Tooltip name={name} role={role}>
+			 <div className="rounded">
+				 <img src={url} alt={`${name}'s profile`} />
+			 </div>
+		 </Tooltip>
+	 );
+	 }
+	 return (
+		 <div className="rounded">
+			 <img src={url} alt="" />
+		 </div>
+	 );
+};
+
+
+```
+
+
+
+
+``` tsx
 const Avatar = ({name = "", url}: AvatarProps) => (  
     <div className="rounded">  
       <img src={url} alt={name} title={name}/>  
