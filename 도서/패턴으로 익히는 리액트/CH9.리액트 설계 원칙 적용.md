@@ -76,3 +76,17 @@ const Title = ({
 #### 합성을 통한 단일 책임 원칙 저용
 
 > 합성은 여러 작은 컴포넌트를 조합하여 더 복잡한 UI를 만드는 리액트의 강력한 기능이다. 합성을 통해 각 컴포넌트가 단일 책임 원칙을 준수하도록 설계할 수 있다. 시스템은 각 부분이 제 역할을 잘 수행할 때 잘 작동한다.
+> 
+> 합성은 컴포넌트의 재사용성을 높이고, 유지보수를 쉽게 하며, 코드의 가독성을 향상시킨다. 각 컴포넌트가 하나의 역할에 집중할 수 있기 때문에, 시스템 전체의 복잡성을 줄이는 데 도움이 된다.
+
+``` tsx
+const MyAvatar = () => (
+ <Tooltip name="Juntao Qiu" role="Software Engineer">
+	 <Avatar
+	 name="Juntao Qiu"
+	 url="https://avatars.githubusercontent.com/u/122324"
+	 />
+ </Tooltip>
+);
+
+```
