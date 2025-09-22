@@ -87,14 +87,15 @@ type AvatarProps = {
 };
 const Avatar = ({ name, role, url }: AvatarProps) => {
 	 if (name) {
-	 return (
-		 <Tooltip name={name} role={role}>
-			 <div className="rounded">
-				 <img src={url} alt={`${name}'s profile`} />
-			 </div>
-		 </Tooltip>
-	 );
+		 return (
+			 <Tooltip name={name} role={role}>
+				 <div className="rounded">
+					 <img src={url} alt={`${name}'s profile`} />
+				 </div>
+			 </Tooltip>
+		 );
 	 }
+	 
 	 return (
 		 <div className="rounded">
 			 <img src={url} alt="" />
@@ -105,8 +106,7 @@ const Avatar = ({ name, role, url }: AvatarProps) => {
 
 ```
 
-
-
+> Avatar 컴포넌트의 원래 코드는 Tooltip 기능과 밀접하게 연관되어 있다. 사용자가 보다 세부적인 툴팁의 기능을 원한다면, 이렇게 강하게 연결되어 있는 코드를 유지하기 쉽지 않다. prop을 추가하여 툴팁의 기능을 수정하기 위해서는 Avatar 컴포넌트 코드를 변경해야 하므로 관리하기 까다로워진다.
 
 ``` tsx
 const Avatar = ({name = "", url}: AvatarProps) => (  
