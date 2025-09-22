@@ -140,3 +140,7 @@ const MyAvatar = () => (
 ```
 
 > 위 예제에서 `MyAvatar` 컴포넌트는 `Tooltip`과 `Avatar` 두 개의 컴포넌트를 합성하여 만든다. 각 컴포넌트는 자신의 역할에 충실하며, `MyAvatar`는 이들을 조합하는 역할만 한다. 이를 통해 각 컴포넌트가 단일 책임 원칙을 준수하면서도, 복잡한 UI를 구성할 수 있다.
+
+### 2. 의존성 역전 원칙 (DIP: Dependency Inversion Principle)
+
+> 의존성 
