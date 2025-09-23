@@ -90,6 +90,44 @@ if (el) {
 - 사용자 정의 타입 가드
 	- 타입 식별을 위한 커스텀 함수를 사용 하는것이다.
 
+``` tsx
+// 명시적 태그 사용
+
+interface Square {  
+  kind: 'square';  
+  size: number;  
+} 
+
+interface Rectangle {  
+  kind: 'rectangle';  
+  width: number;  
+  height: number;  
+}  
+
+interface Circle {  
+  kind: 'circle';  
+  radius: number;  
+} 
+
+type Shape = Square | Rectangle | Circle;  
+
+function getArea(s: Shape): number {  
+  switch (s.kind) {  
+    case 'square':  
+      return s.size * s.size;  
+    case 'rectangle':  
+      return s.height * s.width;  
+    case 'circle':  
+      return Math.PI * s.radius ** 2;  
+    default:  
+      const _exhaustiveCheck: never = s;  
+      return _exhaustiveCheck;  
+  }  
+} 
+
+
+```
+
 ###### 요약
 - 분기문 외에도 여러 종류의 제어 흐름을 살펴보며 타입스크립트가 타입을 좁히는 과정을 이해해야 한다.
 - 태근된/구변된 유니온과 사용자 정의 타입 가드를 사용하여 타입 좁히기 과정을 원할하게 만들 수 있다.
