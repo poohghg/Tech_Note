@@ -196,3 +196,27 @@ app.process(
 
 > send 메서드를 가지는 Notification 인터페이스를 정의하고, 이를 준수하는 EmailNotification 클래스를 구현한다. Application 클래스는 Notification 인터페이스를 준수하는 클래스를 통해 인스턴스를 생성할 수 있다. process 메서드에서 Application은 이 인스턴스 객체를 사용하여 알림을 보냔다. 이러한 설정은 Application 클래스를 특정 알림 동작으로부터 분리하여, 유연하게 기능을 확장하거나 변경할 수 있게 해준다.
 
+``` d
+classDiagram
+    %% 추상화 (슈퍼클래스 역할)
+    class NotificationAPI {
+      <<interface>>
+      +send(message: string, severity: "info" | "warning" | "error"): void
+    }
+
+    %% 구체 클래스 (저수준 모듈)
+    class EmailNotification {
+      +send(message: string, severity: "info" | "warning" | "error"): void
+    }
+
+    %% 고수준 모듈
+    class Application {
+      -notifier: NotificationAPI[]
+      +process(message: string, severity: "info" | "warning" | "error"): void
+    }
+
+    %% 관계 정의
+    NotificationAPI <|.. EmailNotification : implements
+    Application --> NotificationAPI : depends on
+```
+
