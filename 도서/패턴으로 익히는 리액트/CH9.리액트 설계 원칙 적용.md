@@ -220,3 +220,6 @@ classDiagram
     Application --> NotificationAPI : depends on
 ```
 
+#### 명령과 조회 책임 분리 원칙 ( CQ)
+
+
