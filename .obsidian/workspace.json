@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -270,6 +271,8 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
+    "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
     "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
     "도서/이펙티브 타입스크립트/CH7.코드를 작성하고 실행하기.md",
     "타입스크립트/타입 시스템.md",
@@ -279,7 +282,6 @@
     "도서/이펙티브 타입스크립트/CH6.타입 선언과 @types.md",
     "도서/이펙티브 타입스크립트/CH5.any 다루기.md",
     "도서/이펙티브 타입스크립트/CH4.타입 설계.md",
-    "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
     "디자인 패턴/IOC와 DI.md",
     "클린코드/클린코드의 이해.md",
     "디자인 패턴/SOLID 원칙.md",
@@ -298,7 +300,6 @@
     "img/Pasted image 20250911204041.png",
     "react/useState.md",
     "react/React SSR 과 Hydration.md",
-    "react/React Server Component.md",
     "도서/리팩터링",
     "도서/이펙티브 타입스크립트",
     "img/Pasted image 20250827044954.png",
