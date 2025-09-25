@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "유니온 타입",
+                "query": "ReactElement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -283,7 +284,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fbc37faf8dc5a741",
+  "active": "1729f22b24650851",
   "lastOpenFiles": [
     "프로그래밍/소트트웨어 개발.md",
     "프로그래밍/개인 정리.md",
