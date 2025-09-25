@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/리액 타입.md",
+                "file": "react/리액트 타입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리액 타입"
+              "title": "리액트 타입"
             }
           },
           {
@@ -299,7 +299,7 @@
     "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/소트트웨어 개발.md",
     "프로그래밍/개인 정리.md",
-    "react/리액 타입.md",
+    "react/리액트 타입.md",
     "react/패턴/디자인 패턴.md",
     "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
