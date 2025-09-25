@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/패턴/디자인 패턴.md",
+                "file": "react/리액 타입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "디자인 패턴"
+              "title": "리액 타입"
             }
           },
           {
@@ -286,8 +286,9 @@
   },
   "active": "fbc37faf8dc5a741",
   "lastOpenFiles": [
-    "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "react/패턴/디자인 패턴.md",
+    "react/리액 타입.md",
+    "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
     "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
     "도서/이펙티브 타입스크립트/CH7.코드를 작성하고 실행하기.md",
@@ -314,7 +315,6 @@
     "img/Pasted image 20250911210116.png",
     "img/Pasted image 20250911205934.png",
     "img/Pasted image 20250911204041.png",
-    "react/useState.md",
     "도서/리팩터링",
     "도서/이펙티브 타입스크립트",
     "img/Pasted image 20250827044954.png",
