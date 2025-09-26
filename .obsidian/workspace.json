@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/리액트 정리.md",
+                "file": "react/React Server Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리액트 정리"
+              "title": "React Server Component"
             }
           },
           {
@@ -186,13 +186,11 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -286,13 +284,14 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "프로그래밍/개인 정리.md",
+    "react/리액트 타입.md",
+    "react/Concurrency.md",
     "react/리액트 정리.md",
+    "프로그래밍/개인 정리.md",
     "next.js/next14.md",
     "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "react/패턴/제어 와 비제어 컴포넌트.md",
     "react/패턴/디자인 패턴.md",
-    "react/리액트 타입.md",
     "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
     "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
     "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
@@ -312,7 +311,6 @@
     "알고리즘/백트래킹.md",
     "클린코드/클린코드의 이해.md",
     "타입스크립트/타입 메모.md",
-    "프로그래밍/스터디 - 디자인패턴.md",
     "img/Pasted image 20250911210116.png",
     "img/Pasted image 20250911205934.png",
     "img/Pasted image 20250911204041.png",
