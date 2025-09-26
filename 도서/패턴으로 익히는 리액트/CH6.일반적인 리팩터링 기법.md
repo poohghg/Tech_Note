@@ -68,6 +68,36 @@ const calculateTotalPrice = (items: { price: number; quantity: number }[]) => {
 >  
 >  함수 추출 리팩터링은 개별적인 기능들을 식별하고 별도의 함수로 분리 한 후, 원래 함수에서 새로 만든 함수를 호출 하는 과정이다.
 
+
+**행위 기반 상태 변경 (CRUD 의미 부여)**
+
+- 상태 변경에 **의도가 들어가는 경우**에는 행위 동사를 붙입니다.    
+- 예시:
+    - `openDropDown`, `closeDropDown`, `toggleDropDown`
+    - `addItem`, `removeItem`, `updateUser`, `resetForm`
+👉 `set` 대신 `open`/`close`/`toggle` 같은 도메인 맥락의 동사를 쓰면 가독성이 좋아져요.  
+👉 **CRUD → add/remove/update/reset** 패턴은 팀에서 정해두면 아주 직관적입니다.
+
+|상황|네이밍 패턴|예시|
+|---|---|---|
+|단순 state setter|`setXxx`|`setIsOpen`, `setUser`|
+|행위 기반 상태 변경|도메인 동사|`openDropDown`, `closeDropDown`, `toggleDropDown`, `addItem`, `resetForm`|
+|외부에서 주입되는 이벤트 콜백|`onXxx`|`onSelect`, `onSubmit`, `onClose`|
+|내부에서 정의하는 이벤트 핸들러|`handleXxx`|`handleSelect`, `handleSubmit`, `handleClose`|
+``` tsx
+
+interface ButtonProps {
+  onClick: () => void   // 외부에서 주입되는 콜백
+}
+
+const Button = ({ onClick }: ButtonProps) => {
+  const handleClick = () => {
+    // 내부 처리
+    onClick()
+  }
+  return <button onClick={handleClick}>Click</button>
+}
+```
 ### 6. 매개변수 객체 도입
 
 > 매개변수 객체 도입은 함수가 많은 수의 매개변수를 가지거나, 여러 개의 함수가 같은 매개변수를 공유할 때 사용하는 이팩터링 기법이다. 연관된 매개변수들을 하나의 객체로 묶고, 이 객체를 함수에 인자로 전달한다.
