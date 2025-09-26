@@ -75,8 +75,8 @@ const calculateTotalPrice = (items: { price: number; quantity: number }[]) => {
 - 예시:
     - `openDropDown`, `closeDropDown`, `toggleDropDown`
     - `addItem`, `removeItem`, `updateUser`, `resetForm`
-👉 `set` 대신 `open`/`close`/`toggle` 같은 도메인 맥락의 동사를 쓰면 가독성이 좋아져요.  
-👉 **CRUD → add/remove/update/reset** 패턴은 팀에서 정해두면 아주 직관적입니다.
+`set` 대신 `open`/`close`/`toggle` 같은 도메인 맥락의 동사를 쓰면 가독성이 좋다.  
+ **CRUD → add/remove/update/reset** 패턴은 팀에서 정해두면 아주 직관적입니다.
 
 |상황|네이밍 패턴|예시|
 |---|---|---|
