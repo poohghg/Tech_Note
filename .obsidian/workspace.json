@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/리액트 타입.md",
+                "file": "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리액트 타입"
+              "title": "CH10.합성 패턴"
             }
           },
           {
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -282,8 +283,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "react/리액트 타입.md",
     "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
     "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
@@ -291,7 +293,6 @@
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
     "디자인 패턴/IOC와 DI.md",
     "react/패턴/제어 와 비제어 컴포넌트.md",
-    "react/리액트 타입.md",
     "타입스크립트/타입 시스템.md",
     "최적화/브라우더 렌더링 최적화.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
