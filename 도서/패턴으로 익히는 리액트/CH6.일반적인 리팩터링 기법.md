@@ -76,6 +76,19 @@ const calculateTotalPrice = (items: { price: number; quantity: number }[]) => {
     - `openDropDown`, `closeDropDown`, `toggleDropDown`
     - `addItem`, `removeItem`, `updateUser`, `resetForm`
     - `fetchData`, `submitForm`, `loadMoreItems`
+    - `startTimer`, `stopTimer`, `pauseTimer`, `resumeTimer`
+    - `enableFeature`, `disableFeature`, `toggleFeature`
+    - `selectItem`, `deselectItem`, `clearSelection`
+    - `showModal`, `hideModal`, `toggleModal`
+    - `incrementCount`, `decrementCount`, `resetCount`
+    - `loginUser`, `logoutUser`, `registerUser`
+    - `addToCart`, `removeFromCart`, `clearCart`
+    - `followUser`, `unfollowUser`, `blockUser`
+    - `likePost`, `unlikePost`, `sharePost`
+    - `uploadFile`, `downloadFile`, `deleteFile`
+    - `subscribeNewsletter`, `unsubscribeNewsletter`
+    - `openSettings`, `closeSettings`, `toggleSettings`
+
 `set` 대신 `open`/`close`/`toggle` 같은 도메인 맥락의 동사를 쓰면 가독성이 좋다.  
  **CRUD → add/remove/update/reset** 패턴은 팀에서 정해두면 아주 직관적이다.
 
