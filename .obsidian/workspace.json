@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소프트웨어 개발/추상화.md",
+                "file": "도서/패턴으로 익히는 리액트/CH7. 테스트 주도 개발.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "추상화"
+              "title": "CH7. 테스트 주도 개발"
             }
           },
           {
@@ -284,8 +284,9 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "소프트웨어 개발/SOLID 원칙.md",
+    "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
     "소프트웨어 개발/추상화.md",
+    "소프트웨어 개발/SOLID 원칙.md",
     "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "react/react-core/createElement.md",
     "react/리액트 정리.md",
@@ -310,7 +311,6 @@
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "img/Pasted image 20250925205016.png",
     "testing/Testing Library.md",
-    "알고리즘/의사코드.md",
     "img/Pasted image 20250911210116.png",
     "img/Pasted image 20250911205934.png",
     "img/Pasted image 20250911204041.png",
