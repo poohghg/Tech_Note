@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/리팩터링/조건부 로직 간소화.md",
+                "file": "타입스크립트/타입 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "조건부 로직 간소화"
+              "title": "타입 시스템"
             }
           },
           {
@@ -285,6 +285,7 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "도서/리팩터링/조건부 로직 간소화.md",
     "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
