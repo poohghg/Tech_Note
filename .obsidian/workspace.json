@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "상태 끌어올",
+                "query": "사용자 중심",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -284,6 +285,8 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "도서/패턴으로 익히는 리액트/CH7. 테스트 주도 개발.md",
+    "testing/Testing Library.md",
     "react/리액트 정리.md",
     "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
     "도서/리팩터링/조건부 로직 간소화.md",
@@ -291,7 +294,6 @@
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
     "img/Pasted image 20250927193908.png",
-    "도서/패턴으로 익히는 리액트/CH7. 테스트 주도 개발.md",
     "프로그래밍/소트트웨어 개발.md",
     "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
     "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
@@ -312,7 +314,6 @@
     "프로그래밍/개인 정리.md",
     "next.js/next14.md",
     "react/패턴/제어 와 비제어 컴포넌트.md",
-    "react/패턴/디자인 패턴.md",
     "img/Pasted image 20250925205016.png",
     "img/Pasted image 20250911210116.png",
     "img/Pasted image 20250911205934.png",
