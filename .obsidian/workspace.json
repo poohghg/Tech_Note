@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/React Server Component.md",
+                "file": "디자인 패턴/전략 패턴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Server Component"
+              "title": "전략 패턴"
             }
           },
           {
@@ -284,19 +284,20 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "디자인 패턴/IOC와 DI.md",
+    "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
+    "react/React Server Component.md",
     "react/리액트 타입.md",
     "react/Concurrency.md",
     "react/리액트 정리.md",
     "프로그래밍/개인 정리.md",
     "next.js/next14.md",
-    "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "react/패턴/제어 와 비제어 컴포넌트.md",
     "react/패턴/디자인 패턴.md",
     "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
     "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
     "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
-    "디자인 패턴/IOC와 DI.md",
     "타입스크립트/타입 시스템.md",
     "최적화/브라우더 렌더링 최적화.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
@@ -310,7 +311,6 @@
     "알고리즘/배열.md",
     "알고리즘/백트래킹.md",
     "클린코드/클린코드의 이해.md",
-    "타입스크립트/타입 메모.md",
     "img/Pasted image 20250911210116.png",
     "img/Pasted image 20250911205934.png",
     "img/Pasted image 20250911204041.png",
