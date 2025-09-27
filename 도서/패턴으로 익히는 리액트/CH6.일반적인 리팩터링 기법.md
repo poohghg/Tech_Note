@@ -71,12 +71,13 @@ const calculateTotalPrice = (items: { price: number; quantity: number }[]) => {
 
 **행위 기반 상태 변경 (CRUD 의미 부여)**
 
-- 상태 변경에 **의도가 들어가는 경우**에는 행위 동사를 붙입니다.    
+- 상태 변경에 **의도가 들어가는 경우**에는 행위 동사를 붙여준다. 
 - 예시:
     - `openDropDown`, `closeDropDown`, `toggleDropDown`
     - `addItem`, `removeItem`, `updateUser`, `resetForm`
+    - `fetchData`, `submitForm`, `loadMoreItems`
 `set` 대신 `open`/`close`/`toggle` 같은 도메인 맥락의 동사를 쓰면 가독성이 좋다.  
- **CRUD → add/remove/update/reset** 패턴은 팀에서 정해두면 아주 직관적입니다.
+ **CRUD → add/remove/update/reset** 패턴은 팀에서 정해두면 아주 직관적이다.
 
 |상황|네이밍 패턴|예시|
 |---|---|---|

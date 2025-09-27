@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/패턴으로 익히는 리액트/CH7. 테스트 주도 개발.md",
+                "file": "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH7. 테스트 주도 개발"
+              "title": "CH6.일반적인 리팩터링 기법"
             }
           },
           {
@@ -284,6 +284,7 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "도서/패턴으로 익히는 리액트/CH7. 테스트 주도 개발.md",
     "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
     "소프트웨어 개발/추상화.md",
     "소프트웨어 개발/SOLID 원칙.md",
@@ -310,7 +311,6 @@
     "최적화/브라우더 렌더링 최적화.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "img/Pasted image 20250925205016.png",
-    "testing/Testing Library.md",
     "img/Pasted image 20250911210116.png",
     "img/Pasted image 20250911205934.png",
     "img/Pasted image 20250911204041.png",
