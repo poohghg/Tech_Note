@@ -158,6 +158,40 @@ class AdvancedDog extends Dog implements AdvancedAnimal {
 > 3. 프로그램 P에서 T를 서브타입 S로 치환합니다.  
 > 4. 프로그램의 행위가 변하지 않고 정상적으로 동작한다면, S는 T의 하위타입입니다.
 
+``` ts
+
+class Bird {
+  fly() {
+    console.log("I can fly");
+  }
+}
+
+class Sparrow extends Bird {
+  // Sparrow는 Bird의 하위 타입
+  chirp() {
+    console.log("Chirp chirp");
+  }
+}
+
+class Ostrich extends Bird {
+  // Ostrich는 Bird의 하위 타입이 아님
+  fly() {
+    throw new Error("Ostriches can't fly");
+  }
+}
+
+function makeBirdFly(bird: Bird) {
+  bird.fly();
+}
+
+const sparrow = new Sparrow();
+
+
+
+
+```
+
+
 - 서브 타입은 언제나 기반 타입으로 교체할 수 있어야 한다.
 	- 서브 타입은 기반 타입의 규약을 지켜야 한다.
 - 타입을  치환해도 프로그램의 행위가 변하지 않아야한다.
