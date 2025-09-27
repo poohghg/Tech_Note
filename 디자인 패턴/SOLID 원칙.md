@@ -185,9 +185,10 @@ function makeBirdFly(bird: Bird) {
 }
 
 const sparrow = new Sparrow();
+makeBirdFly(sparrow); // 정상 작동
 
-
-
+const ostrich = new Ostrich();
+makeBirdFly(ostrich); // 오류 발생
 
 ```
 
