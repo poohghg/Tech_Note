@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소프트웨어 개발/FSD.md",
+                "file": "도서/이펙티브 타입스크립트/CH4.타입 설계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FSD"
+              "title": "CH4.타입 설계"
             }
           },
           {
@@ -282,8 +282,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "도서/이펙티브 타입스크립트/CH2.타입 시스템.md",
+    "도서/이펙티브 타입스크립트/CH3.타입 추론.md",
+    "소프트웨어 개발/FSD.md",
     "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/개인 정리.md",
     "프로그래밍/소트트웨어 개발.md",
@@ -307,9 +310,6 @@
     "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
     "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
-    "react/Toast.md",
-    "testing/Testing Library.md",
-    "도서/패턴으로 익히는 리액트/CH7. 테스트 주도 개발.md",
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
     "img/Pasted image 20250927193908.png",
