@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/스터디 - 디자인패턴.md",
+                "file": "프로그래밍/개인 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스터디 - 디자인패턴"
+              "title": "개인 정리"
             }
           },
           {
@@ -285,6 +285,8 @@
   },
   "active": "68e2be3d9834f9ff",
   "lastOpenFiles": [
+    "프로그래밍/GIT.md",
+    "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/소트트웨어 개발.md",
     "프로그래밍/개인 정리.md",
     "web/성능(로딩 최적화).md",
@@ -305,12 +307,10 @@
     "타입스크립트/타입 메모.md",
     "도서/이펙티브 타입스크립트/CH4.타입 설계.md",
     "소프트웨어 개발/FSD.md",
-    "프로그래밍/스터디 - 디자인패턴.md",
     "소프트웨어 개발/다형성.md",
     "소프트웨어 개발/전략 패턴.md",
     "소프트웨어 개발/SOLID 원칙.md",
     "타입스크립트/핸드북.md",
-    "타입스크립트/타입 시스템.md",
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
     "img/Pasted image 20250927193908.png",
