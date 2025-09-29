@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
+                "file": "javascript/클로저.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH11.리액트 계층 구조 애플리케이션"
+              "title": "클로저"
             }
           },
           {
@@ -284,6 +284,7 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
     "도서/이펙티브 타입스크립트/CH3.타입 추론.md",
     "도서/이펙티브 타입스크립트/CH2.타입 시스템.md",
     "타입스크립트/타입 메모.md",
@@ -308,7 +309,6 @@
     "javascript/자바스크립트 엔진 강의 정리.md",
     "javascript/자바스크립트 자료형.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
-    "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
