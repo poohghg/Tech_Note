@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "long task",
+                "query": "버블링",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
