@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "long ta",
+                "query": "long task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
