@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/모던 자바스크립트 심화.md",
+                "file": "최적화/브라우더 렌더링 최적화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "모던 자바스크립트 심화"
+              "title": "브라우더 렌더링 최적화"
             }
           },
           {
@@ -285,8 +285,9 @@
   },
   "active": "68e2be3d9834f9ff",
   "lastOpenFiles": [
-    "web/브라우저/이벤트 루프.md",
+    "최적화/장기 작업 최적화.md",
     "javascript/모던 자바스크립트 심화.md",
+    "web/브라우저/이벤트 루프.md",
     "도서/패턴으로 익히는 리액트/CH2.필수 개념 이해.md",
     "javascript/array 와 set.md",
     "javascript/바벨 과 폴리필.md",
@@ -310,7 +311,6 @@
     "클린코드/Frontend Fundamentals.md",
     "기타/이력서 강의.md",
     "기타/인텔리제이.md",
-    "기타/이미지 파일 마크다운 링크로 변경.md",
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
     "img/Pasted image 20250927193908.png",
