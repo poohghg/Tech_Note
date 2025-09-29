@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cors",
+                "query": "on3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -283,7 +284,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "68e2be3d9834f9ff",
+  "active": "1729f22b24650851",
   "lastOpenFiles": [
     "프로그래밍/GIT.md",
     "프로그래밍/스터디 - 디자인패턴.md",
