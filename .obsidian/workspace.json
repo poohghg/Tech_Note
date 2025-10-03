@@ -111,12 +111,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/react-core/createElement.md",
+                "file": "클린코드/클린코드의 이해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "createElement"
+              "title": "클린코드의 이해"
+            }
+          },
+          {
+            "id": "078a8b6d0c65915c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           },
           {
@@ -146,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -169,7 +181,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -286,17 +298,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:새 베이스 생성하기": false,
-      "switcher:빠른 전환기 열기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "68e2be3d9834f9ff",
+  "active": "078a8b6d0c65915c",
   "lastOpenFiles": [
+    "react/react-core/createElement.md",
     "react/리액트 타입.md",
     "react/리액트 정리.md",
     "react/패턴/제어 와 비제어 컴포넌트.md",
@@ -323,7 +336,6 @@
     "최적화/장기 작업 최적화.md",
     "javascript/모던 자바스크립트 심화.md",
     "web/브라우저/이벤트 루프.md",
-    "도서/패턴으로 익히는 리액트/CH2.필수 개념 이해.md",
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
     "img/Pasted image 20250927193908.png",
