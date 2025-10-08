@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/ㅇㅇ.md",
+                "file": "기타/정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ㅇㅇ"
+              "title": "정리"
             }
           },
           {
@@ -309,8 +309,8 @@
   },
   "active": "863792327efcddfd",
   "lastOpenFiles": [
-    "기타/정리.md",
     "기타/ㅇㅇ.md",
+    "기타/정리.md",
     "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
     "react/리액트 타입.md",
     "react/react-core/createElement.md",
