@@ -50,12 +50,12 @@
         
 2. **`CoinTabPanels` (View Layer):**
     
-    - **`useSearchedCoins`** 
-    - 및 **`useSortCoins`** 훅을 사용하여 코인 리스트를 필터링/정렬합니다.
+    - **`useSearchedCoins`** 훅을 사용하여 검색어에 따른 코인 리스트 필터링을 수행합니다.
+            
+	- **`useSortCoins`** 훅을 사용하여 코인 리스트를 선택된 정렬 기준에 따라 정렬합니다.
+                
+    - **`FavoritesCoin`**컴포넌트 내에서 **`useFavoriteCoinStore`**를 구독하여 즐겨찾기 탭의 필터링을 수행합니다.
         
-    - **`FavoritesCoin`** HOC/컴포넌트 내에서 **`useFavoriteCoinStore`**를 구독하여 즐겨찾기 탭의 필터링을 수행합니다.
-        
-
 ### 2. 최적화 및 UX 요소
 
 - **Zustand 영속화:** `useFavoriteCoinStore`는 **`localStorage`**와 연동되어 즐겨찾기 상태를 페이지 새로고침 후에도 유지합니다.
