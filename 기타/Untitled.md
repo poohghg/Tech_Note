@@ -60,6 +60,7 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 
 /**  
  *  data 처리 flow  
+ * 1. CoinListFetcher (Server Component): API 데이터 패칭 ->  
  *  1. useSearchedCoins: 검색어에 따른 코인 필터링  
  *  2. useSortCoins: 정렬 상태에 따른 코인 정렬  
  *  3. FavoritesCoins: 즐겨찾기 코인 필터링 (favorites 탭에서만)  
