@@ -50,26 +50,21 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 
 ### 1.데이터 처리 흐름
 
- *1. CoinListFetcher (Server Component): API 데이터 패칭 -> DTO -> 도메인 모델 변환 -> CoinTabPanels에 전달   
- 2.CoinTabPanels 에서 요구사항에 따라 코인리스트를 필터링 후 CoinListTable에 전달  
- *  1.  useSearchedCoins: 검색어에 따른 코인 필터링  
- *  2. useSortCoins: 정렬 상태에 따른 코인 정렬  
- *  3. FavoritesCoins: 즐겨찾기 코인 필터링 (favorites 탭에서만)  
-
+ #### 1. CoinListFetcher (Server Component): API 데이터 패칭 -> DTO -> 도메인 모델 변환 -> CoinTabPanels에 전달   
+ 
+ #### 2.CoinTabPanels 에서 요구사항에 따라 코인리스트를 필터링 후 CoinListTable에 전달  
+ 
+ #### 2-1.  useSearchedCoins: 검색어에 따른 코인 필터링  
+ #### 2-2. useSortCoins: 정렬 상태에 따른 코인 정렬  
+ #### 2-3. FavoritesCoins: 즐겨찾기 코인 필터링 (favorites 탭에서만)  
 
 - 서버 컴포넌트에서 **`CoinListFetcher`**: `api/service` 를 사용하여 코인 목록을 페칭하고 도메인 모델로 변환된 데이터를 컴포넌트인 **`CoinTabPanels`**에 전달합니다.   
 	- 주의 사항 서버컴포넌트의 서버트리 생성 후 클라이언트 컴포넌트에 데이터를 전달할 때, 직렬화 가능한 데이터만 전달해야 합니다. (예:클래스 인스턴스는 직렬화 불가) 이를 위해 도메인 모델을 단순 객체로 변환하여 전달합니다.    
 - **`CoinTabPanels`** 컴포넌트: 탭 패널을 렌더링하며, 각 탭에 따라 **즐겨찾기 여부**에 따른 필터링을 수행합니다.  
 - **`CoinListTable`** 컴포넌트: 검색어 처리 및 정렬된 데이터를 받아 테이블 형태로 렌더링합니다.
 	- 내부에서 즐겨찾기 상태를 관리하는 **`useFavoriteCoinStore`**를 사용하여 각 행의 즐겨찾기 토글 기능을 제공합니다.
-    
 
-
-/**  
-
- */
-
-### 1. 효율적인 서버 컴포넌트 활용 및 SSR 최적화
+### 2. 효율적인 서버 컴포넌트 활용 및 SSR 최적화
 
 - **Server Component**: 코인 목록 페칭을 포함한 대부분의 데이터 로딩을 서버 컴포넌트(`CoinListFetcher`)에서 처리하여 초기 로딩 속도와 SEO를 최적화했습니다.
     
