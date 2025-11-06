@@ -48,6 +48,14 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 
 ## 구현된 주요 요소 설명
 
+### 1.데이터 처리 흐름
+/**  
+ *  data 처리 flow  
+ *  1. useSearchedCoins: 검색어에 따른 코인 필터링  
+ *  2. useSortCoins: 정렬 상태에 따른 코인 정렬  
+ *  3. FavoritesCoins: 즐겨찾기 코인 필터링 (favorites 탭에서만)  
+ */
+
 ### 1. 효율적인 서버 컴포넌트 활용 및 SSR 최적화
 
 - **Server Component**: 코인 목록 페칭을 포함한 대부분의 데이터 로딩을 서버 컴포넌트(`CoinListFetcher`)에서 처리하여 초기 로딩 속도와 SEO를 최적화했습니다.
@@ -69,9 +77,9 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 ---
 
 ##  프로젝트 실행 방법
-# 1. 의존성 설치  
+### 1. 의존성 설치  
 pnpm install  
 ​  
-# 2. 개발 서버 실행  
+### 2. 개발 서버 실행  
 pnpm run dev  
 ​  
