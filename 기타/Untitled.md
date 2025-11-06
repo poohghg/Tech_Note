@@ -49,6 +49,13 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 ## 구현된 주요 요소 설명
 
 ### 1.데이터 처리 흐름
+
+- 서버 컴포넌트 **`CoinListFetcher`**: 코인 데이터 페칭 및 도메인 모델 변환 담당.
+    
+- 
+    
+
+
 /**  
  *  data 처리 flow  
  *  1. useSearchedCoins: 검색어에 따른 코인 필터링  
