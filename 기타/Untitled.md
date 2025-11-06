@@ -30,7 +30,9 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 **`entities/coin`** 내부에서 데이터 계층을 세분화하여 **관심사 분리(Separation of Concerns)**를 구현했습니다.
 
 - **`api/service.ts`**: 외부 데이터(CoinGecko 등)와의 통신 책임 및 도메인 로직 적용.
-
+	- **비즈니스 로직**애플리케이션의 핵심 **비즈니스 규칙** 및 **데이터 조작** 로직을 수행합니다. (예: 데이터 유효성 검사, 여러 Repository 데이터를 조합하는 복잡한 연산 등)
+	- **도메인 조정자****Repository**에 요청하여 **Domain Entity/Model**을 가져오고, 이 객체들을 가지고 비즈니스 로직을 처리합니다.
+	- **프레젠테이션 연결**View/UI(Presentation Layer)의 요청을 처리하고, 결과를 다시 UI에 전달하기 위해 필요한 형태로 가공(선택적으로 ViewModel로 변환)합니다.
 - **`api/repository.ts`**: 외부 데이터 통신 및 도메인 객체로 변환하는 책임(매핑) 및 데이터 접근 추상화.
 	- **외부 데이터 통신**외부 API 호출, 로컬 스토리지 접근 등 **데이터 접근**의 세부사항을 담당합니다.
 	- **데이터 어댑터**외부 API 응답 데이터인 **DTO**를 **Domain Entity/Model**로 변환(매핑)하여 **Service**에 전달합니다.
