@@ -33,12 +33,14 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 	- **비즈니스 로직**애플리케이션의 핵심 **비즈니스 규칙** 및 **데이터 조작** 로직을 수행합니다. (예: 데이터 유효성 검사, 여러 Repository 데이터를 조합하는 복잡한 연산 등)
 	- **도메인 조정자****Repository**에 요청하여 **Domain Entity/Model**을 가져오고, 이 객체들을 가지고 비즈니스 로직을 처리합니다.
 	- **프레젠테이션 연결**View/UI(Presentation Layer)의 요청을 처리하고, 결과를 다시 UI에 전달하기 위해 필요한 형태로 가공(선택적으로 ViewModel로 변환)합니다.
+	  
 - **`api/repository.ts`**: 외부 데이터 통신 및 도메인 객체로 변환하는 책임(매핑) 및 데이터 접근 추상화.
 	- **외부 데이터 통신**외부 API 호출, 로컬 스토리지 접근 등 **데이터 접근**의 세부사항을 담당합니다.
 	- **데이터 어댑터**외부 API 응답 데이터인 **DTO**를 **Domain Entity/Model**로 변환(매핑)하여 **Service**에 전달합니다.
 	- **인터페이스 구현**Service 레이어에서 정의한 **Repository 인터페이스**를 구현하여 의존성 역전 원칙(Dependency Inversion Principle)을 지킵니다. (Service $\rightarrow$ Interface, Interface $\rightarrow$ Repository 구현체)
+	  
 - **`model/domain/BaseCoin.ts`**: 순수한 비즈니스 로직 및 도메인 규칙 포함.
-    
+  
 - **DTO 및 Type 분리**: 외부 데이터 규격(DTO)과 내부 도메인 규격(Type)을 분리하여 외부 변화에 유연하게 대응합니다.
     
 
