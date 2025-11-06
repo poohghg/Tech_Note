@@ -52,9 +52,9 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 
  #### 1. CoinListFetcher (Server Component): API 데이터 패칭 -> DTO -> 도메인 모델 변환 -> CoinTabPanels에 전달   
  
- #### 2.CoinTabPanels 에서 요구사항에 따라 코인리스트를 필터링 후 CoinListTable에 전달  
+ #### 2. CoinTabPanels 에서 요구사항에 따라 코인리스트를 필터링 후 CoinListTable에 전달  
  
- #### 2-1.  useSearchedCoins: 검색어에 따른 코인 필터링  
+ #### 2-1. useSearchedCoins: 검색어에 따른 코인 필터링  
  #### 2-2. useSortCoins: 정렬 상태에 따른 코인 정렬  
  #### 2-3. FavoritesCoins: 즐겨찾기 코인 필터링 (favorites 탭에서만)  
 
@@ -63,6 +63,7 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 - **`CoinTabPanels`** 컴포넌트: 탭 패널을 렌더링하며, 각 탭에 따라 **즐겨찾기 여부**에 따른 필터링을 수행합니다.  
 - **`CoinListTable`** 컴포넌트: 검색어 처리 및 정렬된 데이터를 받아 테이블 형태로 렌더링합니다.
 	- 내부에서 즐겨찾기 상태를 관리하는 **`useFavoriteCoinStore`**를 사용하여 각 행의 즐겨찾기 토글 기능을 제공합니다.
+	- **`useFavoriteCoinStore`**: Zustand를 사용하여 클라이언트 측에서 즐겨찾기 상태를 관리합니다. `localStorage`와 연동하여 상태를 영구적으로 저장합니다.
 
 ### 2. 효율적인 서버 컴포넌트 활용 및 SSR 최적화
 
@@ -71,7 +72,7 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 - **동적 임포트 (Dynamic Import)**: 사용자의 즐겨찾기 상태(`useFavoriteCoinStore`)는 `localStorage`와 연동되는 클라이언트 전용 상태입니다. 이 상태를 사용하는 **`CoinTableRow`**와 **`useFavoriteCoinStore`**는 `next/dynamic`을 통해 클라이언트에서만 렌더링되도록 처리하여, SSR 시 발생할 수 있는 데이터 불일치(Hydration Mismatch) 문제를 방지했습니다.
     
 
-### 2. UX/성능 최적화
+### 3. UX/성능 최적화
 
 - **가상 스크롤 (Virtual Scrolling)**: **만 개 이상의 데이터**가 로드될 수 있는 상황을 대비하여 가상 스크롤 라이브러리(미구현 시, 구현 계획 명시)를 도입할 수 있도록 설계했습니다. 현재는 성능 저하 없이 렌더링하도록 일반 테이블로 구성하였으며, 데이터가 늘어날 경우 즉시 적용 가능합니다.
     
