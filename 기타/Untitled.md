@@ -50,8 +50,7 @@ React 컴포넌트를 **`entities`**, **`features`**, **`widgets`** 등 계층(L
 
 ### 1.데이터 처리 흐름
 
-- 서버 컴포넌트 **`CoinListFetcher`**: 코인 데이터 페칭 및 도메인 모델 변환 담당.
-    
+- 서버 컴포넌트에서 **`CoinListFetcher`**: `api/service` 를 사용하여 코인 목록을 페칭하고, 이를 자식 컴포넌트인 **`CoinTabPanels`**에 전달합니다.    
 - 
     
 
