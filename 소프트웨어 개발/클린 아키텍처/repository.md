@@ -4,7 +4,12 @@
 
 Repository 패턴 기반
 
-1. 도메인 계층(Domain Layer
+1. 도메인 계층(Domain Layer): 데이터 모델(Interfaces)과 비지니스 Repository 인터페이스 정의
+2. 인프란 계층(Infrastructure Layer): 실제 데이터 접근 구현체(Implementation) 작성 - 실제 API 통신 코드 정의
+3. 프레젠테이션 계층(Presentation Layer): 유즈케이스(Use Cases)에서 Repository 인터페이스를 사용하여 데이터 접근
+
+
+
 
 
 ### 1.도메인 계층과 데이터 계층의 분리
