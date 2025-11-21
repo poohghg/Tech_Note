@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/안티프레질 프런트엔드/CH2. 브라우저.md",
+                "file": "도서/안티프레질 프런트엔드/CH1. 변하는 것과 변하지 않는 것.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH2. 브라우저"
+              "title": "CH1. 변하는 것과 변하지 않는 것"
             }
           },
           {
@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -296,8 +295,8 @@
   },
   "active": "b6987a2f5d47f1a1",
   "lastOpenFiles": [
-    "도서/안티프레질 프런트엔드/CH1. 변하는 것과 변하지 않는 것.md",
     "도서/안티프레질 프런트엔드/CH2. 브라우저.md",
+    "도서/안티프레질 프런트엔드/CH1. 변하는 것과 변하지 않는 것.md",
     "도서/패턴으로 익히는 리액트/CH2.필수 개념 이해.md",
     "소프트웨어 개발/클린 아키텍처/repository.md",
     "도서/안티프레질 프런트엔드",
