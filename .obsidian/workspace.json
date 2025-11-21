@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -294,8 +293,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b6987a2f5d47f1a1",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "도서/안티프레질 프런트엔드",
     "최적화/브라우더 렌더링 최적화.md",
     "클린코드/클린코드의 이해.md",
     "소프트웨어 개발/클린 아키텍처/repository.md",
@@ -323,7 +323,6 @@
     "react/패턴/디자인 패턴.md",
     "알고리즘/시간 복잡도.md",
     "img/Pasted image 20250331123611.png",
-    "react/Concurrency.md",
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
     "img/Pasted image 20250927193908.png",
