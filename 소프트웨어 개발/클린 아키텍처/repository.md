@@ -3,4 +3,8 @@
 ### 1.도메인 계층과 데이터 계층의 분리
 
 - Repository 인터페이스: Repository의 역할은 도메인 계층에 정의된 인터페이스를 통해 추상화한다.도메인 계층은 어떤 데이터가 필요하다는 것만 알 뿐, 그 데이터를 어떻게(데이터베이스, 외부 API,파일 등) 가져오는지에 대해서는 전혀 알지 못한다.
-- Repository 구현체: 실제 데이터 접근 코드는 인프라 계층에 위치한 Repository의 구현체(Implementation) 에서 처리한다.
+- Repository 구현체: 실제 데이터 접근 코드는 인프라 계층에 위치한 Repository의 구현체(Implementation) 에서 처리한다. 예를 들어, `UserRepository` 인터페이스는 도메인 계층에 있지만, `SqlUserRepository` 구현체는 인프라 계층에 있다.
+
+### 2.데이터 접근의 추상화
+
+- Repository는 도메인 계층의 요청
