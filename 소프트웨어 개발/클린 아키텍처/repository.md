@@ -2,15 +2,11 @@
 > 
 > 클린 아키텍처에서 Repository는 데이터를 저장하고 조회하는 기능 그 자체를 의미하며, 이 기능을 시스템의 핵심 비지니스 로직으로부터 보호하는 방화벽 역할을 수행한다.
 
-Repository 패턴 기반
+Repository 패턴 기반 구조
 
 1. 도메인 계층(Domain Layer): 데이터 모델(Interfaces)과 비지니스 Repository 인터페이스 정의
-2. 인프란 계층(Infrastructure Layer): 실제 데이터 접근 구현체(Implementation) 작성 - 실제 API 통신 코드 정의
-3. 프레젠테이션 계층(Presentation Layer): 유즈케이스(Use Cases)에서 Repository 인터페이스를 사용하여 데이터 접근
-
-
-
-
+2. 인프라 계층(Infrastructure Layer): 실제 데이터 접근 구현체(Implementation) 작성 - 실제 API 통신 코드 정의
+3. 프레젠테이션 계층(Presentation Layer): 컴포넌트에서 Repository 인터페이스를 사용하여 데이터를 요청.
 
 ### 1.도메인 계층과 데이터 계층의 분리
 
