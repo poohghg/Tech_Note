@@ -142,7 +142,7 @@ React가 DOM에 어떤것을 랜더링하기 전에, 각각의 fiber(작업단�
 ![Pasted image 20250224182316.png](../img/Pasted%20image%2020250224182316.png)
 
 
-하나는 current tree, 또 다른 하나는 workInProgress tree 이다. current tree는 현재 우리의 UI에 렌더된 트리이다.리액트는 일관되지 않은 UI를 나타낼수도 있기 때문에, 이 tree를 변경하지 못한다.대신에 리액트는 workInProgress라는 트리를 교체하고 모든 변경 사항들이 적용되면 포인터를 교체한다.모든 사항이 적용된 workInProgress트리는 current tree가 되고, 해당 current tree의 복제본을 만들어서 또 다른 workInProgress 트리를 생성한다.
+하나는 current tree, 또 다른 하나는 workInProgress tree 이다. current tree는 현재 우리의 UI에 렌더된 트리이다. 리액트는 일관되지 않은 UI를 나타낼수도 있기 때문에, 이 tree를 변경하지 못한다.대신에 리액트는 workInProgress라는 트리를 교체하고 모든 변경 사항들이 적용되면 포인터를 교체한다.모든 사항이 적용된 workInProgress트리는 current tree가 되고, 해당 current tree의 복제본을 만들어서 또 다른 workInProgress 트리를 생성한다.
 
 #### 2.Render 와 Reconciliation Phase
 
