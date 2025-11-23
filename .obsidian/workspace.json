@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/개인 정리.md",
+                "file": "도서/패턴으로 익히는 리액트/CH1.안티 패턴 소개.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개인 정리"
+              "title": "CH1.안티 패턴 소개"
             }
           },
           {
@@ -217,6 +217,7 @@
   "lastOpenFiles": [
     "프로그래밍/스터디 - 디자인패턴.md",
     "프로그래밍/소트트웨어 개발.md",
+    "프로그래밍/개인 정리.md",
     "react/패턴/제어 와 비제어 컴포넌트.md",
     "react/패턴/디자인 패턴.md",
     "react/Concurrency.md",
@@ -246,7 +247,6 @@
     "소프트웨어 개발/전략 패턴.md",
     "소프트웨어 개발/다형성.md",
     "소프트웨어 개발/FSD.md",
-    "소프트웨어 개발/IOC와 DI.md",
     "img/Pasted image 20250331123611.png",
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
