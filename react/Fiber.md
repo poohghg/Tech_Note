@@ -62,7 +62,7 @@ React 개발팀은 기존의 알고리즘으로는 대규모 앱 컴포넌트를
 
 #### Reconcile 단계
 
-재조정자는 FiberNode를 하나의 작업 단위(`unitOfWork`)로 취급한다. 즉, FiberNode는 자체로 렌더링에 필요한 정보를 담고 있는 객체이자 재조정 작업 단위인 것이다.
+재조정자는 FiberNode를 하나의 작업 단위(`unitOfWork`)로 취급한다. 즉, FiberNode는 자체로 ==렌더링에 필요한 정보를 담고 있는 객체이자 재조정 작업 단위==인 것이다.
 
  `Reconcile`이라는 작업은 좁은 의미로 FiberNode를 생성하고 기존 생성된 FiberNode를 보면 `alternate`, `child`, `memoizedProps`, `memoizedState` 모두 `null`이다. FiberNode만 생성했을 뿐 `SimpleComp()`는 호출하지 않았다.
 
