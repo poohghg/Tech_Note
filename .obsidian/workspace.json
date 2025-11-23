@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/Concurrency.md",
+                "file": "react/리액트 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concurrency"
+              "title": "리액트 정리"
             }
           },
           {
@@ -215,6 +215,7 @@
   },
   "active": "fe34c41e04896f2d",
   "lastOpenFiles": [
+    "react/Concurrency.md",
     "react/리액트 정리.md",
     "소프트웨어 개발/IOC와 DI.md",
     "레퍼런스/최적화/프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다!  EP.9 모닥불.md",
@@ -234,7 +235,6 @@
     "프로그래밍/개인 정리.md",
     "react/패턴/제어 와 비제어 컴포넌트.md",
     "react/패턴/디자인 패턴.md",
-    "react/Concurrency.md",
     "javascript/프로토타입.md",
     "javascript/화살표 함수.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
