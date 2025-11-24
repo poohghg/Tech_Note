@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/개인 정리.md",
+                "file": "react/Concurrency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개인 정리"
+              "title": "Concurrency"
             }
           },
           {
@@ -215,6 +215,8 @@
   },
   "active": "fe34c41e04896f2d",
   "lastOpenFiles": [
+    "react/Fiber.md",
+    "프로그래밍/개인 정리.md",
     "클린코드/클린코드의 이해.md",
     "타입스크립트/타입 시스템.md",
     "타입스크립트/타입 메모.md",
@@ -223,7 +225,6 @@
     "소프트웨어 개발/다형성.md",
     "react/react-core/createElement.md",
     "react/react-core/diffing.md",
-    "react/Fiber.md",
     "react/React.md",
     "react/React Server Component.md",
     "react/React SSR 과 Hydration.md",
@@ -240,7 +241,6 @@
     "도서/패턴으로 익히는 리액트/CH6.일반적인 리팩터링 기법.md",
     "도서/패턴으로 익히는 리액트/CH4.컴포넌트 설계하기.md",
     "도서/패턴으로 익히는 리액트/CH3.애플리케이션 구조.md",
-    "도서/패턴으로 익히는 리액트/CH2.필수 개념 이해.md",
     "img/Pasted image 20251121225647.png",
     "img/Pasted image 20251121225644.png",
     "img/Pasted image 20251121225639.png",
