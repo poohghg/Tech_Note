@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/소트트웨어 개발.md",
+                "file": "레퍼런스/최적화/프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다!  EP.9 모닥불.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소트트웨어 개발"
+              "title": "프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다!  EP.9 모닥불"
             }
           },
           {
@@ -213,8 +213,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b6987a2f5d47f1a1",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
+    "프로그래밍/소트트웨어 개발.md",
     "프로그래밍/개인 정리.md",
     "소프트웨어 개발/추상화.md",
     "react/리액트 타입.md",
@@ -240,7 +241,6 @@
     "도서/패턴으로 익히는 리액트/CH11.리액트 계층 구조 애플리케이션.md",
     "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
-    "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
     "img/Pasted image 20251121225647.png",
     "img/Pasted image 20251121225644.png",
     "img/Pasted image 20251121225639.png",
