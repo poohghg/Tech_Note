@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/CORS.md",
+                "file": "도서/안티프레질 프런트엔드/CH3. 브라우저가 렌더링하는 과정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CORS"
+              "title": "CH3. 브라우저가 렌더링하는 과정"
             }
           },
           {
@@ -257,10 +257,10 @@
   },
   "active": "fbc15fbe89008895",
   "lastOpenFiles": [
+    "web/CORS.md",
     "web/HTTP.md",
     "도서/안티프레질 프런트엔드/CH3. 브라우저가 렌더링하는 과정.md",
     "react/react-core/diffing.md",
-    "web/CORS.md",
     "web/HTML.md",
     "img/Pasted image 20251203191942.png",
     "img/Pasted image 20251203191449.png",
