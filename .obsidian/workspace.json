@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/안티프레질 프런트엔드/CH2. 브라우저.md",
+                "file": "도서/안티프레질 프런트엔드/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH2. 브라우저"
+              "title": "Untitled"
             }
           }
         ],
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -230,6 +229,10 @@
   },
   "active": "a37cf615f68a5d15",
   "lastOpenFiles": [
+    "도서/안티프레질 프런트엔드/CH2. 브라우저.md",
+    "도서/안티프레질 프런트엔드/Untitled.md",
+    "도서/안티프레질 프런트엔드/Untitled",
+    "도서/안티프레질 프런트엔드/CH2-1. 브라우저가 렌더링하는 과정",
     "알고리즘/해쉬테이블.md",
     "알고리즘/힙.md",
     "알고리즘/트리.md",
@@ -244,7 +247,6 @@
     "react/리액트 타입.md",
     "react/리액트 정리.md",
     "최적화/브라우더 렌더링 최적화.md",
-    "도서/안티프레질 프런트엔드/CH2. 브라우저.md",
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
     "레퍼런스/최적화/프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다!  EP.9 모닥불.md",
     "프로그래밍/소트트웨어 개발.md",
@@ -255,7 +257,6 @@
     "react/Fiber.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "클린코드/클린코드의 이해.md",
-    "타입스크립트/타입 시스템.md",
     "img/Pasted image 20251121225647.png",
     "img/Pasted image 20251121225644.png",
     "img/Pasted image 20251121225639.png",
@@ -274,8 +275,6 @@
     "도서",
     "레퍼런스/최적화",
     "레퍼런스",
-    "react/패턴",
-    "소프트웨어 개발",
     "무제.canvas",
     "무제 파일.canvas",
     "react/무제 파일.canvas"
