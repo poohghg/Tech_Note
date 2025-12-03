@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/최장 증가 부분 수열.md",
+                "file": "알고리즘/해쉬테이블.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최장 증가 부분 수열"
+              "title": "해쉬테이블"
             }
           }
         ],
@@ -229,6 +229,10 @@
   },
   "active": "a37cf615f68a5d15",
   "lastOpenFiles": [
+    "알고리즘/힙.md",
+    "알고리즘/해쉬테이블.md",
+    "알고리즘/트리.md",
+    "알고리즘/최장 증가 부분 수열.md",
     "알고리즘/최단 경로.md",
     "알고리즘/의사코드.md",
     "알고리즘/이진 탐색.md",
@@ -251,10 +255,6 @@
     "javascript/자바스크립트 엔진 강의 정리.md",
     "클린코드/클린코드의 이해.md",
     "타입스크립트/타입 시스템.md",
-    "타입스크립트/타입 메모.md",
-    "소프트웨어 개발/SOLID 원칙.md",
-    "소프트웨어 개발/전략 패턴.md",
-    "소프트웨어 개발/다형성.md",
     "img/Pasted image 20251121225647.png",
     "img/Pasted image 20251121225644.png",
     "img/Pasted image 20251121225639.png",
