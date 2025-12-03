@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/안티프레질 프런트엔드/CH3. 브라우저가 렌더링하는 과정.md",
+                "file": "web/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH3. 브라우저가 렌더링하는 과정"
+              "title": "HTTP"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -228,12 +227,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "a37cf615f68a5d15",
+  "active": "3358a04bec61832c",
   "lastOpenFiles": [
+    "web/HTTP.md",
+    "web/CORS.md",
+    "web/HTML.md",
+    "도서/안티프레질 프런트엔드/CH3. 브라우저가 렌더링하는 과정.md",
     "img/Pasted image 20251203191942.png",
     "img/Pasted image 20251203191449.png",
     "도서/안티프레질 프런트엔드/CH2. 브라우저.md",
-    "도서/안티프레질 프런트엔드/CH3. 브라우저가 렌더링하는 과정.md",
     "도서/패턴으로 익히는 리액트/CH1.안티 패턴 소개.md",
     "도서/이펙티브 타입스크립트/CH2.타입 시스템.md",
     "도서/안티프레질 프런트엔드/Untitled",
@@ -257,8 +259,6 @@
     "프로그래밍/소트트웨어 개발.md",
     "프로그래밍/개인 정리.md",
     "소프트웨어 개발/추상화.md",
-    "react/useState.md",
-    "react/Concurrency.md",
     "img/Pasted image 20251121225647.png",
     "img/Pasted image 20251121225644.png",
     "img/Pasted image 20251121225639.png",
@@ -269,7 +269,6 @@
     "img/Pasted image 20250927194358.png",
     "img/Pasted image 20250927194143.png",
     "img/Pasted image 20250927193908.png",
-    "img/Pasted image 20250925205016.png",
     "도서/리팩터링",
     "도서/이펙티브 타입스크립트",
     "도서/패턴으로 익히는 리액트",
