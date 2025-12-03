@@ -29,3 +29,8 @@
 		- 브라우저가 요청해서 얻은 응답값을 캐시하고 이를 사용하는 것이다.
 		- 서버에서 응답을 캐시할 수 있도록 `Access-Control-Max-Age` 헤더를 사용한다.
 - CORS를 사용하는 요청
+	- 자격 증명 요청
+    - 쿠키, 인증 헤더, TLS 클라이언트 인증서 등
+    - 요청에 `withCredentials` 속성을 `true`로 설정한다.
+    - 서버는 `Access-Control-Allow-Credentials` 헤더를 `true`로 설정한다.
+    - `Access-Control-Allow-Origin` 헤더에 `*`를 사용할 수 없다.
