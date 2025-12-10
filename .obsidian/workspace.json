@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/데이터 구조.md",
+                "file": "알고리즘/백트래킹.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데이터 구조"
+              "title": "백트래킹"
             }
           },
           {
@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#추상화",
+                "query": "순열",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,25 +255,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "fbc15fbe89008895",
+  "active": "9768f2f54689c043",
   "lastOpenFiles": [
-    "알고리즘/그리디.md",
-    "알고리즘/이진 탐색.md",
-    "알고리즘/BFS.md",
-    "알고리즘/DFS.md",
-    "알고리즘/최단 경로.md",
-    "알고리즘/최장 증가 부분 수열.md",
-    "알고리즘/정렬.md",
-    "알고리즘/재귀.md",
-    "알고리즘/백트래킹.md",
-    "알고리즘/시간 복잡도.md",
-    "알고리즘/트리.md",
-    "알고리즘/다이나믹 프로그래밍(DP).md",
-    "알고리즘/데이터 구조.md",
-    "알고리즘/배열.md",
-    "알고리즘/의사코드.md",
     "알고리즘/힙.md",
     "알고리즘/해쉬테이블.md",
+    "알고리즘/트리.md",
+    "알고리즘/최장 증가 부분 수열.md",
+    "알고리즘/정렬.md",
+    "알고리즘/이진 탐색.md",
+    "알고리즘/의사코드.md",
+    "알고리즘/백트래킹.md",
+    "알고리즘/시간 복잡도.md",
+    "알고리즘/데이터 구조.md",
+    "알고리즘/최단 경로.md",
+    "알고리즘/그리디.md",
+    "알고리즘/BFS.md",
+    "알고리즘/DFS.md",
+    "알고리즘/재귀.md",
+    "알고리즘/다이나믹 프로그래밍(DP).md",
+    "알고리즘/배열.md",
     "도서/안티프레질 프런트엔드/CH3. 브라우저가 렌더링하는 과정.md",
     "web/CORS.md",
     "web/HTTP.md",
