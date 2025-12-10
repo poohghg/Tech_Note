@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "순열",
+                "query": "\b팩토리얼",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -255,7 +256,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "1729f22b24650851",
   "lastOpenFiles": [
     "알고리즘/힙.md",
     "알고리즘/해쉬테이블.md",
