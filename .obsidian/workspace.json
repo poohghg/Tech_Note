@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\b팩토리얼",
+                "query": "\u001b",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +256,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "1729f22b24650851",
+  "active": "fbc15fbe89008895",
   "lastOpenFiles": [
     "알고리즘/힙.md",
     "알고리즘/해쉬테이블.md",
