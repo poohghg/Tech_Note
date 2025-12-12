@@ -1,4 +1,4 @@
-### FSD 이전의 FDA의 원칙
+# FSD 이전의 FDA의 원칙
 
 FSD는 `Feature Sliced Design`의 줄임말이다. FSD의 모체는 FDA이며 `Feature Driven Architecture`의 줄임말이다. 
 
@@ -79,7 +79,8 @@ Index.js를 통해서만 각 컴포넌트들이 외부로 노출되므로 코드
 > A set of principles that helps you to define the boundaries
 > 코드의 역할과 책임을 나누는 원리
 
-## FSD
+---
+# FSD
 
 FSD는 프론트엔드 애플리케이션을 스캐폴딩하기 위한 아키텍처 방법론이다. 코드 구성에 대한 규칙과 컨벤션을 모아 둔것이다. 이 방법론의 주요 목적은 끊임없이 변화하는 비지니스 요구 사항에 직면하여 프로젝트를 보다 이해하기 쉽고 구조화 하는 것이다.
 
