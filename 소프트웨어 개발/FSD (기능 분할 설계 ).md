@@ -66,9 +66,6 @@ Index.js를 통해서만 각 컴포넌트들이 외부로 노출되므로 코드
 ##### co-location
 
 피처 내부에서 쓰이는 도메인 코드가 여러 곳으로 분류되어있으면 코드를 탐색하기가 어렵기 때문에 최대한 한 폴더 내부에 위치 시킨다.
-
-![image-20240513134850530](/Users/khg/Library/Application Support/typora-user-images/image-20240513134850530.png)
-
 ##### de-coupling isolation
 
 - 피처 코드 내부에서 사용하는 코드들은 다른 피처 모듈을 의존하면 안된다.
