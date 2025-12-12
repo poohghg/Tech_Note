@@ -42,12 +42,9 @@ FSD는 `Feature Sliced Design`의 줄임말이다. FSD의 모체는 FDA이며 `F
 > ex) constatns,types,utils,hooks등 이다.
 
 
-
-![image-20240513121137843](/Users/khg/Library/Application Support/typora-user-images/image-20240513121137843.png)
-
 Index.js를 통해서만 각 컴포넌트들이 외부로 노출되므로 코드를 사용하는 다른 사람에게 private 모듈과 public 모듈을 분리하여 전달할 수 있다.
 
-##### Explicit Sharing (명시적 공유)
+#### Explicit Sharing (명시적 공유)
 
 공통 코드가 변결될 때 버그가 발생하는 것은 테스트코드를 통해 100%해결 할 수 없다. 공통 모듈의 경우 작성자가 모든 유스케이스를 100%예측 할 수 없기 때문이다.
 
