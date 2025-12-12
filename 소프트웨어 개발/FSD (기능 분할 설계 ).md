@@ -26,12 +26,11 @@ FSD는 `Feature Sliced Design`의 줄임말이다. FSD의 모체는 FDA이며 `F
 
 > 모놀리스 폴더 구조란 각 코드를 저장하는 폴더의 배치를 앱에서 맡은 의미적인 기능 즉 도메인이 아닌 components, utils 이렇게 기술적인 기능으로만 일차원적으로 배치해놓는것을 의미한다. 이는 각 코드의 역할별로 폴더에 저장을 하면서 한 폴더 내부에서 ==어떤 파일이 앱의 어떤한 도메인과 연관되어 있는지 파악하기 힘들다.==
 
-![image-20240513120701064](/Users/khg/Library/Application Support/typora-user-images/image-20240513120701064.png)
-
-
-![image-20240513120735327](/Users/khg/Library/Application Support/typora-user-images/image-20240513120735327.png)
+![[Pasted image 20251212200136.png]]
 
 - 결합도과 높고 응집도는 낮은 코드 관리가 된다.
+
+![[Pasted image 20251212200203.png]]
 
 ##### 피처 단위로 코드 나누기(캡슐화)
 
