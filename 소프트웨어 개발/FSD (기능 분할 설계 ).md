@@ -1,16 +1,14 @@
-# FSD(기능 분할 설계 )
+### FSD 이전의 FDA의 원칙
 
-## FSD 이전의 FDA의 원칙
+FSD는 `Feature Sliced Design`의 줄임말입니다. FSD의 모체는 FDA이며 `Feature Driven Architecture`의 줄임말이다. 
 
-FSD는 `Feature Sliced Design`의 줄임말입니다. FSD의 모체는 FDA이며 `Feature Driven Architecture`의 줄임말입니다. 
+### 좋은 코드의 조건
 
-#### 좋은 코드의 조건
+#### Discoverability (발견 가능성)
 
-##### Discoverability (발견 가능성)
+> 프로젝트 규모가 커질 수록 기능과 연관된 코드를 탐색하는데 많은 비용이 발생한다. 의존 관계에 놓여있는 코드를 탐색하기 위해 복잡한 구조의 폴더와 코드를 순차적으로 탐색해야 하기 때문이다.
 
-프로젝트 규모가 커질 수록 기능과 연관된 코드를 탐색하는데 많은 비용이 발생한다. 의존 관계에 놓여있는 코드를 탐색하기 위해 복잡한 구조의 폴더와 코드를 순차적으로 탐색해야 하기 때문이다.
-
-##### Work parallelisation (공통 작업)
+#### Work parallelisation (공통 작업)
 
 큰 규모의 프로젝트에서는 개개인이 기능과 연관된 코드를 탐색하는 것도 어렵지만,여러 명이 서로 다른 기능에 동시에 작업하는 것은 더욱 어렵다. 이는 내 수정 사항이 다른 코드에 어떠한 영향을 미칠지 모르기 때문이다.
 
