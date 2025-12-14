@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/백트래킹.md",
+                "file": "소프트웨어 개발/다형성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백트래킹"
+              "title": "다형성"
             }
           },
           {
@@ -159,8 +159,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,6 +257,7 @@
   },
   "active": "fbc15fbe89008895",
   "lastOpenFiles": [
+    "알고리즘/백트래킹.md",
     "소프트웨어 개발/FSD (기능 분할 설계 ).md",
     "img/Pasted image 20251212200203.png",
     "img/Pasted image 20251212200136.png",
@@ -265,7 +265,6 @@
     "Users/khg/Library",
     "Users/khg",
     "Users",
-    "알고리즘/백트래킹.md",
     "알고리즘/힙.md",
     "알고리즘/해쉬테이블.md",
     "알고리즘/트리.md",
