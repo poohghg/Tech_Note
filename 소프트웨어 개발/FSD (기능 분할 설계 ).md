@@ -176,8 +176,9 @@ FSD에서는 다음으로 구성되어 있다.
 
 세그멘트들은 다음과 같은 주로 타입으로 구성된다.
 
-- ui: UI 컴포넌트
-- model: 비즈니스 로직, data aggregation 함수들
+- ui: UI components, date formatter, styles 등 UI 표현과 직접 관련된 코드
+- model: schema, interfaces, store, business logic 등 애플리케이션 도메인 모델 
+	- 비즈니스 로직, data aggregation 함수들
 	-  State, Types, Selector
 	- 특정 도메인 내 비즈니스 로직 함수들
 - lib: infra structural code
@@ -186,7 +187,7 @@ FSD에서는 다음으로 구성되어 있다.
 	- hooks
 	- helper
 	- 해당 세그멘트 내 다양한 타입이 있을 시 폴더 구조로 변경
-- api: backend api를 호출하기 위한 코드들
+- api: request functions, data types, mappers 등 백엔드 통신 및 데이터 로직
 	- REST/GraphQL Client, Fetchers
 - consts - 필요한 상수.
 ### 공개 API
