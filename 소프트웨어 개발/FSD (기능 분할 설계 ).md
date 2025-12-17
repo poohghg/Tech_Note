@@ -181,7 +181,7 @@ FSD에서는 다음으로 구성되어 있다.
 	- 비즈니스 로직, data aggregation 함수들
 	-  State, Types, Selector
 	- 특정 도메인 내 비즈니스 로직 함수들
-- lib: infra structural code
+- lib:  해당 Slice에서 여러 모듈이 함께 사용하는 공통 library code
 	- 슬라이스 내에서 사용되는 보조 기능.
 	- utils
 	- hooks
