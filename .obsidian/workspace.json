@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/다이나믹 프로그래밍(DP).md",
+                "file": "소프트웨어 개발/FSD (기능 분할 설계 ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "다이나믹 프로그래밍(DP)"
+              "title": "FSD (기능 분할 설계 )"
             }
           },
           {
@@ -257,6 +257,13 @@
   },
   "active": "fbc15fbe89008895",
   "lastOpenFiles": [
+    "소프트웨어 개발/SOLID 원칙.md",
+    "프로그래밍/개인 정리.md",
+    "프로그래밍/소트트웨어 개발.md",
+    "프로그래밍/스터디 - 디자인패턴.md",
+    "타입스크립트/타입 메모.md",
+    "클린코드/클린코드의 이해.md",
+    "알고리즘/다이나믹 프로그래밍(DP).md",
     "알고리즘/시간 복잡도.md",
     "알고리즘/의사코드.md",
     "소프트웨어 개발/다형성.md",
@@ -280,16 +287,9 @@
     "알고리즘/BFS.md",
     "알고리즘/DFS.md",
     "알고리즘/재귀.md",
-    "알고리즘/다이나믹 프로그래밍(DP).md",
     "알고리즘/배열.md",
-    "도서/안티프레질 프런트엔드/CH3. 브라우저가 렌더링하는 과정.md",
-    "web/CORS.md",
-    "web/HTTP.md",
-    "react/react-core/diffing.md",
-    "web/HTML.md",
     "img/Pasted image 20251203191942.png",
     "img/Pasted image 20251203191449.png",
-    "도서/안티프레질 프런트엔드/CH2. 브라우저.md",
     "도서/안티프레질 프런트엔드/Untitled",
     "도서/안티프레질 프런트엔드/CH2-1. 브라우저가 렌더링하는 과정",
     "img/Pasted image 20251121225647.png",
