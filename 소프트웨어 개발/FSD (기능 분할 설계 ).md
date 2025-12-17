@@ -175,21 +175,22 @@ FSD에서는 다음으로 구성되어 있다.
   - ex) profile -> follow-profile
 ### 세그멘트 
 
-> 세그멘트는 FSD의 마지막 계층에 있는 요소로 주로 코드의 ==역할단위==로 파일을 그룹화 하기 위해 작성된다.
+> 세그멘트는 FSD의 마지막 계층에 있는 요소로 주로 코드의 ==역할단위== 또는 기능으로 파일을 그룹화 하기 위해 작성된다.
 
 세그멘트들은 다음과 같은 주로 타입으로 구성된다.
 - ui: UI 컴포넌트
 - model: 비즈니스 로직, data aggregation 함수들
-	- 타입정의
+	-  State, Types, Selector
 	- 세그멘트 내 각 기능별 파일 내 타입은 해당 파일에서 정의 
 	- 특정 도메인 내 비즈니스 로직 함수들
 - lib: infra structural code
-  - 슬라이스 내에서 사용되는 보조 기능.
-  - utils
-  - hooks
-  - helper
-  - 해당 세그멘트 내 다양한 타입이 있을 시 폴더 구조로 변경
+	- 슬라이스 내에서 사용되는 보조 기능.
+	- utils
+	- hooks
+	- helper
+	- 해당 세그멘트 내 다양한 타입이 있을 시 폴더 구조로 변경
 - api: backend api를 호출하기 위한 코드들
+	- REST/GraphQL Client, Fetchers
 - consts - 필요한 상수.
 ### 공개 API
 
