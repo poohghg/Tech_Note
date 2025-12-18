@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소프트웨어 개발/클린 아키텍처/usecase (service).md",
+                "file": "소프트웨어 개발/클린 아키텍처/UseCase (Service).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "usecase (service)"
+              "title": "UseCase (Service)"
             }
           },
           {
@@ -259,7 +259,7 @@
   "active": "fbc15fbe89008895",
   "lastOpenFiles": [
     "소프트웨어 개발/클린 아키텍처/repository.md",
-    "소프트웨어 개발/클린 아키텍처/usecase (service).md",
+    "소프트웨어 개발/클린 아키텍처/UseCase (Service).md",
     "소프트웨어 개발/FSD (기능 분할 설계 ).md",
     "소프트웨어 개발/SOLID 원칙.md",
     "프로그래밍/개인 정리.md",
