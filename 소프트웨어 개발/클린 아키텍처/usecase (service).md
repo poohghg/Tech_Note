@@ -16,6 +16,21 @@
 
 ```
 
+```
+UI (pages / widgets)
+  ↓
+Hooks (features)
+  ↓
+Usecase (interface)
+  ↓
+Service (implementation)
+  ↓
+Repository (interface)
+  ↓
+API / Storage / Infra
+
+```
+
 ### 유즈케이스의 역할
 
 #### 1.시스템 단위의 행동을 정의한다.
