@@ -85,3 +85,11 @@ try {
 |Toast / Alert|표현 계층|
 |Redux / Recoil 접근|외부 프레임워크|
 |DB 쿼리|Repository 책임|
+### Service vs Domain Service
+
+|구분|Service (Use Case)|Domain Service|
+|---|---|---|
+|위치|Application Layer|Domain Layer|
+|책임|행동의 흐름|도메인 계산|
+|의존성|Repo, Gateway|Entity만|
+|예시|주문 결제|가격 계산|
