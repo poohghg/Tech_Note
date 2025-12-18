@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소프트웨어 개발/FSD (기능 분할 설계 ).md",
+                "file": "소프트웨어 개발/클린 아키텍처/repository.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FSD (기능 분할 설계 )"
+              "title": "repository"
             }
           },
           {
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -258,6 +257,7 @@
   },
   "active": "fbc15fbe89008895",
   "lastOpenFiles": [
+    "소프트웨어 개발/FSD (기능 분할 설계 ).md",
     "소프트웨어 개발/SOLID 원칙.md",
     "프로그래밍/개인 정리.md",
     "프로그래밍/소트트웨어 개발.md",
@@ -269,7 +269,6 @@
     "알고리즘/의사코드.md",
     "소프트웨어 개발/다형성.md",
     "알고리즘/백트래킹.md",
-    "소프트웨어 개발/FSD (기능 분할 설계 ).md",
     "img/Pasted image 20251212200203.png",
     "img/Pasted image 20251212200136.png",
     "Users/khg/Library/Application.md",
