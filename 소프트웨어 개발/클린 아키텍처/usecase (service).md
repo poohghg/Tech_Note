@@ -4,24 +4,12 @@
 > 유즈케이스는 시스템의 상태를 변경할 수 있다.
 
 
-``` text
-
-[ Entities ]           ← 핵심 비즈니스 규칙
-      ↑
-[ Use Cases ]          ← 애플리케이션 규칙
-      ↑
-[ Interface Adapters ]
-      ↑
-[ Frameworks / UI ]
-
 ```
-
-```
-UI (pages / widgets)
+UI (pages / widgets) [ Frameworks / UI ]
   ↓
-Hooks (features)
+Hooks (features) [ Frameworks / UI ]
   ↓
-Usecase (interface)
+Usecase (interface) 
   ↓
 Service (implementation)
   ↓
