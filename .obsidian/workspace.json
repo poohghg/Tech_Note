@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -270,12 +270,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc95fd284d922a6b",
+  "active": "fbc15fbe89008895",
   "lastOpenFiles": [
+    "소프트웨어 개발/클린 아키텍처/UseCase (Service).md",
     "소프트웨어 개발/클린 아키텍처/클린 아키텍처.md",
     "img/Pasted image 20251224183438.png",
     "소프트웨어 개발/클린 아키텍처/Repository.md",
-    "소프트웨어 개발/클린 아키텍처/UseCase (Service).md",
     "소프트웨어 개발/FSD (기능 분할 설계 ).md",
     "소프트웨어 개발/SOLID 원칙.md",
     "프로그래밍/개인 정리.md",
