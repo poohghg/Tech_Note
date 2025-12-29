@@ -24,6 +24,10 @@
 | 동작 제어     | 열기/닫기 등 제어 흐름만 책임지고, 구체 로직은 외부에 위임            |
 | 주입된 기능 수용 | 외부에서 전달된 `children`, `render`, `action` 등을 표현 |
 
+``` 
+
+```
+
 
 ``` tsx
 // components/ListLayout.tsx
