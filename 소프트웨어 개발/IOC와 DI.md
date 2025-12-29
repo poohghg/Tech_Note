@@ -24,7 +24,52 @@
 | 동작 제어     | 열기/닫기 등 제어 흐름만 책임지고, 구체 로직은 외부에 위임            |
 | 주입된 기능 수용 | 외부에서 전달된 `children`, `render`, `action` 등을 표현 |
 
-``` 
+``` tsx 
+//컨텍스트 제공
+
+import { createContext, ReactNode, useContext, useState } from "react";
+
+interface ModalContextType {
+  isOpen: boolean;
+  openModal: () => void;
+  closeModal: () => void;
+}
+
+
+const ModalContext = createContext<ModalContextType | undefined>(undefined);
+
+
+export function ModalProvider({ children }: { children: ReactNode }) {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const openModal = () => setIsOpen(true);
+  const closeModal = () => setIsOpen(false);
+
+  return (
+    <ModalContext.Provider value={{ isOpen, openModal, closeModal }}>
+      {children}
+    </ModalContext.Provider>
+  );
+}
+export function useModal() {
+  const context = useContext(ModalContext);
+  if (!context) {
+    throw new Error("useModal must be used within a ModalProvider");
+  }
+  return context;
+}
+
+// 사용
+
+import { useModal, ModalProvider } from "./ModalContext";
+
+
+function ModalTrigger() {
+  const { openModal } = useModal();
+  return <button onClick={openModal}>Open Modal</button>;
+}
+```
+
 
 ```
 
