@@ -179,6 +179,7 @@ FSD에서는 다음으로 구성되어 있다.
 - ui: UI components, date formatter, styles 등 UI 표현과 직접 관련된 코드
 - model: schema, interfaces, store, business logic 등 애플리케이션 도메인 모델 
 	- 비즈니스 로직, data aggregation 함수들
+		- data aggregation 함수들: 여러 소스에서 데이터를 수집하고 이를 가공하여 도메인에 맞는 형태로 제공하는 함수들
 	-  State, Types, Selector
 	- 특정 도메인 내 비즈니스 로직 함수들
 - lib:  해당 Slice에서 여러 모듈이 함께 사용하는 공통 library code
