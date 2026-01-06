@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소프트웨어 개발/클린 아키텍처/클린 아키텍처.md",
+                "file": "javascript/자바스크립트 자료형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "클린 아키텍처"
+              "title": "자바스크립트 자료형"
             }
           },
           {
@@ -270,9 +270,9 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "소프트웨어 개발/클린 아키텍처/클린 아키텍처.md",
     "소프트웨어 개발/클린 아키텍처/Repository.md",
     "소프트웨어 개발/FSD (기능 분할 설계 ).md",
-    "소프트웨어 개발/클린 아키텍처/클린 아키텍처.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "소프트웨어 개발/IOC와 DI.md",
     "소프트웨어 개발/SOLID 원칙.md",
