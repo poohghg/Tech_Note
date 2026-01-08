@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소프트웨어 개발/추상화.md",
+                "file": "알고리즘/최장 공통 부분 수열.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "추상화"
+              "title": "최장 공통 부분 수열"
             }
           },
           {
@@ -172,8 +172,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,6 +270,9 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "알고리즘/최장 증가 부분 수열.md",
+    "알고리즘/최장 공통 부분 수열.md",
+    "소프트웨어 개발/추상화.md",
     "react/리액트 정리.md",
     "알고리즘/배열.md",
     "javascript/자바스크립트 자료형.md",
@@ -300,9 +302,6 @@
     "Users/khg/Library",
     "Users/khg",
     "Users",
-    "알고리즘/힙.md",
-    "알고리즘/해쉬테이블.md",
-    "알고리즘/트리.md",
     "img/Pasted image 20251203191942.png",
     "img/Pasted image 20251203191449.png",
     "도서/안티프레질 프런트엔드/Untitled",
