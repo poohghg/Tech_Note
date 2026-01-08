@@ -133,8 +133,7 @@
               "title": "HTTP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,10 +282,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9ef04adf054c5a6b",
+  "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "소프트웨어 개발/FSD (기능 분할 설계 ).md",
     "소프트웨어 개발/클린 아키텍처/클린 아키텍처.md",
+    "소프트웨어 개발/FSD (기능 분할 설계 ).md",
     "소프트웨어 개발/클린 아키텍처/Repository.md",
     "소프트웨어 개발/클린 아키텍처/UseCase (Service).md",
     "알고리즘/최장 공통 부분 수열.md",
