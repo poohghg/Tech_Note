@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/최장 증가 부분 수열.md",
+                "file": "알고리즘/세그멘트 트리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최장 증가 부분 수열"
+              "title": "세그멘트 트리"
             }
           },
           {
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f19fe54e9b68207",
@@ -284,8 +285,8 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
-    "알고리즘/최장 공통 부분 수열.md",
     "알고리즘/최장 증가 부분 수열.md",
+    "알고리즘/최장 공통 부분 수열.md",
     "알고리즘/시간 복잡도.md",
     "알고리즘/의사코드.md",
     "알고리즘/세그멘트 트리.md",
