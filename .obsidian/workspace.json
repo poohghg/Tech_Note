@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/최장 공통 부분 수열.md",
+                "file": "알고리즘/최장 증가 부분 수열.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최장 공통 부분 수열"
+              "title": "최장 증가 부분 수열"
             }
           },
           {
@@ -284,6 +284,7 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "알고리즘/최장 공통 부분 수열.md",
     "알고리즘/최장 증가 부분 수열.md",
     "알고리즘/시간 복잡도.md",
     "알고리즘/의사코드.md",
@@ -292,7 +293,6 @@
     "소프트웨어 개발/클린 아키텍처/클린 아키텍처.md",
     "소프트웨어 개발/클린 아키텍처/Repository.md",
     "소프트웨어 개발/클린 아키텍처/UseCase (Service).md",
-    "알고리즘/최장 공통 부분 수열.md",
     "소프트웨어 개발/추상화.md",
     "react/리액트 정리.md",
     "알고리즘/배열.md",
