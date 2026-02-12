@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소프트웨어 개발/클린 아키텍처/클린 아키텍처.md",
+                "file": "알고리즘/플로위드 위셜.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "클린 아키텍처"
+              "title": "플로위드 위셜"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,8 +311,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b43c92f84b5aceaa",
+  "active": "9ef04adf054c5a6b",
   "lastOpenFiles": [
+    "알고리즘/해쉬테이블.md",
+    "소프트웨어 개발/클린 아키텍처/클린 아키텍처.md",
     "도서/패턴으로 익히는 리액트/CH7. 테스트 주도 개발.md",
     "알고리즘/플로위드 위셜.md",
     "최적화/장기 작업 최적화.md",
@@ -326,7 +328,6 @@
     "알고리즘/의사코드.md",
     "알고리즘/세그멘트 트리.md",
     "소프트웨어 개발/FSD (기능 분할 설계 ).md",
-    "소프트웨어 개발/클린 아키텍처/클린 아키텍처.md",
     "소프트웨어 개발/클린 아키텍처/Repository.md",
     "소프트웨어 개발/클린 아키텍처/UseCase (Service).md",
     "소프트웨어 개발/추상화.md",
@@ -340,7 +341,6 @@
     "도서/패턴으로 익히는 리액트/CH9.리액트 설계 원칙 적용.md",
     "img/Pasted image 20251224183438.png",
     "프로그래밍/개인 정리.md",
-    "프로그래밍/소트트웨어 개발.md",
     "img/Pasted image 20251212200203.png",
     "img/Pasted image 20251212200136.png",
     "Users/khg/Library",
