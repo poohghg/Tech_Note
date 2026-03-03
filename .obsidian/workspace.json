@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/자바스크립트 엔진 강의 정리.md",
+                "file": "javascript/화살표 함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트 엔진 강의 정리"
+              "title": "화살표 함수"
             }
           },
           {
@@ -214,8 +214,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -313,11 +312,11 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "알고리즘/세그멘트 트리.md",
     "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "javascript/클로저.md",
-    "javascript/자바스크립트 엔진 강의 정리.md",
     "타입스크립트/타입 시스템.md",
     "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "프로그래밍/개인 정리.md",
