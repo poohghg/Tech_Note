@@ -314,8 +314,9 @@
   },
   "active": "9ef04adf054c5a6b",
   "lastOpenFiles": [
-    "javascript/자바스크립트 엔진 강의 정리.md",
+    "javascript/클로저.md",
     "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
+    "javascript/자바스크립트 엔진 강의 정리.md",
     "타입스크립트/타입 시스템.md",
     "도서/패턴으로 익히는 리액트/CH10.합성 패턴.md",
     "프로그래밍/개인 정리.md",
@@ -340,7 +341,6 @@
     "소프트웨어 개발/FSD (기능 분할 설계 ).md",
     "소프트웨어 개발/클린 아키텍처/Repository.md",
     "소프트웨어 개발/클린 아키텍처/UseCase (Service).md",
-    "소프트웨어 개발/추상화.md",
     "img/Pasted image 20251224183438.png",
     "img/Pasted image 20251212200203.png",
     "img/Pasted image 20251212200136.png",
