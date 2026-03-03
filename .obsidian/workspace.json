@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/화살표 함수.md",
+                "file": "react/Concurrency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "화살표 함수"
+              "title": "Concurrency"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "클로저",
+                "query": "startTransition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +214,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -312,6 +313,7 @@
   },
   "active": "0e993395352b5eed",
   "lastOpenFiles": [
+    "javascript/화살표 함수.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
     "알고리즘/세그멘트 트리.md",
     "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
@@ -338,7 +340,6 @@
     "알고리즘/시간 복잡도.md",
     "알고리즘/의사코드.md",
     "소프트웨어 개발/FSD (기능 분할 설계 ).md",
-    "소프트웨어 개발/클린 아키텍처/Repository.md",
     "img/Pasted image 20251224183438.png",
     "img/Pasted image 20251212200203.png",
     "img/Pasted image 20251212200136.png",
