@@ -160,7 +160,14 @@
               "icon": "lucide-file",
               "title": "UseCase (Service)"
             }
-          },
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "3d9eac21279b29c2",
+        "type": "tabs",
+        "children": [
           {
             "id": "a37cf615f68a5d15",
             "type": "leaf",
@@ -175,8 +182,7 @@
               "title": "HTTP"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
