@@ -1,17 +1,16 @@
-두 스크립트의 구체적인 차이
-"test": "turbo run test" — 분산 실행 (Turborepo 오케스트레이션)
+#### "test": "turbo run test" 
+
+```
 루트
  └─ turbo가 각 패키지를 병렬로 실행
      ├─ apps/web        → vitest run (자체 vitest.config)
      └─ packages/ui     → vitest run (자체 vitest.config)
+```
+
 특징
-내용
-실행 단위
-각 패키지 내부의 test 스크립트 개별 실행
-병렬 실행
-✅ 패키지들을 동시에 실행
-캐싱
-✅ 변경 없으면 이전 결과 재사용 (outputs: coverage/**)
+- 실행 단위 :각 패키지 내부의 test 스크립트 개별 실행
+- 병렬 실행: ✅ 패키지들을 동시에 실행
+- 캐싱: 변경 없으면 이전 결과 재사용 (outputs: coverage/**)
 의존성 순서
 ✅ @repo/vitest-config#build 먼저 실행 후 테스트
 커버리지 위치
