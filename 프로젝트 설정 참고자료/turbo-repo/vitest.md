@@ -9,18 +9,20 @@
 
 특징
 - 실행 단위 :각 패키지 내부의 test 스크립트 개별 실행
-- 병렬 실행: ✅ 패키지들을 동시에 실행
+- 병렬 실행:  패키지들을 동시에 실행
 - 캐싱: 변경 없으면 이전 결과 재사용 (outputs: coverage/**)
-의존성 순서
-✅ @repo/vitest-config#build 먼저 실행 후 테스트
-커버리지 위치
-각 패키지 폴더 안 (apps/web/coverage, packages/ui/coverage)
+- 의존성 순서:@repo/vitest-config#build 먼저 실행 후 테스트
+- 커버리지 위치:각 패키지 폴더 안 (apps/web/coverage, packages/ui/coverage)
  
-"test:projects": "vitest run" — 단일 프로세스 (루트 vitest)
+#### "test:projects": "vitest run" — 단일 프로세스 (루트 vitest)
+
+```
 루트
  └─ 루트 vitest.config.ts 하나로 모든 프로젝트를 단일 프로세스에서 실행
      ├─ projects[0]: apps/web
      └─ projects[1]: packages/ui
+```
+
 특징
 내용
 실행 단위
