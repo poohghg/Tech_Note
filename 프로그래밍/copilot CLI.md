@@ -1,4 +1,28 @@
 
+## 운영방식
+
+```
+1) 전역 규칙
+AGENTS.md
+
+2) Copilot 기본 지침
+.github/copilot-instructions.md
+
+3) 영역별 지침
+.github/instructions/ui.instructions.md
+필요하면 추가:
+.github/instructions/testing.instructions.md
+.github/instructions/monorepo.instructions.md
+
+4) 재사용 프롬프트
+.github/prompts/*.prompt.md
+
+5) 사람용 설명서/체크리스트
+docs/ai/*.md
+```
+
+## 각 파일의 역할과 활용 방법
+
 ### 1. Copilot Instructions (코파일럿 기본 지침)
 
 코파일럿이 코드를 생성하거나 자동 완성할 때 **항상 기본적으로 따라야 하는 전반적인 규칙**을 설정한다.
