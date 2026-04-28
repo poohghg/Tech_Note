@@ -174,6 +174,20 @@ Use this skill when you need to create or expand test coverage for existing code
 - Add assertions for all expected behaviors
 ```
 
+#### 번들 자산 추가
+
+```
+skills/
+└── generate-tests/
+    ├── SKILL.md
+    ├── references/
+    │   └── testing-patterns.md      # Common testing patterns
+    ├── templates/
+    │   └── test-template.ts         # Starter test file
+    └── scripts/
+        └── setup-test-env.sh        # Environment setup
+```
+
 #### 기존 프롬프트 파일 형식 대비 주요 장점
 
 - 스킬 지원 기능은 에이전트 검색을 위한 확장된 메타데이터(이름, 설명)를 포함한다.
