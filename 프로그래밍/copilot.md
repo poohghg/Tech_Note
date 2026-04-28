@@ -108,7 +108,9 @@ test('should display error message when login fails', async ({ page }) => {
 - 지침은 수동적인 맥락을 제공하고, 기술은 함께 제공되는 리소스를 활용하여 특정 작업을 수행하도록 한다.
 - 반복적으로 적용되는 표준에 대해서는 지침을 사용하고, 필요에 따라 작동하는 작업에는 기술을 활용한다.
 
-### 3. AGENTS.md (에이전트 컨텍스트 파일)
+### 3. AGENTS.md 
+
+> https://awesome-copilot.github.com/learning-hub/building-custom-agents/
 
 사용자 지정 에어전트는 GitHub Copilot에 특화된 페르소나, 특정 도구 접근 권한 및 도메인 전문 지식을 제공하는 전문 도우미이다. 수동적으로 적용되는 지침이나 개별 작업을 처리하는 스킬과는 달리, 에이전트는 완전한 작업 스타일을 정의한다. 즉, Copilot이 생각하는 방식, 사용하는 도구, 그리고 전체 세션 동안 소통하는 방식을 결정한다.
 
