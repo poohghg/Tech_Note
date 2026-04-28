@@ -162,7 +162,7 @@ tools: ['codebase', 'terminal', 'github']
 |`fetch`|외부 API에 HTTP 요청을 보냅니다.|
 |`edit`|워크스페이스의 파일을 수정하세요|
 
-``` markdown
+``` md
 ---
 name: 'API Design Reviewer'
 description: 'Reviews API designs for consistency, RESTful patterns, and team conventions'
