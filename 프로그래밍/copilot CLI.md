@@ -183,6 +183,41 @@ Use [templates/test-template.ts](templates/test-template.ts) as a starting struc
   
 ```
 
+**1. 명확한 목표:
+
+```
+# skill-name
+Your goal is to [specific task] for [specific target].
+```
+
+**2. "언제 사용해야 하는지"에 대한 안내를 추가한다** (에이전트 및 사용자 모두에게):
+
+```
+## When to Use This Skill
+Use this skill when:- A user asks to [trigger phrase 1]- You need to [trigger phrase 2]- Keywords: [keyword1], [keyword2], [keyword3]
+```
+
+**3. 요구사항을 명확하게 정의하십시오** .
+
+```
+## Requirements
+- Must follow [standard/pattern]- Should include [specific element]- Avoid [anti-pattern]
+```
+
+**4. 참조 번들 자산** :
+
+```
+## References
+- Follow patterns in [references/patterns.md](references/patterns.md)- Use template from [templates/starter.json](templates/starter.json)
+```
+
+**5. 예를 들어 설명하세요** :
+
+```
+### Good Example[Show desired output]
+### What to Avoid[Show problematic patterns]
+```
+
 #### 번들 자산 추가
 
 스킬에는 AI의 컨텍스트를 풍부하게 하는 참조 파일, 템플릿 및 스크립트가 포함될 수 있다.
