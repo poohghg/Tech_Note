@@ -120,7 +120,7 @@ test('should display error message when login fails', async ({ page }) => {
 
  사용자 지정 에이전트를 선택하거나 Copilot 코딩 에이전트를 통해 이슈에 에이전트를 할당하면 에이전트 구성이 전체 상호 작용에 영향을 미친다.
  
- - 즉 에이전트를  # 명령어를 통해 명시적으로 호출할 때뿐만 아니라, 에이전트가 활성화된 세션에서 이루어지는 모든 상호 작용에 영향을 미친다.
+ - 즉 에이전트를  
 #### 커스텀 에이전트란?
 
 `*.agent.md`사용자 지정 에이전트는 GitHub Copilot을 다음과 같이 구성하는 Markdown 파일입이다.
@@ -138,7 +138,7 @@ test('should display error message when login fails', async ({ page }) => {
 
 #### 에이전트 vs 지침
 
-- 에이전
+- 에이전트는 명시적으로 선택되며, 지침은 일치하는 파일에 자동으로 적용된다.
 
 ### 4.Prompts (프롬프트)
 
