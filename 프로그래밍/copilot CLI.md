@@ -48,7 +48,7 @@ docs/ai/*.md
 
 ### 2. Instruction Files (파일별/작업별 지침 파일)
 
-https://awesome-copilot.github.com/learning-hub/defining-custom-instructions/
+> https://awesome-copilot.github.com/learning-hub/defining-custom-instructions/
 
 특정 파일 확장자나 특정 작업 유형에 맞춰 세부적인 규칙을 적어둔 `.instructions.md` 파일을 설정한다. 프로젝트 내에 이 파일을 만들어두면, 코파일럿이 해당 파일을 편집할 때 그 안의 규칙을 참고한다.
 
@@ -128,6 +128,8 @@ ex) /test
 ```
 
 ### 5.Skills (스킬)
+
+> https://awesome-copilot.github.com/learning-hub/creating-effective-skills/
 
 스킬은 재사용 가능한 기능을 담은 독립적인 폴더이다.
 
