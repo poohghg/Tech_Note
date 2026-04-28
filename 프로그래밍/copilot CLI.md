@@ -89,15 +89,24 @@ ex) /test
 
 ``` md
 ---
-description: 'TypeScript coding conventions for this project'
-applyTo: '**.ts, **.tsx'
+
+name: generate-tests
+
+description: 'Generate comprehensive unit tests for a component, covering happy path, edge cases, and error conditions'
+
 ---
 
-When writing TypeScript code:
-- Use strict type checking
-- Prefer interfaces over type aliases for object types
-- Always handle null/undefined with optional chaining
-- Use async/await instead of raw promises
+# generate-tests
+
+Generate unit tests for the selected code that:
+
+- Cover all public methods and edge cases
+
+- Use our testing conventions from @testing-utils.ts
+
+- Include descriptive test names
+
+See [references/test-patterns.md](references/test-patterns.md) for standard patterns.
 ```
 
 
