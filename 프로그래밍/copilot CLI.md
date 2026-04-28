@@ -10,7 +10,6 @@ AGENTS.md
 
 3) 영역별 지침
 .github/instructions/ui.instructions.md
-필요하면 추가:
 .github/instructions/testing.instructions.md
 .github/instructions/monorepo.instructions.md
 
