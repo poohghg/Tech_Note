@@ -124,8 +124,8 @@ test('should display error message when login fails', async ({ page }) => {
 
 - 페르소나: 에이전트가 채택하는 전문성, 어조 및 작업 스타일
 - **Tool access**: 에이전트가 사용할 수 있는 내장 도구 및 MCP 서버
-- **Guardrails**: 에이전트가 따르는 경계 및 관례
-- **A model preference**: Which AI model powers the agent (optional but recommended)
+- **가드레일**: 에이전트가 따르는 경계 및 관례
+- **모델 선호도**: 에이전트에 사용할 AI 모델 (선택 사항이지만 권장됨)
 ### 4.Prompts (프롬프트)
 
 코파일럿에게 특정 작업을 요청할 때, 재사용할 작업 템플릿이다.
