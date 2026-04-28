@@ -138,6 +138,25 @@ test('should display error message when login fails', async ({ page }) => {
 - 하나의 저장소에는 여러 에이전트가 공존할 수 있으며, 각 에이전트는 서로 다른 워크플로 또는 도메인 전문 지식을 지원하도록 구성할 수 있다.
 - `github/agents/`에이전트는 전체 팀에 저장 되고 공유된다.
 
+#### 상세
+
+``` md
+---
+name: 'Security Reviewer'
+description: 'Expert security auditor that reviews code for OWASP vulnerabilities, authentication flaws, and supply chain risks'
+model: Claude Sonnet 4
+tools: ['codebase', 'terminal', 'github']
+---
+```
+
+- **이름** (권장): 에이전트에 표시할 사람이 읽기 쉬운 이름입니다.
+**설명** (필수): 상담원이 하는 일을 명확하게 요약한 내용입니다. 이 내용은 상담원 선택기에 표시되어 사용자가 적합한 상담원을 찾는 데 도움이 됩니다.
+
+**모델** (권장): 에이전트를 구동하는 AI 모델입니다. 작업의 복잡성에 따라 선택하세요. 미묘한 추론에는 더 강력한 모델을 사용하는 것이 좋습니다.
+
+**도구** (권장): 에이전트가 액세스할 수 있는 내장 도구 및 MCP 서버 모음입니다. 일반적인 도구는 다음과 같습니다.
+
+
 #### 에이전트 vs 지침
 
 - 에이전트는 명시적으로 선택되며, 지침은 일치하는 파일에 자동으로 적용된다.
