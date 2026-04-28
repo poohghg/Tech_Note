@@ -153,24 +153,25 @@ ex) /test
 
 ``` md
 ---
-
 name: generate-tests
-
-description: 'Generate comprehensive unit tests for a component, covering happy path, edge cases, and error conditions'
-
+description: 'Generate comprehensive unit tests for the selected code, covering happy path, edge cases, and error conditions'
 ---
 
 # generate-tests
 
-Generate unit tests for the selected code that:
+Generate comprehensive unit tests for the selected code.
 
-- Cover all public methods and edge cases
+## When to Use This Skill
 
-- Use our testing conventions from @testing-utils.ts
+Use this skill when you need to create or expand test coverage for existing code.
 
-- Include descriptive test names
+## Requirements
 
-See [references/test-patterns.md](references/test-patterns.md) for standard patterns.
+- Cover happy path, edge cases, and error conditions
+- Use the testing framework already present in the codebase
+- Follow existing test file naming conventions
+- Include descriptive test names explaining what is being tested
+- Add assertions for all expected behaviors
 ```
 
 #### 기존 프롬프트 파일 형식 대비 주요 장점
