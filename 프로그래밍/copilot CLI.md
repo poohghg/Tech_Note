@@ -173,6 +173,9 @@ See [references/test-patterns.md](references/test-patterns.md) for standard patt
 
 #### 기존 프롬프트 파일 형식 대비 주요 장점
 
+- 스킬 지원 기능은 에이전트 검색을 위한 확장된 메타데이터(이름, 설명)를 포함한다.
+- 에이전트는 스킬을 자동으로 찾아 호출할 수 있으며, 이전에는 수동으로 슬래시 명령어를 입력해야 했다.
+- 스킬은 지침과 함께 
 
 ---
 ## 상호작용
