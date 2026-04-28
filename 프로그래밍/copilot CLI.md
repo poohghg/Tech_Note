@@ -118,6 +118,13 @@ test('should display error message when login fails', async ({ page }) => {
 - 저장소에서 작얼할 때 항상 지켜야 하는 기본 원칙이다.
 - 아키텍처, 테스트, 출력 스타일, 검증 순서 등을 명시할 수 있다.
 
+#### 커스텀 에이전트란?
+
+- **A persona**: The expertise, tone, and working style the agent adopts
+- **Tool access**: Which built-in tools and MCP servers the agent can use
+- **Guardrails**: Boundaries and conventions the agent follows
+- **A model preference**: Which AI model powers the agent (optional but recommended)
+
 ### 4.Prompts (프롬프트)
 
 코파일럿에게 특정 작업을 요청할 때, 재사용할 작업 템플릿이다.
