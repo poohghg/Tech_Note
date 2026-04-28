@@ -144,7 +144,10 @@ ex) /test
 
 스킬은 파일과 선택적으로 번들로 제공되는 에셋을 포함하는 폴더이다.
 
-
+- **이름** : 사용자가 호출할 때 사용되는 케밥 케이스 형식의 식별자 `/command`(예: `/generate-tests`)
+- **설명** : 해당 스킬의 기능과 발동 조건
+- **지침** : Copilot이 실행하는 상세 워크플로
+- **자산 참조** : 번들로 제공되는 템플릿, 스크립트, 스키마 및 참조 문서에 대한 링크
 
 ``` md
 ---
@@ -167,6 +170,8 @@ Generate unit tests for the selected code that:
 
 See [references/test-patterns.md](references/test-patterns.md) for standard patterns.
 ```
+
+#### 기존 프롬프트 파일 형식 대비 주요 장점
 
 
 ---
