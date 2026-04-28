@@ -136,6 +136,10 @@ test('should display error message when login fails', async ({ page }) => {
 - 하나의 저장소에는 여러 에이전트가 공존할 수 있으며, 각 에이전트는 서로 다른 워크플로 또는 도메인 전문 지식을 지원하도록 구성할 수 있다.
 - `github/agents/`에이전트는 전체 팀에 저장 되고 공유된다.
 
+#### 에이전트 vs 지침
+
+- 에이전
+
 ### 4.Prompts (프롬프트)
 
 코파일럿에게 특정 작업을 요청할 때, 재사용할 작업 템플릿이다.
