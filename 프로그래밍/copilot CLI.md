@@ -54,24 +54,46 @@ https://awesome-copilot.github.com/learning-hub/defining-custom-instructions/
 
 > 코드베이스의 특정 파일이나 디렉터리를 사용할 때 GitHub Copilot의 동작을 자동으로 안내하는 영구 구성 파일이다. 사용자가 직접 호출하거나 에이전트가 실행해야 하는 스킬과 달리, 사용자 지정 지침은 백그라운드에서 작동하여 Copilot이 팀의 표준, 규칙 및 아키텍처 결정을 일관되게 준수하도록한다.
 
+> 지침은 하위 항목에 `instructions/`있으며 전역, 언어별 또는 디렉터리별로 glob 패턴을 사용하여 범위를 지정할 수 있다. 이러한 지침은 Copilot이 엔지니어링 플레이북에 자동으로 맞춰 작동하도록 도와준다.
+
+>  특정 파일이나 디렉터리에서 작업할 때 자동으로 적용되는 지속적인 컨텍스트를 제공
+>  **사용 시점** : 프로젝트 전체의 코딩 표준, 아키텍처 패턴 또는 기술별 규칙 등 모든 제안에 영향을 미쳐야 하는 사항에 사용합니다
+
 - 코딩 표준 또는 스타일 가이드(명명 규칙, 테스트 전략)
 - 프레임워크별 힌트(예: React, Node.js, Monorepo 등)
 - 저장소별 규칙("비밀 정보는 절대 커밋하지 마세요", "기능 플래그는 에 있어야 합니다 `flags/`").
 -  구조 설계 결정 : 프로젝트 구조, 디자인 패턴, 관례
 - 준수 요구사항 : 보안 정책, 규제 제약
 
-> 지침은 하위 항목에 `instructions/`있으며 전역, 언어별 또는 디렉터리별로 glob 패턴을 사용하여 범위를 지정할 수 있다. 이러한 지침은 Copilot이 엔지니어링 플레이북에 자동으로 맞춰 작동하도록 도와준다.
-
->  특정 파일이나 디렉터리에서 작업할 때 자동으로 적용되는 지속적인 컨텍스트를 제공
->  **사용 시점** : 프로젝트 전체의 코딩 표준, 아키텍처 패턴 또는 기술별 규칙 등 모든 제안에 영향을 미쳐야 하는 사항에 사용합니다
-
-잘 구성된 지침 파일에는 다음 내용이 포함됩니다.
+#### 잘 구성된 지침 파일에는 다음 내용이 포함된다.
 
 1. **명확한 제목 및 개요** : 이 지침서에서 다루는 내용
 2. **구체적인 지침** : 모호한 제안이 아닌 실행 가능한 규칙
 3. **코드 예시** : 올바른 패턴을 보여주는 작동 코드 조각
 4. **설명** : 특정 접근 방식이 선호되는 이유
 
+``` md
+---
+description: 'Playwright test automation with TypeScript'
+applyTo: '**/*.spec.ts, **/tests/**/*.ts'
+---
+
+# Playwright Testing Standards
+
+Write descriptive test names that explain the expected behavior.
+
+## Test Structure
+
+```typescript
+test('should display error message when login fails', async ({ page }) => {
+  await page.goto('/login');
+  await page.fill('#username', 'invalid');
+  await page.fill('#password', 'invalid');
+  await page.click('#submit');
+
+  await expect(page.locator('.error')).toBeVisible();
+});
+```
 
 - 지침은 수동적인 맥락을 제공하고, 기술은 함께 제공되는 리소스를 활용하여 특정 작업을 수행하도록 한다.
 - 반복적으로 적용되는 표준에 대해서는 지침을 사용하고, 필요에 따라 작동하는 작업에는 기술을 활용한다.
