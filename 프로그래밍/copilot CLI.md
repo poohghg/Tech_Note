@@ -172,9 +172,18 @@ Use this skill when you need to create or expand test coverage for existing code
 - Follow existing test file naming conventions
 - Include descriptive test names explaining what is being tested
 - Add assertions for all expected behaviors
+  
+## Testing Patterns
+
+Follow the patterns documented in [references/testing-patterns.md](references/testing-patterns.md).
+
+Use [templates/test-template.ts](templates/test-template.ts) as a starting structure.
+  
 ```
 
 #### 번들 자산 추가
+
+스킬에는 AI의 컨텍스트를 풍부하게 하는 참조 파일, 템플릿 및 스크립트가 포함될 수 있다.
 
 ```
 skills/
