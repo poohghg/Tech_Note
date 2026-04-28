@@ -202,7 +202,6 @@ Present findings as:
 - 🟡 **Warning**: Patterns that should be improved
 - 🟢 **Good**: Patterns that follow our conventions
 
-
 ```
 
 #### 모범 사례
