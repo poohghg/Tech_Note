@@ -111,6 +111,9 @@ test('should display error message when login fails', async ({ page }) => {
 
 ### 3. AGENTS.md (에이전트 컨텍스트 파일)
 
+사용자 지정 에어전트는 
+
+
 채팅 창(Copilot Chat)에서 대화할 때, 프로젝트의 전반적인 아키텍처나 주요 기술 스택, 도메인 지식 등을 코파일럿에게 주입하기 위해 사용하는 파일이다. 루트 디렉토리에 `AGENTS.md`를 만들어두면 챗봇이 그 내용을 배경지식으로 깔고 대화한다.
 
 - 저장소에서 작얼할 때 항상 지켜야 하는 기본 원칙이다.
