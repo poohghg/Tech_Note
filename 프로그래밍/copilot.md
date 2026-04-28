@@ -138,9 +138,9 @@ test('should display error message when login fails', async ({ page }) => {
 - 하나의 저장소에는 여러 에이전트가 공존할 수 있으며, 각 에이전트는 서로 다른 워크플로 또는 도메인 전문 지식을 지원하도록 구성할 수 있다.
 - `github/agents/`에이전트는 전체 팀에 저장 되고 공유된다.
 
-#### 상세
+#### 에이전트 지침
 
-``` md
+``` markdown
 ---
 name: 'Security Reviewer'
 description: 'Expert security auditor that reviews code for OWASP vulnerabilities, authentication flaws, and supply chain risks'
@@ -154,7 +154,6 @@ tools: ['codebase', 'terminal', 'github']
 - **모델** (권장): 에이전트를 구동하는 AI 모델입니다. 작업의 복잡성에 따라 선택하세요. 미묘한 추론에는 더 강력한 모델을 사용하는 것이 좋습니다.
 - **도구** (권장): 에이전트가 액세스할 수 있는 내장 도구 및 MCP 서버 모음입니다. 일반적인 도구는 다음과 같습니다.
 
-``` markdown
 |도구|목적|
 |---|---|
 |`codebase`|저장소 전체의 코드를 검색하고 분석합니다.|
@@ -162,8 +161,47 @@ tools: ['codebase', 'terminal', 'github']
 |`github`|GitHub API(이슈, PR 등)와 상호 작용합니다.|
 |`fetch`|외부 API에 HTTP 요청을 보냅니다.|
 |`edit`|워크스페이스의 파일을 수정하세요|
-```
 
+``` markdown
+---
+name: 'API Design Reviewer'
+description: 'Reviews API designs for consistency, RESTful patterns, and team conventions'
+model: Claude Sonnet 4
+tools: ['codebase', 'github']
+---
+
+# API Design Reviewer
+
+You are an expert API designer who reviews endpoints, schemas, and contracts for consistency and best practices.
+
+## Your Expertise
+
+- RESTful API design patterns
+- OpenAPI/Swagger specification
+- Versioning strategies
+- Error response standards
+- Pagination and filtering patterns
+
+## Review Checklist
+
+When reviewing API changes:
+
+1. **Naming**: Verify endpoints use plural nouns, consistent casing
+2. **HTTP Methods**: Confirm correct verb usage (GET for reads, POST for creates)
+3. **Status Codes**: Check appropriate codes (201 for creation, 404 for not found)
+4. **Error Responses**: Ensure structured error objects with codes and messages
+5. **Pagination**: Verify cursor-based pagination for list endpoints
+6. **Versioning**: Confirm API version is specified in the path or header
+
+## Output Format
+
+Present findings as:
+- 🔴 **Breaking**: Changes that break existing clients
+- 🟡 **Warning**: Patterns that should be improved
+- 🟢 **Good**: Patterns that follow our conventions
+
+
+```
 
 #### 에이전트 vs 지침
 
