@@ -7,5 +7,7 @@
 MCP서버는 대화 중에 호출 할 수 있는 기능을 노출하는 경량 프로세스이다. MCP서버는 AI에이전트가 외부 시스템과 상호 작용할 수 있도록 하는 인터페이스 역할을 한다. AI에이전트는 MCP서버에 HTTP요청을 보내고, MCP서버는 요청된 기능을 실행하고 결과를 반환한다. 
 
 ```
-GitHub Copilot  ←→  MCP Server  ←→  External System                     (bridge)        (database, API, etc.)
+GitHub Copilot  ←→  MCP Server  ←→  External System                     (bridge)                      (bridge)      (database, API, etc.)
 ```
+
+#### 주요 특지
