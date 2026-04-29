@@ -1,10 +1,6 @@
 >https://awesome-copilot.github.com/learning-hub/understanding-mcp-servers/
 
- 
- 
- 
- 
- GitHub Copilot의 내장 도구(코드 검색, 파일 편집, 터미널 접근)는 다양한 작업을 지원한다.
+>  GitHub Copilot의 내장 도구(코드 검색, 파일 편집, 터미널 접근)는 다양한 작업을 지원한다.
 > 하지만 실제 워크플로우에서는 데이터베이스,. 클라우드 API, 모니터링 대시보드 또는 내부 서비스와 같은 외부 시스템에 대한 접근이 필요한 경우가 많다. 바로 이러한 상황에서 MCP서버가 필요하다.
 
 ### MCP란?
@@ -44,10 +40,7 @@ GitHub Copilot은 항상 사용할 수 있는 여러 가지 **내장 도구를*
 | Figma 서버     | 디자인 토큰과 구성 요소 사양을 읽으세요.                |
 ### 에이전트가 MCP Tool 사용하기
 
-에이전
-
-트가 tools에 MCP서버를 선언하면 opilot은 대화 중에 해당 서버의 기능을 호출할 수 있다.
-
+에이전트가 tools에 MCP서버를 선언하면 opilot은 대화 중에 해당 서버의 기능을 호출할 수 있다.
 
 ```
 ---
