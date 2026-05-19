@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/리액트 정리.md",
+                "file": "바이브코딩/MCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리액트 정리"
+              "title": "MCP"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,15 +172,15 @@
   },
   "active": "473ee41688fd3c54",
   "lastOpenFiles": [
+    "react/리액트 정리.md",
     "최적화/브라우더 렌더링 최적화.md",
     "최적화/장기 작업 최적화.md",
     "web/성능(로딩 최적화).md",
-    "react/리액트 정리.md",
-    "github-copilot/에이전트 스킬.md",
-    "github-copilot/기초.md",
-    "github-copilot/MCP.md",
+    "바이브코딩/에이전트 스킬.md",
+    "바이브코딩/기초.md",
+    "바이브코딩/MCP.md",
     "프로그래밍/MCP.md",
-    "github-copilot",
+    "바이브코딩",
     "javascript/모던 자바스크립트 심화.md",
     "web/HTTP.md",
     "react/Concurrency.md",
