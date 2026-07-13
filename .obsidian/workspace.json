@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/Concurrency.md",
+                "file": "react/React Server Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concurrency"
+              "title": "React Server Component"
             }
           }
         ]
@@ -172,13 +172,17 @@
   },
   "active": "473ee41688fd3c54",
   "lastOpenFiles": [
+    "react/리액트 타입.md",
+    "react/리액트 정리.md",
+    "react/react-core/diffing.md",
+    "react/react-core/createElement.md",
+    "react/패턴/제어 와 비제어 컴포넌트.md",
+    "react/패턴/디자인 패턴.md",
+    "react/Concurrency.md",
     "react/Fiber.md",
     "react/React SSR 과 Hydration.md",
     "react/React Server Component.md",
     "react/React.md",
-    "react/리액트 타입.md",
-    "react/리액트 정리.md",
-    "react/Concurrency.md",
     "도서/패턴으로 익히는 리액트/CH1.안티 패턴 소개.md",
     "도서/이펙티브 타입스크립트/CH2.타입 시스템.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
@@ -196,10 +200,6 @@
     "프로젝트 설정 참고자료/turborepo/저장소 구조.md",
     "프로젝트 설정 참고자료/turborepo/vitest.md",
     "프로젝트 설정 참고자료/turborepo",
-    "javascript/화살표 함수.md",
-    "알고리즘/세그멘트 트리.md",
-    "도서/패턴으로 익히는 리액트/CH8.리액트 데이터 관리.md",
-    "javascript/클로저.md",
     "소프트웨어 개발/디자인 패턴",
     "img/Pasted image 20251224183438.png",
     "img/Pasted image 20251212200203.png",
