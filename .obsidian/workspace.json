@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/React Server Component.md",
+                "file": "javascript/자바스크립트 엔진 강의 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Server Component"
+              "title": "자바스크립트 엔진 강의 정리"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "컨테스트",
+                "query": "렉시컬",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,6 +173,8 @@
   },
   "active": "473ee41688fd3c54",
   "lastOpenFiles": [
+    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
+    "react/React Server Component.md",
     "react/React.md",
     "react/Fiber.md",
     "react/Concurrency.md",
@@ -180,13 +183,11 @@
     "react/패턴/제어 와 비제어 컴포넌트.md",
     "react/패턴/디자인 패턴.md",
     "react/React SSR 과 Hydration.md",
-    "react/React Server Component.md",
     "react/react-core/diffing.md",
     "react/react-core/createElement.md",
     "도서/패턴으로 익히는 리액트/CH1.안티 패턴 소개.md",
     "도서/이펙티브 타입스크립트/CH2.타입 시스템.md",
     "javascript/자바스크립트 엔진 강의 정리.md",
-    "javascript/이전 자료/ 자바스크립트 전체 정리본.md",
     "바이브코딩/기초.md",
     "바이브코딩/MCP.md",
     "최적화/브라우더 렌더링 최적화.md",
