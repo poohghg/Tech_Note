@@ -173,6 +173,7 @@
   },
   "active": "473ee41688fd3c54",
   "lastOpenFiles": [
+    "img/Pasted image 20260725153955.png",
     "도서/안티프레질 프런트엔드/CH3-1. DNS리졸브.md",
     "도서/안티프레질 프런트엔드/CH3-2. HTTPS.md",
     "도서/리팩터링/코드의  나쁜 냄새.md",
@@ -199,7 +200,6 @@
     "react/React.md",
     "react/Fiber.md",
     "react/Concurrency.md",
-    "react/리액트 타입.md",
     "바이브코딩",
     "프로젝트 설정 참고자료/turborepo",
     "소프트웨어 개발/디자인 패턴",
