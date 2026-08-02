@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "프롬프트와 컨텍스트 엔지니어링"
             }
+          },
+          {
+            "id": "7d4ab064384211de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.13.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -213,7 +227,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "9768f2f54689c043",
+  "active": "7d4ab064384211de",
   "lastOpenFiles": [
     "바이브코딩/하네스 엔지니어링.md",
     "바이브코딩/헤르메스 에이전트.md",
