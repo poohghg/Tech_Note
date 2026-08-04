@@ -2,4 +2,6 @@
 
 ![[Pasted image 20260804152958.png|506]]
 
-- 메인
+- 메인 스레드에서 실행되는 연산들을 적절히 나누어 효율적으로 실행하는 겨우
+	- setTimeout, setInterval, requestAnimationFrame, requestIdleCallback 등을 활용하여 연산을 나누어 실행
+- 무거운 연산을 별도의 스레드에서 실행하게 한 후 결과를 메인 스레드로 넘겨주는 경우 서비스 워커
