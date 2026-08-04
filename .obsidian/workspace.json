@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/안티프레질 프런트엔드/CH6. 렌더링 효율화.md",
+                "file": "도서/안티프레질 프런트엔드/CH5. 브라우저가 화면을 렌더링하는 과정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH6. 렌더링 효율화"
+              "title": "CH5. 브라우저가 화면을 렌더링하는 과정"
             }
           }
         ]
@@ -175,12 +175,12 @@
   },
   "active": "2d3bd313bf2d53ef",
   "lastOpenFiles": [
+    "도서/안티프레질 프런트엔드/CH6. 렌더링 효율화.md",
     "img/Pasted image 20260804144108.png",
     "도서/안티프레질 프런트엔드/CH2. 브라우저.md",
     "도서/안티프레질 프런트엔드/CH5. 브라우저가 화면을 렌더링하는 과정.md",
     "도서/안티프레질 프런트엔드/CH4. HTTPS.md",
     "도서/안티프레질 프런트엔드/CH3. DNS리졸브.md",
-    "도서/안티프레질 프런트엔드/CH6. 렌더링 효율화.md",
     "img/Pasted image 20260802144224.png",
     "바이브코딩/하네스 엔지니어링.md",
     "바이브코딩/헤르메스 에이전트.md",
@@ -213,7 +213,6 @@
     "바이브코딩",
     "프로젝트 설정 참고자료/turborepo",
     "소프트웨어 개발/디자인 패턴",
-    "img/Pasted image 20251224183438.png",
     "Users/khg/Library",
     "Users/khg",
     "Users",
