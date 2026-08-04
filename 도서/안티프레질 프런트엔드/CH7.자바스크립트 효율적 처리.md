@@ -6,3 +6,16 @@
 	- setTimeout, setInterval, requestAnimationFrame, requestIdleCallback 등을 활용하여 연산을 나누어 실행
 - 무거운 연산을 별도의 스레드에서 실행하게 한 후 결과를 메인 스레드로 넘겨주는 경우 
 	- 서비스 워커(Service Worker), 웹 워커(Web Worker)를 활용할 수 있다.
+
+#### requestAnimationFrame
+
+> window.requestAnimationFrame() 메서드는 브라우저에게 애니메이션을 업데이트할 준비가 되었음을 알려주는 메서드이다. 다음 리페인트 바로 전에 브라우저가 애니메이
+
+```javascript
+function animate() {
+  // 애니메이션 로직 수행
+  // ...
+
+  // 다음 프레임에 animate 함수를 호출
+  requestAnimationFrame(animate);
+}
