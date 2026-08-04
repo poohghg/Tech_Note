@@ -9,7 +9,9 @@
 
 #### requestAnimationFrame
 
-> window.requestAnimationFrame() 메서드는 브라우저에게 애니메이션을 업데이트할 준비가 되었음을 알려주는 메서드이다. 다음 리페인트 바로 전에 브라우저가 애니메이
+> window.requestAnimationFrame() 메서드는 브라우저에게 애니메이션을 업데이트할 준비가 되었음을 알려주는 메서드이다. ==다음 리페인트 바로 전에 브라우저가 애니메이션을 업데이트할 지정된 함수를 호출하도록 요청==한다.
+
+![[Pasted image 20260804153348.png|477]]
 
 ```javascript
 function animate() {
