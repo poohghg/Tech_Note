@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/안티프레질 프런트엔드/CH5. 브라우저가 화면을 렌더링하는 과정.md",
+                "file": "도서/안티프레질 프런트엔드/CH6. 렌더링 효율화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH5. 브라우저가 화면을 렌더링하는 과정"
+              "title": "CH6. 렌더링 효율화"
             }
           }
         ]
@@ -175,10 +175,10 @@
   },
   "active": "2d3bd313bf2d53ef",
   "lastOpenFiles": [
+    "도서/안티프레질 프런트엔드/CH5. 브라우저가 화면을 렌더링하는 과정.md",
     "도서/안티프레질 프런트엔드/CH6. 렌더링 효율화.md",
     "img/Pasted image 20260804144108.png",
     "도서/안티프레질 프런트엔드/CH2. 브라우저.md",
-    "도서/안티프레질 프런트엔드/CH5. 브라우저가 화면을 렌더링하는 과정.md",
     "도서/안티프레질 프런트엔드/CH4. HTTPS.md",
     "도서/안티프레질 프런트엔드/CH3. DNS리졸브.md",
     "img/Pasted image 20260802144224.png",
