@@ -21,3 +21,7 @@ function animate() {
   // 다음 프레임에 animate 함수를 호출
   requestAnimationFrame(animate);
 }
+
+```
+
+> 브라우저는 다음 리페인트를 수행하기 전에 rAF에 등록된 콜백 함수를 실행한다. 메인 스레드에서 현재 실행되는 프레임 작업을 방해하지 않아 rFA를 사용하면 메인 스레드의 작업을 방해하지 않고 간단한
