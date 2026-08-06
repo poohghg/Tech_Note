@@ -36,4 +36,9 @@ function animate() {
 
 #### requestIdleCallback
 
-> window.requestIdleCallback() 메서드는 브라우저의 idle 상태에 호출될 함수를 대기열에 넣는다. 이를 통해 개발자는 애니메이션 및 입력 응답 등 대
+> window.requestIdleCallback() 메서드는 브라우저의 idle 상태에 호출될 함수를 대기열에 넣는다. 이를 통해 개발자는 애니메이션 및 입력 응답 등 대기 시간이 중요한 이벤트에 영향을 미치지 않고 메인 이벤트 루프에서 백그라운드 및 우선순위가 낮은 작업을 수행한다. 함수는 FIFO(First In First Out) 방식으로 호출되며, 브라우저가 idle 상태일 때 실행된다.
+
+
+
+
+```javascript
