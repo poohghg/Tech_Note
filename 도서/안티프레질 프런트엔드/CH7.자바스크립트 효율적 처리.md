@@ -50,3 +50,4 @@ function myNonCriticalFunction(deadline) {
 }
 ```
 
+> rIC는 브라우저가 유휴 상태일 때, 즉 중요한 렌더링 작업이나 사용자 입력 처리가 없어 메인 스레드의 콜 스택이 비었을때 스케줄된 콜백을 실행한다.
